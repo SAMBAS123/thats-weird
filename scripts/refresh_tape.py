@@ -21,6 +21,12 @@ ROOT = Path(__file__).resolve().parents[1]
 TAPE_PATH = ROOT / "tape.json"
 
 UA = "OOF-tape/0.1 (+https://sambas123.github.io/thats-weird; Open Oversight Filings)"
+
+TOKEN = {
+    "symbol": "OOF",
+    "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
+    "pump": "https://pump.fun/coin/8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
+}
 CL_BASE = "https://www.courtlistener.com/api/rest/v4/search/"
 CL_QUERY = 'party:"Roblox Corporation"'
 NEWS_QUERY = "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d"
@@ -200,7 +206,7 @@ def pull_news() -> dict:
 def merge(prev: dict, dockets: dict | None, news: dict | None, errors: list[str]) -> dict:
     prev_d = prev.get("dockets") if isinstance(prev.get("dockets"), dict) else {}
     prev_n = prev.get("news") if isinstance(prev.get("news"), dict) else {}
-    token = prev.get("token")
+    token = TOKEN or prev.get("token")
     return {
         "as_of": iso(utc_now()),
         "token": token if token else None,

@@ -1,6 +1,10 @@
 {
   "as_of": "2026-08-19T23:35:10Z",
-  "token": null,
+  "token": {
+    "symbol": "OOF",
+    "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
+    "pump": "https://pump.fun/coin/8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump"
+  },
   "dockets": {
     "query": "party:\"Roblox Corporation\"",
     "source": "https://www.courtlistener.com/",

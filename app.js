@@ -101,9 +101,20 @@
     (tape.record || []).forEach((item) => record.appendChild(recordChip(item)));
 
     const token = tape.token;
-    $("token-line").textContent = token
-      ? "ticker " + (token.symbol || "token") + " · " + (token.mint || "")
-      : "no ticker yet";
+    const ca = $("ca");
+    if (token && token.mint) {
+      const mint = token.mint;
+      const pump = token.pump || ("https://pump.fun/coin/" + mint);
+      $("ca-mint").textContent = mint;
+      $("ca-mint").href = pump;
+      $("ca-pump").href = pump;
+      $("ca-solscan").href = "https://solscan.io/token/" + mint;
+      ca.hidden = false;
+      $("token-line").textContent = "$" + (token.symbol || "OOF") + " · " + mint;
+    } else {
+      ca.hidden = true;
+      $("token-line").textContent = "no ticker yet";
+    }
 
     if (tape.errors && tape.errors.length) {
       $("status").className = "status err";

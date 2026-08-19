@@ -79,6 +79,35 @@ a { color: inherit; }
   max-width: 42em;
 }
 
+.ca {
+  margin: 22px 0 0;
+  padding: 14px 16px;
+  border: 1px solid var(--hot-dim);
+  background: var(--paper);
+}
+
+.ca a {
+  text-decoration: none;
+  word-break: break-all;
+}
+
+.ca a:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+#ca-mint {
+  display: block;
+  font-size: 13px;
+  margin: 6px 0 8px;
+}
+
+.ca-links {
+  display: flex;
+  gap: 16px;
+  color: var(--hot);
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
 .hero {
   margin: 36px 0 28px;
 }
