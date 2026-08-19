@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-19T23:28:05Z",
+  "as_of": "2026-08-19T23:35:10Z",
   "token": null,
   "dockets": {
     "query": "party:\"Roblox Corporation\"",
@@ -159,5 +159,7 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": []
+  "errors": [
+    "news: HTTP Error 503: Service Unavailable"
+  ]
 }
