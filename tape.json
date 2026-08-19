@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-19T23:35:10Z",
+  "as_of": "2026-08-19T23:50:26Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -108,7 +108,7 @@
       },
       {
         "title": "The US Government Is Opening an Investigation Into Roblox Over Child Exploitation",
-        "outlet": "Polygon.com",
+        "outlet": "polygon.com",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MbVJfY2hZbm9pb1dvbEpfLTRXdkhrYV90S1Nzal9yVy15bG9UQmtXMWtZeUVJcWlZdHdwcU9iSnBDMnNMY2dfUmJxN09VQUxYcmc3YVdrejBOZFJUV1JHczVTU2tqTUw2?oc=5",
         "published": "2026-08-14T16:50:51Z"
       },
@@ -163,7 +163,5 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": [
-    "news: HTTP Error 503: Service Unavailable"
-  ]
+  "errors": []
 }
