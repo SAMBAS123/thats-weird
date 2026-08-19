@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 tape.json.tmp
 .venv/
+verify/

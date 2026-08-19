@@ -50,7 +50,7 @@ RECORD = [
     },
     {
         "label": "Australia eSafety undertaking",
-        "value": "adults could still contact children",
+        "value": "issued",
         "period": "2026-08-19",
         "source": "The Guardian / Reuters",
         "url": "https://www.theguardian.com/australia-news/2026/aug/20/roblox-esafety-commissioner-children-adults-ntwnfb",
