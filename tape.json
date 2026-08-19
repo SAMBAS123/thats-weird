@@ -1,0 +1,163 @@
+{
+  "as_of": "2026-08-19T23:02:17Z",
+  "token": null,
+  "dockets": {
+    "query": "party:\"Roblox Corporation\"",
+    "source": "https://www.courtlistener.com/",
+    "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
+    "total": 477,
+    "filed_7d": 1,
+    "filed_30d": 8,
+    "latest": [
+      {
+        "date_filed": "2026-08-17",
+        "case_name": "HL-0002 v. Roblox Corporation",
+        "docket_number": "3:26-cv-08496",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/74656566/hl-0002-v-roblox-corporation/"
+      },
+      {
+        "date_filed": "2026-08-11",
+        "case_name": "AW-0018 v. Roblox Corporation",
+        "docket_number": "3:26-cv-08335",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/74244133/aw-0018-v-roblox-corporation/"
+      },
+      {
+        "date_filed": "2026-08-04",
+        "case_name": "LUCHA MENENDEZ v. ROBLOX CORPORATION",
+        "docket_number": "3:26-cv-08073",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/73718065/lucha-menendez-v-roblox-corporation/"
+      },
+      {
+        "date_filed": "2026-08-04",
+        "case_name": "AW-0016 v. Roblox Corporation",
+        "docket_number": "3:26-cv-08059",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/73716339/aw-0016-v-roblox-corporation/"
+      },
+      {
+        "date_filed": "2026-07-31",
+        "case_name": "GE-0002 v. Roblox Corporation",
+        "docket_number": "3:26-cv-07989",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/73705481/ge-0002-v-roblox-corporation/"
+      },
+      {
+        "date_filed": "2026-07-31",
+        "case_name": "AW-0017 v. Roblox Corporation",
+        "docket_number": "3:26-cv-07979",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/73704692/aw-0017-v-roblox-corporation/"
+      },
+      {
+        "date_filed": "2026-07-28",
+        "case_name": "P.J. v. ROBLOX CORPORATION",
+        "docket_number": "2:26-cv-09467",
+        "court": "D.N.J.",
+        "url": "https://www.courtlistener.com/docket/73687648/pj-v-roblox-corporation/"
+      },
+      {
+        "date_filed": "2026-07-20",
+        "case_name": "Roblox Corporation v. The Individuals, Corporations, Limited Liability Companies, Partnerships, and Unincorporated Associations Identified on Schedule A to the Complaint",
+        "docket_number": "1:26-cv-06132",
+        "court": "S.D.N.Y.",
+        "url": "https://www.courtlistener.com/docket/73642310/roblox-corporation-v-the-individuals-corporations-limited-liability/"
+      }
+    ]
+  },
+  "news": {
+    "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
+    "source": "Google News RSS",
+    "hits_7d": 65,
+    "latest": [
+      {
+        "title": "Senate panel investigates kids safety issues in online game Roblox",
+        "outlet": "thehill.com",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS0lQRjF4U2tRQVZTVW9wT3hXbFVSazdNN3M2dGdpNXNqa3Zhak9CaXB1eGhjbTZPWG9ndG9SQmVGMXNLb1NLQlpWUl81VXFiWWZIM3RwODBYT2lORmlnMFg3RTdzRGpjMkstNWdzaEdROVdxaUNNLTB5VWVKd0RoYk9QZTg5ZklNc0Rsa3JWWjLSAZYBQVVfeXFMT3BJemExQjF0dW51TTJHLTR6RmFxV2ZHcFVvaFVIamRJQVpMMmhCclVEVEdmZVJWZE5GcWFDbThLMWZSMC1UQ015VFVwTDdrRWUzREtXdUNxTDFyelFiUzBnbzJKMG4yZjlOdThta1ZYLWFaRl90SThhS3JDdzBmUWIzY2cxanl1c2JITlpaUGx4V0VHSERR?oc=5",
+        "published": "2026-08-15T02:40:00Z"
+      },
+      {
+        "title": "Texas says Roblox exposed kids to predators. Roblox is fighting back.",
+        "outlet": "Austin American-Statesman",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTmxrWjU4cmNjazNmdnlNVVZETmhxWG9XSElQd3F2ZnJnRkJMb3ZUdmp2MENQNkx6T3V1eU84QkVMTEJvUWVyWUZndGgzTG1IOFB4SXFwOF8yd2hFTXZnbUJrd2xjSF9xeWpGMEVGRGE4a3pEMXdIUTRrSWRfY1NnRlJ5OFJpcGpjR3BtcXNUOXN6b0tMRFNoQ2FqeGMwWUFKM09SbUhWaw?oc=5",
+        "published": "2026-08-14T02:08:10Z"
+      },
+      {
+        "title": "US Senate to investigate Roblox following claims it \"prioritises revenue and engagement\" over child safety",
+        "outlet": "GamesIndustry.biz",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaFZ5RUYtMnZ4X2R3bUJqZC0xSkdOVnFDSGM1Y0wzSlVXd3ZTbEliekl0QXJRemNuQi1hU2ZDQ29sal9GVDJ0OXZUR05hbjRzLUEwWDNVWVdJQXQ4Z09JNG9HMFdEMVhELXZBMEJoVDNMaDdKM0tRRUhsVl91bWhXbGs0blVhTTZvQnFmZzZ6TVNTSDQ1N2MxcE9CNXRhMWpnUnBQbFhMSHhvaGlIOHNnUXplVHR5UlVTeDE3OXJ1alRoVnV6a2RkLTlSMlMyV0U?oc=5",
+        "published": "2026-08-17T16:47:28Z"
+      },
+      {
+        "title": "Paxton, Roblox clash over documents in children’s safety lawsuit",
+        "outlet": "Texas Standard",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VeXBKb0lFdEdISl9ITUF5NXZYbS02a1pDQmd2SDRuN0pvQ0ZSRkJla1BlUXd3ZzlDODAwdE1RVlBvbl9kVGZqUkhhcTVmYWM2OWxnejFDMnYzTVdOTFNadVpsYklrRGdRaVA1WFpIcw?oc=5",
+        "published": "2026-08-17T19:58:24Z"
+      },
+      {
+        "title": "Lawsuit: Adult woman used Roblox, Discord to sexually exploit Jefferson Parish teen",
+        "outlet": "fox8live.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTTFGSmd3TVhzTkVMQ0tjbXBqYWFVZi0ya1RIU1RoZS1HVnVuc1ZsRzRfOUxOUjZjTXVwdm9oSFRwbmkxYVZRWkRTcHQ5Q3FENGJvOTVCVlJDTWkxLXktc09CN2psemVrblFscGtVRXZmVFctT2RiUEJJa3lJLTkxSlZ6RC1jZGFERVU3djVpY1ljb1p5MnNic3lSMkhPRzJkb0VvRUpyVXdERzlvVU51OE11Mkl6d9IBygFBVV95cUxQZGZySlNpZ0toWTBJVG9mckx2Z3hCTzdTR1VvTUFxSTY2a0lEZmg5ekJGZnNkb0ZyRmVVTkZDTkg1TS1KWWprQzlfY3pFeVNtZkdMMUtHNGZXUGtGTHpCLThFVGNBSUkwdnp6aE5rc1VtUXpFbDUzcUY5N1hmY0RZUy0xamhLR0hrTHoyU1RtaEd1QXpsbE90d0oxeTRObVV0eThkcWhpT0xGSDB1a2gwN0g3Mlg1TG41UHRLR0V2aE5lZ19fT3dTOG53?oc=5",
+        "published": "2026-08-13T04:11:00Z"
+      },
+      {
+        "title": "The US Government Is Opening an Investigation Into Roblox Over Child Exploitation",
+        "outlet": "Polygon.com",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MbVJfY2hZbm9pb1dvbEpfLTRXdkhrYV90S1Nzal9yVy15bG9UQmtXMWtZeUVJcWlZdHdwcU9iSnBDMnNMY2dfUmJxN09VQUxYcmc3YVdrejBOZFJUV1JHczVTU2tqTUw2?oc=5",
+        "published": "2026-08-14T20:50:51Z"
+      },
+      {
+        "title": "Roblox commits to privacy overhaul after eSafety discovers adults can contact children via gaming platform",
+        "outlet": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM0JRbWh3YzVHbUZ0ODdMT0E2TlZGVTlzWjlQUEl5U1pmSEwyWFpRSVcwcEM4LUEwZmpkbW8zYmdnQ3FjdGZDcGVCMlg4VGZHZEs0SkU4U1c2TURyMUpfQk1qczFzOGYtNGExNEdrWlBqMUJsY1RSTF9VNm5Xc0JvbkZhOUtoQkR3Tk1TWVJXQkFHcnZ2dTF0UWZYb2lLbDdMUkEtRTdVR1c?oc=5",
+        "published": "2026-08-20T01:13:00Z"
+      },
+      {
+        "title": "Roblox being investigated over child sexual abuse",
+        "outlet": "firstalert4.com",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQUtXeFNqcTdlTlRyMFNMZHdON0xuYWRUQnNvWVFoSUx3bEozMUh2eWNjb2JGZ0ZxbU02aGhmdl9KTFBLYmZZclNFYmtqRUxBMEpoZks4dUd5Z0Y5cTFGMHc1VjR6U2xCdWpnekpXSkJ6WXhqczZKaERFTUdRV0llZ0piRDV0YWYxRktpS0d1T3MyVHfSAacBQVVfeXFMTVNORnV3NG43MTVQRldmVXNZSVlEcGNCWDRadUpKcldIWkdrWEM3TEdINl9jcDNYX0Rnemx2NnRBblNiZWVDdkNPeVpfZENjUDJBQU1LbUdzUWJDZld5NjJZcHozaUxLT3dNUFRzYkdrM3BvZHB6VlJYck1kZ2FVWURjTXlVamFsUVlweUtaMGdaVDM3Z0dkUFRheHd5WW5EampOcVlIeWM?oc=5",
+        "published": "2026-08-14T00:16:00Z"
+      }
+    ]
+  },
+  "record": [
+    {
+      "label": "NCMEC reports filed by Roblox",
+      "value": "24,522 → 65,381",
+      "period": "2024–2025",
+      "source": "U.S. Senate Judiciary",
+      "url": "https://www.judiciary.senate.gov/press/rep/releases/grassley-releases-new-and-disturbing-information-on-online-child-exploitation-presses-tech-giants-for-answers"
+    },
+    {
+      "label": "RBLX after age-check bookings miss",
+      "value": "−18%",
+      "period": "2026-05-01",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html"
+    },
+    {
+      "label": "Age-checked DAU under 13",
+      "value": "35%",
+      "period": "as of 2026-01-31",
+      "source": "Roblox shareholder letter",
+      "url": "https://s27.q4cdn.com/984876518/files/doc_financials/2026/q1/Q1-2026-Earnings-Shareholder-Letter.pdf"
+    },
+    {
+      "label": "Australia eSafety undertaking",
+      "value": "adults could still contact children",
+      "period": "2026-08-19",
+      "source": "The Guardian / Reuters",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/20/roblox-esafety-commissioner-children-adults-ntwnfb"
+    },
+    {
+      "label": "AL + WV child-safety settlements",
+      "value": "$23M+",
+      "period": "2026-04",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
+    }
+  ],
+  "errors": []
+}

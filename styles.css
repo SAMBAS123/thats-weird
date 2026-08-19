@@ -1,0 +1,253 @@
+:root {
+  --bg: #100e0c;
+  --paper: #181512;
+  --ink: #efe6d6;
+  --mute: #8d8476;
+  --faint: #5c564c;
+  --rule: #2e2a24;
+  --hot: #d85a2a;
+  --hot-dim: #8a3a1c;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+  font-size: 15px;
+  line-height: 1.45;
+}
+
+body {
+  min-height: 100vh;
+  background-image:
+    linear-gradient(180deg, rgba(216, 90, 42, 0.08), transparent 140px),
+    repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 31px,
+      rgba(239, 230, 214, 0.015) 32px
+    );
+}
+
+a { color: inherit; }
+
+.wrap {
+  max-width: 920px;
+  margin: 0 auto;
+  padding: 28px 20px 64px;
+}
+
+.mast {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 16px;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 14px;
+}
+
+.wordmark {
+  font-family: Newsreader, "Iowan Old Style", Georgia, serif;
+  font-size: clamp(28px, 5vw, 42px);
+  font-weight: 500;
+  letter-spacing: -0.03em;
+  line-height: 0.95;
+  margin: 0;
+}
+
+.wordmark em {
+  font-style: italic;
+  font-weight: 400;
+  color: var(--hot);
+}
+
+.stamp {
+  color: var(--mute);
+  font-size: 11px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  text-align: right;
+}
+
+.lede {
+  margin: 14px 0 0;
+  color: var(--mute);
+  max-width: 42em;
+}
+
+.hero {
+  margin: 36px 0 28px;
+}
+
+.kicker {
+  color: var(--hot);
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+.num {
+  font-variant-numeric: tabular-nums;
+  font-size: clamp(72px, 18vw, 148px);
+  line-height: 0.85;
+  letter-spacing: -0.05em;
+  margin: 8px 0 10px;
+  font-weight: 400;
+}
+
+.num-label {
+  color: var(--mute);
+  max-width: 28em;
+}
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1px;
+  background: var(--rule);
+  border: 1px solid var(--rule);
+  margin: 28px 0 8px;
+}
+
+.stat {
+  background: var(--paper);
+  padding: 14px 16px;
+}
+
+.stat b {
+  display: block;
+  font-size: 22px;
+  font-weight: 400;
+  font-variant-numeric: tabular-nums;
+}
+
+.stat span {
+  color: var(--mute);
+  font-size: 12px;
+}
+
+.checked {
+  color: var(--faint);
+  font-size: 12px;
+  margin: 10px 0 0;
+}
+
+.split {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 36px;
+  margin: 40px 0 32px;
+}
+
+h2 {
+  font-family: Newsreader, Georgia, serif;
+  font-size: 22px;
+  font-weight: 500;
+  margin: 0 0 12px;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 8px;
+}
+
+ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 72px 1fr;
+  gap: 10px;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--rule);
+}
+
+.row time,
+.row .meta {
+  color: var(--faint);
+  font-size: 12px;
+}
+
+.row a {
+  text-decoration: none;
+}
+
+.row a:hover .title {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.title { display: block; }
+
+.outlet {
+  display: block;
+  color: var(--mute);
+  font-size: 12px;
+  margin-top: 2px;
+}
+
+.record {
+  border-top: 1px solid var(--rule);
+  padding-top: 22px;
+}
+
+.chips {
+  display: grid;
+  gap: 10px;
+}
+
+.chip {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: 12px;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--rule);
+  text-decoration: none;
+}
+
+.chip:hover { background: rgba(216, 90, 42, 0.04); }
+
+.chip b {
+  color: var(--hot);
+  font-weight: 400;
+  font-variant-numeric: tabular-nums;
+}
+
+.chip small {
+  display: block;
+  color: var(--faint);
+  font-size: 12px;
+}
+
+.foot {
+  margin-top: 48px;
+  padding-top: 16px;
+  border-top: 1px solid var(--rule);
+  color: var(--mute);
+  font-size: 12px;
+}
+
+.foot p { max-width: 62em; }
+
+.foot a { color: var(--ink); }
+
+.status {
+  color: var(--mute);
+  min-height: 1.4em;
+}
+
+.err { color: var(--hot); }
+
+@media (max-width: 720px) {
+  .stats, .split, .chip { grid-template-columns: 1fr; }
+  .mast { flex-direction: column; }
+  .stamp { text-align: left; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
+}

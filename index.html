@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>That's Weird — public tape</title>
+  <meta name="description" content="A public-record blotter of federal dockets naming Roblox Corporation, plus the week's headlines. Unofficial. Not a filter." />
+  <meta name="robots" content="index,follow" />
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,500;1,400&family=Newsreader:ital,opsz,wght@0,6..72,500;1,6..72,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="wrap">
+    <header class="mast">
+      <h1 class="wordmark">That's <em>Weird</em></h1>
+      <div class="stamp">public tape<br />not a filter</div>
+    </header>
+
+    <p class="lede">
+      Federal dockets that name Roblox Corporation as a party, counted from CourtListener,
+      next to the week's headlines. The number they don't put on the homepage.
+    </p>
+
+    <section class="hero">
+      <div class="kicker">federal dockets · party search</div>
+      <div class="num" id="total">—</div>
+      <p class="num-label">
+        cases on the federal docket where <em>Roblox Corporation</em> is a named party.
+        Query: <code>party:"Roblox Corporation"</code>
+      </p>
+      <div class="stats">
+        <div class="stat"><b id="d7">—</b><span>filed in last 7 days</span></div>
+        <div class="stat"><b id="d30">—</b><span>filed in last 30 days</span></div>
+        <div class="stat"><b id="n7">—</b><span>headlines matching the wire, 7 days</span></div>
+      </div>
+      <p class="checked" id="checked">loading tape…</p>
+      <p class="status" id="status"></p>
+    </section>
+
+    <section class="split">
+      <div>
+        <h2>Latest dockets</h2>
+        <ol id="dockets"></ol>
+      </div>
+      <div>
+        <h2>Wire</h2>
+        <ol id="news"></ol>
+      </div>
+    </section>
+
+    <section class="record">
+      <h2>On the record</h2>
+      <div class="chips" id="record"></div>
+    </section>
+
+    <footer class="foot">
+      <p>
+        Unofficial public-record index. Not affiliated with, endorsed by, or
+        related to Roblox Corporation or the National Center for Missing &amp;
+        Exploited Children. Not legal advice. Not a safety product.
+        Case names are shown as CourtListener publishes them (many MDL plaintiffs
+        are already anonymized). We do not collect or display children's accounts,
+        chats, or images.
+      </p>
+      <p>
+        Docket counts:
+        <a id="cl-link" href="https://www.courtlistener.com/">CourtListener</a>
+        (Free Law Project). Headlines: Google News RSS. Hand-cited facts link to
+        their original reporting. The tape refreshes about once an hour from
+        this repo. If a source fails, the last good slice stays up.
+      </p>
+      <p>
+        Source:
+        <a href="https://github.com/SAMBAS123/thats-weird">github.com/SAMBAS123/thats-weird</a>
+        · <span id="token-line">no ticker yet</span>
+      </p>
+    </footer>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
