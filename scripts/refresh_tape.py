@@ -20,7 +20,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 TAPE_PATH = ROOT / "tape.json"
 
-UA = "ThatsWeirdTape/0.1 (+https://sambas123.github.io/thats-weird; public-record blotter)"
+UA = "OOF-tape/0.1 (+https://sambas123.github.io/thats-weird; Open Oversight Filings)"
 CL_BASE = "https://www.courtlistener.com/api/rest/v4/search/"
 CL_QUERY = 'party:"Roblox Corporation"'
 NEWS_QUERY = "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d"

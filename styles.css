@@ -52,9 +52,9 @@ a { color: inherit; }
 
 .wordmark {
   font-family: Newsreader, "Iowan Old Style", Georgia, serif;
-  font-size: clamp(28px, 5vw, 42px);
+  font-size: clamp(40px, 8vw, 64px);
   font-weight: 500;
-  letter-spacing: -0.03em;
+  letter-spacing: 0.06em;
   line-height: 0.95;
   margin: 0;
 }

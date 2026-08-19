@@ -1,10 +1,12 @@
-# That's Weird
+# OOF — Open Oversight Filings
 
 Public-record blotter of federal dockets naming **Roblox Corporation** as a party, plus the week's headlines.
 
 Live: **https://sambas123.github.io/thats-weird/**
 
 Unofficial. Not affiliated with Roblox or NCMEC. Not a safety product. Not legal advice.
+
+The ticker is **$OOF**. The letters are the product: open filings, counted in public.
 
 ## What it counts
 
@@ -35,7 +37,7 @@ python3 -m http.server 8765
 Set `token` in `tape.json` (the refresh script preserves it):
 
 ```json
-"token": { "symbol": "WEIRD", "mint": "<address>" }
+"token": { "symbol": "OOF", "mint": "<address>" }
 ```
 
 Custom domain later is a DNS CNAME onto this same Pages site. Do not rebuild.
