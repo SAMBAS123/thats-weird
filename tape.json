@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-20T01:49:58Z",
+  "as_of": "2026-08-20T03:09:08Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 66,
+    "hits_7d": 67,
     "latest": [
       {
         "title": "Senate panel investigates kids safety issues in online game Roblox",
@@ -83,20 +83,20 @@
         "published": "2026-08-14T22:40:00Z"
       },
       {
-        "title": "Texas says Roblox exposed kids to predators. Roblox is fighting back.",
-        "outlet": "Austin American-Statesman",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTmxrWjU4cmNjazNmdnlNVVZETmhxWG9XSElQd3F2ZnJnRkJMb3ZUdmp2MENQNkx6T3V1eU84QkVMTEJvUWVyWUZndGgzTG1IOFB4SXFwOF8yd2hFTXZnbUJrd2xjSF9xeWpGMEVGRGE4a3pEMXdIUTRrSWRfY1NnRlJ5OFJpcGpjR3BtcXNUOXN6b0tMRFNoQ2FqeGMwWUFKM09SbUhWaw?oc=5",
-        "published": "2026-08-13T22:08:10Z"
-      },
-      {
         "title": "US Senate to investigate Roblox following claims it \"prioritises revenue and engagement\" over child safety",
         "outlet": "GamesIndustry.biz",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaFZ5RUYtMnZ4X2R3bUJqZC0xSkdOVnFDSGM1Y0wzSlVXd3ZTbEliekl0QXJRemNuQi1hU2ZDQ29sal9GVDJ0OXZUR05hbjRzLUEwWDNVWVdJQXQ4Z09JNG9HMFdEMVhELXZBMEJoVDNMaDdKM0tRRUhsVl91bWhXbGs0blVhTTZvQnFmZzZ6TVNTSDQ1N2MxcE9CNXRhMWpnUnBQbFhMSHhvaGlIOHNnUXplVHR5UlVTeDE3OXJ1alRoVnV6a2RkLTlSMlMyV0U?oc=5",
         "published": "2026-08-17T12:47:28Z"
       },
       {
+        "title": "Texas says Roblox exposed kids to predators. Roblox is fighting back.",
+        "outlet": "Austin American-Statesman",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTmxrWjU4cmNjazNmdnlNVVZETmhxWG9XSElQd3F2ZnJnRkJMb3ZUdmp2MENQNkx6T3V1eU84QkVMTEJvUWVyWUZndGgzTG1IOFB4SXFwOF8yd2hFTXZnbUJrd2xjSF9xeWpGMEVGRGE4a3pEMXdIUTRrSWRfY1NnRlJ5OFJpcGpjR3BtcXNUOXN6b0tMRFNoQ2FqeGMwWUFKM09SbUhWaw?oc=5",
+        "published": "2026-08-13T22:08:10Z"
+      },
+      {
         "title": "Paxton, Roblox clash over documents in children’s safety lawsuit",
-        "outlet": "Texas Standard",
+        "outlet": "texasstandard.org",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VeXBKb0lFdEdISl9ITUF5NXZYbS02a1pDQmd2SDRuN0pvQ0ZSRkJla1BlUXd3ZzlDODAwdE1RVlBvbl9kVGZqUkhhcTVmYWM2OWxnejFDMnYzTVdOTFNadVpsYklrRGdRaVA1WFpIcw?oc=5",
         "published": "2026-08-17T15:58:24Z"
       },
@@ -107,22 +107,22 @@
         "published": "2026-08-19T18:09:00Z"
       },
       {
-        "title": "The US Government Is Opening an Investigation Into Roblox Over Child Exploitation",
-        "outlet": "polygon.com",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MbVJfY2hZbm9pb1dvbEpfLTRXdkhrYV90S1Nzal9yVy15bG9UQmtXMWtZeUVJcWlZdHdwcU9iSnBDMnNMY2dfUmJxN09VQUxYcmc3YVdrejBOZFJUV1JHczVTU2tqTUw2?oc=5",
-        "published": "2026-08-14T16:50:51Z"
-      },
-      {
         "title": "Roblox commits to privacy overhaul after eSafety discovers adults can contact children via gaming platform",
         "outlet": "The Guardian",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM0JRbWh3YzVHbUZ0ODdMT0E2TlZGVTlzWjlQUEl5U1pmSEwyWFpRSVcwcEM4LUEwZmpkbW8zYmdnQ3FjdGZDcGVCMlg4VGZHZEs0SkU4U1c2TURyMUpfQk1qczFzOGYtNGExNEdrWlBqMUJsY1RSTF9VNm5Xc0JvbkZhOUtoQkR3Tk1TWVJXQkFHcnZ2dTF0UWZYb2lLbDdMUkEtRTdVR1c?oc=5",
         "published": "2026-08-19T15:00:28Z"
       },
       {
-        "title": "Australia secures court-enforceable child safety undertaking from Roblox",
-        "outlet": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb0V6TmZxOWxDczR1NHhCV0F4TTFUbHFNU0J1cnFCWTluUkhFaTNPbTVKNS1TWHVnUldreW1rN1JKZHNuY0ZsRE5YUGwwc3B2NHc1eXhTZjdyN1ZLMmN5WFpmV3Y4aWlvSHJuMk9rOFNmTlpkaTc5MjA1QktVRUV5SThyRXd3QTc4SnN1QUE5WUtoWWNLNW1yd3MxMkZfdmJfQm9nM2JzSmdWUmxCaTQ2NDBhT003VW5IZzhvZg?oc=5",
-        "published": "2026-08-19T14:10:52Z"
+        "title": "Roblox being investigated by U.S. Senate after reporting 65,381 instances of suspected child abuse in 2025",
+        "outlet": "Game Developer",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNlpJSDBYdVh5Qm9lUjR6T1c3ZkpMeEhvMnZVbHpXRTJXMmozWnAyblNwTWZ6V29MVHRuX3owajRmVk5OSHNna3dCbV9xZV9mNXhfRWNSYVprZnZ1LU5EVkRDdWd3N0JPQ1FiMDU1eVhOWlZ3RnJQTzNxeG5WQWViYnRZMHlFNGxHeUpSa2twcndNUEVDclE0aDNzcmcwLVkwc1RWSkZ1czlqYVFwOWh6OFBSNFk5QTRadG9iR2tMZDg3ZkZoVG1ONTV3RDFyZzQ1Q1lRSHVXelVxd0Nn?oc=5",
+        "published": "2026-08-18T10:39:59Z"
+      },
+      {
+        "title": "The US Government Is Opening an Investigation Into Roblox Over Child Exploitation",
+        "outlet": "Polygon.com",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MbVJfY2hZbm9pb1dvbEpfLTRXdkhrYV90S1Nzal9yVy15bG9UQmtXMWtZeUVJcWlZdHdwcU9iSnBDMnNMY2dfUmJxN09VQUxYcmc3YVdrejBOZFJUV1JHczVTU2tqTUw2?oc=5",
+        "published": "2026-08-14T16:50:51Z"
       }
     ]
   },
