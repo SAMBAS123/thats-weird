@@ -34,6 +34,13 @@ NEWS_QUERY = "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d
 # Hand-cited public facts. Edit here; the page just renders them.
 RECORD = [
     {
+        "label": "MDL 3166 (child exploitation claims, N.D. Cal.)",
+        "value": "centralized",
+        "period": "Dec 2025 · Judge Seeborg",
+        "source": "CourtListener / JPML",
+        "url": "https://www.courtlistener.com/docket/71423993/in-re-roblox-corporation-child-sexual-exploitation-and-assault-litigation/",
+    },
+    {
         "label": "NCMEC reports filed by Roblox",
         "value": "24,522 → 65,381",
         "period": "2024–2025",

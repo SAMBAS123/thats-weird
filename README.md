@@ -4,6 +4,8 @@ Public-record blotter of federal dockets naming **Roblox Corporation** as a part
 
 Live: **https://sambas123.github.io/thats-weird/**
 
+The page answers **so what?**: this is a PACER count, not a verdict; it is not only child-safety cases; the useful signal is whether new filings are still landing. Quiet is information.
+
 Unofficial. Not affiliated with Roblox or NCMEC. Not a safety product. Not legal advice.
 
 The ticker is **$OOF**. The letters are the product: open filings, counted in public.

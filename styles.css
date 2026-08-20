@@ -108,6 +108,50 @@ a { color: inherit; }
   text-transform: uppercase;
 }
 
+.so-what, .do-this {
+  margin: 36px 0;
+}
+
+.points {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.points li {
+  padding: 12px 0;
+  border-bottom: 1px solid var(--rule);
+  color: var(--mute);
+  max-width: 46em;
+}
+
+.points strong {
+  display: block;
+  color: var(--ink);
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+
+.points a, .do-this a, .links a {
+  color: var(--ink);
+}
+
+.do-this p {
+  color: var(--mute);
+  max-width: 46em;
+}
+
+.links {
+  list-style: none;
+  margin: 12px 0 0;
+  padding: 0;
+}
+
+.links li {
+  padding: 8px 0;
+  border-bottom: 1px solid var(--rule);
+}
+
 .hero {
   margin: 36px 0 28px;
 }
