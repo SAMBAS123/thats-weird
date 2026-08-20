@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-20T00:12:29Z",
+  "as_of": "2026-08-20T01:49:58Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 65,
+    "hits_7d": 66,
     "latest": [
       {
         "title": "Senate panel investigates kids safety issues in online game Roblox",
@@ -101,8 +101,14 @@
         "published": "2026-08-17T15:58:24Z"
       },
       {
+        "title": "Roblox argues 8-year-old waived rights in wrongful death lawsuit | Exclusive",
+        "outlet": "The Courier-Journal",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ0RTUTZ6am5WUl94U3Y1ZXNndngxSmQ2N1NWNXpfVVRCVW9MbDJRSzYyLUdrU3ZkSS1HNkl0RDVuRU1JWFVCX1ByVVFvSnhCQTJ6T0Vkd09hdmVTUS1CZnY5VXFid3VOM2lqZkIzQzRqVk9JbzN3UEFmWFF3bXhGOXdLVk9TdTZXSmwxV2Q4bjdFV2Z4ZTFyTS1ocW9oVWtIaFFNdkxtamQ2SVVNSVQwaDNNV1haS0drOU1nbEZxSHRzSDlvRGRUZDhlTQ?oc=5",
+        "published": "2026-08-19T18:09:00Z"
+      },
+      {
         "title": "The US Government Is Opening an Investigation Into Roblox Over Child Exploitation",
-        "outlet": "Polygon.com",
+        "outlet": "polygon.com",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MbVJfY2hZbm9pb1dvbEpfLTRXdkhrYV90S1Nzal9yVy15bG9UQmtXMWtZeUVJcWlZdHdwcU9iSnBDMnNMY2dfUmJxN09VQUxYcmc3YVdrejBOZFJUV1JHczVTU2tqTUw2?oc=5",
         "published": "2026-08-14T16:50:51Z"
       },
@@ -113,16 +119,10 @@
         "published": "2026-08-19T15:00:28Z"
       },
       {
-        "title": "Senate opens investigation into child safety on Roblox",
-        "outlet": "BNO News",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZUhnckdUWWMyYjB3S1VpMW1PeEQ2OFo0eng4dEpCenp4S0JRbVFrSmVuNXA0V1BoeVc4SHROV21uV0FIVHJ1X0ZmMkcyd2x1R1Q1V0RtOXc0NnhPNGQ4Z3VLczlrYlVlaDhoQ3NJU1NISGZWTk1jYkRkN2dFcDF5ZXNqS2czRjIzdE9LVUJpdTRjcVctcXZFdg?oc=5",
-        "published": "2026-08-13T23:39:25Z"
-      },
-      {
-        "title": "Roblox Under Investigation by the U.S. Senate Over Continued Child Safety Concerns",
-        "outlet": "digitalmusicnews.com",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaTNxUUJEbGVJLWpoamxmeHYzdGRkaDlUUm1Xb0FXR3JUSk55QjJOWXRKQkZRWklFdWJnVjRoY3I0TGRaWlpyS3dzM2M4U0pTOHM5V1BVaURHd2dqU2JERmhic3U2TmJxb2dsbk45YWppTXU0bllUUVRsR0xMRzRMZ2pZekswZ0Q2R3FMY3NfdTk1UQ?oc=5",
-        "published": "2026-08-17T04:05:31Z"
+        "title": "Australia secures court-enforceable child safety undertaking from Roblox",
+        "outlet": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb0V6TmZxOWxDczR1NHhCV0F4TTFUbHFNU0J1cnFCWTluUkhFaTNPbTVKNS1TWHVnUldreW1rN1JKZHNuY0ZsRE5YUGwwc3B2NHc1eXhTZjdyN1ZLMmN5WFpmV3Y4aWlvSHJuMk9rOFNmTlpkaTc5MjA1QktVRUV5SThyRXd3QTc4SnN1QUE5WUtoWWNLNW1yd3MxMkZfdmJfQm9nM2JzSmdWUmxCaTQ2NDBhT003VW5IZzhvZg?oc=5",
+        "published": "2026-08-19T14:10:52Z"
       }
     ]
   },
