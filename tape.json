@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-19T23:50:26Z",
+  "as_of": "2026-08-20T00:12:29Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -11,7 +11,7 @@
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
     "total": 477,
     "filed_7d": 1,
-    "filed_30d": 8,
+    "filed_30d": 7,
     "latest": [
       {
         "date_filed": "2026-08-17",
@@ -101,14 +101,8 @@
         "published": "2026-08-17T15:58:24Z"
       },
       {
-        "title": "Lawsuit: Adult woman used Roblox, Discord to sexually exploit Jefferson Parish teen",
-        "outlet": "fox8live.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTTFGSmd3TVhzTkVMQ0tjbXBqYWFVZi0ya1RIU1RoZS1HVnVuc1ZsRzRfOUxOUjZjTXVwdm9oSFRwbmkxYVZRWkRTcHQ5Q3FENGJvOTVCVlJDTWkxLXktc09CN2psemVrblFscGtVRXZmVFctT2RiUEJJa3lJLTkxSlZ6RC1jZGFERVU3djVpY1ljb1p5MnNic3lSMkhPRzJkb0VvRUpyVXdERzlvVU51OE11Mkl6d9IBygFBVV95cUxQZGZySlNpZ0toWTBJVG9mckx2Z3hCTzdTR1VvTUFxSTY2a0lEZmg5ekJGZnNkb0ZyRmVVTkZDTkg1TS1KWWprQzlfY3pFeVNtZkdMMUtHNGZXUGtGTHpCLThFVGNBSUkwdnp6aE5rc1VtUXpFbDUzcUY5N1hmY0RZUy0xamhLR0hrTHoyU1RtaEd1QXpsbE90d0oxeTRObVV0eThkcWhpT0xGSDB1a2gwN0g3Mlg1TG41UHRLR0V2aE5lZ19fT3dTOG53?oc=5",
-        "published": "2026-08-13T00:11:00Z"
-      },
-      {
         "title": "The US Government Is Opening an Investigation Into Roblox Over Child Exploitation",
-        "outlet": "polygon.com",
+        "outlet": "Polygon.com",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MbVJfY2hZbm9pb1dvbEpfLTRXdkhrYV90S1Nzal9yVy15bG9UQmtXMWtZeUVJcWlZdHdwcU9iSnBDMnNMY2dfUmJxN09VQUxYcmc3YVdrejBOZFJUV1JHczVTU2tqTUw2?oc=5",
         "published": "2026-08-14T16:50:51Z"
       },
@@ -116,13 +110,19 @@
         "title": "Roblox commits to privacy overhaul after eSafety discovers adults can contact children via gaming platform",
         "outlet": "The Guardian",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM0JRbWh3YzVHbUZ0ODdMT0E2TlZGVTlzWjlQUEl5U1pmSEwyWFpRSVcwcEM4LUEwZmpkbW8zYmdnQ3FjdGZDcGVCMlg4VGZHZEs0SkU4U1c2TURyMUpfQk1qczFzOGYtNGExNEdrWlBqMUJsY1RSTF9VNm5Xc0JvbkZhOUtoQkR3Tk1TWVJXQkFHcnZ2dTF0UWZYb2lLbDdMUkEtRTdVR1c?oc=5",
-        "published": "2026-08-19T21:13:00Z"
+        "published": "2026-08-19T15:00:28Z"
       },
       {
-        "title": "Roblox being investigated over child sexual abuse",
-        "outlet": "First Alert 4",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQUtXeFNqcTdlTlRyMFNMZHdON0xuYWRUQnNvWVFoSUx3bEozMUh2eWNjb2JGZ0ZxbU02aGhmdl9KTFBLYmZZclNFYmtqRUxBMEpoZks4dUd5Z0Y5cTFGMHc1VjR6U2xCdWpnekpXSkJ6WXhqczZKaERFTUdRV0llZ0piRDV0YWYxRktpS0d1T3MyVHfSAacBQVVfeXFMTVNORnV3NG43MTVQRldmVXNZSVlEcGNCWDRadUpKcldIWkdrWEM3TEdINl9jcDNYX0Rnemx2NnRBblNiZWVDdkNPeVpfZENjUDJBQU1LbUdzUWJDZld5NjJZcHozaUxLT3dNUFRzYkdrM3BvZHB6VlJYck1kZ2FVWURjTXlVamFsUVlweUtaMGdaVDM3Z0dkUFRheHd5WW5EampOcVlIeWM?oc=5",
-        "published": "2026-08-13T20:16:00Z"
+        "title": "Senate opens investigation into child safety on Roblox",
+        "outlet": "BNO News",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZUhnckdUWWMyYjB3S1VpMW1PeEQ2OFo0eng4dEpCenp4S0JRbVFrSmVuNXA0V1BoeVc4SHROV21uV0FIVHJ1X0ZmMkcyd2x1R1Q1V0RtOXc0NnhPNGQ4Z3VLczlrYlVlaDhoQ3NJU1NISGZWTk1jYkRkN2dFcDF5ZXNqS2czRjIzdE9LVUJpdTRjcVctcXZFdg?oc=5",
+        "published": "2026-08-13T23:39:25Z"
+      },
+      {
+        "title": "Roblox Under Investigation by the U.S. Senate Over Continued Child Safety Concerns",
+        "outlet": "digitalmusicnews.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaTNxUUJEbGVJLWpoamxmeHYzdGRkaDlUUm1Xb0FXR3JUSk55QjJOWXRKQkZRWklFdWJnVjRoY3I0TGRaWlpyS3dzM2M4U0pTOHM5V1BVaURHd2dqU2JERmhic3U2TmJxb2dsbk45YWppTXU0bllUUVRsR0xMRzRMZ2pZekswZ0Q2R3FMY3NfdTk1UQ?oc=5",
+        "published": "2026-08-17T04:05:31Z"
       }
     ]
   },
