@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-20T20:44:33Z",
+  "as_of": "2026-08-20T21:42:10Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -9,10 +9,17 @@
     "query": "party:\"Roblox Corporation\"",
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
-    "total": 477,
-    "filed_7d": 1,
-    "filed_30d": 7,
+    "total": 478,
+    "filed_7d": 2,
+    "filed_30d": 8,
     "latest": [
+      {
+        "date_filed": "2026-08-20",
+        "case_name": "DLG-GAL-0075 v. Roblox Corporation",
+        "docket_number": "3:26-cv-08705",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/74679812/dlg-gal-0075-v-roblox-corporation/"
+      },
       {
         "date_filed": "2026-08-17",
         "case_name": "HL-0002 v. Roblox Corporation",
@@ -61,20 +68,13 @@
         "docket_number": "2:26-cv-09467",
         "court": "D.N.J.",
         "url": "https://www.courtlistener.com/docket/73687648/pj-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-07-20",
-        "case_name": "Roblox Corporation v. The Individuals, Corporations, Limited Liability Companies, Partnerships, and Unincorporated Associations Identified on Schedule A to the Complaint",
-        "docket_number": "1:26-cv-06132",
-        "court": "S.D.N.Y.",
-        "url": "https://www.courtlistener.com/docket/73642310/roblox-corporation-v-the-individuals-corporations-limited-liability/"
       }
     ]
   },
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 78,
+    "hits_7d": 81,
     "latest": [
       {
         "title": "Senate panel investigates kids safety issues in online game Roblox",
