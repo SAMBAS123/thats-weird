@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-20T07:55:14Z",
+  "as_of": "2026-08-20T08:55:10Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 76,
+    "hits_7d": 77,
     "latest": [
       {
         "title": "Senate panel investigates kids safety issues in online game Roblox",
@@ -84,7 +84,7 @@
       },
       {
         "title": "Texas says Roblox exposed kids to predators. Roblox is fighting back.",
-        "outlet": "statesman.com",
+        "outlet": "Austin American-Statesman",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTmxrWjU4cmNjazNmdnlNVVZETmhxWG9XSElQd3F2ZnJnRkJMb3ZUdmp2MENQNkx6T3V1eU84QkVMTEJvUWVyWUZndGgzTG1IOFB4SXFwOF8yd2hFTXZnbUJrd2xjSF9xeWpGMEVGRGE4a3pEMXdIUTRrSWRfY1NnRlJ5OFJpcGpjR3BtcXNUOXN6b0tMRFNoQ2FqeGMwWUFKM09SbUhWaw?oc=5",
         "published": "2026-08-13T22:08:10Z"
       },
