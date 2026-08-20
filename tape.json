@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-20T07:04:12Z",
+  "as_of": "2026-08-20T07:55:14Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 75,
+    "hits_7d": 76,
     "latest": [
       {
         "title": "Senate panel investigates kids safety issues in online game Roblox",
@@ -110,7 +110,7 @@
         "title": "Roblox commits to privacy overhaul after eSafety discovers adults can contact children via gaming platform",
         "outlet": "The Guardian",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM0JRbWh3YzVHbUZ0ODdMT0E2TlZGVTlzWjlQUEl5U1pmSEwyWFpRSVcwcEM4LUEwZmpkbW8zYmdnQ3FjdGZDcGVCMlg4VGZHZEs0SkU4U1c2TURyMUpfQk1qczFzOGYtNGExNEdrWlBqMUJsY1RSTF9VNm5Xc0JvbkZhOUtoQkR3Tk1TWVJXQkFHcnZ2dTF0UWZYb2lLbDdMUkEtRTdVR1c?oc=5",
-        "published": "2026-08-19T15:00:28Z"
+        "published": "2026-08-19T21:13:00Z"
       },
       {
         "title": "The US Government Is Opening an Investigation Into Roblox Over Child Exploitation",
