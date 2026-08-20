@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-20T21:42:10Z",
+  "as_of": "2026-08-20T22:43:02Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -9,10 +9,17 @@
     "query": "party:\"Roblox Corporation\"",
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
-    "total": 478,
-    "filed_7d": 2,
-    "filed_30d": 8,
+    "total": 479,
+    "filed_7d": 3,
+    "filed_30d": 9,
     "latest": [
+      {
+        "date_filed": "2026-08-20",
+        "case_name": "DLG-GAL-0076 v. Roblox Corporation",
+        "docket_number": "3:26-cv-08710",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/74680328/dlg-gal-0076-v-roblox-corporation/"
+      },
       {
         "date_filed": "2026-08-20",
         "case_name": "DLG-GAL-0075 v. Roblox Corporation",
@@ -61,32 +68,19 @@
         "docket_number": "3:26-cv-07979",
         "court": "N.D. Cal.",
         "url": "https://www.courtlistener.com/docket/73704692/aw-0017-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-07-28",
-        "case_name": "P.J. v. ROBLOX CORPORATION",
-        "docket_number": "2:26-cv-09467",
-        "court": "D.N.J.",
-        "url": "https://www.courtlistener.com/docket/73687648/pj-v-roblox-corporation/"
       }
     ]
   },
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 81,
+    "hits_7d": 79,
     "latest": [
       {
         "title": "Senate panel investigates kids safety issues in online game Roblox",
         "outlet": "The Hill",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS0lQRjF4U2tRQVZTVW9wT3hXbFVSazdNN3M2dGdpNXNqa3Zhak9CaXB1eGhjbTZPWG9ndG9SQmVGMXNLb1NLQlpWUl81VXFiWWZIM3RwODBYT2lORmlnMFg3RTdzRGpjMkstNWdzaEdROVdxaUNNLTB5VWVKd0RoYk9QZTg5ZklNc0Rsa3JWWjLSAZYBQVVfeXFMT3BJemExQjF0dW51TTJHLTR6RmFxV2ZHcFVvaFVIamRJQVpMMmhCclVEVEdmZVJWZE5GcWFDbThLMWZSMC1UQ015VFVwTDdrRWUzREtXdUNxTDFyelFiUzBnbzJKMG4yZjlOdThta1ZYLWFaRl90SThhS3JDdzBmUWIzY2cxanl1c2JITlpaUGx4V0VHSERR?oc=5",
         "published": "2026-08-14T22:40:00Z"
-      },
-      {
-        "title": "Texas says Roblox exposed kids to predators. Roblox is fighting back.",
-        "outlet": "Austin American-Statesman",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTmxrWjU4cmNjazNmdnlNVVZETmhxWG9XSElQd3F2ZnJnRkJMb3ZUdmp2MENQNkx6T3V1eU84QkVMTEJvUWVyWUZndGgzTG1IOFB4SXFwOF8yd2hFTXZnbUJrd2xjSF9xeWpGMEVGRGE4a3pEMXdIUTRrSWRfY1NnRlJ5OFJpcGpjR3BtcXNUOXN6b0tMRFNoQ2FqeGMwWUFKM09SbUhWaw?oc=5",
-        "published": "2026-08-13T22:08:10Z"
       },
       {
         "title": "US Senate to investigate Roblox following claims it \"prioritises revenue and engagement\" over child safety",
@@ -123,6 +117,12 @@
         "outlet": "Game Developer",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNlpJSDBYdVh5Qm9lUjR6T1c3ZkpMeEhvMnZVbHpXRTJXMmozWnAyblNwTWZ6V29MVHRuX3owajRmVk5OSHNna3dCbV9xZV9mNXhfRWNSYVprZnZ1LU5EVkRDdWd3N0JPQ1FiMDU1eVhOWlZ3RnJQTzNxeG5WQWViYnRZMHlFNGxHeUpSa2twcndNUEVDclE0aDNzcmcwLVkwc1RWSkZ1czlqYVFwOWh6OFBSNFk5QTRadG9iR2tMZDg3ZkZoVG1ONTV3RDFyZzQ1Q1lRSHVXelVxd0Nn?oc=5",
         "published": "2026-08-18T10:39:59Z"
+      },
+      {
+        "title": "Roblox has been put on notice yet again over child safety concerns. What do parents need to know?",
+        "outlet": "The Conversation",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZUo1c0MxZEY0R0ZodVE3ZkZzSk4wdHRnbmh2OG4zT2lNUmxtbjJuUkVwU08zTzdMbFkwUDN5TFgyS25NLWwtbU9QLU1DSExEVnp0Q3BOeUs1MzcyZUxqT2VHbkY3MWhfd2lLaFFqYXNHa0pxd212ajVaSk5YNUxVX1h4UjVSQWk1bFR3OGM5R25GV2RPTU9MUWpsYUxDc0xoYkZfdXR1SGNRSWEtbVRsc09zVjlpU2ZxaXZWVktXZlhrQzRPaFVOdlBR?oc=5",
+        "published": "2026-08-20T05:37:39Z"
       }
     ]
   },
