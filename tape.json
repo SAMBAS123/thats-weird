@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-22T03:54:22Z",
+  "as_of": "2026-08-22T04:47:27Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 83,
+    "hits_7d": 84,
     "latest": [
       {
         "title": "US Senate to investigate Roblox following claims it \"prioritises revenue and engagement\" over child safety",
@@ -83,16 +83,16 @@
         "published": "2026-08-17T12:47:28Z"
       },
       {
-        "title": "Roblox argues 8-year-old waived rights in wrongful death lawsuit | Exclusive",
-        "outlet": "The Courier-Journal",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ0RTUTZ6am5WUl94U3Y1ZXNndngxSmQ2N1NWNXpfVVRCVW9MbDJRSzYyLUdrU3ZkSS1HNkl0RDVuRU1JWFVCX1ByVVFvSnhCQTJ6T0Vkd09hdmVTUS1CZnY5VXFid3VOM2lqZkIzQzRqVk9JbzN3UEFmWFF3bXhGOXdLVk9TdTZXSmwxV2Q4bjdFV2Z4ZTFyTS1ocW9oVWtIaFFNdkxtamQ2SVVNSVQwaDNNV1haS0drOU1nbEZxSHRzSDlvRGRUZDhlTQ?oc=5",
-        "published": "2026-08-19T18:09:00Z"
-      },
-      {
         "title": "Paxton, Roblox clash over documents in children’s safety lawsuit",
         "outlet": "Texas Standard",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VeXBKb0lFdEdISl9ITUF5NXZYbS02a1pDQmd2SDRuN0pvQ0ZSRkJla1BlUXd3ZzlDODAwdE1RVlBvbl9kVGZqUkhhcTVmYWM2OWxnejFDMnYzTVdOTFNadVpsYklrRGdRaVA1WFpIcw?oc=5",
         "published": "2026-08-17T15:58:24Z"
+      },
+      {
+        "title": "Roblox argues 8-year-old waived rights in wrongful death lawsuit | Exclusive",
+        "outlet": "The Courier-Journal",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ0RTUTZ6am5WUl94U3Y1ZXNndngxSmQ2N1NWNXpfVVRCVW9MbDJRSzYyLUdrU3ZkSS1HNkl0RDVuRU1JWFVCX1ByVVFvSnhCQTJ6T0Vkd09hdmVTUS1CZnY5VXFid3VOM2lqZkIzQzRqVk9JbzN3UEFmWFF3bXhGOXdLVk9TdTZXSmwxV2Q4bjdFV2Z4ZTFyTS1ocW9oVWtIaFFNdkxtamQ2SVVNSVQwaDNNV1haS0drOU1nbEZxSHRzSDlvRGRUZDhlTQ?oc=5",
+        "published": "2026-08-19T18:09:00Z"
       },
       {
         "title": "Roblox has been put on notice yet again over child safety concerns. What do parents need to know?",
