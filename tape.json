@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-23T13:00:44Z",
+  "as_of": "2026-08-23T13:45:00Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 80,
+    "hits_7d": 79,
     "latest": [
       {
         "title": "US Senate to investigate Roblox following claims it \"prioritises revenue and engagement\" over child safety",
