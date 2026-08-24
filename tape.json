@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-24T15:54:46Z",
+  "as_of": "2026-08-24T16:54:06Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,25 +74,19 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 73,
+    "hits_7d": 71,
     "latest": [
       {
-        "title": "Paxton, Roblox clash over documents in children’s safety lawsuit",
-        "outlet": "Texas Standard",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VeXBKb0lFdEdISl9ITUF5NXZYbS02a1pDQmd2SDRuN0pvQ0ZSRkJla1BlUXd3ZzlDODAwdE1RVlBvbl9kVGZqUkhhcTVmYWM2OWxnejFDMnYzTVdOTFNadVpsYklrRGdRaVA1WFpIcw?oc=5",
-        "published": "2026-08-17T15:58:24Z"
+        "title": "Roblox has been put on notice yet again over child safety concerns. What do parents need to know?",
+        "outlet": "The Conversation",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZUo1c0MxZEY0R0ZodVE3ZkZzSk4wdHRnbmh2OG4zT2lNUmxtbjJuUkVwU08zTzdMbFkwUDN5TFgyS25NLWwtbU9QLU1DSExEVnp0Q3BOeUs1MzcyZUxqT2VHbkY3MWhfd2lLaFFqYXNHa0pxd212ajVaSk5YNUxVX1h4UjVSQWk1bFR3OGM5R25GV2RPTU9MUWpsYUxDc0xoYkZfdXR1SGNRSWEtbVRsc09zVjlpU2ZxaXZWVktXZlhrQzRPaFVOdlBR?oc=5",
+        "published": "2026-08-20T05:37:39Z"
       },
       {
         "title": "Australia secures court-enforceable child safety undertaking from Roblox",
         "outlet": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb0V6TmZxOWxDczR1NHhCV0F4TTFUbHFNU0J1cnFCWTluUkhFaTNPbTVKNS1TWHVnUldreW1rN1JKZHNuY0ZsRE5YUGwwc3B2NHc1eXhTZjdyN1ZLMmN5WFpmV3Y4aWlvSHJuMk9rOFNmTlpkaTc5MjA1QktVRUV5SThyRXd3QTc4SnN1QUE5WUtoWWNLNW1yd3MxMkZfdmJfQm9nM2JzSmdWUmxCaTQ2NDBhT003VW5IZzhvZg?oc=5",
         "published": "2026-08-19T14:10:52Z"
-      },
-      {
-        "title": "Roblox has been put on notice yet again over child safety concerns. What do parents need to know?",
-        "outlet": "The Conversation",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZUo1c0MxZEY0R0ZodVE3ZkZzSk4wdHRnbmh2OG4zT2lNUmxtbjJuUkVwU08zTzdMbFkwUDN5TFgyS25NLWwtbU9QLU1DSExEVnp0Q3BOeUs1MzcyZUxqT2VHbkY3MWhfd2lLaFFqYXNHa0pxd212ajVaSk5YNUxVX1h4UjVSQWk1bFR3OGM5R25GV2RPTU9MUWpsYUxDc0xoYkZfdXR1SGNRSWEtbVRsc09zVjlpU2ZxaXZWVktXZlhrQzRPaFVOdlBR?oc=5",
-        "published": "2026-08-20T05:37:39Z"
       },
       {
         "title": "Roblox argues 8-year-old waived rights in wrongful death lawsuit | Exclusive",
@@ -123,6 +117,12 @@
         "outlet": "WKRC",
         "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOelhMNkE4NFJSV21GaUxPTUFaeU9UNWkzY2NBSjBGU2pMWGVJTWUzcWEyRkt0eUJab19lM3IxbHllOUt1V2RYS0h0bW5lNl9KQWFZNVdBbkxoWHdFd043U3M1bGFHOWM4T0FqRlNOVE9HNmZNNWRvdDY1aENBRGNUV1ZPT05tTlFhbWtFMUlFMEpiOVc5U0doTE1kTnRmUlhZYzZab0FKcXVIaWtzc0dvUWNNUm5kb0x6YzkxZC1hUzNycU01VnhvZ251dzducS03VGstS29pX0c0ajdHb1c0MmJvaDR1a1dDUkpfdmRaVzZWZktJQmYyaThFTHZXVy16LXFMWTBPSUs4Mnc1bnBBVGp1TG0zMGhGNG9KVjROQkVWaTFyZG8zTFVuZlBfNVdUeDNMUE4wU1UyQmdYVEgxSl94a0VzUTRpMnAzZHEyQ2pKMHlVcEVIYnRGUlYybFhXU3QzaVl3?oc=5",
         "published": "2026-08-20T20:27:45Z"
+      },
+      {
+        "title": "The U.S. Senate Is Investigating Roblox Over Child Safety Concerns",
+        "outlet": "Cartoon Brew",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTndZQmRWWHJzZktQdUx4SWdLTVNrdkl1ay00VzJ4Q0lKLWx0QjF5eUVDX0h6NTFIbDZRVjZmdlZVcUl4aDVDalZQdUVwaUphNjNDa1ViOTBQVFRQR1ZNSDR4Qkh6Z3VCZFZDY0dJRDhZN19GQ1VlMm1FTDlORGZtTVlsR01WUVFNMURPcThEX2s?oc=5",
+        "published": "2026-08-18T13:30:04Z"
       }
     ]
   },
