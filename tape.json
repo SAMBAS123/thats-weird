@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-24T11:42:34Z",
+  "as_of": "2026-08-24T13:11:44Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,14 +74,8 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 76,
+    "hits_7d": 75,
     "latest": [
-      {
-        "title": "US Senate to investigate Roblox following claims it \"prioritises revenue and engagement\" over child safety",
-        "outlet": "GamesIndustry.biz",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaFZ5RUYtMnZ4X2R3bUJqZC0xSkdOVnFDSGM1Y0wzSlVXd3ZTbEliekl0QXJRemNuQi1hU2ZDQ29sal9GVDJ0OXZUR05hbjRzLUEwWDNVWVdJQXQ4Z09JNG9HMFdEMVhELXZBMEJoVDNMaDdKM0tRRUhsVl91bWhXbGs0blVhTTZvQnFmZzZ6TVNTSDQ1N2MxcE9CNXRhMWpnUnBQbFhMSHhvaGlIOHNnUXplVHR5UlVTeDE3OXJ1alRoVnV6a2RkLTlSMlMyV0U?oc=5",
-        "published": "2026-08-17T12:47:28Z"
-      },
       {
         "title": "Paxton, Roblox clash over documents in children’s safety lawsuit",
         "outlet": "Texas Standard",
@@ -123,6 +117,12 @@
         "outlet": "Game Developer",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNlpJSDBYdVh5Qm9lUjR6T1c3ZkpMeEhvMnZVbHpXRTJXMmozWnAyblNwTWZ6V29MVHRuX3owajRmVk5OSHNna3dCbV9xZV9mNXhfRWNSYVprZnZ1LU5EVkRDdWd3N0JPQ1FiMDU1eVhOWlZ3RnJQTzNxeG5WQWViYnRZMHlFNGxHeUpSa2twcndNUEVDclE0aDNzcmcwLVkwc1RWSkZ1czlqYVFwOWh6OFBSNFk5QTRadG9iR2tMZDg3ZkZoVG1ONTV3RDFyZzQ1Q1lRSHVXelVxd0Nn?oc=5",
         "published": "2026-08-18T10:39:59Z"
+      },
+      {
+        "title": "NKY parents sue over teen’s suicide; Roblox says case should be dismissed",
+        "outlet": "WKRC",
+        "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOelhMNkE4NFJSV21GaUxPTUFaeU9UNWkzY2NBSjBGU2pMWGVJTWUzcWEyRkt0eUJab19lM3IxbHllOUt1V2RYS0h0bW5lNl9KQWFZNVdBbkxoWHdFd043U3M1bGFHOWM4T0FqRlNOVE9HNmZNNWRvdDY1aENBRGNUV1ZPT05tTlFhbWtFMUlFMEpiOVc5U0doTE1kTnRmUlhZYzZab0FKcXVIaWtzc0dvUWNNUm5kb0x6YzkxZC1hUzNycU01VnhvZ251dzducS03VGstS29pX0c0ajdHb1c0MmJvaDR1a1dDUkpfdmRaVzZWZktJQmYyaThFTHZXVy16LXFMWTBPSUs4Mnc1bnBBVGp1TG0zMGhGNG9KVjROQkVWaTFyZG8zTFVuZlBfNVdUeDNMUE4wU1UyQmdYVEgxSl94a0VzUTRpMnAzZHEyQ2pKMHlVcEVIYnRGUlYybFhXU3QzaVl3?oc=5",
+        "published": "2026-08-20T20:27:45Z"
       }
     ]
   },
