@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-25T18:55:46Z",
+  "as_of": "2026-08-25T19:45:06Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 58,
+    "hits_7d": 59,
     "latest": [
       {
         "title": "Roblox argues 8-year-old waived rights in wrongful death lawsuit | Exclusive",
@@ -170,5 +170,7 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": []
+  "errors": [
+    "courtlistener: The read operation timed out"
+  ]
 }
