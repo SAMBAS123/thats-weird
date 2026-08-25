@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-25T17:44:47Z",
+  "as_of": "2026-08-25T18:55:46Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -9,10 +9,17 @@
     "query": "party:\"Roblox Corporation\"",
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
-    "total": 480,
-    "filed_7d": 3,
-    "filed_30d": 10,
+    "total": 481,
+    "filed_7d": 4,
+    "filed_30d": 11,
     "latest": [
+      {
+        "date_filed": "2026-08-25",
+        "case_name": "LLF-0001 v. Roblox Corporation",
+        "docket_number": "3:26-cv-08868",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/74697040/llf-0001-v-roblox-corporation/"
+      },
       {
         "date_filed": "2026-08-20",
         "case_name": "DLG-GAL-0076 v. Roblox Corporation",
@@ -61,20 +68,13 @@
         "docket_number": "3:26-cv-08059",
         "court": "N.D. Cal.",
         "url": "https://www.courtlistener.com/docket/73716339/aw-0016-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-07-31",
-        "case_name": "GE-0002 v. Roblox Corporation",
-        "docket_number": "3:26-cv-07989",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/73705481/ge-0002-v-roblox-corporation/"
       }
     ]
   },
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 59,
+    "hits_7d": 58,
     "latest": [
       {
         "title": "Roblox argues 8-year-old waived rights in wrongful death lawsuit | Exclusive",
