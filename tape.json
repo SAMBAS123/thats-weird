@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-25T13:09:53Z",
+  "as_of": "2026-08-25T14:02:02Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 61,
+    "hits_7d": 59,
     "latest": [
       {
         "title": "Roblox argues 8-year-old waived rights in wrongful death lawsuit | Exclusive",
@@ -113,16 +113,16 @@
         "published": "2026-08-24T21:20:00Z"
       },
       {
-        "title": "The U.S. Senate Is Investigating Roblox Over Child Safety Concerns",
-        "outlet": "Cartoon Brew",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTndZQmRWWHJzZktQdUx4SWdLTVNrdkl1ay00VzJ4Q0lKLWx0QjF5eUVDX0h6NTFIbDZRVjZmdlZVcUl4aDVDalZQdUVwaUphNjNDa1ViOTBQVFRQR1ZNSDR4Qkh6Z3VCZFZDY0dJRDhZN19GQ1VlMm1FTDlORGZtTVlsR01WUVFNMURPcThEX2s?oc=5",
-        "published": "2026-08-18T13:30:04Z"
-      },
-      {
         "title": "Sexual Predator Groomed Teen Boy on Roblox Using Robux, Lawsuit Alleges",
         "outlet": "AboutLawsuits.com",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOFB3bVp6R1ZhMDBhQU5nYnQtWk9CWTJWQVlVNVhwOWV3ZEhEMklfZDdzR1poSUxpNm5sRkNUOW1uY1JPMHRpUnJucWRPUm9tLVRHX2JkYk1icEZ0aGhIZ0dldHoySUNBRXhCNERQd0I5M1BtZ2JQUXg1M3kySTdSZnF6YXFqU2pka053aVh2RjA2LXNBYTlVdjZLNENlSjNm?oc=5",
         "published": "2026-08-21T14:00:00Z"
+      },
+      {
+        "title": "Roblox shares AI child-safety tools parents should know",
+        "outlet": "Fox News",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVjFWa21pV0RLRUlrVVlFNHF4S21EVG96MUNvRENGWkFwUUZuWDFhU3BheXZ6NFJfd1VXU2QzWm85dVhVdnlVYjREMHpBQTVhUGhCcnV0MGhjUWJWdW9xT0NGTXM4S3RFRVZsSTlrTEFBdE1CRXZHSy1VeUpJWlVpbWd2ZDhKaG1BVm1DMUp2OXjSAZYBQVVfeXFMTW1XSmpHbklnTlpSMGlGendsRUZvaTdETmdiSlRtZGNud2d0Rl8zUlptcENkUlJvbFJpV29NM2U5YTlnSW51cEtWNWF0NXBFdFl1dXhzell3V1l4RkNSRHZfZlFwTl9vRndackdKNmRXUGZfb2p1TGxibkZPQnRqcU9xTll3VThBaVhUNWdzY0lEdEpJUFpn?oc=5",
+        "published": "2026-08-21T11:07:33Z"
       }
     ]
   },
