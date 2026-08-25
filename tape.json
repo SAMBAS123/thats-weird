@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-25T01:50:37Z",
+  "as_of": "2026-08-25T03:11:52Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 68,
+    "hits_7d": 69,
     "latest": [
       {
         "title": "Australia secures court-enforceable child safety undertaking from Roblox",
@@ -113,16 +113,16 @@
         "published": "2026-08-18T10:39:59Z"
       },
       {
+        "title": "Mother says teen unknowingly waived right to sue Roblox, Discord, TikTok before death",
+        "outlet": "FOX19 | Cincinnati",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFEZVdwSXk3MXFyZ29iQlNFMEJZVy1ZRVBFWDBCLUlnLVpBNXVhRTRpeWdjSHJURUZjY04tUExZQmJsMGJYa2l2eS1GLUJCdTJkS2ZSbFZTalNER0xMdmd4amFOaDlPeFRaLV9RMjNDVjFrTjBQQzRGTFlyeEc4YVJRTFVtbTRCWE8zQU5CdFRISGlDZU8tTlRSbTFEaVo2RGR2bUs3Y1hfSlcxdlZDakJlbTXSAcgBQVVfeXFMT1E4cmhack5JeWQzaFl4X3lzNlVoeTd5Z3paR3B1WldPTUJ2QmtfeEVmY1k5UU1nc0J6RDNvTEZuYXhLN2hNS2dXUk12Q3hnaVhIZzktQkM3WU5LYkdnNkhOSFZhSFRQb0dfbnB3aU9LeElZcWpCcFJEbnJpNUdUdGZIenRpZThPbWRSYm9BZmJoY1QxMVp6TjRVS0tuMThsRnNseWlMa0Y0T01va3VvMDYwUmdTTXk1YkNTZllaMERDREY5N2hjVjQ?oc=5",
+        "published": "2026-08-24T21:20:00Z"
+      },
+      {
         "title": "The U.S. Senate Is Investigating Roblox Over Child Safety Concerns",
         "outlet": "Cartoon Brew",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTndZQmRWWHJzZktQdUx4SWdLTVNrdkl1ay00VzJ4Q0lKLWx0QjF5eUVDX0h6NTFIbDZRVjZmdlZVcUl4aDVDalZQdUVwaUphNjNDa1ViOTBQVFRQR1ZNSDR4Qkh6Z3VCZFZDY0dJRDhZN19GQ1VlMm1FTDlORGZtTVlsR01WUVFNMURPcThEX2s?oc=5",
         "published": "2026-08-18T13:30:04Z"
-      },
-      {
-        "title": "Sexual Predator Groomed Teen Boy on Roblox Using Robux, Lawsuit Alleges",
-        "outlet": "AboutLawsuits.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOFB3bVp6R1ZhMDBhQU5nYnQtWk9CWTJWQVlVNVhwOWV3ZEhEMklfZDdzR1poSUxpNm5sRkNUOW1uY1JPMHRpUnJucWRPUm9tLVRHX2JkYk1icEZ0aGhIZ0dldHoySUNBRXhCNERQd0I5M1BtZ2JQUXg1M3kySTdSZnF6YXFqU2pka053aVh2RjA2LXNBYTlVdjZLNENlSjNm?oc=5",
-        "published": "2026-08-21T14:00:00Z"
       }
     ]
   },
