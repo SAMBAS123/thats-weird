@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-26T14:03:35Z",
+  "as_of": "2026-08-26T15:53:24Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -9,10 +9,17 @@
     "query": "party:\"Roblox Corporation\"",
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
-    "total": 482,
-    "filed_7d": 5,
-    "filed_30d": 12,
+    "total": 483,
+    "filed_7d": 6,
+    "filed_30d": 13,
     "latest": [
+      {
+        "date_filed": "2026-08-26",
+        "case_name": "WM-0005 v. Roblox Corporation",
+        "docket_number": "3:26-cv-08916",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/74702097/wm-0005-v-roblox-corporation/"
+      },
       {
         "date_filed": "2026-08-25",
         "case_name": "BA-0002 v. Roblox Corporation",
@@ -43,10 +50,10 @@
       },
       {
         "date_filed": "2026-08-20",
-        "case_name": "0007 v. DISCORD, INC.",
+        "case_name": "GGH-0007 v. DISCORD, INC.",
         "docket_number": "3:26-cv-08697",
         "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74678435/0007-v-discord-inc/"
+        "url": "https://www.courtlistener.com/docket/74678435/ggh-0007-v-discord-inc/"
       },
       {
         "date_filed": "2026-08-17",
@@ -61,27 +68,14 @@
         "docket_number": "3:26-cv-08335",
         "court": "N.D. Cal.",
         "url": "https://www.courtlistener.com/docket/74244133/aw-0018-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-08-04",
-        "case_name": "LUCHA MENENDEZ v. ROBLOX CORPORATION",
-        "docket_number": "3:26-cv-08073",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/73718065/lucha-menendez-v-roblox-corporation/"
       }
     ]
   },
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 58,
+    "hits_7d": 52,
     "latest": [
-      {
-        "title": "Australia secures court-enforceable child safety undertaking from Roblox",
-        "outlet": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb0V6TmZxOWxDczR1NHhCV0F4TTFUbHFNU0J1cnFCWTluUkhFaTNPbTVKNS1TWHVnUldreW1rN1JKZHNuY0ZsRE5YUGwwc3B2NHc1eXhTZjdyN1ZLMmN5WFpmV3Y4aWlvSHJuMk9rOFNmTlpkaTc5MjA1QktVRUV5SThyRXd3QTc4SnN1QUE5WUtoWWNLNW1yd3MxMkZfdmJfQm9nM2JzSmdWUmxCaTQ2NDBhT003VW5IZzhvZg?oc=5",
-        "published": "2026-08-19T14:10:52Z"
-      },
       {
         "title": "Roblox has been put on notice yet again over child safety concerns. What do parents need to know?",
         "outlet": "The Conversation",
@@ -113,16 +107,22 @@
         "published": "2026-08-20T17:14:08Z"
       },
       {
-        "title": "Roblox commits to privacy overhaul after eSafety discovers adults can contact children via gaming platform",
-        "outlet": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM0JRbWh3YzVHbUZ0ODdMT0E2TlZGVTlzWjlQUEl5U1pmSEwyWFpRSVcwcEM4LUEwZmpkbW8zYmdnQ3FjdGZDcGVCMlg4VGZHZEs0SkU4U1c2TURyMUpfQk1qczFzOGYtNGExNEdrWlBqMUJsY1RSTF9VNm5Xc0JvbkZhOUtoQkR3Tk1TWVJXQkFHcnZ2dTF0UWZYb2lLbDdMUkEtRTdVR1c?oc=5",
-        "published": "2026-08-19T15:00:00Z"
-      },
-      {
         "title": "Sexual Predator Groomed Teen Boy on Roblox Using Robux, Lawsuit Alleges",
         "outlet": "AboutLawsuits.com",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOFB3bVp6R1ZhMDBhQU5nYnQtWk9CWTJWQVlVNVhwOWV3ZEhEMklfZDdzR1poSUxpNm5sRkNUOW1uY1JPMHRpUnJucWRPUm9tLVRHX2JkYk1icEZ0aGhIZ0dldHoySUNBRXhCNERQd0I5M1BtZ2JQUXg1M3kySTdSZnF6YXFqU2pka053aVh2RjA2LXNBYTlVdjZLNENlSjNm?oc=5",
         "published": "2026-08-21T14:00:00Z"
+      },
+      {
+        "title": "NKY parents sue over teen’s suicide; Roblox says case should be dismissed",
+        "outlet": "WLUK",
+        "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPVVJ0SDM2MnRTbjN3UTZwTmJrZWFUOGY2V3FiX29LU05VOGFRblhHenZVSzA3bmMwSThzcFllUFFvRjZOS2lTMlVFbF9aYXE0ckRDSlN3U0piVUJTOWdqOXhVZGZXQ1o3UHdjRl9hX0doR0NpeUc2d3AxNGQ3V2ROOTVUSjRFaEltMlVYSU9NUjhySEY5Smk3MThLbzN3by14ZkNUcWt5SUFkRmNSQnhKc29iUFhLVFBHV204OVVSYkdqV1pBemRZMVZUM0lkQzdQZmZocXZtTUtWbUh3djhnSHp0RkdJRkNuLVB0NzVuMTRTalhSQXctWVZHM2llaXYxckRfZGFxZ2w1Y2pjMGZJbklMUUZ6MmFyWXpoMkRvSEZQWEJzVkVicWhxXzhuY1RJZ2NrRzRvUGZaNTJFNVdUdHQxdURNeXRIMnZKS3ZhTm5vaGIwclhQbGJtZFlDZ2NzQjlCMDFkVWVBajllMUVLR2hjSGk?oc=5",
+        "published": "2026-08-20T07:00:00Z"
+      },
+      {
+        "title": "Roblox shares AI child-safety tools parents should know",
+        "outlet": "Fox News",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVjFWa21pV0RLRUlrVVlFNHF4S21EVG96MUNvRENGWkFwUUZuWDFhU3BheXZ6NFJfd1VXU2QzWm85dVhVdnlVYjREMHpBQTVhUGhCcnV0MGhjUWJWdW9xT0NGTXM4S3RFRVZsSTlrTEFBdE1CRXZHSy1VeUpJWlVpbWd2ZDhKaG1BVm1DMUp2OXjSAZYBQVVfeXFMTW1XSmpHbklnTlpSMGlGendsRUZvaTdETmdiSlRtZGNud2d0Rl8zUlptcENkUlJvbFJpV29NM2U5YTlnSW51cEtWNWF0NXBFdFl1dXhzell3V1l4RkNSRHZfZlFwTl9vRndackdKNmRXUGZfb2p1TGxibkZPQnRqcU9xTll3VThBaVhUNWdzY0lEdEpJUFpn?oc=5",
+        "published": "2026-08-21T11:07:33Z"
       }
     ]
   },
