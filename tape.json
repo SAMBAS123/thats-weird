@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-26T04:54:16Z",
+  "as_of": "2026-08-26T05:48:53Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 62,
+    "hits_7d": 61,
     "latest": [
       {
         "title": "Roblox argues 8-year-old waived rights in wrongful death lawsuit | Exclusive",
@@ -101,16 +101,16 @@
         "published": "2026-08-24T21:20:00Z"
       },
       {
-        "title": "Roblox commits to privacy overhaul after eSafety discovers adults can contact children via gaming platform",
-        "outlet": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM0JRbWh3YzVHbUZ0ODdMT0E2TlZGVTlzWjlQUEl5U1pmSEwyWFpRSVcwcEM4LUEwZmpkbW8zYmdnQ3FjdGZDcGVCMlg4VGZHZEs0SkU4U1c2TURyMUpfQk1qczFzOGYtNGExNEdrWlBqMUJsY1RSTF9VNm5Xc0JvbkZhOUtoQkR3Tk1TWVJXQkFHcnZ2dTF0UWZYb2lLbDdMUkEtRTdVR1c?oc=5",
-        "published": "2026-08-19T15:00:00Z"
-      },
-      {
         "title": "Roblox must make changes after failing to block adults creeping on kids",
         "outlet": "Ars Technica",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcU1RNU02UklVT2R6TTlTZTI0d09KZHVwQTNLOTRfOVZMLVJqc2tybGZSVEUwQTVnb2Y2NzhvNEdycXhwUk51SWNKUHF5aE1VNEM5QWhqR1k0c0VvSFJiN1R5VmJNSGN2R2tyS001ZVd2MkpMVWtRYkU3VlBxeXFyN1J1WFo1MV9tYndZUURCR19INW4yaHctX3dKb21XWm5XcFBOR2txZng0Rnh4NjJvMlVYcXlMRUNROGF5QQ?oc=5",
         "published": "2026-08-20T17:14:08Z"
+      },
+      {
+        "title": "Roblox commits to privacy overhaul after eSafety discovers adults can contact children via gaming platform",
+        "outlet": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM0JRbWh3YzVHbUZ0ODdMT0E2TlZGVTlzWjlQUEl5U1pmSEwyWFpRSVcwcEM4LUEwZmpkbW8zYmdnQ3FjdGZDcGVCMlg4VGZHZEs0SkU4U1c2TURyMUpfQk1qczFzOGYtNGExNEdrWlBqMUJsY1RSTF9VNm5Xc0JvbkZhOUtoQkR3Tk1TWVJXQkFHcnZ2dTF0UWZYb2lLbDdMUkEtRTdVR1c?oc=5",
+        "published": "2026-08-19T15:00:00Z"
       },
       {
         "title": "NKY parents sue over teen’s suicide; Roblox says case should be dismissed",
