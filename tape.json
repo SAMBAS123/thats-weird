@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-26T15:53:24Z",
+  "as_of": "2026-08-26T16:57:48Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 52,
+    "hits_7d": 51,
     "latest": [
       {
         "title": "Roblox has been put on notice yet again over child safety concerns. What do parents need to know?",
@@ -89,16 +89,16 @@
         "published": "2026-08-24T21:20:00Z"
       },
       {
-        "title": "Roblox Child Sex Abuse Lawsuit",
-        "outlet": "Lawsuit Information Center",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mZ1RSZGJfTFVSUnc0OGFBSkY0VlVzYWVLY0NvNFkzYkxNSVlYUnNPeUxMSXcwVXBNeGh5NGU3d1hKdlFQZGFuSVZqX0QyOWFmUHpNaVFsTy1XUy1GVm00ZnJQc2swWVBodzUxTV9rRFdEZ190aGd6X3B4Qmc?oc=5",
-        "published": "2026-08-25T14:13:44Z"
-      },
-      {
         "title": "Roblox argues 8-year-old waived rights in wrongful death lawsuit | Exclusive",
         "outlet": "The Courier-Journal",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ0RTUTZ6am5WUl94U3Y1ZXNndngxSmQ2N1NWNXpfVVRCVW9MbDJRSzYyLUdrU3ZkSS1HNkl0RDVuRU1JWFVCX1ByVVFvSnhCQTJ6T0Vkd09hdmVTUS1CZnY5VXFid3VOM2lqZkIzQzRqVk9JbzN3UEFmWFF3bXhGOXdLVk9TdTZXSmwxV2Q4bjdFV2Z4ZTFyTS1ocW9oVWtIaFFNdkxtamQ2SVVNSVQwaDNNV1haS0drOU1nbEZxSHRzSDlvRGRUZDhlTQ?oc=5",
         "published": "2026-08-19T18:09:00Z"
+      },
+      {
+        "title": "Roblox Child Sex Abuse Lawsuit",
+        "outlet": "Lawsuit Information Center",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mZ1RSZGJfTFVSUnc0OGFBSkY0VlVzYWVLY0NvNFkzYkxNSVlYUnNPeUxMSXcwVXBNeGh5NGU3d1hKdlFQZGFuSVZqX0QyOWFmUHpNaVFsTy1XUy1GVm00ZnJQc2swWVBodzUxTV9rRFdEZ190aGd6X3B4Qmc?oc=5",
+        "published": "2026-08-25T14:13:44Z"
       },
       {
         "title": "Roblox must make changes after failing to block adults creeping on kids",
@@ -107,16 +107,16 @@
         "published": "2026-08-20T17:14:08Z"
       },
       {
-        "title": "Sexual Predator Groomed Teen Boy on Roblox Using Robux, Lawsuit Alleges",
-        "outlet": "AboutLawsuits.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOFB3bVp6R1ZhMDBhQU5nYnQtWk9CWTJWQVlVNVhwOWV3ZEhEMklfZDdzR1poSUxpNm5sRkNUOW1uY1JPMHRpUnJucWRPUm9tLVRHX2JkYk1icEZ0aGhIZ0dldHoySUNBRXhCNERQd0I5M1BtZ2JQUXg1M3kySTdSZnF6YXFqU2pka053aVh2RjA2LXNBYTlVdjZLNENlSjNm?oc=5",
-        "published": "2026-08-21T14:00:00Z"
-      },
-      {
         "title": "NKY parents sue over teen’s suicide; Roblox says case should be dismissed",
         "outlet": "WLUK",
         "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPVVJ0SDM2MnRTbjN3UTZwTmJrZWFUOGY2V3FiX29LU05VOGFRblhHenZVSzA3bmMwSThzcFllUFFvRjZOS2lTMlVFbF9aYXE0ckRDSlN3U0piVUJTOWdqOXhVZGZXQ1o3UHdjRl9hX0doR0NpeUc2d3AxNGQ3V2ROOTVUSjRFaEltMlVYSU9NUjhySEY5Smk3MThLbzN3by14ZkNUcWt5SUFkRmNSQnhKc29iUFhLVFBHV204OVVSYkdqV1pBemRZMVZUM0lkQzdQZmZocXZtTUtWbUh3djhnSHp0RkdJRkNuLVB0NzVuMTRTalhSQXctWVZHM2llaXYxckRfZGFxZ2w1Y2pjMGZJbklMUUZ6MmFyWXpoMkRvSEZQWEJzVkVicWhxXzhuY1RJZ2NrRzRvUGZaNTJFNVdUdHQxdURNeXRIMnZKS3ZhTm5vaGIwclhQbGJtZFlDZ2NzQjlCMDFkVWVBajllMUVLR2hjSGk?oc=5",
         "published": "2026-08-20T07:00:00Z"
+      },
+      {
+        "title": "Sexual Predator Groomed Teen Boy on Roblox Using Robux, Lawsuit Alleges",
+        "outlet": "AboutLawsuits.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOFB3bVp6R1ZhMDBhQU5nYnQtWk9CWTJWQVlVNVhwOWV3ZEhEMklfZDdzR1poSUxpNm5sRkNUOW1uY1JPMHRpUnJucWRPUm9tLVRHX2JkYk1icEZ0aGhIZ0dldHoySUNBRXhCNERQd0I5M1BtZ2JQUXg1M3kySTdSZnF6YXFqU2pka053aVh2RjA2LXNBYTlVdjZLNENlSjNm?oc=5",
+        "published": "2026-08-21T14:00:00Z"
       },
       {
         "title": "Roblox shares AI child-safety tools parents should know",
