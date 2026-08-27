@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-26T22:12:13Z",
+  "as_of": "2026-08-27T03:17:06Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 50,
+    "hits_7d": 49,
     "latest": [
       {
         "title": "Roblox has been put on notice yet again over child safety concerns. What do parents need to know?",
@@ -107,16 +107,16 @@
         "published": "2026-08-20T17:44:30Z"
       },
       {
-        "title": "NKY parents sue over teen’s suicide; Roblox says case should be dismissed",
-        "outlet": "WLUK",
-        "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPVVJ0SDM2MnRTbjN3UTZwTmJrZWFUOGY2V3FiX29LU05VOGFRblhHenZVSzA3bmMwSThzcFllUFFvRjZOS2lTMlVFbF9aYXE0ckRDSlN3U0piVUJTOWdqOXhVZGZXQ1o3UHdjRl9hX0doR0NpeUc2d3AxNGQ3V2ROOTVUSjRFaEltMlVYSU9NUjhySEY5Smk3MThLbzN3by14ZkNUcWt5SUFkRmNSQnhKc29iUFhLVFBHV204OVVSYkdqV1pBemRZMVZUM0lkQzdQZmZocXZtTUtWbUh3djhnSHp0RkdJRkNuLVB0NzVuMTRTalhSQXctWVZHM2llaXYxckRfZGFxZ2w1Y2pjMGZJbklMUUZ6MmFyWXpoMkRvSEZQWEJzVkVicWhxXzhuY1RJZ2NrRzRvUGZaNTJFNVdUdHQxdURNeXRIMnZKS3ZhTm5vaGIwclhQbGJtZFlDZ2NzQjlCMDFkVWVBajllMUVLR2hjSGk?oc=5",
-        "published": "2026-08-20T07:00:00Z"
-      },
-      {
         "title": "Sexual Predator Groomed Teen Boy on Roblox Using Robux, Lawsuit Alleges",
         "outlet": "AboutLawsuits.com",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOFB3bVp6R1ZhMDBhQU5nYnQtWk9CWTJWQVlVNVhwOWV3ZEhEMklfZDdzR1poSUxpNm5sRkNUOW1uY1JPMHRpUnJucWRPUm9tLVRHX2JkYk1icEZ0aGhIZ0dldHoySUNBRXhCNERQd0I5M1BtZ2JQUXg1M3kySTdSZnF6YXFqU2pka053aVh2RjA2LXNBYTlVdjZLNENlSjNm?oc=5",
         "published": "2026-08-21T14:00:00Z"
+      },
+      {
+        "title": "NKY parents sue over teen’s suicide; Roblox says case should be dismissed",
+        "outlet": "WLUK",
+        "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPVVJ0SDM2MnRTbjN3UTZwTmJrZWFUOGY2V3FiX29LU05VOGFRblhHenZVSzA3bmMwSThzcFllUFFvRjZOS2lTMlVFbF9aYXE0ckRDSlN3U0piVUJTOWdqOXhVZGZXQ1o3UHdjRl9hX0doR0NpeUc2d3AxNGQ3V2ROOTVUSjRFaEltMlVYSU9NUjhySEY5Smk3MThLbzN3by14ZkNUcWt5SUFkRmNSQnhKc29iUFhLVFBHV204OVVSYkdqV1pBemRZMVZUM0lkQzdQZmZocXZtTUtWbUh3djhnSHp0RkdJRkNuLVB0NzVuMTRTalhSQXctWVZHM2llaXYxckRfZGFxZ2w1Y2pjMGZJbklMUUZ6MmFyWXpoMkRvSEZQWEJzVkVicWhxXzhuY1RJZ2NrRzRvUGZaNTJFNVdUdHQxdURNeXRIMnZKS3ZhTm5vaGIwclhQbGJtZFlDZ2NzQjlCMDFkVWVBajllMUVLR2hjSGk?oc=5",
+        "published": "2026-08-20T07:00:00Z"
       },
       {
         "title": "Roblox shares AI child-safety tools parents should know",
