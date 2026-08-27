@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-27T14:16:09Z",
+  "as_of": "2026-08-27T23:47:53Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 54,
+    "hits_7d": 59,
     "latest": [
       {
         "title": "Mother says teen unknowingly waived right to sue Roblox, Discord, TikTok before death",
@@ -83,28 +83,10 @@
         "published": "2026-08-24T21:20:00Z"
       },
       {
-        "title": "Roblox must make changes after failing to block adults creeping on kids",
-        "outlet": "Ars Technica",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcU1RNU02UklVT2R6TTlTZTI0d09KZHVwQTNLOTRfOVZMLVJqc2tybGZSVEUwQTVnb2Y2NzhvNEdycXhwUk51SWNKUHF5aE1VNEM5QWhqR1k0c0VvSFJiN1R5VmJNSGN2R2tyS001ZVd2MkpMVWtRYkU3VlBxeXFyN1J1WFo1MV9tYndZUURCR19INW4yaHctX3dKb21XWm5XcFBOR2txZng0Rnh4NjJvMlVYcXlMRUNROGF5QQ?oc=5",
-        "published": "2026-08-20T17:14:08Z"
-      },
-      {
-        "title": "Roblox argues 8-year-old waived rights in wrongful death lawsuit",
-        "outlet": "Missouri Lawyers Media",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRnJIdDMtV2daUU1jWnlwRTRwWnJMZms0VWpBWHp1Mi1xUDd4d2RmNkVkb3lTWWNqck1xcElXWWU4bkdqbkVrZTlXZ25GUm1YZVBPdEdndUp0Z3Z1SG9FZmJUOU9hZXI2NFNZYlRUam9KbURFRThmV0NMU1d4Vm0xd2F5M19mRzNVTHp4ejNVMzNlM3IwRGxUMFFn?oc=5",
-        "published": "2026-08-20T17:44:30Z"
-      },
-      {
         "title": "Roblox Child Sex Abuse Lawsuit",
         "outlet": "Lawsuit Information Center",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mZ1RSZGJfTFVSUnc0OGFBSkY0VlVzYWVLY0NvNFkzYkxNSVlYUnNPeUxMSXcwVXBNeGh5NGU3d1hKdlFQZGFuSVZqX0QyOWFmUHpNaVFsTy1XUy1GVm00ZnJQc2swWVBodzUxTV9rRFdEZ190aGd6X3B4Qmc?oc=5",
         "published": "2026-08-25T14:13:44Z"
-      },
-      {
-        "title": "NKY parents sue over teen’s suicide; Roblox says case should be dismissed",
-        "outlet": "WKRC",
-        "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOelhMNkE4NFJSV21GaUxPTUFaeU9UNWkzY2NBSjBGU2pMWGVJTWUzcWEyRkt0eUJab19lM3IxbHllOUt1V2RYS0h0bW5lNl9KQWFZNVdBbkxoWHdFd043U3M1bGFHOWM4T0FqRlNOVE9HNmZNNWRvdDY1aENBRGNUV1ZPT05tTlFhbWtFMUlFMEpiOVc5U0doTE1kTnRmUlhZYzZab0FKcXVIaWtzc0dvUWNNUm5kb0x6YzkxZC1hUzNycU01VnhvZ251dzducS03VGstS29pX0c0ajdHb1c0MmJvaDR1a1dDUkpfdmRaVzZWZktJQmYyaThFTHZXVy16LXFMWTBPSUs4Mnc1bnBBVGp1TG0zMGhGNG9KVjROQkVWaTFyZG8zTFVuZlBfNVdUeDNMUE4wU1UyQmdYVEgxSl94a0VzUTRpMnAzZHEyQ2pKMHlVcEVIYnRGUlYybFhXU3QzaVl3?oc=5",
-        "published": "2026-08-20T20:27:45Z"
       },
       {
         "title": "Sexual Predator Groomed Teen Boy on Roblox Using Robux, Lawsuit Alleges",
@@ -123,6 +105,24 @@
         "outlet": "Fox News",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVjFWa21pV0RLRUlrVVlFNHF4S21EVG96MUNvRENGWkFwUUZuWDFhU3BheXZ6NFJfd1VXU2QzWm85dVhVdnlVYjREMHpBQTVhUGhCcnV0MGhjUWJWdW9xT0NGTXM4S3RFRVZsSTlrTEFBdE1CRXZHSy1VeUpJWlVpbWd2ZDhKaG1BVm1DMUp2OXjSAZYBQVVfeXFMTW1XSmpHbklnTlpSMGlGendsRUZvaTdETmdiSlRtZGNud2d0Rl8zUlptcENkUlJvbFJpV29NM2U5YTlnSW51cEtWNWF0NXBFdFl1dXhzell3V1l4RkNSRHZfZlFwTl9vRndackdKNmRXUGZfb2p1TGxibkZPQnRqcU9xTll3VThBaVhUNWdzY0lEdEpJUFpn?oc=5",
         "published": "2026-08-21T11:07:33Z"
+      },
+      {
+        "title": "Roblox argues Kentucky family can’t sue in child’s death because she waived her rights at 8 years old",
+        "outlet": "WHAS11",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM0kzb0o0Q1lTRXU1V05PeGRIQzdVM1phcmJId3JGTDd3S29PbkJMalAzWW5SYUdYZUJGZFhyTU80WXFZTjNBV3c5bHhTb1VBMkNVS1FFLUFCNTdhSWdhbVBfRGNoUzhwa0hzTWl5NDI2WEw2R1c1V3g5U0dVVFRSZHFTYVhMdmhFWWlGNlhBbk92M04tOEtzOEVCUkRlUTU5dlBqQTNmTjdVVlpoclZnMTlrVlhIZGFnTkhqcGZ3dkhBUXdjYlVaLXUtMUNyQTJobWFSbHBlMlRUNEVtN2R4dTVvdlA5WE01YmxXVDJB?oc=5",
+        "published": "2026-08-25T18:29:00Z"
+      },
+      {
+        "title": "RBLX Investors Have Opportunity to Lead Roblox Corporation Securities Fraud Lawsuit",
+        "outlet": "Eastern Progress",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOck1xT3puNU1FZWdwdmp6T283bDhaTTR6NUN2eXE1WVg0R0Fhenh1VEtuVWZaQkNKVlpMdVZDMW9yc2l4MldobGdwWHB2UUlpMmpSRmtWdkJHWGNHdHBHNVExUWl6UjF0SHQwSGg2d1RjaHFBbkFIYzB6Snp0cnNGWWR2d1VSbHNpVDRDZTF4QXN2NWhDNDI0UnlpUGNFTF9TWEZuaWU1QVRaMEwzX0JRcmhXT1VDaWdyZzRJYUNqbU1NWE12WTI5VDhueHZMTVZHVHFLN0dVU253TGdnbVU4Y3VYcW1KZmhGTXVibTQyQTAtU0JYVTBlMQ?oc=5",
+        "published": "2026-08-22T14:45:20Z"
+      },
+      {
+        "title": "Kentucky Edition | Roblox Responds to Wrongful Death Suit Involving Kentuckian | Season 5 | Episode 37",
+        "outlet": "PBS",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU09STEYyUXhOVElvdFB1VGRiVHg0dkNuU0RNcmNaLWN4eXB5QktPZ21mNG5OWXFWRjU3RnFEV3NIVk5HcWg3M1QxZzI1Wk5FLUljbWJmTW9IVWZxektrLW1LbkxTcVJ3LWhBNUZBU0tWTExYcUtiRERxcERZZElLSno3cmhuOHkwZFYtM2ZDRkdSYUpfYU5FRA?oc=5",
+        "published": "2026-08-24T00:00:00Z"
       }
     ]
   },
