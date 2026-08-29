@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-29T19:23:46Z",
+  "as_of": "2026-08-29T22:39:07Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 33,
+    "hits_7d": 53,
     "latest": [
       {
         "title": "Mother says teen unknowingly waived right to sue Roblox, Discord, TikTok before death",
@@ -113,16 +113,16 @@
         "published": "2026-08-27T00:32:06Z"
       },
       {
+        "title": "Nevada wins $184M in settlement with Meta, which will adopt new anti-screen time rules for kids",
+        "outlet": "The Nevada Independent",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdl9sSTF5aFNtQ1B2TkF5MGlQS0RWdC1MNWNPOTdyaHhDcTJNTDgyRERFd1pweENzdGpKTU5xcmUzWkM3ZUZISzBxaDFsR01UY2hQRncxXzN0WEJBVjVial9KcW1pSk5tXzVMVS1jTFRRR3Z4Zm9GT1hmcHM1ajk2VDdYUXJDTkN3UDZzV2pwdW8wVGhuOGJlazV0MGc5anJ6Rk03ME5sYmhVMkhxcnFfQkt2REY0bGRlYU1lbHpqUG9VYUx6dF9aMzdfNU56UVE?oc=5",
+        "published": "2026-08-26T20:54:34Z"
+      },
+      {
         "title": "Lawsuit Over AI Character Tung Tune Sahur Has Companies Bickering; Hearing Set",
         "outlet": "Deadline",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKQkFiYzBXa0dXaGlwSnBJTnRMTURBVlktYWVfX3RldFFzZkQwWU9DRnYtdnRyWF9iQzFTT2RDQVUtaFM4UTlLRFB5NzQxTXBpS1M3OG92bEJka29QbWdCZ2lBYkJTWDRlT0dzazRyalFDUDIwMkw2T1ZNNUVLYWM?oc=5",
         "published": "2026-08-28T13:38:00Z"
-      },
-      {
-        "title": "Roblox argues NKY girl waived rights in wrongful death lawsuit | Exclusive",
-        "outlet": "AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MMl9wUC1jY3JDWGpjTUpfRGZIUjRGS3ZXczQ5QXMxRlJ2cTQyTlRkVW95RWd6Mm1JeFo2SjNoYXBFMU15cU1wUnNMWTMtT1E1bEtyTl9qWmNSMnp2RDR2Nk9uTHV2TlRzT040MmhlZFR5UlQzVGpNVldVT2Rhdw?oc=5",
-        "published": "2026-08-23T02:20:40Z"
       }
     ]
   },
