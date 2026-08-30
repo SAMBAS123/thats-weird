@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-29T22:39:07Z",
+  "as_of": "2026-08-30T01:14:54Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 53,
+    "hits_7d": 52,
     "latest": [
       {
         "title": "Mother says teen unknowingly waived right to sue Roblox, Discord, TikTok before death",
@@ -170,5 +170,7 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": []
+  "errors": [
+    "courtlistener: The read operation timed out"
+  ]
 }
