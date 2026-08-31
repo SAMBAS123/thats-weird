@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-31T13:43:48Z",
+  "as_of": "2026-08-31T20:02:30Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 60,
+    "hits_7d": 57,
     "latest": [
       {
         "title": "Mother says teen unknowingly waived right to sue Roblox, Discord, TikTok before death",
@@ -90,7 +90,7 @@
       },
       {
         "title": "Roblox argues Kentucky family can’t sue in child’s death because she waived her rights at 8 years old",
-        "outlet": "WHAS11",
+        "outlet": "whas11.com",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM0kzb0o0Q1lTRXU1V05PeGRIQzdVM1phcmJId3JGTDd3S29PbkJMalAzWW5SYUdYZUJGZFhyTU80WXFZTjNBV3c5bHhTb1VBMkNVS1FFLUFCNTdhSWdhbVBfRGNoUzhwa0hzTWl5NDI2WEw2R1c1V3g5U0dVVFRSZHFTYVhMdmhFWWlGNlhBbk92M04tOEtzOEVCUkRlUTU5dlBqQTNmTjdVVlpoclZnMTlrVlhIZGFnTkhqcGZ3dkhBUXdjYlVaLXUtMUNyQTJobWFSbHBlMlRUNEVtN2R4dTVvdlA5WE01YmxXVDJB?oc=5",
         "published": "2026-08-25T18:29:00Z"
       },
@@ -101,28 +101,28 @@
         "published": "2026-08-31T10:19:06Z"
       },
       {
-        "title": "Roblox makes enforceable promise to address remaining online safety concerns",
-        "outlet": "Biometric Update",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQzlNRFdMLWdGeV9yUzVueXdOVXFfVEhqVVU5UlJjekNoSDlsazJLRFBGNkZud0wwaDdhdm85dmpkWENOSFVjX2ZkX1h6ZFZlQzMxWEc4RmNFRlRDZU5JejZaSndKQVF5bFdTRktTZkJ2MHB0aHItNmdfMzVRT2FfR1pkRHFSWm0zZzJEUzh2bFM1YmxNSWJ1VjJfM1N5aV9yVEZBRExwWU1XajAwU1hTTncwVXo0dw?oc=5",
-        "published": "2026-08-24T19:32:00Z"
-      },
-      {
         "title": "Senate Roblox Child-Safety Probe 2026: Full Timeline & Facts",
         "outlet": "tech-insider.org",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PbGIxYmNIQURfdGdUOEpDd3FiR1BFQkNqMTdRM3BCc3I2LWZqc0VjcFlLdEFMVzdnV0gtU0lXSXlBVDNsbjhCNENQbndlRmNBa2Y2VE53emZaSl9OaUNxbDZZUVhZZEtXSGNNclYwa0EyN3d3enZleEZ1VQ?oc=5",
         "published": "2026-08-27T00:32:06Z"
       },
       {
-        "title": "Nevada wins $184M in settlement with Meta, which will adopt new anti-screen time rules for kids",
+        "title": "IndyTalks: Ford defends record on data centers, touts success on opioid litigation",
         "outlet": "The Nevada Independent",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdl9sSTF5aFNtQ1B2TkF5MGlQS0RWdC1MNWNPOTdyaHhDcTJNTDgyRERFd1pweENzdGpKTU5xcmUzWkM3ZUZISzBxaDFsR01UY2hQRncxXzN0WEJBVjVial9KcW1pSk5tXzVMVS1jTFRRR3Z4Zm9GT1hmcHM1ajk2VDdYUXJDTkN3UDZzV2pwdW8wVGhuOGJlazV0MGc5anJ6Rk03ME5sYmhVMkhxcnFfQkt2REY0bGRlYU1lbHpqUG9VYUx6dF9aMzdfNU56UVE?oc=5",
-        "published": "2026-08-26T20:54:34Z"
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVW9Va2lndmxKQzZOSkxab3JZS0dKQlVidWp1bUtjWXE0Zkk1Z096ajQzUkVQSDcwRjhCaHVlQUoyQ2tReG4xdjBJYUJFQktQVzZqTzh1a0l0RDlNNkFmLXNSR0pkQ1Q0Z0ROMURhRFBWTUtUdUxjRC1rTDJsVXJBWkxIZUo1cWFBU3AxU1VRMFZCQjZYVE4wVTladFkwdFM1TVh3cGRkdXI3U3VDd2pVdTg0OFdhMlRSaGhVenNR?oc=5",
+        "published": "2026-08-28T22:29:15Z"
       },
       {
         "title": "Lawsuit Over AI Character Tung Tune Sahur Has Companies Bickering; Hearing Set",
         "outlet": "Deadline",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKQkFiYzBXa0dXaGlwSnBJTnRMTURBVlktYWVfX3RldFFzZkQwWU9DRnYtdnRyWF9iQzFTT2RDQVUtaFM4UTlLRFB5NzQxTXBpS1M3OG92bEJka29QbWdCZ2lBYkJTWDRlT0dzazRyalFDUDIwMkw2T1ZNNUVLYWM?oc=5",
         "published": "2026-08-28T13:38:00Z"
+      },
+      {
+        "title": "Meta in talks to settle addiction lawsuit, fine could reach $1.4 trillion",
+        "outlet": "calcalistech.com",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DYnVwZktyNEVCMXVHdUVxQnJqdHc3QkR1dHlSYmtuTmQ3YnZtTVQ2YVMweDBrR01zTzRMNzRYdmVIQkVTNlhrLUpubVF3S19remZTSE9MRW11M1FETUVwenYzQ1ZVU1k?oc=5",
+        "published": "2026-08-26T13:41:00Z"
       }
     ]
   },
@@ -170,5 +170,7 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": []
+  "errors": [
+    "courtlistener: The read operation timed out"
+  ]
 }
