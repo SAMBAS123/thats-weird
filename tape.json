@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-31T20:02:30Z",
+  "as_of": "2026-08-31T23:49:20Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,14 +74,8 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 57,
+    "hits_7d": 56,
     "latest": [
-      {
-        "title": "Mother says teen unknowingly waived right to sue Roblox, Discord, TikTok before death",
-        "outlet": "FOX19 | Cincinnati",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFEZVdwSXk3MXFyZ29iQlNFMEJZVy1ZRVBFWDBCLUlnLVpBNXVhRTRpeWdjSHJURUZjY04tUExZQmJsMGJYa2l2eS1GLUJCdTJkS2ZSbFZTalNER0xMdmd4amFOaDlPeFRaLV9RMjNDVjFrTjBQQzRGTFlyeEc4YVJRTFVtbTRCWE8zQU5CdFRISGlDZU8tTlRSbTFEaVo2RGR2bUs3Y1hfSlcxdlZDakJlbTXSAcgBQVVfeXFMT1E4cmhack5JeWQzaFl4X3lzNlVoeTd5Z3paR3B1WldPTUJ2QmtfeEVmY1k5UU1nc0J6RDNvTEZuYXhLN2hNS2dXUk12Q3hnaVhIZzktQkM3WU5LYkdnNkhOSFZhSFRQb0dfbnB3aU9LeElZcWpCcFJEbnJpNUdUdGZIenRpZThPbWRSYm9BZmJoY1QxMVp6TjRVS0tuMThsRnNseWlMa0Y0T01va3VvMDYwUmdTTXk1YkNTZllaMERDREY5N2hjVjQ?oc=5",
-        "published": "2026-08-24T21:20:00Z"
-      },
       {
         "title": "Roblox Child Sex Abuse Lawsuit",
         "outlet": "Lawsuit Information Center",
@@ -89,10 +83,10 @@
         "published": "2026-08-25T14:13:44Z"
       },
       {
-        "title": "Roblox argues Kentucky family can’t sue in child’s death because she waived her rights at 8 years old",
-        "outlet": "whas11.com",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM0kzb0o0Q1lTRXU1V05PeGRIQzdVM1phcmJId3JGTDd3S29PbkJMalAzWW5SYUdYZUJGZFhyTU80WXFZTjNBV3c5bHhTb1VBMkNVS1FFLUFCNTdhSWdhbVBfRGNoUzhwa0hzTWl5NDI2WEw2R1c1V3g5U0dVVFRSZHFTYVhMdmhFWWlGNlhBbk92M04tOEtzOEVCUkRlUTU5dlBqQTNmTjdVVlpoclZnMTlrVlhIZGFnTkhqcGZ3dkhBUXdjYlVaLXUtMUNyQTJobWFSbHBlMlRUNEVtN2R4dTVvdlA5WE01YmxXVDJB?oc=5",
-        "published": "2026-08-25T18:29:00Z"
+        "title": "Goodyear man sentenced to 21 years for grooming children over Roblox, Discord",
+        "outlet": "AZ Family",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUmp1YUc2SVRYTlVibEVueldQdDB6TmFuY0NvakYzQlFQXzJrcTdHME94Z040RXg0WHA1N3Z3a2FGdDZ1VlhybVgya2dEaDRmc2x0OTZMcTNVSjJSYkFtQXl1anZ6dWU3WWNEY2s0cFpFY2xvNlJmQTVVa0t1MlBmVU1RZGRVSElyblFrQkdaRFJjWkRWRG5wMTBrU09RVmJDVWs0Sm0tcXFtdw?oc=5",
+        "published": "2026-08-31T22:19:00Z"
       },
       {
         "title": "Arkansas expects millions from Meta settlement. Here’s where other social media cases stand.",
@@ -119,10 +113,16 @@
         "published": "2026-08-28T13:38:00Z"
       },
       {
-        "title": "Meta in talks to settle addiction lawsuit, fine could reach $1.4 trillion",
-        "outlet": "calcalistech.com",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DYnVwZktyNEVCMXVHdUVxQnJqdHc3QkR1dHlSYmtuTmQ3YnZtTVQ2YVMweDBrR01zTzRMNzRYdmVIQkVTNlhrLUpubVF3S19remZTSE9MRW11M1FETUVwenYzQ1ZVU1k?oc=5",
-        "published": "2026-08-26T13:41:00Z"
+        "title": "Roblox applies restrictions to games featuring \"reward-driven media feeds\" available in Roblox Kids and Select",
+        "outlet": "GamesIndustry.biz",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdGYtWGZmdnU3ejc4dmxoVDYyYlp2bHJTUm1GQ1JkZGFPaDJBMWZLNDFHM19mS0N0UGVYOXE1ejF4NUx3UlUtUWYtTE9NZ285bEpHdlJLX3MwQThUSmtoaTZlLUhLdlY3cDZsVnNSUDJZejNvcFRYZ1QyXzNfNkdxcy1BZm43bFQ1dktRRTFhRDZISDlNRTFld3RPcGU4YzBxSkViUzBJcW5sbF9Td29MQzEtb1A0OXVEVkNOSmthcXlPRXFPNmpyM1g3N1VxamtaZDFIdQ?oc=5",
+        "published": "2026-08-26T08:10:26Z"
+      },
+      {
+        "title": "Roblox Tries To Dismiss Wrongful Death Lawsuit By Arguing That A Player Gave Up Her Right To Sue When She Was 8 Years Old",
+        "outlet": "OpenCritic",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNY0ZNcU9Ic0dkUHc5RDk2V0szU2tONldzS3FyQ3dJQXNybUlMcjdKV3JReGtjZ3NDeEhCbmJ0VGZVQ05xVVREc2JvRzBJV0RRU3dsNVRiRnk2QTFWejZyUXdISUxaNmZPUVZBZGhVT19OWlZnakFmTDY1RS1xRGhOcnpXOWVVcEg5bExyZWpqTjB6QzNTVFpzOVZoQUZicHhTZ21CckZ5a2hnMElWOWN3MUFkR01pYnkxY2xYOXd3VkxyakNya3NKSXpKaEUtd1BXelIwcmQweGdSUXd5dUdrWWdCbzlKMnNTb0xn?oc=5",
+        "published": "2026-08-27T05:44:43Z"
       }
     ]
   },
@@ -170,7 +170,5 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": [
-    "courtlistener: The read operation timed out"
-  ]
+  "errors": []
 }
