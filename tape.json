@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-01T05:04:08Z",
+  "as_of": "2026-09-01T10:03:47Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 54,
+    "hits_7d": 48,
     "latest": [
       {
         "title": "Goodyear man sentenced to 21 years for grooming children over Roblox, Discord",
@@ -90,7 +90,7 @@
       },
       {
         "title": "Arkansas expects millions from Meta settlement. Here’s where other social media cases stand.",
-        "outlet": "Arkansas Advocate",
+        "outlet": "arkansasadvocate.com",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc1dnMl9Rem4yaWpqY2RSMTVwVm8xM0h4VTNTX0ZFNkxldmZLeFk0M1ZtOXh5QnZxUnZLbmFndzRHUDNVQnhLR2RrTy03dFEzRUlIRXowdjVHRVRTRmlMTkVjeDVsTzdNbkVsQU9xTlF2MkNFQzhtbjRWX0J4MU5NQU9EZWExeTI5eUhDSXhJQlpBVnlVNFR6WTlQOXoxZnYyaXBaLTF3UG9laGdNb28xZ0pkSU1PcUU1UVJrQnFwVWd0c0U3MkhoTDJ3?oc=5",
         "published": "2026-08-31T10:19:06Z"
       },
@@ -101,8 +101,14 @@
         "published": "2026-08-27T00:32:06Z"
       },
       {
+        "title": "Police say online grooming of three children led to 21-year sentence",
+        "outlet": "fox5vegas.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbDlUbmJNTzRiWEliWWZqZ3ZORkQybkZQVE9jZXRsN05WNUVQaXBTTHZFYnNNX19nT1lUV0cyQTFYSF9UZW5HMFA2d1llUWtPUjNreXk4T21ESXB2Zk5PZ1BaQm5vaTdVSG1CRW5ZclA4dzNmUC1yOVVfSS1UQk8wQ0V2V2ZwZlM2MGtTbVN4U2NrTndkdmJwUlM2T1BhZ1FRTHU5MS1EX2Zmdw?oc=5",
+        "published": "2026-09-01T04:06:00Z"
+      },
+      {
         "title": "Goodyear man sentenced to 21 years for exploiting children he targeted on Roblox",
-        "outlet": "ktar.com",
+        "outlet": "KTAR News 92.3 FM",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10bU1HaFJzNE53eHNCRHAxbVM1MnFMWXd0VENxS0ZHQzlIYTJlUVZjdnRCbUhjdS1KeFZLblNhQzMzYUxaRHkyTFpNUlNMclRPclNkbU9lRWtrbmFmNWswOUtyVjUtdGFHaEFxM3VFNkZKWUpMSzBxcjd3?oc=5",
         "published": "2026-09-01T00:23:05Z"
       },
@@ -117,12 +123,6 @@
         "outlet": "Deadline",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKQkFiYzBXa0dXaGlwSnBJTnRMTURBVlktYWVfX3RldFFzZkQwWU9DRnYtdnRyWF9iQzFTT2RDQVUtaFM4UTlLRFB5NzQxTXBpS1M3OG92bEJka29QbWdCZ2lBYkJTWDRlT0dzazRyalFDUDIwMkw2T1ZNNUVLYWM?oc=5",
         "published": "2026-08-28T13:38:00Z"
-      },
-      {
-        "title": "Police say online grooming of three children led to 21-year sentence",
-        "outlet": "kltv.com",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYURnb1NQdlRZZ0QyZng3ZkYyVzRYNVlWaVhCVjBmeDRqdHh6ZGVEc0F1cGdzNVVXZ1VSTHpMUFhXMDdQSUtaYTNNdldxYWlYVEpLaURxdFpEbWt6TVFvNVJwRzRTeW1pTVNoanBVeGUxWGZmcndfYXdYelJSMXhKRlVCZUludmhGQlZEZDJibmlxSmlrNkFwOVdVTU9vLVpCY1RJ?oc=5",
-        "published": "2026-09-01T04:06:00Z"
       }
     ]
   },
