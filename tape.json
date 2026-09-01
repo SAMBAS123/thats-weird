@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-01T14:51:48Z",
+  "as_of": "2026-09-01T18:28:12Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,11 +74,11 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 49,
+    "hits_7d": 48,
     "latest": [
       {
         "title": "Goodyear man sentenced to 21 years for grooming children over Roblox, Discord",
-        "outlet": "azfamily.com",
+        "outlet": "AZ Family",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUmp1YUc2SVRYTlVibEVueldQdDB6TmFuY0NvakYzQlFQXzJrcTdHME94Z040RXg0WHA1N3Z3a2FGdDZ1VlhybVgya2dEaDRmc2x0OTZMcTNVSjJSYkFtQXl1anZ6dWU3WWNEY2s0cFpFY2xvNlJmQTVVa0t1MlBmVU1RZGRVSElyblFrQkdaRFJjWkRWRG5wMTBrU09RVmJDVWs0Sm0tcXFtdw?oc=5",
         "published": "2026-08-31T22:19:00Z"
       },
