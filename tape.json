@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-01T10:03:47Z",
+  "as_of": "2026-09-01T14:51:48Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,25 +74,31 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 48,
+    "hits_7d": 49,
     "latest": [
       {
         "title": "Goodyear man sentenced to 21 years for grooming children over Roblox, Discord",
-        "outlet": "AZ Family",
+        "outlet": "azfamily.com",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUmp1YUc2SVRYTlVibEVueldQdDB6TmFuY0NvakYzQlFQXzJrcTdHME94Z040RXg0WHA1N3Z3a2FGdDZ1VlhybVgya2dEaDRmc2x0OTZMcTNVSjJSYkFtQXl1anZ6dWU3WWNEY2s0cFpFY2xvNlJmQTVVa0t1MlBmVU1RZGRVSElyblFrQkdaRFJjWkRWRG5wMTBrU09RVmJDVWs0Sm0tcXFtdw?oc=5",
         "published": "2026-08-31T22:19:00Z"
       },
       {
-        "title": "Roblox Child Sex Abuse Lawsuit",
-        "outlet": "Lawsuit Information Center",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mZ1RSZGJfTFVSUnc0OGFBSkY0VlVzYWVLY0NvNFkzYkxNSVlYUnNPeUxMSXcwVXBNeGh5NGU3d1hKdlFQZGFuSVZqX0QyOWFmUHpNaVFsTy1XUy1GVm00ZnJQc2swWVBodzUxTV9rRFdEZ190aGd6X3B4Qmc?oc=5",
-        "published": "2026-08-25T14:13:44Z"
+        "title": "Roblox argues Kentucky family can’t sue in child’s death because she waived her rights at 8 years old",
+        "outlet": "WHAS11",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM0kzb0o0Q1lTRXU1V05PeGRIQzdVM1phcmJId3JGTDd3S29PbkJMalAzWW5SYUdYZUJGZFhyTU80WXFZTjNBV3c5bHhTb1VBMkNVS1FFLUFCNTdhSWdhbVBfRGNoUzhwa0hzTWl5NDI2WEw2R1c1V3g5U0dVVFRSZHFTYVhMdmhFWWlGNlhBbk92M04tOEtzOEVCUkRlUTU5dlBqQTNmTjdVVlpoclZnMTlrVlhIZGFnTkhqcGZ3dkhBUXdjYlVaLXUtMUNyQTJobWFSbHBlMlRUNEVtN2R4dTVvdlA5WE01YmxXVDJB?oc=5",
+        "published": "2026-08-25T18:29:00Z"
       },
       {
         "title": "Arkansas expects millions from Meta settlement. Here’s where other social media cases stand.",
-        "outlet": "arkansasadvocate.com",
+        "outlet": "Arkansas Advocate",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc1dnMl9Rem4yaWpqY2RSMTVwVm8xM0h4VTNTX0ZFNkxldmZLeFk0M1ZtOXh5QnZxUnZLbmFndzRHUDNVQnhLR2RrTy03dFEzRUlIRXowdjVHRVRTRmlMTkVjeDVsTzdNbkVsQU9xTlF2MkNFQzhtbjRWX0J4MU5NQU9EZWExeTI5eUhDSXhJQlpBVnlVNFR6WTlQOXoxZnYyaXBaLTF3UG9laGdNb28xZ0pkSU1PcUU1UVJrQnFwVWd0c0U3MkhoTDJ3?oc=5",
         "published": "2026-08-31T10:19:06Z"
+      },
+      {
+        "title": "LACo Avoids 2 Challenges Against Roblox Over Child Exploitation Claims",
+        "outlet": "MyNewsLA.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWDVoSDBfVUJzZDdqUU1KRWswQXFnV2otNFo4M2FuMmd5N3FiNlN5YzRuYjVsQkNCMVdKS3h2UGpGR05PdXBoMUh4Nkc3U3ptMkV4NzhjMm1seUFtUG51aGp0bEJqTUJHX2N4dmdyZWVMeFl6eEtpSVBDVWdPQlRsbDduZHFlV1ZnQlZ3bEpDdWtXcEVUN2FlTE9pOXRQeVdvMm84UFFJemo0aGp6YW96b0ktVQ?oc=5",
+        "published": "2026-09-01T13:27:00Z"
       },
       {
         "title": "Senate Roblox Child-Safety Probe 2026: Full Timeline & Facts",
@@ -102,15 +108,9 @@
       },
       {
         "title": "Police say online grooming of three children led to 21-year sentence",
-        "outlet": "fox5vegas.com",
+        "outlet": "FOX5 Vegas",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbDlUbmJNTzRiWEliWWZqZ3ZORkQybkZQVE9jZXRsN05WNUVQaXBTTHZFYnNNX19nT1lUV0cyQTFYSF9UZW5HMFA2d1llUWtPUjNreXk4T21ESXB2Zk5PZ1BaQm5vaTdVSG1CRW5ZclA4dzNmUC1yOVVfSS1UQk8wQ0V2V2ZwZlM2MGtTbVN4U2NrTndkdmJwUlM2T1BhZ1FRTHU5MS1EX2Zmdw?oc=5",
         "published": "2026-09-01T04:06:00Z"
-      },
-      {
-        "title": "Goodyear man sentenced to 21 years for exploiting children he targeted on Roblox",
-        "outlet": "KTAR News 92.3 FM",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10bU1HaFJzNE53eHNCRHAxbVM1MnFMWXd0VENxS0ZHQzlIYTJlUVZjdnRCbUhjdS1KeFZLblNhQzMzYUxaRHkyTFpNUlNMclRPclNkbU9lRWtrbmFmNWswOUtyVjUtdGFHaEFxM3VFNkZKWUpMSzBxcjd3?oc=5",
-        "published": "2026-09-01T00:23:05Z"
       },
       {
         "title": "IndyTalks: Ford defends record on data centers, touts success on opioid litigation",
