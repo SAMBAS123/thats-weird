@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-01T18:28:12Z",
+  "as_of": "2026-09-01T21:45:06Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,19 +74,13 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 48,
+    "hits_7d": 42,
     "latest": [
       {
         "title": "Goodyear man sentenced to 21 years for grooming children over Roblox, Discord",
         "outlet": "AZ Family",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUmp1YUc2SVRYTlVibEVueldQdDB6TmFuY0NvakYzQlFQXzJrcTdHME94Z040RXg0WHA1N3Z3a2FGdDZ1VlhybVgya2dEaDRmc2x0OTZMcTNVSjJSYkFtQXl1anZ6dWU3WWNEY2s0cFpFY2xvNlJmQTVVa0t1MlBmVU1RZGRVSElyblFrQkdaRFJjWkRWRG5wMTBrU09RVmJDVWs0Sm0tcXFtdw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUmp1YUc2SVRYTlVibEVueldQdDB6TmFuY0NvakYzQlFQXzJrcTdHME94Z040RXg0WHA1N3Z3a2FGdDZ1VlhybVgya2dEaDRmc2x0OTZMcTNVSjJSYkFtQXl1anZ6dWU3WWNEY2s0cFpFY2xvNlJmQTVVa0t1MlBmVU1RZGRVSElyblFrQkdaRFJjWkRWRG5wMTBrU09RVmJDVWs0Sm0tcXFtd9IBvgFBVV95cUxOSGJBQnNjZUllV0V1RHd4MXpKSENBVHowMS1Qb2dWTGxFY0dxRDdjZ0lJN2VJVk5MX05JdnExdjNJdTdmZF90QXhHTHQ0c3hBSTdpdC0xOE8wS3k4WHZRUXJONzVCNTZwMVhQdk5DcUZfVUk1S0MtTGR1UTNpeWYwb3p5WDZHLWRjMk1rNFF2WE5ucVVORFdEZ0tKZXhhZXJCSmNMUVhaZTM1TDFyelFvNHVRTl9sRkhkekR0TjBn?oc=5",
         "published": "2026-08-31T22:19:00Z"
-      },
-      {
-        "title": "Roblox argues Kentucky family can’t sue in child’s death because she waived her rights at 8 years old",
-        "outlet": "WHAS11",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM0kzb0o0Q1lTRXU1V05PeGRIQzdVM1phcmJId3JGTDd3S29PbkJMalAzWW5SYUdYZUJGZFhyTU80WXFZTjNBV3c5bHhTb1VBMkNVS1FFLUFCNTdhSWdhbVBfRGNoUzhwa0hzTWl5NDI2WEw2R1c1V3g5U0dVVFRSZHFTYVhMdmhFWWlGNlhBbk92M04tOEtzOEVCUkRlUTU5dlBqQTNmTjdVVlpoclZnMTlrVlhIZGFnTkhqcGZ3dkhBUXdjYlVaLXUtMUNyQTJobWFSbHBlMlRUNEVtN2R4dTVvdlA5WE01YmxXVDJB?oc=5",
-        "published": "2026-08-25T18:29:00Z"
       },
       {
         "title": "Arkansas expects millions from Meta settlement. Here’s where other social media cases stand.",
@@ -95,10 +89,10 @@
         "published": "2026-08-31T10:19:06Z"
       },
       {
-        "title": "LACo Avoids 2 Challenges Against Roblox Over Child Exploitation Claims",
-        "outlet": "MyNewsLA.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWDVoSDBfVUJzZDdqUU1KRWswQXFnV2otNFo4M2FuMmd5N3FiNlN5YzRuYjVsQkNCMVdKS3h2UGpGR05PdXBoMUh4Nkc3U3ptMkV4NzhjMm1seUFtUG51aGp0bEJqTUJHX2N4dmdyZWVMeFl6eEtpSVBDVWdPQlRsbDduZHFlV1ZnQlZ3bEpDdWtXcEVUN2FlTE9pOXRQeVdvMm84UFFJemo0aGp6YW96b0ktVQ?oc=5",
-        "published": "2026-09-01T13:27:00Z"
+        "title": "Europe turns up the heat on Roblox as Florida takes the company to court",
+        "outlet": "Florida Politics",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdmRjTUtNZWZiVURRVDBsRkNkOGNOa0ZVMGRHYWxHTlV3ekJDcEdlN0pwWm44dm9veUdmVWNTbVFneTF6SjVhcmRrZ0hvWnpuVHd1NlI4MHpkZlQxRmMzUS1xcjR6TjBVakZiY05DdUVBUXFDZzlRR1BfTTJSaDJJUWJNRVdIT2w5elZrTW84aG14VF9vd1EzUWN0TVRWUlNWX0xoYjUxYXF4SFdES3phWDFfZWVzcnV6?oc=5",
+        "published": "2026-09-01T20:16:42Z"
       },
       {
         "title": "Senate Roblox Child-Safety Probe 2026: Full Timeline & Facts",
@@ -113,8 +107,14 @@
         "published": "2026-09-01T04:06:00Z"
       },
       {
+        "title": "LA County Avoids 2 Challenges To Suit Vs. Roblox Over Child Exploitation Claims",
+        "outlet": "Patch",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM3phc3hGeFhucW1wWUNmc0t1NjQwVmtBLVFvOE1qNXZEQmhQZWkteFdvMmZuVGZ4dXVmYXZOTlhHMUE0M2VmNVdIOW02djdzQTJiU2wwQ3p1SUR5b0RSMFA5T1ZSejkzYURtUTRmWk5YSzk3YVlJZllodzhmOHFyTUFpeDhCdnhLLWxzM0I4X051QzBoNERmdkYyTTRMRl84elUtY2VtZ2dnb0FGVHRqNGc0QkdXcFnSAcwBQVVfeXFMUHY2elVTZTJvWENvdE1BbHY0MGNkdFkzNkprV3REV3kweEFjNEE2OV9Wbk1RMGlENjliOHpaaWxHbWpIRVdPZTZNQm5PaUE3NGhMZjVYUVliTmFRTm96MVBNdUw2RGJwVXRXNHBLTGJlQ3BxQ1VmZ1BuZjcwZmVnSHVTaXIwc3JXOHltMlZESGZqeEFIOFhNdjNfeWIxY0paUzQxMWlQLVFIWVczRmQ1eklZcHVVb2UxQWhtMmg0c3JQekJoUUtwcU10VVVu?oc=5",
+        "published": "2026-09-01T16:47:36Z"
+      },
+      {
         "title": "IndyTalks: Ford defends record on data centers, touts success on opioid litigation",
-        "outlet": "The Nevada Independent",
+        "outlet": "thenevadaindependent.com",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVW9Va2lndmxKQzZOSkxab3JZS0dKQlVidWp1bUtjWXE0Zkk1Z096ajQzUkVQSDcwRjhCaHVlQUoyQ2tReG4xdjBJYUJFQktQVzZqTzh1a0l0RDlNNkFmLXNSR0pkQ1Q0Z0ROMURhRFBWTUtUdUxjRC1rTDJsVXJBWkxIZUo1cWFBU3AxU1VRMFZCQjZYVE4wVTladFkwdFM1TVh3cGRkdXI3U3VDd2pVdTg0OFdhMlRSaGhVenNR?oc=5",
         "published": "2026-08-28T22:29:15Z"
       },
