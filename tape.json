@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-01T21:45:06Z",
+  "as_of": "2026-09-02T00:11:15Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -10,7 +10,7 @@
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
     "total": 483,
-    "filed_7d": 3,
+    "filed_7d": 1,
     "filed_30d": 10,
     "latest": [
       {
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 42,
+    "hits_7d": 43,
     "latest": [
       {
         "title": "Goodyear man sentenced to 21 years for grooming children over Roblox, Discord",
@@ -90,7 +90,7 @@
       },
       {
         "title": "Europe turns up the heat on Roblox as Florida takes the company to court",
-        "outlet": "Florida Politics",
+        "outlet": "floridapolitics.com",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdmRjTUtNZWZiVURRVDBsRkNkOGNOa0ZVMGRHYWxHTlV3ekJDcEdlN0pwWm44dm9veUdmVWNTbVFneTF6SjVhcmRrZ0hvWnpuVHd1NlI4MHpkZlQxRmMzUS1xcjR6TjBVakZiY05DdUVBUXFDZzlRR1BfTTJSaDJJUWJNRVdIT2w5elZrTW84aG14VF9vd1EzUWN0TVRWUlNWX0xoYjUxYXF4SFdES3phWDFfZWVzcnV6?oc=5",
         "published": "2026-09-01T20:16:42Z"
       },
@@ -113,16 +113,16 @@
         "published": "2026-09-01T16:47:36Z"
       },
       {
-        "title": "IndyTalks: Ford defends record on data centers, touts success on opioid litigation",
-        "outlet": "thenevadaindependent.com",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVW9Va2lndmxKQzZOSkxab3JZS0dKQlVidWp1bUtjWXE0Zkk1Z096ajQzUkVQSDcwRjhCaHVlQUoyQ2tReG4xdjBJYUJFQktQVzZqTzh1a0l0RDlNNkFmLXNSR0pkQ1Q0Z0ROMURhRFBWTUtUdUxjRC1rTDJsVXJBWkxIZUo1cWFBU3AxU1VRMFZCQjZYVE4wVTladFkwdFM1TVh3cGRkdXI3U3VDd2pVdTg0OFdhMlRSaGhVenNR?oc=5",
-        "published": "2026-08-28T22:29:15Z"
+        "title": "Goodyear man sentenced to 21 years for exploiting children he targeted on Roblox",
+        "outlet": "KTAR News 92.3 FM",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10bU1HaFJzNE53eHNCRHAxbVM1MnFMWXd0VENxS0ZHQzlIYTJlUVZjdnRCbUhjdS1KeFZLblNhQzMzYUxaRHkyTFpNUlNMclRPclNkbU9lRWtrbmFmNWswOUtyVjUtdGFHaEFxM3VFNkZKWUpMSzBxcjd3?oc=5",
+        "published": "2026-09-01T00:23:05Z"
       },
       {
-        "title": "Lawsuit Over AI Character Tung Tune Sahur Has Companies Bickering; Hearing Set",
-        "outlet": "Deadline",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKQkFiYzBXa0dXaGlwSnBJTnRMTURBVlktYWVfX3RldFFzZkQwWU9DRnYtdnRyWF9iQzFTT2RDQVUtaFM4UTlLRFB5NzQxTXBpS1M3OG92bEJka29QbWdCZ2lBYkJTWDRlT0dzazRyalFDUDIwMkw2T1ZNNUVLYWM?oc=5",
-        "published": "2026-08-28T13:38:00Z"
+        "title": "Police say online grooming of three children led to 21-year sentence",
+        "outlet": "WOWT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWEtFX0JCdWtsTlQ4eGo0aXoxNi1OWjQ3WkE2Y3ZpMjduSl82VWhjeXhKTUcydlR6dEhmd3FYLV92akJadDlmNFdfZ2NkaEJBQS1OOTV1aWJpYXhnaGtzY3dJNGlqQW1Ydy1zOHhBeHRoc1FORUtQSkdYM3FhQ0N1SHc2T2t5Slp1ZUg5R3E4QURKVkM5bERxWlF3djZRV0Q5S1k0ZC1uZzEyNW1ReEFtc1NNTUk4N1k?oc=5",
+        "published": "2026-09-01T04:06:00Z"
       }
     ]
   },
