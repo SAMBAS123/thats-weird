@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-02T00:11:15Z",
+  "as_of": "2026-09-02T04:29:03Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 43,
+    "hits_7d": 48,
     "latest": [
       {
         "title": "Goodyear man sentenced to 21 years for grooming children over Roblox, Discord",
@@ -89,22 +89,10 @@
         "published": "2026-08-31T10:19:06Z"
       },
       {
-        "title": "Europe turns up the heat on Roblox as Florida takes the company to court",
-        "outlet": "floridapolitics.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdmRjTUtNZWZiVURRVDBsRkNkOGNOa0ZVMGRHYWxHTlV3ekJDcEdlN0pwWm44dm9veUdmVWNTbVFneTF6SjVhcmRrZ0hvWnpuVHd1NlI4MHpkZlQxRmMzUS1xcjR6TjBVakZiY05DdUVBUXFDZzlRR1BfTTJSaDJJUWJNRVdIT2w5elZrTW84aG14VF9vd1EzUWN0TVRWUlNWX0xoYjUxYXF4SFdES3phWDFfZWVzcnV6?oc=5",
-        "published": "2026-09-01T20:16:42Z"
-      },
-      {
         "title": "Senate Roblox Child-Safety Probe 2026: Full Timeline & Facts",
         "outlet": "tech-insider.org",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PbGIxYmNIQURfdGdUOEpDd3FiR1BFQkNqMTdRM3BCc3I2LWZqc0VjcFlLdEFMVzdnV0gtU0lXSXlBVDNsbjhCNENQbndlRmNBa2Y2VE53emZaSl9OaUNxbDZZUVhZZEtXSGNNclYwa0EyN3d3enZleEZ1VQ?oc=5",
         "published": "2026-08-27T00:32:06Z"
-      },
-      {
-        "title": "Police say online grooming of three children led to 21-year sentence",
-        "outlet": "FOX5 Vegas",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbDlUbmJNTzRiWEliWWZqZ3ZORkQybkZQVE9jZXRsN05WNUVQaXBTTHZFYnNNX19nT1lUV0cyQTFYSF9UZW5HMFA2d1llUWtPUjNreXk4T21ESXB2Zk5PZ1BaQm5vaTdVSG1CRW5ZclA4dzNmUC1yOVVfSS1UQk8wQ0V2V2ZwZlM2MGtTbVN4U2NrTndkdmJwUlM2T1BhZ1FRTHU5MS1EX2Zmdw?oc=5",
-        "published": "2026-09-01T04:06:00Z"
       },
       {
         "title": "LA County Avoids 2 Challenges To Suit Vs. Roblox Over Child Exploitation Claims",
@@ -113,16 +101,28 @@
         "published": "2026-09-01T16:47:36Z"
       },
       {
-        "title": "Goodyear man sentenced to 21 years for exploiting children he targeted on Roblox",
-        "outlet": "KTAR News 92.3 FM",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10bU1HaFJzNE53eHNCRHAxbVM1MnFMWXd0VENxS0ZHQzlIYTJlUVZjdnRCbUhjdS1KeFZLblNhQzMzYUxaRHkyTFpNUlNMclRPclNkbU9lRWtrbmFmNWswOUtyVjUtdGFHaEFxM3VFNkZKWUpMSzBxcjd3?oc=5",
-        "published": "2026-09-01T00:23:05Z"
+        "title": "Police say online grooming of three children led to 21-year sentence",
+        "outlet": "WCAX",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV3VHWk5uMTg2U0ZJeW8yU0N1UW1MeUpmU01mNXNpRHJVRkVEYUp3U191Tk9nbWoyUF92U0VfNWE2UzhuTWFOWWtyQXBHcm5OLWRodXFQSDE1NFYzc0hjbDcyeDRNUFZ0MDAxd2xGbVc3QS1DX3hzaDI4VDYxSHg4RUtsV0JUY0NCd3ZDYWtlcC0tbDlxb0hMUExYOTRkZVpLTHVB?oc=5",
+        "published": "2026-09-01T04:06:00Z"
+      },
+      {
+        "title": "Europe turns up the heat on Roblox as Florida takes the company to court",
+        "outlet": "Florida Politics",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdmRjTUtNZWZiVURRVDBsRkNkOGNOa0ZVMGRHYWxHTlV3ekJDcEdlN0pwWm44dm9veUdmVWNTbVFneTF6SjVhcmRrZ0hvWnpuVHd1NlI4MHpkZlQxRmMzUS1xcjR6TjBVakZiY05DdUVBUXFDZzlRR1BfTTJSaDJJUWJNRVdIT2w5elZrTW84aG14VF9vd1EzUWN0TVRWUlNWX0xoYjUxYXF4SFdES3phWDFfZWVzcnV6?oc=5",
+        "published": "2026-09-01T20:20:11Z"
       },
       {
         "title": "Police say online grooming of three children led to 21-year sentence",
-        "outlet": "WOWT",
+        "outlet": "wowt.com",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWEtFX0JCdWtsTlQ4eGo0aXoxNi1OWjQ3WkE2Y3ZpMjduSl82VWhjeXhKTUcydlR6dEhmd3FYLV92akJadDlmNFdfZ2NkaEJBQS1OOTV1aWJpYXhnaGtzY3dJNGlqQW1Ydy1zOHhBeHRoc1FORUtQSkdYM3FhQ0N1SHc2T2t5Slp1ZUg5R3E4QURKVkM5bERxWlF3djZRV0Q5S1k0ZC1uZzEyNW1ReEFtc1NNTUk4N1k?oc=5",
         "published": "2026-09-01T04:06:00Z"
+      },
+      {
+        "title": "Arkansas would receive $172M under proposed multistate settlement with Meta",
+        "outlet": "Arkansas Advocate",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ3c3ZG5zSUoyVGMtOTdYeFBlNEs3b2VmaWdSZlJmN0VhdXZlNi1LdDhiSnQ0LU0xVzRqNnRHaTlDQ2g2YWZBeUlDRGZTSXViOGlfcFZ1RGJBM0pqN0M5SnV2czdHNmxpQjB3dWdmVEpFUWN1WnVBYkZfcldiWkdndTVWa216TTRwenpQc1M4OWhkV0lGNnZsZUpPQTZRRW81WWR1WUxPak1oblQzNldxNTFqRm5JQQ?oc=5",
+        "published": "2026-08-26T18:02:23Z"
       }
     ]
   },
