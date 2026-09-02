@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-02T18:40:07Z",
+  "as_of": "2026-09-02T21:48:06Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 43,
+    "hits_7d": 42,
     "latest": [
       {
         "title": "Goodyear man sentenced to 21 years for grooming children over Roblox, Discord",
@@ -84,7 +84,7 @@
       },
       {
         "title": "Arkansas expects millions from Meta settlement. Here’s where other social media cases stand.",
-        "outlet": "arkansasadvocate.com",
+        "outlet": "Arkansas Advocate",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc1dnMl9Rem4yaWpqY2RSMTVwVm8xM0h4VTNTX0ZFNkxldmZLeFk0M1ZtOXh5QnZxUnZLbmFndzRHUDNVQnhLR2RrTy03dFEzRUlIRXowdjVHRVRTRmlMTkVjeDVsTzdNbkVsQU9xTlF2MkNFQzhtbjRWX0J4MU5NQU9EZWExeTI5eUhDSXhJQlpBVnlVNFR6WTlQOXoxZnYyaXBaLTF3UG9laGdNb28xZ0pkSU1PcUU1UVJrQnFwVWd0c0U3MkhoTDJ3?oc=5",
         "published": "2026-08-31T10:19:06Z"
       },
@@ -95,6 +95,12 @@
         "published": "2026-09-01T20:20:11Z"
       },
       {
+        "title": "Lawsuit Over AI Character Tung Tune Sahur Has Companies Bickering; Hearing Set",
+        "outlet": "Deadline",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKQkFiYzBXa0dXaGlwSnBJTnRMTURBVlktYWVfX3RldFFzZkQwWU9DRnYtdnRyWF9iQzFTT2RDQVUtaFM4UTlLRFB5NzQxTXBpS1M3OG92bEJka29QbWdCZ2lBYkJTWDRlT0dzazRyalFDUDIwMkw2T1ZNNUVLYWM?oc=5",
+        "published": "2026-08-28T13:38:00Z"
+      },
+      {
         "title": "Senate Roblox Child-Safety Probe 2026: Full Timeline & Facts",
         "outlet": "tech-insider.org",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PbGIxYmNIQURfdGdUOEpDd3FiR1BFQkNqMTdRM3BCc3I2LWZqc0VjcFlLdEFMVzdnV0gtU0lXSXlBVDNsbjhCNENQbndlRmNBa2Y2VE53emZaSl9OaUNxbDZZUVhZZEtXSGNNclYwa0EyN3d3enZleEZ1VQ?oc=5",
@@ -102,8 +108,8 @@
       },
       {
         "title": "Police say online grooming of three children led to 21-year sentence",
-        "outlet": "FOX5 Vegas",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbDlUbmJNTzRiWEliWWZqZ3ZORkQybkZQVE9jZXRsN05WNUVQaXBTTHZFYnNNX19nT1lUV0cyQTFYSF9UZW5HMFA2d1llUWtPUjNreXk4T21ESXB2Zk5PZ1BaQm5vaTdVSG1CRW5ZclA4dzNmUC1yOVVfSS1UQk8wQ0V2V2ZwZlM2MGtTbVN4U2NrTndkdmJwUlM2T1BhZ1FRTHU5MS1EX2Zmdw?oc=5",
+        "outlet": "WCAX",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV3VHWk5uMTg2U0ZJeW8yU0N1UW1MeUpmU01mNXNpRHJVRkVEYUp3U191Tk9nbWoyUF92U0VfNWE2UzhuTWFOWWtyQXBHcm5OLWRodXFQSDE1NFYzc0hjbDcyeDRNUFZ0MDAxd2xGbVc3QS1DX3hzaDI4VDYxSHg4RUtsV0JUY0NCd3ZDYWtlcC0tbDlxb0hMUExYOTRkZVpLTHVB?oc=5",
         "published": "2026-09-01T04:06:00Z"
       },
       {
@@ -111,12 +117,6 @@
         "outlet": "Patch",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM3phc3hGeFhucW1wWUNmc0t1NjQwVmtBLVFvOE1qNXZEQmhQZWkteFdvMmZuVGZ4dXVmYXZOTlhHMUE0M2VmNVdIOW02djdzQTJiU2wwQ3p1SUR5b0RSMFA5T1ZSejkzYURtUTRmWk5YSzk3YVlJZllodzhmOHFyTUFpeDhCdnhLLWxzM0I4X051QzBoNERmdkYyTTRMRl84elUtY2VtZ2dnb0FGVHRqNGc0QkdXcFnSAcwBQVVfeXFMUHY2elVTZTJvWENvdE1BbHY0MGNkdFkzNkprV3REV3kweEFjNEE2OV9Wbk1RMGlENjliOHpaaWxHbWpIRVdPZTZNQm5PaUE3NGhMZjVYUVliTmFRTm96MVBNdUw2RGJwVXRXNHBLTGJlQ3BxQ1VmZ1BuZjcwZmVnSHVTaXIwc3JXOHltMlZESGZqeEFIOFhNdjNfeWIxY0paUzQxMWlQLVFIWVczRmQ1eklZcHVVb2UxQWhtMmg0c3JQekJoUUtwcU10VVVu?oc=5",
         "published": "2026-09-01T16:47:36Z"
-      },
-      {
-        "title": "IndyTalks: Ford defends record on data centers, touts success on opioid litigation",
-        "outlet": "The Nevada Independent",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVW9Va2lndmxKQzZOSkxab3JZS0dKQlVidWp1bUtjWXE0Zkk1Z096ajQzUkVQSDcwRjhCaHVlQUoyQ2tReG4xdjBJYUJFQktQVzZqTzh1a0l0RDlNNkFmLXNSR0pkQ1Q0Z0ROMURhRFBWTUtUdUxjRC1rTDJsVXJBWkxIZUo1cWFBU3AxU1VRMFZCQjZYVE4wVTladFkwdFM1TVh3cGRkdXI3U3VDd2pVdTg0OFdhMlRSaGhVenNR?oc=5",
-        "published": "2026-08-28T22:29:15Z"
       },
       {
         "title": "Goodyear man sentenced to 21 years for exploiting children he targeted on Roblox",
