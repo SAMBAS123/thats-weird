@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-02T14:27:35Z",
+  "as_of": "2026-09-02T18:40:07Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 49,
+    "hits_7d": 43,
     "latest": [
       {
         "title": "Goodyear man sentenced to 21 years for grooming children over Roblox, Discord",
@@ -84,7 +84,7 @@
       },
       {
         "title": "Arkansas expects millions from Meta settlement. Here’s where other social media cases stand.",
-        "outlet": "Arkansas Advocate",
+        "outlet": "arkansasadvocate.com",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc1dnMl9Rem4yaWpqY2RSMTVwVm8xM0h4VTNTX0ZFNkxldmZLeFk0M1ZtOXh5QnZxUnZLbmFndzRHUDNVQnhLR2RrTy03dFEzRUlIRXowdjVHRVRTRmlMTkVjeDVsTzdNbkVsQU9xTlF2MkNFQzhtbjRWX0J4MU5NQU9EZWExeTI5eUhDSXhJQlpBVnlVNFR6WTlQOXoxZnYyaXBaLTF3UG9laGdNb28xZ0pkSU1PcUU1UVJrQnFwVWd0c0U3MkhoTDJ3?oc=5",
         "published": "2026-08-31T10:19:06Z"
       },
@@ -93,12 +93,6 @@
         "outlet": "Florida Politics",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdmRjTUtNZWZiVURRVDBsRkNkOGNOa0ZVMGRHYWxHTlV3ekJDcEdlN0pwWm44dm9veUdmVWNTbVFneTF6SjVhcmRrZ0hvWnpuVHd1NlI4MHpkZlQxRmMzUS1xcjR6TjBVakZiY05DdUVBUXFDZzlRR1BfTTJSaDJJUWJNRVdIT2w5elZrTW84aG14VF9vd1EzUWN0TVRWUlNWX0xoYjUxYXF4SFdES3phWDFfZWVzcnV6?oc=5",
         "published": "2026-09-01T20:20:11Z"
-      },
-      {
-        "title": "Lawsuit Over AI Character Tung Tune Sahur Has Companies Bickering; Hearing Set",
-        "outlet": "deadline.com",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKQkFiYzBXa0dXaGlwSnBJTnRMTURBVlktYWVfX3RldFFzZkQwWU9DRnYtdnRyWF9iQzFTT2RDQVUtaFM4UTlLRFB5NzQxTXBpS1M3OG92bEJka29QbWdCZ2lBYkJTWDRlT0dzazRyalFDUDIwMkw2T1ZNNUVLYWM?oc=5",
-        "published": "2026-08-28T13:38:00Z"
       },
       {
         "title": "Senate Roblox Child-Safety Probe 2026: Full Timeline & Facts",
@@ -120,9 +114,15 @@
       },
       {
         "title": "IndyTalks: Ford defends record on data centers, touts success on opioid litigation",
-        "outlet": "thenevadaindependent.com",
+        "outlet": "The Nevada Independent",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVW9Va2lndmxKQzZOSkxab3JZS0dKQlVidWp1bUtjWXE0Zkk1Z096ajQzUkVQSDcwRjhCaHVlQUoyQ2tReG4xdjBJYUJFQktQVzZqTzh1a0l0RDlNNkFmLXNSR0pkQ1Q0Z0ROMURhRFBWTUtUdUxjRC1rTDJsVXJBWkxIZUo1cWFBU3AxU1VRMFZCQjZYVE4wVTladFkwdFM1TVh3cGRkdXI3U3VDd2pVdTg0OFdhMlRSaGhVenNR?oc=5",
         "published": "2026-08-28T22:29:15Z"
+      },
+      {
+        "title": "Goodyear man sentenced to 21 years for exploiting children he targeted on Roblox",
+        "outlet": "KTAR News 92.3 FM",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10bU1HaFJzNE53eHNCRHAxbVM1MnFMWXd0VENxS0ZHQzlIYTJlUVZjdnRCbUhjdS1KeFZLblNhQzMzYUxaRHkyTFpNUlNMclRPclNkbU9lRWtrbmFmNWswOUtyVjUtdGFHaEFxM3VFNkZKWUpMSzBxcjd3?oc=5",
+        "published": "2026-09-01T00:23:05Z"
       }
     ]
   },
