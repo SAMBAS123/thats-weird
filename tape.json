@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-04T14:20:14Z",
+  "as_of": "2026-09-04T18:22:32Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,13 +74,19 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 44,
+    "hits_7d": 42,
     "latest": [
       {
         "title": "Goodyear man sentenced to 21 years for grooming children over Roblox, Discord",
-        "outlet": "AZ Family",
+        "outlet": "azfamily.com",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUmp1YUc2SVRYTlVibEVueldQdDB6TmFuY0NvakYzQlFQXzJrcTdHME94Z040RXg0WHA1N3Z3a2FGdDZ1VlhybVgya2dEaDRmc2x0OTZMcTNVSjJSYkFtQXl1anZ6dWU3WWNEY2s0cFpFY2xvNlJmQTVVa0t1MlBmVU1RZGRVSElyblFrQkdaRFJjWkRWRG5wMTBrU09RVmJDVWs0Sm0tcXFtd9IBvgFBVV95cUxOSGJBQnNjZUllV0V1RHd4MXpKSENBVHowMS1Qb2dWTGxFY0dxRDdjZ0lJN2VJVk5MX05JdnExdjNJdTdmZF90QXhHTHQ0c3hBSTdpdC0xOE8wS3k4WHZRUXJONzVCNTZwMVhQdk5DcUZfVUk1S0MtTGR1UTNpeWYwb3p5WDZHLWRjMk1rNFF2WE5ucVVORFdEZ0tKZXhhZXJCSmNMUVhaZTM1TDFyelFvNHVRTl9sRkhkekR0TjBn?oc=5",
         "published": "2026-08-31T22:19:00Z"
+      },
+      {
+        "title": "Roblox Grooming Lawsuit Alleges Defective Platform Exposed Child to Sexual Predator",
+        "outlet": "AboutLawsuits.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb29UcGtVTjJNcFdONndLMVZWVGNtQktxVDh2NmRlUWlIanhpVGJnQVoxd0wxN1Jwam1hSHRMcXlLSVh6Y05MQjFvLUozQVd4Q2FDTzktMzBPMHh6MEl4dzlnNmRGRzFJSGZzWmQ1SmFZT1pnbjZYU1pGX2cwclgyNDJxWXFiRFNCNHl1T3VnV21PdmlMb1g0UEt4S0xGcHJZdFZld3N4WlA?oc=5",
+        "published": "2026-09-04T13:00:00Z"
       },
       {
         "title": "Arkansas expects millions from Meta settlement. Here’s where other social media cases stand.",
@@ -114,15 +120,9 @@
       },
       {
         "title": "Goodyear man sentenced to 21 years for exploiting children he targeted on Roblox",
-        "outlet": "ktar.com",
+        "outlet": "KTAR News 92.3 FM",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10bU1HaFJzNE53eHNCRHAxbVM1MnFMWXd0VENxS0ZHQzlIYTJlUVZjdnRCbUhjdS1KeFZLblNhQzMzYUxaRHkyTFpNUlNMclRPclNkbU9lRWtrbmFmNWswOUtyVjUtdGFHaEFxM3VFNkZKWUpMSzBxcjd3?oc=5",
         "published": "2026-09-01T00:23:05Z"
-      },
-      {
-        "title": "Roblox Loses Arbitration Bid, Will Fight In-Game Safety Suit",
-        "outlet": "Bloomberg Law News",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTNWWllOek1yTHRoUF9lUEhJZ3ZBd3p4VWlIN1B4QXdoT2s3dWd4a0hFTmswSWR0M0dzbm5aWTNXM0tabC1rRnJwSnUzMlkxSURla2V0cl9Yc0I5OFlCUjBuT19NdVhpQktpa3c5SmxHVHdyVWQ3aFNuaGdvaWlVNG5PY3RDY21TelFHRGxIMkwyclpFaE5wbk5mSW5VX2xrMHc?oc=5",
-        "published": "2026-09-03T20:46:00Z"
       }
     ]
   },
