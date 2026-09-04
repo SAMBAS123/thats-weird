@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-03T21:41:40Z",
+  "as_of": "2026-09-04T00:04:27Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -11,7 +11,7 @@
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
     "total": 486,
     "filed_7d": 3,
-    "filed_30d": 13,
+    "filed_30d": 11,
     "latest": [
       {
         "date_filed": "2026-09-03",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 48,
+    "hits_7d": 44,
     "latest": [
       {
         "title": "Goodyear man sentenced to 21 years for grooming children over Roblox, Discord",
@@ -90,20 +90,20 @@
       },
       {
         "title": "Lawsuit Over AI Character Tung Tune Sahur Has Companies Bickering; Hearing Set",
-        "outlet": "Deadline",
+        "outlet": "deadline.com",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKQkFiYzBXa0dXaGlwSnBJTnRMTURBVlktYWVfX3RldFFzZkQwWU9DRnYtdnRyWF9iQzFTT2RDQVUtaFM4UTlLRFB5NzQxTXBpS1M3OG92bEJka29QbWdCZ2lBYkJTWDRlT0dzazRyalFDUDIwMkw2T1ZNNUVLYWM?oc=5",
         "published": "2026-08-28T13:38:00Z"
       },
       {
         "title": "Europe turns up the heat on Roblox as Florida takes the company to court",
-        "outlet": "floridapolitics.com",
+        "outlet": "Florida Politics",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdmRjTUtNZWZiVURRVDBsRkNkOGNOa0ZVMGRHYWxHTlV3ekJDcEdlN0pwWm44dm9veUdmVWNTbVFneTF6SjVhcmRrZ0hvWnpuVHd1NlI4MHpkZlQxRmMzUS1xcjR6TjBVakZiY05DdUVBUXFDZzlRR1BfTTJSaDJJUWJNRVdIT2w5elZrTW84aG14VF9vd1EzUWN0TVRWUlNWX0xoYjUxYXF4SFdES3phWDFfZWVzcnV6?oc=5",
         "published": "2026-09-01T20:20:11Z"
       },
       {
         "title": "Police say online grooming of three children led to 21-year sentence",
-        "outlet": "WSAW",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeGs1akZaSjNDdjBlNUpuZGVJVDRDb0RocmpTdEx4T1hSWUhwMDlPSmhHZ2J0RWFmYmFiTVRqVWpjVG5EWS1sa1NhcmdfQVJEYW9tdHV2WDVybWhiRktyZno3SldRTGRtc3luUXJmYmxiT0k0Skd5ajNfdy1nUTBqUWN2OTZmTVRHSTdnYnVrNDhZQ1Voc0dBeTlwa3dWSUVKOTdn?oc=5",
+        "outlet": "FOX5 Vegas",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbDlUbmJNTzRiWEliWWZqZ3ZORkQybkZQVE9jZXRsN05WNUVQaXBTTHZFYnNNX19nT1lUV0cyQTFYSF9UZW5HMFA2d1llUWtPUjNreXk4T21ESXB2Zk5PZ1BaQm5vaTdVSG1CRW5ZclA4dzNmUC1yOVVfSS1UQk8wQ0V2V2ZwZlM2MGtTbVN4U2NrTndkdmJwUlM2T1BhZ1FRTHU5MS1EX2Zmdw?oc=5",
         "published": "2026-09-01T04:06:00Z"
       },
       {
@@ -120,7 +120,7 @@
       },
       {
         "title": "Goodyear man sentenced to 21 years for exploiting children he targeted on Roblox",
-        "outlet": "ktar.com",
+        "outlet": "KTAR News 92.3 FM",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10bU1HaFJzNE53eHNCRHAxbVM1MnFMWXd0VENxS0ZHQzlIYTJlUVZjdnRCbUhjdS1KeFZLblNhQzMzYUxaRHkyTFpNUlNMclRPclNkbU9lRWtrbmFmNWswOUtyVjUtdGFHaEFxM3VFNkZKWUpMSzBxcjd3?oc=5",
         "published": "2026-09-01T00:23:05Z"
       }
