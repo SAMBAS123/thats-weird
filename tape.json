@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-05T09:02:37Z",
+  "as_of": "2026-09-05T12:40:46Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 40,
+    "hits_7d": 39,
     "latest": [
       {
         "title": "Roblox can’t arbitrate father’s lawsuit",
