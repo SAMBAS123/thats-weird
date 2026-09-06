@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-06T21:18:59Z",
+  "as_of": "2026-09-06T23:51:43Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 39,
+    "hits_7d": 40,
     "latest": [
       {
         "title": "Roblox can’t arbitrate father’s lawsuit",
@@ -96,13 +96,13 @@
       },
       {
         "title": "Roblox Grooming Lawsuit Alleges Defective Platform Exposed Child to Sexual Predator",
-        "outlet": "AboutLawsuits.com",
+        "outlet": "aboutlawsuits.com",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb29UcGtVTjJNcFdONndLMVZWVGNtQktxVDh2NmRlUWlIanhpVGJnQVoxd0wxN1Jwam1hSHRMcXlLSVh6Y05MQjFvLUozQVd4Q2FDTzktMzBPMHh6MEl4dzlnNmRGRzFJSGZzWmQ1SmFZT1pnbjZYU1pGX2cwclgyNDJxWXFiRFNCNHl1T3VnV21PdmlMb1g0UEt4S0xGcHJZdFZld3N4WlA?oc=5",
         "published": "2026-09-04T13:00:00Z"
       },
       {
         "title": "Arkansas expects millions from Meta settlement. Here’s where other social media cases stand.",
-        "outlet": "Arkansas Advocate",
+        "outlet": "arkansasadvocate.com",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc1dnMl9Rem4yaWpqY2RSMTVwVm8xM0h4VTNTX0ZFNkxldmZLeFk0M1ZtOXh5QnZxUnZLbmFndzRHUDNVQnhLR2RrTy03dFEzRUlIRXowdjVHRVRTRmlMTkVjeDVsTzdNbkVsQU9xTlF2MkNFQzhtbjRWX0J4MU5NQU9EZWExeTI5eUhDSXhJQlpBVnlVNFR6WTlQOXoxZnYyaXBaLTF3UG9laGdNb28xZ0pkSU1PcUU1UVJrQnFwVWd0c0U3MkhoTDJ3?oc=5",
         "published": "2026-08-31T10:19:06Z"
       },
@@ -120,7 +120,7 @@
       },
       {
         "title": "Police say online grooming of three children led to 21-year sentence",
-        "outlet": "WABI",
+        "outlet": "wabi.tv",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ3pNYzdDOTgyUTlTd0E3YlJqRzVFdXJSVnpwWUhMLXdCTDhYUzZ5TnE1VC1WaVJIaEptdWgzVDlXMjgySG9iZktIQl83NWZUY1FlZzM4bURyZHVNNlA4YTY2dktLUXlzblVXVk9IR1hJR0lxZDNTUmR0a1duZEtvTndrMFo1Y3JqQlh2YWdnM29XRG0zbEhVNEhJbUJJSUN6dnc?oc=5",
         "published": "2026-09-01T04:06:00Z"
       }
