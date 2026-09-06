@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-06T17:00:59Z",
+  "as_of": "2026-09-06T19:08:34Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 41,
+    "hits_7d": 40,
     "latest": [
       {
         "title": "Roblox can’t arbitrate father’s lawsuit",
@@ -84,7 +84,7 @@
       },
       {
         "title": "Families suing Roblox face a fight over the fine print",
-        "outlet": "nbcnews.com",
+        "outlet": "NBC News",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLVNZQ0VtQzdaYWtYckQ1Mk1rbVBhNS1kYXg3WEYwazBzNzVXM1lkTndrdnRxcDdyRXNGT09zQWI0d0xCSXlYZ3BidnltQW5lT1phTWo5QnFGUE1abVg0S2JiUkkwZjFsRk9fT3BXS2Q4akp5dGZRT0hJNFJjRlVBRmFFd1V6eEFFbERsMUNOOGRSNC1sT3otQg?oc=5",
         "published": "2026-09-05T10:00:00Z"
       },
@@ -102,7 +102,7 @@
       },
       {
         "title": "Arkansas expects millions from Meta settlement. Here’s where other social media cases stand.",
-        "outlet": "arkansasadvocate.com",
+        "outlet": "Arkansas Advocate",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc1dnMl9Rem4yaWpqY2RSMTVwVm8xM0h4VTNTX0ZFNkxldmZLeFk0M1ZtOXh5QnZxUnZLbmFndzRHUDNVQnhLR2RrTy03dFEzRUlIRXowdjVHRVRTRmlMTkVjeDVsTzdNbkVsQU9xTlF2MkNFQzhtbjRWX0J4MU5NQU9EZWExeTI5eUhDSXhJQlpBVnlVNFR6WTlQOXoxZnYyaXBaLTF3UG9laGdNb28xZ0pkSU1PcUU1UVJrQnFwVWd0c0U3MkhoTDJ3?oc=5",
         "published": "2026-08-31T10:19:06Z"
       },
@@ -113,16 +113,16 @@
         "published": "2026-09-01T20:20:11Z"
       },
       {
-        "title": "Police say online grooming of three children led to 21-year sentence",
-        "outlet": "WWNY",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM3h6VWY4SmFvamdvc0EtY0I5eUt0dlhCSWM0dUFRTW9aSm4zSXBmVmszT2NnVS00TUJCR2VSWVd4bjhzXzdtZHpRSHZkM2tBcmJndjk1Rm1XVWpMR0V4UF80aWI1UWZNYXI5bHpiS3ZQUTZmVW44Q2c5cmxET1dZZmRQeDNXRGZhekVfNElydEpwZzllY2VFTmVLUzE1VXp3b2lKZV93?oc=5",
-        "published": "2026-09-01T04:06:00Z"
-      },
-      {
         "title": "LACo Avoids 2 Challenges Against Roblox Over Child Exploitation Claims",
         "outlet": "MyNewsLA.com",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWDVoSDBfVUJzZDdqUU1KRWswQXFnV2otNFo4M2FuMmd5N3FiNlN5YzRuYjVsQkNCMVdKS3h2UGpGR05PdXBoMUh4Nkc3U3ptMkV4NzhjMm1seUFtUG51aGp0bEJqTUJHX2N4dmdyZWVMeFl6eEtpSVBDVWdPQlRsbDduZHFlV1ZnQlZ3bEpDdWtXcEVUN2FlTE9pOXRQeVdvMm84UFFJemo0aGp6YW96b0ktVQ?oc=5",
         "published": "2026-09-01T13:27:00Z"
+      },
+      {
+        "title": "Police say online grooming of three children led to 21-year sentence",
+        "outlet": "WABI",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ3pNYzdDOTgyUTlTd0E3YlJqRzVFdXJSVnpwWUhMLXdCTDhYUzZ5TnE1VC1WaVJIaEptdWgzVDlXMjgySG9iZktIQl83NWZUY1FlZzM4bURyZHVNNlA4YTY2dktLUXlzblVXVk9IR1hJR0lxZDNTUmR0a1duZEtvTndrMFo1Y3JqQlh2YWdnM29XRG0zbEhVNEhJbUJJSUN6dnc?oc=5",
+        "published": "2026-09-01T04:06:00Z"
       }
     ]
   },
