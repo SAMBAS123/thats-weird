@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-06T05:55:50Z",
+  "as_of": "2026-09-06T10:52:57Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 39,
+    "hits_7d": 41,
     "latest": [
       {
         "title": "Roblox can’t arbitrate father’s lawsuit",
@@ -96,7 +96,7 @@
       },
       {
         "title": "Roblox Grooming Lawsuit Alleges Defective Platform Exposed Child to Sexual Predator",
-        "outlet": "aboutlawsuits.com",
+        "outlet": "AboutLawsuits.com",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb29UcGtVTjJNcFdONndLMVZWVGNtQktxVDh2NmRlUWlIanhpVGJnQVoxd0wxN1Jwam1hSHRMcXlLSVh6Y05MQjFvLUozQVd4Q2FDTzktMzBPMHh6MEl4dzlnNmRGRzFJSGZzWmQ1SmFZT1pnbjZYU1pGX2cwclgyNDJxWXFiRFNCNHl1T3VnV21PdmlMb1g0UEt4S0xGcHJZdFZld3N4WlA?oc=5",
         "published": "2026-09-04T13:00:00Z"
       },
@@ -113,16 +113,16 @@
         "published": "2026-09-01T20:20:11Z"
       },
       {
-        "title": "Police say online grooming of three children led to 21-year sentence",
-        "outlet": "fox10tv.com",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS1lNTUxQWjh3QXotRlpBa0p6TlRRMnFSNzBMSlpDVFVvMmRDMWxaU1BBekdQMlktVVBZZUJUQ3hsaTRaRzNub3laZEJZR0pvV0VHaTNzS1psZGpQR3ZRZ1FTekRiQTZrSnoyM29tcGNvRkpwaEYySFZSMjh0ZTFhOUJVQVlxVW52dFpvWWhBOVN1UWx2X3hzNUZUeHlrNXBUUkhuamFEaw?oc=5",
-        "published": "2026-09-01T04:06:00Z"
+        "title": "LACo Avoids 2 Challenges Against Roblox Over Child Exploitation Claims",
+        "outlet": "mynewsla.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWDVoSDBfVUJzZDdqUU1KRWswQXFnV2otNFo4M2FuMmd5N3FiNlN5YzRuYjVsQkNCMVdKS3h2UGpGR05PdXBoMUh4Nkc3U3ptMkV4NzhjMm1seUFtUG51aGp0bEJqTUJHX2N4dmdyZWVMeFl6eEtpSVBDVWdPQlRsbDduZHFlV1ZnQlZ3bEpDdWtXcEVUN2FlTE9pOXRQeVdvMm84UFFJemo0aGp6YW96b0ktVQ?oc=5",
+        "published": "2026-09-01T13:27:00Z"
       },
       {
-        "title": "LA County Avoids 2 Challenges To Suit Vs. Roblox Over Child Exploitation Claims",
-        "outlet": "Patch",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM3phc3hGeFhucW1wWUNmc0t1NjQwVmtBLVFvOE1qNXZEQmhQZWkteFdvMmZuVGZ4dXVmYXZOTlhHMUE0M2VmNVdIOW02djdzQTJiU2wwQ3p1SUR5b0RSMFA5T1ZSejkzYURtUTRmWk5YSzk3YVlJZllodzhmOHFyTUFpeDhCdnhLLWxzM0I4X051QzBoNERmdkYyTTRMRl84elUtY2VtZ2dnb0FGVHRqNGc0QkdXcFnSAcwBQVVfeXFMUHY2elVTZTJvWENvdE1BbHY0MGNkdFkzNkprV3REV3kweEFjNEE2OV9Wbk1RMGlENjliOHpaaWxHbWpIRVdPZTZNQm5PaUE3NGhMZjVYUVliTmFRTm96MVBNdUw2RGJwVXRXNHBLTGJlQ3BxQ1VmZ1BuZjcwZmVnSHVTaXIwc3JXOHltMlZESGZqeEFIOFhNdjNfeWIxY0paUzQxMWlQLVFIWVczRmQ1eklZcHVVb2UxQWhtMmg0c3JQekJoUUtwcU10VVVu?oc=5",
-        "published": "2026-09-01T16:47:36Z"
+        "title": "Police say online grooming of three children led to 21-year sentence",
+        "outlet": "WABI",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ3pNYzdDOTgyUTlTd0E3YlJqRzVFdXJSVnpwWUhMLXdCTDhYUzZ5TnE1VC1WaVJIaEptdWgzVDlXMjgySG9iZktIQl83NWZUY1FlZzM4bURyZHVNNlA4YTY2dktLUXlzblVXVk9IR1hJR0lxZDNTUmR0a1duZEtvTndrMFo1Y3JqQlh2YWdnM29XRG0zbEhVNEhJbUJJSUN6dnc?oc=5",
+        "published": "2026-09-01T04:06:00Z"
       }
     ]
   },
