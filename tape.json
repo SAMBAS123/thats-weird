@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-08T11:14:29Z",
+  "as_of": "2026-09-08T15:06:41Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 59,
+    "hits_7d": 57,
     "latest": [
       {
         "title": "Roblox can’t arbitrate father’s lawsuit",
@@ -96,15 +96,15 @@
       },
       {
         "title": "Europe turns up the heat on Roblox as Florida takes the company to court",
-        "outlet": "floridapolitics.com",
+        "outlet": "Florida Politics",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdmRjTUtNZWZiVURRVDBsRkNkOGNOa0ZVMGRHYWxHTlV3ekJDcEdlN0pwWm44dm9veUdmVWNTbVFneTF6SjVhcmRrZ0hvWnpuVHd1NlI4MHpkZlQxRmMzUS1xcjR6TjBVakZiY05DdUVBUXFDZzlRR1BfTTJSaDJJUWJNRVdIT2w5elZrTW84aG14VF9vd1EzUWN0TVRWUlNWX0xoYjUxYXF4SFdES3phWDFfZWVzcnV6?oc=5",
         "published": "2026-09-01T20:20:11Z"
       },
       {
-        "title": "LACo Avoids 2 Challenges Against Roblox Over Child Exploitation Claims",
-        "outlet": "MyNewsLA.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWDVoSDBfVUJzZDdqUU1KRWswQXFnV2otNFo4M2FuMmd5N3FiNlN5YzRuYjVsQkNCMVdKS3h2UGpGR05PdXBoMUh4Nkc3U3ptMkV4NzhjMm1seUFtUG51aGp0bEJqTUJHX2N4dmdyZWVMeFl6eEtpSVBDVWdPQlRsbDduZHFlV1ZnQlZ3bEpDdWtXcEVUN2FlTE9pOXRQeVdvMm84UFFJemo0aGp6YW96b0ktVQ?oc=5",
-        "published": "2026-09-01T13:27:00Z"
+        "title": "LA County Avoids 2 Challenges To Suit Vs. Roblox Over Child Exploitation Claims",
+        "outlet": "Patch",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM3phc3hGeFhucW1wWUNmc0t1NjQwVmtBLVFvOE1qNXZEQmhQZWkteFdvMmZuVGZ4dXVmYXZOTlhHMUE0M2VmNVdIOW02djdzQTJiU2wwQ3p1SUR5b0RSMFA5T1ZSejkzYURtUTRmWk5YSzk3YVlJZllodzhmOHFyTUFpeDhCdnhLLWxzM0I4X051QzBoNERmdkYyTTRMRl84elUtY2VtZ2dnb0FGVHRqNGc0QkdXcFnSAcwBQVVfeXFMUHY2elVTZTJvWENvdE1BbHY0MGNkdFkzNkprV3REV3kweEFjNEE2OV9Wbk1RMGlENjliOHpaaWxHbWpIRVdPZTZNQm5PaUE3NGhMZjVYUVliTmFRTm96MVBNdUw2RGJwVXRXNHBLTGJlQ3BxQ1VmZ1BuZjcwZmVnSHVTaXIwc3JXOHltMlZESGZqeEFIOFhNdjNfeWIxY0paUzQxMWlQLVFIWVczRmQ1eklZcHVVb2UxQWhtMmg0c3JQekJoUUtwcU10VVVu?oc=5",
+        "published": "2026-09-01T16:47:36Z"
       },
       {
         "title": "ChatGPT, Roblox Face Tough EU Rules. Implementation Is the Hard Part",
