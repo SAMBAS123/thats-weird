@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-08T18:37:55Z",
+  "as_of": "2026-09-08T21:49:56Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 54,
+    "hits_7d": 49,
     "latest": [
       {
         "title": "Roblox can’t arbitrate father’s lawsuit",
@@ -84,7 +84,7 @@
       },
       {
         "title": "Families suing Roblox face a fight over the fine print",
-        "outlet": "NBC News",
+        "outlet": "nbcnews.com",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLVNZQ0VtQzdaYWtYckQ1Mk1rbVBhNS1kYXg3WEYwazBzNzVXM1lkTndrdnRxcDdyRXNGT09zQWI0d0xCSXlYZ3BidnltQW5lT1phTWo5QnFGUE1abVg0S2JiUkkwZjFsRk9fT3BXS2Q4akp5dGZRT0hJNFJjRlVBRmFFd1V6eEFFbERsMUNOOGRSNC1sT3otQg?oc=5",
         "published": "2026-09-05T10:00:00Z"
       },
@@ -96,9 +96,9 @@
       },
       {
         "title": "Europe turns up the heat on Roblox as Florida takes the company to court",
-        "outlet": "Florida Politics",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdmRjTUtNZWZiVURRVDBsRkNkOGNOa0ZVMGRHYWxHTlV3ekJDcEdlN0pwWm44dm9veUdmVWNTbVFneTF6SjVhcmRrZ0hvWnpuVHd1NlI4MHpkZlQxRmMzUS1xcjR6TjBVakZiY05DdUVBUXFDZzlRR1BfTTJSaDJJUWJNRVdIT2w5elZrTW84aG14VF9vd1EzUWN0TVRWUlNWX0xoYjUxYXF4SFdES3phWDFfZWVzcnV6?oc=5",
-        "published": "2026-09-01T20:20:11Z"
+        "outlet": "The Miami Times",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNX3hVSE9HTzA1WlZ4TUZESTFVZHNFbHoyMFV5NDltYXQ3Nm8zazJFQlRGZ3ZPZGpwN3BqRDNJb29IdDNNQ3NEY3BTQmh0a195OUpzdk9oQ1hMd3RZZklWXzVPOTBHUmVlU1AwYzNNZHZFNTdFOEZmcWtFLVgwRHQwTDd6QjVoendfeTdYMVFRZU5nZlBXREtFMFlKT0NsdGpCY2FJVnc4QjIyTTNBek5uSEhoZFFTcU9sZFRCTXJ3dUl6Q3R6TjFpQkljcmxBWi13bGctYTliVU5xR09oNEdjVy0weWowR1FkY1ZSMHdFbndXOUtmM21B0gH8AUFVX3lxTE9ZNE5XVk41dU5LWkdRM3Y5NVhEemhrQzE2cTA0aGcxTVF2dTRfamFxQlctWW5sT3BiTGhvckNPVmstN3N3MDYzUW1OR0wzMFNFUUlHT2hHX3FGTGRlOHQzRTFmMzNqbXVuT0JaczRUVlNNbHZmTEVraG1fWE1qclpKYlppVnBOMUpXUDZZTGZSOW00cVJ3bnYzUndJSGVhNmgyaGxidnZ3MldjZ1pCcGtVSHFHR281RDdVeC1heE01VTBMcjJxbkJva2dKNXpuU0NWQmo5NUp6R2czVmVUMEpJU183LUh0d21BNkt5R3BXQnZ4VkZ2V2Jjc09XUQ?oc=5",
+        "published": "2026-09-04T18:43:00Z"
       },
       {
         "title": "ChatGPT, Roblox Face Tough EU Rules. Implementation Is the Hard Part",
@@ -108,13 +108,13 @@
       },
       {
         "title": "Roblox Loses Arbitration Bid, Will Fight In-Game Safety Suit",
-        "outlet": "news.bloomberglaw.com",
+        "outlet": "Bloomberg Law News",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTNWWllOek1yTHRoUF9lUEhJZ3ZBd3p4VWlIN1B4QXdoT2s3dWd4a0hFTmswSWR0M0dzbm5aWTNXM0tabC1rRnJwSnUzMlkxSURla2V0cl9Yc0I5OFlCUjBuT19NdVhpQktpa3c5SmxHVHdyVWQ3aFNuaGdvaWlVNG5PY3RDY21TelFHRGxIMkwyclpFaE5wbk5mSW5VX2xrMHc?oc=5",
         "published": "2026-09-03T20:46:00Z"
       },
       {
         "title": "Arkansas expects millions from Meta settlement",
-        "outlet": "KTLO",
+        "outlet": "ktlo.com",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUUxndDNMcEhEdjNzSFg3RU4xZi1Dd1NzNGljYk9iZjBtOEItUjZPYVRQbUpHamZLbmx6QWZobUM4dlkyaThyMUIzS3dDaGFsNU95Q2o4bm9ITGdyNWNSV0hyWExvM0pxOXF6dGN1Umt4M1UyZy0wMFUwR1ZGX2tTeTBlV2R4Zw?oc=5",
         "published": "2026-09-06T16:35:06Z"
       },
