@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-08T21:49:56Z",
+  "as_of": "2026-09-09T00:12:07Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 49,
+    "hits_7d": 52,
     "latest": [
       {
         "title": "Roblox can’t arbitrate father’s lawsuit",
@@ -84,7 +84,7 @@
       },
       {
         "title": "Families suing Roblox face a fight over the fine print",
-        "outlet": "nbcnews.com",
+        "outlet": "NBC News",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLVNZQ0VtQzdaYWtYckQ1Mk1rbVBhNS1kYXg3WEYwazBzNzVXM1lkTndrdnRxcDdyRXNGT09zQWI0d0xCSXlYZ3BidnltQW5lT1phTWo5QnFGUE1abVg0S2JiUkkwZjFsRk9fT3BXS2Q4akp5dGZRT0hJNFJjRlVBRmFFd1V6eEFFbERsMUNOOGRSNC1sT3otQg?oc=5",
         "published": "2026-09-05T10:00:00Z"
       },
@@ -101,6 +101,12 @@
         "published": "2026-09-04T18:43:00Z"
       },
       {
+        "title": "Five to Follow: September 2026 – the stories worth watching",
+        "outlet": "The Modern Regulator",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nS1N1WG9tS1Z4dXRIV3h0aWt3b1lFSW44NTYxQjE2TzE3MXBuWlpWbkFlemFwbkZ5TGxOdmJFaXU2enktMFh6ZE1VYXJ2WWVJZW9ZbEJvX2lrcFQtTUhuSnNNeGRnbmRqS0lvMy1R?oc=5",
+        "published": "2026-09-08T23:54:10Z"
+      },
+      {
         "title": "ChatGPT, Roblox Face Tough EU Rules. Implementation Is the Hard Part",
         "outlet": "Tech Policy Press",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaGloWE1MTFlaX0Z2OE81RXlkbXNWZjJrenJYNDhxWWN1MU9CMkQwSm5Ta0N2YmZyd0tZS3hMcFppNEpka0w5V1RuTl9KTjNlMXRpLTJSbU82MHZVSXdiZkNYcnJNdkItZU9qdW1wOHVwUmdjYWhSNEZCd2tKbjNwSmVLOHJZbTctNWVhTWFmOVljdDQyYVE?oc=5",
@@ -114,15 +120,9 @@
       },
       {
         "title": "Arkansas expects millions from Meta settlement",
-        "outlet": "ktlo.com",
+        "outlet": "KTLO",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUUxndDNMcEhEdjNzSFg3RU4xZi1Dd1NzNGljYk9iZjBtOEItUjZPYVRQbUpHamZLbmx6QWZobUM4dlkyaThyMUIzS3dDaGFsNU95Q2o4bm9ITGdyNWNSV0hyWExvM0pxOXF6dGN1Umt4M1UyZy0wMFUwR1ZGX2tTeTBlV2R4Zw?oc=5",
         "published": "2026-09-06T16:35:06Z"
-      },
-      {
-        "title": "ChatGPT, Reddit, and Roblox Join the DSA Big Leagues: What the Designation Means for Businesses (via Passle)",
-        "outlet": "Slaughter and May",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR21LdHVBUm14bm5qSWE4X21lZGZQQmNFaGo3MUhOQzdfWGhMWm9HR3daME1oUHVZbGtvN1VuLUhKZllvOHhJay0xY3lTbFJ5eTJOWmxvNkg4LUxaNk05bktyYjZCTFh0bVpYM3A2OWxFVWc3Z3NuQVl2WGRSMGRycUNNYWpXTTRLTUc0eng5TF9lc3lxVTk0dC04QXBfck5HOVpwZldxcXJ6VUtEdkZiejlzWm00SzBPUU9pY1lJVjJEdnpp?oc=5",
-        "published": "2026-09-03T13:37:14Z"
       }
     ]
   },
