@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-09T00:12:07Z",
+  "as_of": "2026-09-09T04:38:13Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 52,
+    "hits_7d": 54,
     "latest": [
       {
         "title": "Roblox can’t arbitrate father’s lawsuit",
@@ -102,7 +102,7 @@
       },
       {
         "title": "Five to Follow: September 2026 – the stories worth watching",
-        "outlet": "The Modern Regulator",
+        "outlet": "themodernregulator.com",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nS1N1WG9tS1Z4dXRIV3h0aWt3b1lFSW44NTYxQjE2TzE3MXBuWlpWbkFlemFwbkZ5TGxOdmJFaXU2enktMFh6ZE1VYXJ2WWVJZW9ZbEJvX2lrcFQtTUhuSnNNeGRnbmRqS0lvMy1R?oc=5",
         "published": "2026-09-08T23:54:10Z"
       },
@@ -114,7 +114,7 @@
       },
       {
         "title": "Roblox Loses Arbitration Bid, Will Fight In-Game Safety Suit",
-        "outlet": "Bloomberg Law News",
+        "outlet": "news.bloomberglaw.com",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTNWWllOek1yTHRoUF9lUEhJZ3ZBd3p4VWlIN1B4QXdoT2s3dWd4a0hFTmswSWR0M0dzbm5aWTNXM0tabC1rRnJwSnUzMlkxSURla2V0cl9Yc0I5OFlCUjBuT19NdVhpQktpa3c5SmxHVHdyVWQ3aFNuaGdvaWlVNG5PY3RDY21TelFHRGxIMkwyclpFaE5wbk5mSW5VX2xrMHc?oc=5",
         "published": "2026-09-03T20:46:00Z"
       },
