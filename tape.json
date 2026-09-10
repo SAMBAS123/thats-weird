@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-10T14:24:45Z",
+  "as_of": "2026-09-10T18:25:37Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 43,
+    "hits_7d": 41,
     "latest": [
       {
         "title": "Roblox can’t arbitrate father’s lawsuit",
@@ -107,16 +107,16 @@
         "published": "2026-09-10T00:00:56Z"
       },
       {
-        "title": "ChatGPT, Roblox Face Tough EU Rules. Implementation Is the Hard Part",
-        "outlet": "techpolicy.press",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaGloWE1MTFlaX0Z2OE81RXlkbXNWZjJrenJYNDhxWWN1MU9CMkQwSm5Ta0N2YmZyd0tZS3hMcFppNEpka0w5V1RuTl9KTjNlMXRpLTJSbU82MHZVSXdiZkNYcnJNdkItZU9qdW1wOHVwUmdjYWhSNEZCd2tKbjNwSmVLOHJZbTctNWVhTWFmOVljdDQyYVE?oc=5",
-        "published": "2026-09-03T14:40:56Z"
+        "title": "Roblox Says It’s ‘Not a Police State’ as Defends Safety Suit",
+        "outlet": "Bloomberg Law News",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb0FkM1lMSHFhQkpYdWppWlN2blVyTzJ0WHlWZ2lyM3d4TFl3eEoyV1ZIdEgzWEFDTEZpektzZl9PRnA4RjV1N2ZBYlV0QmtadktMaXZ3dTcxSjhWRjRyZ3hGN2J5aUtDaGJ1Z2E3V1BtMm54dzdGTndqaFlURnU2Uy1NZFhvRFJuN0tCazI0Yi1ZWEJwSkp3aFpXelNjZGM?oc=5",
+        "published": "2026-09-10T17:42:00Z"
       },
       {
-        "title": "Roblox Loses Arbitration Bid, Will Fight In-Game Safety Suit",
-        "outlet": "news.bloomberglaw.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTNWWllOek1yTHRoUF9lUEhJZ3ZBd3p4VWlIN1B4QXdoT2s3dWd4a0hFTmswSWR0M0dzbm5aWTNXM0tabC1rRnJwSnUzMlkxSURla2V0cl9Yc0I5OFlCUjBuT19NdVhpQktpa3c5SmxHVHdyVWQ3aFNuaGdvaWlVNG5PY3RDY21TelFHRGxIMkwyclpFaE5wbk5mSW5VX2xrMHc?oc=5",
-        "published": "2026-09-03T20:46:00Z"
+        "title": "9th Circuit Affirms Roblox Waived Arbitration Enforcement Right in Child Safety Class Action",
+        "outlet": "Law.com",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbF9uWWt1SUZBR05qamVwSkh5RzlCVkNjMjYwVHlJNlVobXlIWkVRcDhDajY2cVhjN2FxVHgtamFPX3ZYOWIyWE5uaHNiaTlwYnc2SFhRMmhfVXEtTVFVNGpRbF85eF9kbzlMejVjM3FsT0VmdHhfa0lSQUFTRzdqNHEwR2F5V1VrOUQ1bFozemo1MG1OUUhzaC1UajZpSVhoMmtvak5DN0VodC11bWhxMFRuel8zci1NN1V5ZmxraFdvdw?oc=5",
+        "published": "2026-09-10T15:12:07Z"
       },
       {
         "title": "Arkansas expects millions from Meta settlement",
