@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-10T04:39:51Z",
+  "as_of": "2026-09-10T09:41:08Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,11 +74,11 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 45,
+    "hits_7d": 49,
     "latest": [
       {
         "title": "Roblox can’t arbitrate father’s lawsuit",
-        "outlet": "courthousenews.com",
+        "outlet": "Courthouse News",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xa3dkYWQwUmt6ZzliaHNxUXdJbXg1cEJGdzR1eUp4Y1RlVktYZzBld2JrOVg2VnpHLVZyeUctYjU5Q016MlhXbTdPejE1Ui1sd0F6MnUwTXJ6c0hpT3lCRWNTa0JuRjZVTGlYNFVXcXpKUUFvZUtn?oc=5",
         "published": "2026-09-03T22:02:26Z"
       },
@@ -101,28 +101,28 @@
         "published": "2026-09-04T18:43:00Z"
       },
       {
-        "title": "Five to Follow: September 2026 – the stories worth watching",
-        "outlet": "The Modern Regulator",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nS1N1WG9tS1Z4dXRIV3h0aWt3b1lFSW44NTYxQjE2TzE3MXBuWlpWbkFlemFwbkZ5TGxOdmJFaXU2enktMFh6ZE1VYXJ2WWVJZW9ZbEJvX2lrcFQtTUhuSnNNeGRnbmRqS0lvMy1R?oc=5",
-        "published": "2026-09-08T23:54:10Z"
-      },
-      {
         "title": "“Play Now, Arbitrate Later”—“Not So Fast,” Ninth Circuit Says",
         "outlet": "Hinshaw & Culbertson LLP",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQLVd4ckJKV21KbXBPYXVaczAwamgzdEJOTWdtRHhDdVFUUDk3bmUyUnZmLVJ2MFVDcVJJaWtYRlZvdXJOcUhmdGV6Y0doYXJzUlk4MUZpcXFSTmlobjNSZGJuQ2pZOThmWW9JdGFyOENHOGdiOVNzamJwUWNndFRsM0RQN3VEY1ljaEhPOGVHNDVDbTBPbEtMOW9WSkdTSFFyTElPRkhCaWZuLVlaS1NyalJVbFFGcThqS3hnWG1yYXpZZ09DcHhFbklTV2pMOGJNY0s1aWVIc2JXVExvdlhNUVFKbE9ZbkRCYjRZaHFnN0EwWTByTlRBcERzYnktdw?oc=5",
         "published": "2026-09-10T00:00:56Z"
       },
       {
+        "title": "RBLX Stock Quote Price and Forecast",
+        "outlet": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wOC1MeGpVZlNQQkpTNnp4bjdNV0FoUXllNjhSUVFhQS1MZk1hUHZpN2NyUUxmY1ZzZEVPd1ZZSDNjbnotd091M1dPMkctSGYz?oc=5",
+        "published": "2026-09-07T08:03:40Z"
+      },
+      {
+        "title": "Five to Follow: September 2026 – the stories worth watching",
+        "outlet": "The Modern Regulator",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nS1N1WG9tS1Z4dXRIV3h0aWt3b1lFSW44NTYxQjE2TzE3MXBuWlpWbkFlemFwbkZ5TGxOdmJFaXU2enktMFh6ZE1VYXJ2WWVJZW9ZbEJvX2lrcFQtTUhuSnNNeGRnbmRqS0lvMy1R?oc=5",
+        "published": "2026-09-08T23:54:10Z"
+      },
+      {
         "title": "ChatGPT, Roblox Face Tough EU Rules. Implementation Is the Hard Part",
         "outlet": "techpolicy.press",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaGloWE1MTFlaX0Z2OE81RXlkbXNWZjJrenJYNDhxWWN1MU9CMkQwSm5Ta0N2YmZyd0tZS3hMcFppNEpka0w5V1RuTl9KTjNlMXRpLTJSbU82MHZVSXdiZkNYcnJNdkItZU9qdW1wOHVwUmdjYWhSNEZCd2tKbjNwSmVLOHJZbTctNWVhTWFmOVljdDQyYVE?oc=5",
         "published": "2026-09-03T14:40:56Z"
-      },
-      {
-        "title": "Roblox Loses Arbitration Bid, Will Fight In-Game Safety Suit",
-        "outlet": "Bloomberg Law News",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTNWWllOek1yTHRoUF9lUEhJZ3ZBd3p4VWlIN1B4QXdoT2s3dWd4a0hFTmswSWR0M0dzbm5aWTNXM0tabC1rRnJwSnUzMlkxSURla2V0cl9Yc0I5OFlCUjBuT19NdVhpQktpa3c5SmxHVHdyVWQ3aFNuaGdvaWlVNG5PY3RDY21TelFHRGxIMkwyclpFaE5wbk5mSW5VX2xrMHc?oc=5",
-        "published": "2026-09-03T20:46:00Z"
       }
     ]
   },
