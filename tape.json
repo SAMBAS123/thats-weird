@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-11T18:30:15Z",
+  "as_of": "2026-09-11T21:42:19Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 31,
+    "hits_7d": 30,
     "latest": [
       {
         "title": "Families suing Roblox face a fight over the fine print",
@@ -83,26 +83,14 @@
         "published": "2026-09-05T10:00:00Z"
       },
       {
-        "title": "Europe turns up the heat on Roblox as Florida takes the company to court",
-        "outlet": "The Miami Times",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNX3hVSE9HTzA1WlZ4TUZESTFVZHNFbHoyMFV5NDltYXQ3Nm8zazJFQlRGZ3ZPZGpwN3BqRDNJb29IdDNNQ3NEY3BTQmh0a195OUpzdk9oQ1hMd3RZZklWXzVPOTBHUmVlU1AwYzNNZHZFNTdFOEZmcWtFLVgwRHQwTDd6QjVoendfeTdYMVFRZU5nZlBXREtFMFlKT0NsdGpCY2FJVnc4QjIyTTNBek5uSEhoZFFTcU9sZFRCTXJ3dUl6Q3R6TjFpQkljcmxBWi13bGctYTliVU5xR09oNEdjVy0weWowR1FkY1ZSMHdFbndXOUtmM21B0gH8AUFVX3lxTE9ZNE5XVk41dU5LWkdRM3Y5NVhEemhrQzE2cTA0aGcxTVF2dTRfamFxQlctWW5sT3BiTGhvckNPVmstN3N3MDYzUW1OR0wzMFNFUUlHT2hHX3FGTGRlOHQzRTFmMzNqbXVuT0JaczRUVlNNbHZmTEVraG1fWE1qclpKYlppVnBOMUpXUDZZTGZSOW00cVJ3bnYzUndJSGVhNmgyaGxidnZ3MldjZ1pCcGtVSHFHR281RDdVeC1heE01VTBMcjJxbkJva2dKNXpuU0NWQmo5NUp6R2czVmVUMEpJU183LUh0d21BNkt5R3BXQnZ4VkZ2V2Jjc09XUQ?oc=5",
-        "published": "2026-09-04T18:43:00Z"
-      },
-      {
         "title": "“Play Now, Arbitrate Later”—“Not So Fast,” Ninth Circuit Says",
         "outlet": "Hinshaw & Culbertson LLP",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQLVd4ckJKV21KbXBPYXVaczAwamgzdEJOTWdtRHhDdVFUUDk3bmUyUnZmLVJ2MFVDcVJJaWtYRlZvdXJOcUhmdGV6Y0doYXJzUlk4MUZpcXFSTmlobjNSZGJuQ2pZOThmWW9JdGFyOENHOGdiOVNzamJwUWNndFRsM0RQN3VEY1ljaEhPOGVHNDVDbTBPbEtMOW9WSkdTSFFyTElPRkhCaWZuLVlaS1NyalJVbFFGcThqS3hnWG1yYXpZZ09DcHhFbklTV2pMOGJNY0s1aWVIc2JXVExvdlhNUVFKbE9ZbkRCYjRZaHFnN0EwWTByTlRBcERzYnktdw?oc=5",
         "published": "2026-09-10T00:00:56Z"
       },
       {
-        "title": "RBLX Stock Quote Price and Forecast",
-        "outlet": "CNN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wOC1MeGpVZlNQQkpTNnp4bjdNV0FoUXllNjhSUVFhQS1MZk1hUHZpN2NyUUxmY1ZzZEVPd1ZZSDNjbnotd091M1dPMkctSGYz?oc=5",
-        "published": "2026-09-08T20:15:21Z"
-      },
-      {
         "title": "9th Circuit Affirms Roblox Waived Arbitration Enforcement Right in Child Safety Class Action",
-        "outlet": "Law.com",
+        "outlet": "law.com",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbF9uWWt1SUZBR05qamVwSkh5RzlCVkNjMjYwVHlJNlVobXlIWkVRcDhDajY2cVhjN2FxVHgtamFPX3ZYOWIyWE5uaHNiaTlwYnc2SFhRMmhfVXEtTVFVNGpRbF85eF9kbzlMejVjM3FsT0VmdHhfa0lSQUFTRzdqNHEwR2F5V1VrOUQ1bFozemo1MG1OUUhzaC1UajZpSVhoMmtvak5DN0VodC11bWhxMFRuel8zci1NN1V5ZmxraFdvdw?oc=5",
         "published": "2026-09-10T15:12:07Z"
       },
@@ -113,16 +101,28 @@
         "published": "2026-09-10T17:42:00Z"
       },
       {
+        "title": "Florida Attorney General James Uthmeier Files Suit Against Netflix In Tech Crackdown",
+        "outlet": "NorthEscambia.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaHkzLVhSMkZ3RVBFQlJRd1V5UnRPZlJRYzJCSVFoSkJwQU15YXUzaXpNMVB1aVVTRGtxeWludzlockxMUlVfVlYzNTBqM1VlWDdfdXc0YlNYV1lVM2RxUDcyY3BFTUkxTnI2QnA4N3JBVEF3SGFhd1ZCbllvbWRlSnFwTGlra1h3TF9GcGh1N1E2VnltRXE2Vjctd1BrR2VOTTJPV2g5ZFd1QUhBNXEyM1hNMDVOVGQyQTRXM053?oc=5",
+        "published": "2026-09-10T19:56:37Z"
+      },
+      {
+        "title": "Highlands Oncology Group data breach class action settlement",
+        "outlet": "Top Class Actions",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVURrUlNFcTBTUzEySzNxaEVkZzJmVmgtTUd1UGhJakViOExIZjc5azBIQWpZRmotdC1XMGE3T21nY3Vud2t6TVAxbkhlZlh0dVFXN2RGTVVJbFdfZlh0bnNJaWxTNWczM09JM2E2aDFrUTJrS3FMcmdXeVJIOHBJV25uS29oazFkR0VEVXVnT2xFdU41UUJwRlJ2cVVLV1pqMVhKWUFfZjg4TnktcFFPQk9ycXJFNWhydDZiUlJGblpWaEJLdjVtalplUHRaWTg?oc=5",
+        "published": "2026-09-11T17:13:53Z"
+      },
+      {
         "title": "Arkansas expects millions from Meta settlement",
         "outlet": "KTLO",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUUxndDNMcEhEdjNzSFg3RU4xZi1Dd1NzNGljYk9iZjBtOEItUjZPYVRQbUpHamZLbmx6QWZobUM4dlkyaThyMUIzS3dDaGFsNU95Q2o4bm9ITGdyNWNSV0hyWExvM0pxOXF6dGN1Umt4M1UyZy0wMFUwR1ZGX2tTeTBlV2R4Zw?oc=5",
         "published": "2026-09-06T16:35:06Z"
       },
       {
-        "title": "Florida Attorney General James Uthmeier Files Suit Against Netflix In Tech Crackdown",
-        "outlet": "NorthEscambia.com",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaHkzLVhSMkZ3RVBFQlJRd1V5UnRPZlJRYzJCSVFoSkJwQU15YXUzaXpNMVB1aVVTRGtxeWludzlockxMUlVfVlYzNTBqM1VlWDdfdXc0YlNYV1lVM2RxUDcyY3BFTUkxTnI2QnA4N3JBVEF3SGFhd1ZCbllvbWRlSnFwTGlra1h3TF9GcGh1N1E2VnltRXE2Vjctd1BrR2VOTTJPV2g5ZFd1QUhBNXEyM1hNMDVOVGQyQTRXM053?oc=5",
-        "published": "2026-09-10T19:56:37Z"
+        "title": "Why the world needs a Club Penguin successor – that isn't Roblox",
+        "outlet": "GamesIndustry.biz",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRXFkTzdENGVHRmxSWElOYnQxTEpkaTh5WDlkZHBJb0d3akNja1pUTkxUZU55SVpZejVYQ1N1MzRlZFhBMC1vbHo5b3ppNTYwWGVJanY4QXdrZzFSZTh2VDZ3d3VTMmhCY0hwQjdfbldSNkh5YzNVYk53NFoyVGNTU3kwd0VZR3hEeDI0WXZnMWRURV9hdmc?oc=5",
+        "published": "2026-09-08T15:46:17Z"
       }
     ]
   },
