@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-10T21:36:20Z",
+  "as_of": "2026-09-11T00:08:19Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -10,8 +10,8 @@
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
     "total": 490,
-    "filed_7d": 7,
-    "filed_30d": 15,
+    "filed_7d": 3,
+    "filed_30d": 14,
     "latest": [
       {
         "date_filed": "2026-09-09",
@@ -74,17 +74,11 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 40,
+    "hits_7d": 35,
     "latest": [
       {
-        "title": "Roblox can’t arbitrate father’s lawsuit",
-        "outlet": "Courthouse News",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xa3dkYWQwUmt6ZzliaHNxUXdJbXg1cEJGdzR1eUp4Y1RlVktYZzBld2JrOVg2VnpHLVZyeUctYjU5Q016MlhXbTdPejE1Ui1sd0F6MnUwTXJ6c0hpT3lCRWNTa0JuRjZVTGlYNFVXcXpKUUFvZUtn?oc=5",
-        "published": "2026-09-03T22:02:26Z"
-      },
-      {
         "title": "Families suing Roblox face a fight over the fine print",
-        "outlet": "nbcnews.com",
+        "outlet": "NBC News",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLVNZQ0VtQzdaYWtYckQ1Mk1rbVBhNS1kYXg3WEYwazBzNzVXM1lkTndrdnRxcDdyRXNGT09zQWI0d0xCSXlYZ3BidnltQW5lT1phTWo5QnFGUE1abVg0S2JiUkkwZjFsRk9fT3BXS2Q4akp5dGZRT0hJNFJjRlVBRmFFd1V6eEFFbERsMUNOOGRSNC1sT3otQg?oc=5",
         "published": "2026-09-05T10:00:00Z"
       },
@@ -102,7 +96,7 @@
       },
       {
         "title": "“Play Now, Arbitrate Later”—“Not So Fast,” Ninth Circuit Says",
-        "outlet": "hinshawlaw.com",
+        "outlet": "Hinshaw & Culbertson LLP",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQLVd4ckJKV21KbXBPYXVaczAwamgzdEJOTWdtRHhDdVFUUDk3bmUyUnZmLVJ2MFVDcVJJaWtYRlZvdXJOcUhmdGV6Y0doYXJzUlk4MUZpcXFSTmlobjNSZGJuQ2pZOThmWW9JdGFyOENHOGdiOVNzamJwUWNndFRsM0RQN3VEY1ljaEhPOGVHNDVDbTBPbEtMOW9WSkdTSFFyTElPRkhCaWZuLVlaS1NyalJVbFFGcThqS3hnWG1yYXpZZ09DcHhFbklTV2pMOGJNY0s1aWVIc2JXVExvdlhNUVFKbE9ZbkRCYjRZaHFnN0EwWTByTlRBcERzYnktdw?oc=5",
         "published": "2026-09-10T00:00:56Z"
       },
@@ -123,6 +117,12 @@
         "outlet": "KTLO",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUUxndDNMcEhEdjNzSFg3RU4xZi1Dd1NzNGljYk9iZjBtOEItUjZPYVRQbUpHamZLbmx6QWZobUM4dlkyaThyMUIzS3dDaGFsNU95Q2o4bm9ITGdyNWNSV0hyWExvM0pxOXF6dGN1Umt4M1UyZy0wMFUwR1ZGX2tTeTBlV2R4Zw?oc=5",
         "published": "2026-09-06T16:35:06Z"
+      },
+      {
+        "title": "Florida Attorney General James Uthmeier Files Suit Against Netflix In Tech Crackdown",
+        "outlet": "NorthEscambia.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaHkzLVhSMkZ3RVBFQlJRd1V5UnRPZlJRYzJCSVFoSkJwQU15YXUzaXpNMVB1aVVTRGtxeWludzlockxMUlVfVlYzNTBqM1VlWDdfdXc0YlNYV1lVM2RxUDcyY3BFTUkxTnI2QnA4N3JBVEF3SGFhd1ZCbllvbWRlSnFwTGlra1h3TF9GcGh1N1E2VnltRXE2Vjctd1BrR2VOTTJPV2g5ZFd1QUhBNXEyM1hNMDVOVGQyQTRXM053?oc=5",
+        "published": "2026-09-10T19:56:37Z"
       }
     ]
   },
