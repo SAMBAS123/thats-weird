@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-12T17:07:29Z",
+  "as_of": "2026-09-12T19:18:23Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 38,
+    "hits_7d": 39,
     "latest": [
       {
         "title": "Video Game Addiction Lawsuit Settlement Amounts (2026)",
