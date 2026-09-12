@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-12T13:35:41Z",
+  "as_of": "2026-09-12T17:07:29Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,8 +74,14 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 32,
+    "hits_7d": 38,
     "latest": [
+      {
+        "title": "Video Game Addiction Lawsuit Settlement Amounts (2026)",
+        "outlet": "Sokolove Law",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFdWQ0amF0VzNnckhvMndfTGpGQkVoTkJ5a05YdHJWQTdhSEd6RUJhbG9RdlVxU1ZzanZqeVFkeDU5VmFCQUUtazh0Q19LYWxvYmprWkxLRHlfWWtraVNJa0EyTC1MVHdzcHdFcFBzbEVFNEE?oc=5",
+        "published": "2026-09-10T20:59:21Z"
+      },
       {
         "title": "“Play Now, Arbitrate Later”—“Not So Fast,” Ninth Circuit Says",
         "outlet": "Hinshaw & Culbertson LLP",
@@ -96,7 +102,7 @@
       },
       {
         "title": "Roblox Says It’s ‘Not a Police State’ as Defends Safety Suit",
-        "outlet": "news.bloomberglaw.com",
+        "outlet": "Bloomberg Law News",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb0FkM1lMSHFhQkpYdWppWlN2blVyTzJ0WHlWZ2lyM3d4TFl3eEoyV1ZIdEgzWEFDTEZpektzZl9PRnA4RjV1N2ZBYlV0QmtadktMaXZ3dTcxSjhWRjRyZ3hGN2J5aUtDaGJ1Z2E3V1BtMm54dzdGTndqaFlURnU2Uy1NZFhvRFJuN0tCazI0Yi1ZWEJwSkp3aFpXelNjZGM?oc=5",
         "published": "2026-09-10T17:42:00Z"
       },
@@ -113,16 +119,10 @@
         "published": "2026-09-10T19:56:37Z"
       },
       {
-        "title": "Highlands Oncology Group data breach class action settlement",
+        "title": "Meta accused in class action of profiting from scam cryptocurrency ads",
         "outlet": "Top Class Actions",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVURrUlNFcTBTUzEySzNxaEVkZzJmVmgtTUd1UGhJakViOExIZjc5azBIQWpZRmotdC1XMGE3T21nY3Vud2t6TVAxbkhlZlh0dVFXN2RGTVVJbFdfZlh0bnNJaWxTNWczM09JM2E2aDFrUTJrS3FMcmdXeVJIOHBJV25uS29oazFkR0VEVXVnT2xFdU41UUJwRlJ2cVVLV1pqMVhKWUFfZjg4TnktcFFPQk9ycXJFNWhydDZiUlJGblpWaEJLdjVtalplUHRaWTg?oc=5",
-        "published": "2026-09-11T17:13:53Z"
-      },
-      {
-        "title": "Why the world needs a Club Penguin successor – that isn't Roblox",
-        "outlet": "GamesIndustry.biz",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRXFkTzdENGVHRmxSWElOYnQxTEpkaTh5WDlkZHBJb0d3akNja1pUTkxUZU55SVpZejVYQ1N1MzRlZFhBMC1vbHo5b3ppNTYwWGVJanY4QXdrZzFSZTh2VDZ3d3VTMmhCY0hwQjdfbldSNkh5YzNVYk53NFoyVGNTU3kwd0VZR3hEeDI0WXZnMWRURV9hdmc?oc=5",
-        "published": "2026-09-08T15:46:17Z"
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTHNHalFuWW5PamVaWG5lcHpOOHN3NDlvdUtaRDhrdGM2MG50YzN6SlBKbXpERWxjMHV2Nmd6MFgyZlZ4UF9iUXF2U3JFWlUzSTJNbkxJdXA1TVRMVUh4R3Vnb0RCYVEwdThMbTJHYW5KZHRjNUtrRklRNW9HcnFYalNXUmg3MUxtZzVBaUlYU0o0Rll0ckNSOGhSQ1A4ZGh3UVNOUXBqQUJ2c25pWjdKV2UzTXFBd2U4Ym9wWEYxMi1pN3hORDVXbHJRc2Y?oc=5",
+        "published": "2026-09-12T15:04:32Z"
       }
     ]
   },
