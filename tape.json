@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-11T21:42:19Z",
+  "as_of": "2026-09-12T00:16:23Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -9,10 +9,17 @@
     "query": "party:\"Roblox Corporation\"",
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
-    "total": 490,
-    "filed_7d": 3,
-    "filed_30d": 14,
+    "total": 491,
+    "filed_7d": 4,
+    "filed_30d": 15,
     "latest": [
+      {
+        "date_filed": "2026-09-11",
+        "case_name": "JE-0001 v. Roblox Corporation",
+        "docket_number": "3:26-cv-10302",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/74782245/je-0001-v-roblox-corporation/"
+      },
       {
         "date_filed": "2026-09-09",
         "case_name": "John Doe v. Roblox Corporation",
@@ -61,20 +68,13 @@
         "docket_number": "1:26-cv-01112",
         "court": "D. Del.",
         "url": "https://www.courtlistener.com/docket/74745322/reframe-technologies-llc-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-08-26",
-        "case_name": "WM-0005 v. Roblox Corporation",
-        "docket_number": "3:26-cv-08916",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74702097/wm-0005-v-roblox-corporation/"
       }
     ]
   },
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 30,
+    "hits_7d": 34,
     "latest": [
       {
         "title": "Families suing Roblox face a fight over the fine print",
@@ -90,7 +90,7 @@
       },
       {
         "title": "9th Circuit Affirms Roblox Waived Arbitration Enforcement Right in Child Safety Class Action",
-        "outlet": "law.com",
+        "outlet": "Law.com",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbF9uWWt1SUZBR05qamVwSkh5RzlCVkNjMjYwVHlJNlVobXlIWkVRcDhDajY2cVhjN2FxVHgtamFPX3ZYOWIyWE5uaHNiaTlwYnc2SFhRMmhfVXEtTVFVNGpRbF85eF9kbzlMejVjM3FsT0VmdHhfa0lSQUFTRzdqNHEwR2F5V1VrOUQ1bFozemo1MG1OUUhzaC1UajZpSVhoMmtvak5DN0VodC11bWhxMFRuel8zci1NN1V5ZmxraFdvdw?oc=5",
         "published": "2026-09-10T15:12:07Z"
       },
@@ -113,10 +113,10 @@
         "published": "2026-09-11T17:13:53Z"
       },
       {
-        "title": "Arkansas expects millions from Meta settlement",
-        "outlet": "KTLO",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUUxndDNMcEhEdjNzSFg3RU4xZi1Dd1NzNGljYk9iZjBtOEItUjZPYVRQbUpHamZLbmx6QWZobUM4dlkyaThyMUIzS3dDaGFsNU95Q2o4bm9ITGdyNWNSV0hyWExvM0pxOXF6dGN1Umt4M1UyZy0wMFUwR1ZGX2tTeTBlV2R4Zw?oc=5",
-        "published": "2026-09-06T16:35:06Z"
+        "title": "New standalone Roblox games will spread safety risks beyond the main app",
+        "outlet": "AppleInsider",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnFPM3ZaMkk4RVU4QWRndm9pZDZGZUlkWnNnb3BnSDBzcF9zd2FXYktkZFVQSU1sUlBhNnRHbUhta3BRcHdfa29DYmhhVUZfRFdpYmhqaWl0TUpJcmtWWXg4TTZpMTBjVkE1RTJFd3VPS1pRNEN2Z3QzSFhKZ3VneW1SNXNGTlk2TGpUSGZCdEE4UU9rUFRwdk5CSFlQSFZXQ2RybG9YZnZRajFHRy1felF2dTEwZw?oc=5",
+        "published": "2026-09-11T22:05:00Z"
       },
       {
         "title": "Why the world needs a Club Penguin successor – that isn't Roblox",
