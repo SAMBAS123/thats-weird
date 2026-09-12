@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-12T04:38:08Z",
+  "as_of": "2026-09-12T09:18:05Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 38,
+    "hits_7d": 34,
     "latest": [
       {
         "title": "Families suing Roblox face a fight over the fine print",
@@ -84,7 +84,7 @@
       },
       {
         "title": "“Play Now, Arbitrate Later”—“Not So Fast,” Ninth Circuit Says",
-        "outlet": "hinshawlaw.com",
+        "outlet": "Hinshaw & Culbertson LLP",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQLVd4ckJKV21KbXBPYXVaczAwamgzdEJOTWdtRHhDdVFUUDk3bmUyUnZmLVJ2MFVDcVJJaWtYRlZvdXJOcUhmdGV6Y0doYXJzUlk4MUZpcXFSTmlobjNSZGJuQ2pZOThmWW9JdGFyOENHOGdiOVNzamJwUWNndFRsM0RQN3VEY1ljaEhPOGVHNDVDbTBPbEtMOW9WSkdTSFFyTElPRkhCaWZuLVlaS1NyalJVbFFGcThqS3hnWG1yYXpZZ09DcHhFbklTV2pMOGJNY0s1aWVIc2JXVExvdlhNUVFKbE9ZbkRCYjRZaHFnN0EwWTByTlRBcERzYnktdw?oc=5",
         "published": "2026-09-10T00:00:56Z"
       },
@@ -102,7 +102,7 @@
       },
       {
         "title": "Roblox Says It’s ‘Not a Police State’ as Defends Safety Suit",
-        "outlet": "news.bloomberglaw.com",
+        "outlet": "Bloomberg Law News",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb0FkM1lMSHFhQkpYdWppWlN2blVyTzJ0WHlWZ2lyM3d4TFl3eEoyV1ZIdEgzWEFDTEZpektzZl9PRnA4RjV1N2ZBYlV0QmtadktMaXZ3dTcxSjhWRjRyZ3hGN2J5aUtDaGJ1Z2E3V1BtMm54dzdGTndqaFlURnU2Uy1NZFhvRFJuN0tCazI0Yi1ZWEJwSkp3aFpXelNjZGM?oc=5",
         "published": "2026-09-10T17:42:00Z"
       },
@@ -120,7 +120,7 @@
       },
       {
         "title": "Highlands Oncology Group data breach class action settlement",
-        "outlet": "Top Class Actions",
+        "outlet": "topclassactions.com",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVURrUlNFcTBTUzEySzNxaEVkZzJmVmgtTUd1UGhJakViOExIZjc5azBIQWpZRmotdC1XMGE3T21nY3Vud2t6TVAxbkhlZlh0dVFXN2RGTVVJbFdfZlh0bnNJaWxTNWczM09JM2E2aDFrUTJrS3FMcmdXeVJIOHBJV25uS29oazFkR0VEVXVnT2xFdU41UUJwRlJ2cVVLV1pqMVhKWUFfZjg4TnktcFFPQk9ycXJFNWhydDZiUlJGblpWaEJLdjVtalplUHRaWTg?oc=5",
         "published": "2026-09-11T17:13:53Z"
       }
