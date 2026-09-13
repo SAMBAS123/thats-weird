@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-13T20:46:56Z",
+  "as_of": "2026-09-13T23:07:53Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 42,
+    "hits_7d": 41,
     "latest": [
       {
         "title": "Roblox addiction lawsuit – parents may qualify for compensation",
@@ -102,7 +102,7 @@
       },
       {
         "title": "9th Circuit Affirms Roblox Waived Arbitration Enforcement Right in Child Safety Class Action",
-        "outlet": "law.com",
+        "outlet": "Law.com",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbF9uWWt1SUZBR05qamVwSkh5RzlCVkNjMjYwVHlJNlVobXlIWkVRcDhDajY2cVhjN2FxVHgtamFPX3ZYOWIyWE5uaHNiaTlwYnc2SFhRMmhfVXEtTVFVNGpRbF85eF9kbzlMejVjM3FsT0VmdHhfa0lSQUFTRzdqNHEwR2F5V1VrOUQ1bFozemo1MG1OUUhzaC1UajZpSVhoMmtvak5DN0VodC11bWhxMFRuel8zci1NN1V5ZmxraFdvdw?oc=5",
         "published": "2026-09-10T15:12:07Z"
       },
@@ -120,7 +120,7 @@
       },
       {
         "title": "Roblox",
-        "outlet": "Britannica",
+        "outlet": "britannica.com",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3a1liVWtOSFZlczBkSkh1Tm9XbVNuNmVoYXVnQjFERFlfZVFKQ09YMF8tQWU3ZHFTYkE3bXRlSnJkZU95UjNlTEdrS2VFWWxD?oc=5",
         "published": "2026-09-10T05:00:00Z"
       }
