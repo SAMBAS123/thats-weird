@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-13T04:43:12Z",
+  "as_of": "2026-09-13T10:14:28Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,8 +74,14 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 37,
+    "hits_7d": 40,
     "latest": [
+      {
+        "title": "Roblox addiction lawsuit – parents may qualify for compensation",
+        "outlet": "Top Class Actions",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmdIUmhJNUNLcWcwMXZ1N09tUTRZTjF4cVBCTnBYTld0aGZqanZ6RmJ3SmRjYlhJVDhUem1EazUxVHRENWVYRENmbzJObU9lNkNfbDFwUS04VkxBZm9VNi0zdEFZZTJLcm1zbUctVERBLUNKWnpKdzk5NUhGaWJlLVg2SThjblNpN0x5OFptSWx1V1JKR3N3YmI4U3pvSFhaajlJ?oc=5",
+        "published": "2026-09-11T07:00:00Z"
+      },
       {
         "title": "Video Game Addiction Lawsuit Settlement Amounts (2026)",
         "outlet": "Sokolove Law",
@@ -113,16 +119,10 @@
         "published": "2026-09-10T19:56:37Z"
       },
       {
-        "title": "$3.4M Globe Life data breach class action settlement",
-        "outlet": "Top Class Actions",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVHBDR1M0dTF6QkIxNGJ0Y2lEQ05CcUZ6Qm9iQ3NXTTV6SXlSeGRndENQemtpd3J2M2xBOXZkRFlTaklObzVtZ2xnbnJJRWplNVlkcE9jbEZ6SG1uTGFoUUU4REpIanVFb2JZNEVWVUROM0thYVZud0FOVjdlNDh3eFM3WHFyQ0JsMGwyU3REV2Y1NG42T2tqLUdVM3h4REJhaDhGUXBwdjBuMGJZb0VuaDFNb3hiRWFNSDdFamZ5YUxyM2M?oc=5",
-        "published": "2026-09-10T17:10:53Z"
-      },
-      {
-        "title": "Florida AG Sues Netflix for Data Tracking, Targeting Kids",
-        "outlet": "TheWrap",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTVB4eFZzYUJxLUVFZnZyTFNXOTBEaGtkN3FibVlLOGJsWmg4d29uQ2Fvb05IY01BMTltbWJmWVNJSDNuX0VVYnRKNTQ4VkliU1dJeG1lTERtUy1hZGlrMFRXMHBLcFVOZnFnVVVZcDNZaU5lUFNqSmR2Y1J5Nk9KdUQxR2EwLUR3enVlTGR0UUZvRDFpZGpBYUd2N2k?oc=5",
-        "published": "2026-09-09T20:21:20Z"
+        "title": "Arkansas expects millions from Meta settlement",
+        "outlet": "KTLO",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUUxndDNMcEhEdjNzSFg3RU4xZi1Dd1NzNGljYk9iZjBtOEItUjZPYVRQbUpHamZLbmx6QWZobUM4dlkyaThyMUIzS3dDaGFsNU95Q2o4bm9ITGdyNWNSV0hyWExvM0pxOXF6dGN1Umt4M1UyZy0wMFUwR1ZGX2tTeTBlV2R4Zw?oc=5",
+        "published": "2026-09-06T16:35:06Z"
       }
     ]
   },
