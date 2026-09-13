@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-13T00:00:00Z",
+  "as_of": "2026-09-13T04:43:12Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 38,
+    "hits_7d": 37,
     "latest": [
       {
         "title": "Video Game Addiction Lawsuit Settlement Amounts (2026)",
@@ -102,7 +102,7 @@
       },
       {
         "title": "New standalone Roblox games will spread safety risks beyond the main app",
-        "outlet": "appleinsider.com",
+        "outlet": "AppleInsider",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnFPM3ZaMkk4RVU4QWRndm9pZDZGZUlkWnNnb3BnSDBzcF9zd2FXYktkZFVQSU1sUlBhNnRHbUhta3BRcHdfa29DYmhhVUZfRFdpYmhqaWl0TUpJcmtWWXg4TTZpMTBjVkE1RTJFd3VPS1pRNEN2Z3QzSFhKZ3VneW1SNXNGTlk2TGpUSGZCdEE4UU9rUFRwdk5CSFlQSFZXQ2RybG9YZnZRajFHRy1felF2dTEwZw?oc=5",
         "published": "2026-09-11T22:05:00Z"
       },
@@ -113,10 +113,10 @@
         "published": "2026-09-10T19:56:37Z"
       },
       {
-        "title": "Meta accused in class action of profiting from scam cryptocurrency ads",
+        "title": "$3.4M Globe Life data breach class action settlement",
         "outlet": "Top Class Actions",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTHNHalFuWW5PamVaWG5lcHpOOHN3NDlvdUtaRDhrdGM2MG50YzN6SlBKbXpERWxjMHV2Nmd6MFgyZlZ4UF9iUXF2U3JFWlUzSTJNbkxJdXA1TVRMVUh4R3Vnb0RCYVEwdThMbTJHYW5KZHRjNUtrRklRNW9HcnFYalNXUmg3MUxtZzVBaUlYU0o0Rll0ckNSOGhSQ1A4ZGh3UVNOUXBqQUJ2c25pWjdKV2UzTXFBd2U4Ym9wWEYxMi1pN3hORDVXbHJRc2Y?oc=5",
-        "published": "2026-09-12T15:18:55Z"
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVHBDR1M0dTF6QkIxNGJ0Y2lEQ05CcUZ6Qm9iQ3NXTTV6SXlSeGRndENQemtpd3J2M2xBOXZkRFlTaklObzVtZ2xnbnJJRWplNVlkcE9jbEZ6SG1uTGFoUUU4REpIanVFb2JZNEVWVUROM0thYVZud0FOVjdlNDh3eFM3WHFyQ0JsMGwyU3REV2Y1NG42T2tqLUdVM3h4REJhaDhGUXBwdjBuMGJZb0VuaDFNb3hiRWFNSDdFamZ5YUxyM2M?oc=5",
+        "published": "2026-09-10T17:10:53Z"
       },
       {
         "title": "Florida AG Sues Netflix for Data Tracking, Targeting Kids",
