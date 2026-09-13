@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-12T22:15:09Z",
+  "as_of": "2026-09-13T00:00:00Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 40,
+    "hits_7d": 38,
     "latest": [
       {
         "title": "Video Game Addiction Lawsuit Settlement Amounts (2026)",
@@ -102,15 +102,9 @@
       },
       {
         "title": "New standalone Roblox games will spread safety risks beyond the main app",
-        "outlet": "AppleInsider",
+        "outlet": "appleinsider.com",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnFPM3ZaMkk4RVU4QWRndm9pZDZGZUlkWnNnb3BnSDBzcF9zd2FXYktkZFVQSU1sUlBhNnRHbUhta3BRcHdfa29DYmhhVUZfRFdpYmhqaWl0TUpJcmtWWXg4TTZpMTBjVkE1RTJFd3VPS1pRNEN2Z3QzSFhKZ3VneW1SNXNGTlk2TGpUSGZCdEE4UU9rUFRwdk5CSFlQSFZXQ2RybG9YZnZRajFHRy1felF2dTEwZw?oc=5",
         "published": "2026-09-11T22:05:00Z"
-      },
-      {
-        "title": "Roblox Says It’s ‘Not a Police State’ as Defends Safety Suit",
-        "outlet": "Bloomberg Law News",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTlJIeXZHZEVscUcwa3BnQ24tRWFDcHd5T25ELVdNWUFaRjNGUUlHUUdJbFotcWdkelJRNXlDRmt3c1BDRzk3UXVyay10Sjh6Y19wMGF4VFFrb19OTmEzUmVfcWd6R0llQk95eDVfYXNSV19RdllHdVlsM3hIUm8xbnZHWkZSejJoRzdaMkkzUzVlendNVk5HQ0tMV3J5SGhOcTJERmlra0xhMVQ3?oc=5",
-        "published": "2026-09-10T17:42:00Z"
       },
       {
         "title": "Florida Attorney General James Uthmeier Files Suit Against Netflix In Tech Crackdown",
@@ -120,9 +114,15 @@
       },
       {
         "title": "Meta accused in class action of profiting from scam cryptocurrency ads",
-        "outlet": "topclassactions.com",
+        "outlet": "Top Class Actions",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTHNHalFuWW5PamVaWG5lcHpOOHN3NDlvdUtaRDhrdGM2MG50YzN6SlBKbXpERWxjMHV2Nmd6MFgyZlZ4UF9iUXF2U3JFWlUzSTJNbkxJdXA1TVRMVUh4R3Vnb0RCYVEwdThMbTJHYW5KZHRjNUtrRklRNW9HcnFYalNXUmg3MUxtZzVBaUlYU0o0Rll0ckNSOGhSQ1A4ZGh3UVNOUXBqQUJ2c25pWjdKV2UzTXFBd2U4Ym9wWEYxMi1pN3hORDVXbHJRc2Y?oc=5",
         "published": "2026-09-12T15:18:55Z"
+      },
+      {
+        "title": "Florida AG Sues Netflix for Data Tracking, Targeting Kids",
+        "outlet": "TheWrap",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTVB4eFZzYUJxLUVFZnZyTFNXOTBEaGtkN3FibVlLOGJsWmg4d29uQ2Fvb05IY01BMTltbWJmWVNJSDNuX0VVYnRKNTQ4VkliU1dJeG1lTERtUy1hZGlrMFRXMHBLcFVOZnFnVVVZcDNZaU5lUFNqSmR2Y1J5Nk9KdUQxR2EwLUR3enVlTGR0UUZvRDFpZGpBYUd2N2k?oc=5",
+        "published": "2026-09-09T20:21:20Z"
       }
     ]
   },
