@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-13T14:23:28Z",
+  "as_of": "2026-09-13T18:10:42Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 39,
+    "hits_7d": 43,
     "latest": [
       {
         "title": "Roblox addiction lawsuit – parents may qualify for compensation",
@@ -87,12 +87,6 @@
         "outlet": "Sokolove Law",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFdWQ0amF0VzNnckhvMndfTGpGQkVoTkJ5a05YdHJWQTdhSEd6RUJhbG9RdlVxU1ZzanZqeVFkeDU5VmFCQUUtazh0Q19LYWxvYmprWkxLRHlfWWtraVNJa0EyTC1MVHdzcHdFcFBzbEVFNEE?oc=5",
         "published": "2026-09-10T20:59:21Z"
-      },
-      {
-        "title": "“Play Now, Arbitrate Later”—“Not So Fast,” Ninth Circuit Says",
-        "outlet": "hinshawlaw.com",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQLVd4ckJKV21KbXBPYXVaczAwamgzdEJOTWdtRHhDdVFUUDk3bmUyUnZmLVJ2MFVDcVJJaWtYRlZvdXJOcUhmdGV6Y0doYXJzUlk4MUZpcXFSTmlobjNSZGJuQ2pZOThmWW9JdGFyOENHOGdiOVNzamJwUWNndFRsM0RQN3VEY1ljaEhPOGVHNDVDbTBPbEtMOW9WSkdTSFFyTElPRkhCaWZuLVlaS1NyalJVbFFGcThqS3hnWG1yYXpZZ09DcHhFbklTV2pMOGJNY0s1aWVIc2JXVExvdlhNUVFKbE9ZbkRCYjRZaHFnN0EwWTByTlRBcERzYnktdw?oc=5",
-        "published": "2026-09-10T00:00:56Z"
       },
       {
         "title": "Five to Follow: September 2026 – the stories worth watching",
@@ -108,7 +102,7 @@
       },
       {
         "title": "9th Circuit Affirms Roblox Waived Arbitration Enforcement Right in Child Safety Class Action",
-        "outlet": "law.com",
+        "outlet": "Law.com",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbF9uWWt1SUZBR05qamVwSkh5RzlCVkNjMjYwVHlJNlVobXlIWkVRcDhDajY2cVhjN2FxVHgtamFPX3ZYOWIyWE5uaHNiaTlwYnc2SFhRMmhfVXEtTVFVNGpRbF85eF9kbzlMejVjM3FsT0VmdHhfa0lSQUFTRzdqNHEwR2F5V1VrOUQ1bFozemo1MG1OUUhzaC1UajZpSVhoMmtvak5DN0VodC11bWhxMFRuel8zci1NN1V5ZmxraFdvdw?oc=5",
         "published": "2026-09-10T15:12:07Z"
       },
@@ -123,6 +117,12 @@
         "outlet": "TheWrap",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTVB4eFZzYUJxLUVFZnZyTFNXOTBEaGtkN3FibVlLOGJsWmg4d29uQ2Fvb05IY01BMTltbWJmWVNJSDNuX0VVYnRKNTQ4VkliU1dJeG1lTERtUy1hZGlrMFRXMHBLcFVOZnFnVVVZcDNZaU5lUFNqSmR2Y1J5Nk9KdUQxR2EwLUR3enVlTGR0UUZvRDFpZGpBYUd2N2k?oc=5",
         "published": "2026-09-09T20:21:20Z"
+      },
+      {
+        "title": "Roblox",
+        "outlet": "Britannica",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3a1liVWtOSFZlczBkSkh1Tm9XbVNuNmVoYXVnQjFERFlfZVFKQ09YMF8tQWU3ZHFTYkE3bXRlSnJkZU95UjNlTEdrS2VFWWxD?oc=5",
+        "published": "2026-09-10T05:00:00Z"
       }
     ]
   },
