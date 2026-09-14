@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-14T01:01:49Z",
+  "as_of": "2026-09-14T06:14:55Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 41,
+    "hits_7d": 40,
     "latest": [
       {
         "title": "Roblox addiction lawsuit – parents may qualify for compensation",
@@ -119,10 +119,10 @@
         "published": "2026-09-09T20:21:20Z"
       },
       {
-        "title": "Roblox",
-        "outlet": "Britannica",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3a1liVWtOSFZlczBkSkh1Tm9XbVNuNmVoYXVnQjFERFlfZVFKQ09YMF8tQWU3ZHFTYkE3bXRlSnJkZU95UjNlTEdrS2VFWWxD?oc=5",
-        "published": "2026-09-10T05:00:00Z"
+        "title": "Australia moves to give users control over social media feeds",
+        "outlet": "Pocket Gamer.biz",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdnNRODNtVWMzb2lDMW56Z09uWXFCSXBvM3NpaVdwcGNiYTZBZlNiU0hyaVpMcU9ISjZmRTJTZkxqOEt4ZmJpQU9qSjloNXRrX0Q3cnNrTy1iWjJMNG84WG9yNnNlQzNZejl3NC1MNmVlYUlsYjFwY0NSS3hEeWJWaHdmZFE3VDZpSWwtUXJzWXZ0N0M2?oc=5",
+        "published": "2026-09-08T13:31:00Z"
       }
     ]
   },
