@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-14T18:36:26Z",
+  "as_of": "2026-09-14T22:28:43Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,8 +74,14 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 54,
+    "hits_7d": 51,
     "latest": [
+      {
+        "title": "Roblox Child Sex Abuse Lawsuit",
+        "outlet": "Lawsuit Information Center",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mZ1RSZGJfTFVSUnc0OGFBSkY0VlVzYWVLY0NvNFkzYkxNSVlYUnNPeUxMSXcwVXBNeGh5NGU3d1hKdlFQZGFuSVZqX0QyOWFmUHpNaVFsTy1XUy1GVm00ZnJQc2swWVBodzUxTV9rRFdEZ190aGd6X3B4Qmc?oc=5",
+        "published": "2026-09-14T13:59:44Z"
+      },
       {
         "title": "Roblox addiction lawsuit – parents may qualify for compensation",
         "outlet": "Top Class Actions",
@@ -117,12 +123,6 @@
         "outlet": "AppleInsider",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnFPM3ZaMkk4RVU4QWRndm9pZDZGZUlkWnNnb3BnSDBzcF9zd2FXYktkZFVQSU1sUlBhNnRHbUhta3BRcHdfa29DYmhhVUZfRFdpYmhqaWl0TUpJcmtWWXg4TTZpMTBjVkE1RTJFd3VPS1pRNEN2Z3QzSFhKZ3VneW1SNXNGTlk2TGpUSGZCdEE4UU9rUFRwdk5CSFlQSFZXQ2RybG9YZnZRajFHRy1felF2dTEwZw?oc=5",
         "published": "2026-09-11T22:05:00Z"
-      },
-      {
-        "title": "Florida Attorney General James Uthmeier Files Suit Against Netflix In Tech Crackdown",
-        "outlet": "NorthEscambia.com",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaHkzLVhSMkZ3RVBFQlJRd1V5UnRPZlJRYzJCSVFoSkJwQU15YXUzaXpNMVB1aVVTRGtxeWludzlockxMUlVfVlYzNTBqM1VlWDdfdXc0YlNYV1lVM2RxUDcyY3BFTUkxTnI2QnA4N3JBVEF3SGFhd1ZCbllvbWRlSnFwTGlra1h3TF9GcGh1N1E2VnltRXE2Vjctd1BrR2VOTTJPV2g5ZFd1QUhBNXEyM1hNMDVOVGQyQTRXM053?oc=5",
-        "published": "2026-09-10T19:56:37Z"
       }
     ]
   },
