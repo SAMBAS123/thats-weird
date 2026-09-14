@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-14T06:14:55Z",
+  "as_of": "2026-09-14T12:48:19Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 40,
+    "hits_7d": 47,
     "latest": [
       {
         "title": "Roblox addiction lawsuit – parents may qualify for compensation",
@@ -84,7 +84,7 @@
       },
       {
         "title": "Video Game Addiction Lawsuit Settlement Amounts (2026)",
-        "outlet": "Sokolove Law",
+        "outlet": "sokolovelaw.com",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFdWQ0amF0VzNnckhvMndfTGpGQkVoTkJ5a05YdHJWQTdhSEd6RUJhbG9RdlVxU1ZzanZqeVFkeDU5VmFCQUUtazh0Q19LYWxvYmprWkxLRHlfWWtraVNJa0EyTC1MVHdzcHdFcFBzbEVFNEE?oc=5",
         "published": "2026-09-10T20:59:21Z"
       },
@@ -96,7 +96,7 @@
       },
       {
         "title": "New standalone Roblox games will spread safety risks beyond the main app",
-        "outlet": "AppleInsider",
+        "outlet": "appleinsider.com",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnFPM3ZaMkk4RVU4QWRndm9pZDZGZUlkWnNnb3BnSDBzcF9zd2FXYktkZFVQSU1sUlBhNnRHbUhta3BRcHdfa29DYmhhVUZfRFdpYmhqaWl0TUpJcmtWWXg4TTZpMTBjVkE1RTJFd3VPS1pRNEN2Z3QzSFhKZ3VneW1SNXNGTlk2TGpUSGZCdEE4UU9rUFRwdk5CSFlQSFZXQ2RybG9YZnZRajFHRy1felF2dTEwZw?oc=5",
         "published": "2026-09-11T22:05:00Z"
       },
@@ -119,10 +119,10 @@
         "published": "2026-09-09T20:21:20Z"
       },
       {
-        "title": "Australia moves to give users control over social media feeds",
-        "outlet": "Pocket Gamer.biz",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdnNRODNtVWMzb2lDMW56Z09uWXFCSXBvM3NpaVdwcGNiYTZBZlNiU0hyaVpMcU9ISjZmRTJTZkxqOEt4ZmJpQU9qSjloNXRrX0Q3cnNrTy1iWjJMNG84WG9yNnNlQzNZejl3NC1MNmVlYUlsYjFwY0NSS3hEeWJWaHdmZFE3VDZpSWwtUXJzWXZ0N0M2?oc=5",
-        "published": "2026-09-08T13:31:00Z"
+        "title": "Roblox plan to grow their absurd gaming empire even further by letting devs release games as \"standalone apps\", potentially via Steam, Epic, and GOG",
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZWp1cnBVSlhnR3VqM2tXOFdFalAwVEk3cVpFdmNPa0hrRHhoVE1XUG0wRDZQQlhOUlUwZU55SkZ5U2x4Um5DZlRQNkJ4b3k1T0VrTHpOYjltQ1FNWndOU1NDaktMZVNZdlNxV1hLLTN3VFEya1NlLXdGU05JblJrb1daak0wVEJGYTktUmNFbWMwSWMwamYwSE8tYU9XSDFXcEhDLVU1bVIzVlhZbFVxN3ZELVlMVUFwb2dRdmxfdzM4bWcxLWVxN2xRZjJEb3BhX0w5TTc5ellhTG01eDBwMlV0SWd2Q1owV0ZtNXlvanV1NHJNQ3QyZ1hmeWdmVGI5emxmczlIVQ?oc=5",
+        "published": "2026-09-14T11:36:14Z"
       }
     ]
   },
