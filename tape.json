@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-15T18:10:46Z",
+  "as_of": "2026-09-15T21:17:51Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -9,10 +9,17 @@
     "query": "party:\"Roblox Corporation\"",
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
-    "total": 492,
-    "filed_7d": 5,
-    "filed_30d": 16,
+    "total": 493,
+    "filed_7d": 6,
+    "filed_30d": 17,
     "latest": [
+      {
+        "date_filed": "2026-09-15",
+        "case_name": "Graff v. Roblox Corporation",
+        "docket_number": "1:26-cv-11287",
+        "court": "N.D. Ill.",
+        "url": "https://www.courtlistener.com/docket/74793401/graff-v-roblox-corporation/"
+      },
       {
         "date_filed": "2026-09-14",
         "case_name": "HL-0003 v. Roblox Corporation",
@@ -61,20 +68,13 @@
         "docket_number": "1:26-cv-07575",
         "court": "S.D.N.Y.",
         "url": "https://www.courtlistener.com/docket/74748107/roblox-corporation-v-the-individuals-corporations-limited-liability/"
-      },
-      {
-        "date_filed": "2026-09-03",
-        "case_name": "Keaton v. Roblox Corporation",
-        "docket_number": "3:26-cv-09491",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74745646/keaton-v-roblox-corporation/"
       }
     ]
   },
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 50,
+    "hits_7d": 45,
     "latest": [
       {
         "title": "Roblox Child Sex Abuse Lawsuit",
@@ -95,6 +95,12 @@
         "published": "2026-09-14T14:00:00Z"
       },
       {
+        "title": "Roblox Refuses To Testify at Texas House Hearing on Child Safety",
+        "outlet": "Texas Scorecard",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWHJPdFp0RExRanJCS3J1VWxvazNNM05KMzVIM2kzZ09aazRMWjlxVHZHTG5mLUlCcS1ibTZ0aXpTbU1ENlBHS3RYQ0FkMk5jRmg2MnVHYzBzT256NHU1YUxYUEs4azFkQXJlby1tM1BPS1NzUVJpRHQ0M2NjM2kydm9pRFZfYUZjMnBVWEx3YnJtZElNZThMUUlZV3pveDA?oc=5",
+        "published": "2026-09-15T18:05:10Z"
+      },
+      {
         "title": "Video Game Addiction Lawsuit Settlement Amounts (2026)",
         "outlet": "Sokolove Law",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFdWQ0amF0VzNnckhvMndfTGpGQkVoTkJ5a05YdHJWQTdhSEd6RUJhbG9RdlVxU1ZzanZqeVFkeDU5VmFCQUUtazh0Q19LYWxvYmprWkxLRHlfWWtraVNJa0EyTC1MVHdzcHdFcFBzbEVFNEE?oc=5",
@@ -111,12 +117,6 @@
         "outlet": "The Modern Regulator",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nS1N1WG9tS1Z4dXRIV3h0aWt3b1lFSW44NTYxQjE2TzE3MXBuWlpWbkFlemFwbkZ5TGxOdmJFaXU2enktMFh6ZE1VYXJ2WWVJZW9ZbEJvX2lrcFQtTUhuSnNNeGRnbmRqS0lvMy1R?oc=5",
         "published": "2026-09-08T23:54:10Z"
-      },
-      {
-        "title": "9th Circuit Affirms Roblox Waived Arbitration Enforcement Right in Child Safety Class Action",
-        "outlet": "Law.com",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbF9uWWt1SUZBR05qamVwSkh5RzlCVkNjMjYwVHlJNlVobXlIWkVRcDhDajY2cVhjN2FxVHgtamFPX3ZYOWIyWE5uaHNiaTlwYnc2SFhRMmhfVXEtTVFVNGpRbF85eF9kbzlMejVjM3FsT0VmdHhfa0lSQUFTRzdqNHEwR2F5V1VrOUQ1bFozemo1MG1OUUhzaC1UajZpSVhoMmtvak5DN0VodC11bWhxMFRuel8zci1NN1V5ZmxraFdvdw?oc=5",
-        "published": "2026-09-10T15:12:07Z"
       },
       {
         "title": "New standalone Roblox games will spread safety risks beyond the main app",
@@ -170,7 +170,5 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": [
-    "courtlistener: The read operation timed out"
-  ]
+  "errors": []
 }
