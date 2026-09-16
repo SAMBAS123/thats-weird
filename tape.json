@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-16T18:53:07Z",
+  "as_of": "2026-09-16T22:08:23Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,11 +74,11 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 52,
+    "hits_7d": 49,
     "latest": [
       {
         "title": "Roblox Child Sex Abuse Lawsuit",
-        "outlet": "lawsuit-information-center.com",
+        "outlet": "Lawsuit Information Center",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mZ1RSZGJfTFVSUnc0OGFBSkY0VlVzYWVLY0NvNFkzYkxNSVlYUnNPeUxMSXcwVXBNeGh5NGU3d1hKdlFQZGFuSVZqX0QyOWFmUHpNaVFsTy1XUy1GVm00ZnJQc2swWVBodzUxTV9rRFdEZ190aGd6X3B4Qmc?oc=5",
         "published": "2026-09-14T13:59:44Z"
       },
@@ -108,21 +108,21 @@
       },
       {
         "title": "Wealthy NYC 'Roblox' widow claims male escort scammed her out of $6M: 'Svengali-like control'",
-        "outlet": "New York Post",
+        "outlet": "nypost.com",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXNpVC15NUx1eDhMSWg0WEM0SmVXU3RtbTBBdURiam1oWDhMbVg1aGlxMmlPOEVtOUoyclRZdGRBNVJmWU9XVkZOVEltZ2JMdy1nLTktUjhDUVp3MnZ3cnJfTnFQeWs3TmNQM2d1RXhKc3BwSkVDTGRWRHpGQzJGd1RXd2FESktwN2QzdGdzeFd6LTdfTzFBWlB6T3lIOWVfNV91dnlla3h5bzNSTG5STjRkbE5vQ3IzNEtIVENSUkZOaTJq?oc=5",
-        "published": "2026-09-16T11:00:00Z"
+        "published": "2026-09-16T19:55:29Z"
       },
       {
-        "title": "Gaming platform Roblox sues British charity",
-        "outlet": "City AM",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Vaml2dHd6TUdCalhaVUgxQVo1bFU3U1JHREc2Q2xpRUUtY2w4X0dNQlZLVGhQeGlXdDRuV2hqanJOV0RUa3A0OWJlUjZ6OEJmWG10YlF3dEs5OG9RV2o1X3BLdkl4dUpybjl5OERzTkM0ZHE1emc?oc=5",
-        "published": "2026-09-14T14:55:23Z"
+        "title": "Exclusive details: Widow of late Roblox mogul says male escort fleeced her for $6 million",
+        "outlet": "The Independent",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUUwLU5xamVkb2hMSFlHM1lrVFFnY0w1cDJmNFRVTm9SV05IeWhram80ck1BcG54RHlUM1I2VzhIaUZIeVpDYUNiUkFLaTJ4TWNnTk5RUkkybU1DSDdqRmRXYVlrX2dhRnQzWnVsV1NuRVFaa2Zid28zY19pbkM5NkZ4amUxTXZKNGhIZTBMdHZpRlFOWlFBaTNuUWJENXRkRWc?oc=5",
+        "published": "2026-09-16T11:24:00Z"
       },
       {
-        "title": "EU Tags Roblox ‘Very Large’ Platform, 4-Month Clock [2026]",
-        "outlet": "tech-insider.org",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rYXRJeU4yenNqYTlwSm0xb1djeVBYMHV2YjNjTzRWNFRfVjdCN1I0b3RjRV81U3l3c0p6amF5dWxfMDdPQjlFV3dSNUNRbjhHTzllYkc5Tm5CUEhPR0RUcy1icWJvRDRyekE1aUJMSDkzdXNMcm5OME1DVQ?oc=5",
-        "published": "2026-09-16T00:44:40Z"
+        "title": "Roblox Widow Sues Male Escort Who She Gave $6M",
+        "outlet": "The Daily Beast",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQakVUMVlyX2xXZlZud1lqZWdpUEMtVTI3ZWhGYTdIVm0ySnFNZGRLTlhWZjBuQmZidkhwSW9UWHVubDBGclMzQVZxSFdPUHd0eThZZzlsaEk1WGlEdFg4RmRyeGF0TDVYMDdwS09tNldrdzBaX2NkSTZDNXlnNFI0Rm9n?oc=5",
+        "published": "2026-09-16T18:02:00Z"
       }
     ]
   },
