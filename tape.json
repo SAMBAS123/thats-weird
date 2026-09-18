@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-18T09:43:23Z",
+  "as_of": "2026-09-18T14:30:24Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -83,16 +83,16 @@
         "published": "2026-09-14T13:59:44Z"
       },
       {
-        "title": "Wealthy NYC 'Roblox' widow claims male escort scammed her out of $6M: 'Svengali-like control'",
-        "outlet": "nypost.com",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXNpVC15NUx1eDhMSWg0WEM0SmVXU3RtbTBBdURiam1oWDhMbVg1aGlxMmlPOEVtOUoyclRZdGRBNVJmWU9XVkZOVEltZ2JMdy1nLTktUjhDUVp3MnZ3cnJfTnFQeWs3TmNQM2d1RXhKc3BwSkVDTGRWRHpGQzJGd1RXd2FESktwN2QzdGdzeFd6LTdfTzFBWlB6T3lIOWVfNV91dnlla3h5bzNSTG5STjRkbE5vQ3IzNEtIVENSUkZOaTJq?oc=5",
-        "published": "2026-09-16T19:55:29Z"
-      },
-      {
         "title": "Roblox Lawyer Q&A | Explaining Roblox Legal Action",
-        "outlet": "Sokolove Law",
+        "outlet": "sokolovelaw.com",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QN2JOVTQ5WkRMUTdxcktnM2xVNEw4OXRwYWJ2VlJtRDIwOTVqNC1ZdFktYzR0YU95RG9DYWlwQU5uTzJMMjVJdjdCaVhYUmNJc0pSU0lnSVZxRVFhc2JiQ2w0SHA2SlR2RndQellsT1g3VURfdGFQMDln?oc=5",
         "published": "2026-09-16T14:53:14Z"
+      },
+      {
+        "title": "Wealthy NYC 'Roblox' widow claims male escort scammed her out of $6M: 'Svengali-like control'",
+        "outlet": "New York Post",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXNpVC15NUx1eDhMSWg0WEM0SmVXU3RtbTBBdURiam1oWDhMbVg1aGlxMmlPOEVtOUoyclRZdGRBNVJmWU9XVkZOVEltZ2JMdy1nLTktUjhDUVp3MnZ3cnJfTnFQeWs3TmNQM2d1RXhKc3BwSkVDTGRWRHpGQzJGd1RXd2FESktwN2QzdGdzeFd6LTdfTzFBWlB6T3lIOWVfNV91dnlla3h5bzNSTG5STjRkbE5vQ3IzNEtIVENSUkZOaTJq?oc=5",
+        "published": "2026-09-16T19:55:29Z"
       },
       {
         "title": "Roblox Arbitration Clause Opposed by U.S. Senators in Child Sexual Assault Lawsuit Appeal",
@@ -170,5 +170,7 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": []
+  "errors": [
+    "courtlistener: The read operation timed out"
+  ]
 }
