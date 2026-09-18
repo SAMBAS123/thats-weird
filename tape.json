@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-18T18:26:15Z",
+  "as_of": "2026-09-18T21:39:39Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -9,10 +9,17 @@
     "query": "party:\"Roblox Corporation\"",
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
-    "total": 494,
-    "filed_7d": 4,
-    "filed_30d": 17,
+    "total": 495,
+    "filed_7d": 5,
+    "filed_30d": 18,
     "latest": [
+      {
+        "date_filed": "2026-09-18",
+        "case_name": "Arndt v. Roblox Corporation",
+        "docket_number": "0:26-cv-04050",
+        "court": "D. Minnesota",
+        "url": "https://www.courtlistener.com/docket/74815821/arndt-v-roblox-corporation/"
+      },
       {
         "date_filed": "2026-09-17",
         "case_name": "Newsome v. Roblox Corporation",
@@ -61,20 +68,13 @@
         "docket_number": "3:26-cv-10091",
         "court": "N.D. Cal.",
         "url": "https://www.courtlistener.com/docket/74766868/aw-0019-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-09-03",
-        "case_name": "Jane Doe GS-0007 v. Roblox Corporation",
-        "docket_number": "3:26-cv-09585",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74749118/jane-doe-gs-0007-v-roblox-corporation/"
       }
     ]
   },
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 45,
+    "hits_7d": 46,
     "latest": [
       {
         "title": "Roblox Child Sex Abuse Lawsuit",
@@ -113,16 +113,16 @@
         "published": "2026-09-17T09:42:43Z"
       },
       {
-        "title": "Roblox Widow Sues Male Escort Who She Gave $6M",
-        "outlet": "The Daily Beast",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQakVUMVlyX2xXZlZud1lqZWdpUEMtVTI3ZWhGYTdIVm0ySnFNZGRLTlhWZjBuQmZidkhwSW9UWHVubDBGclMzQVZxSFdPUHd0eThZZzlsaEk1WGlEdFg4RmRyeGF0TDVYMDdwS09tNldrdzBaX2NkSTZDNXlnNFI0Rm9n?oc=5",
-        "published": "2026-09-16T18:02:00Z"
-      },
-      {
         "title": "Exclusive details: Widow of late Roblox mogul says male escort fleeced her for $6 million",
         "outlet": "The Independent",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUUwLU5xamVkb2hMSFlHM1lrVFFnY0w1cDJmNFRVTm9SV05IeWhram80ck1BcG54RHlUM1I2VzhIaUZIeVpDYUNiUkFLaTJ4TWNnTk5RUkkybU1DSDdqRmRXYVlrX2dhRnQzWnVsV1NuRVFaa2Zid28zY19pbkM5NkZ4amUxTXZKNGhIZTBMdHZpRlFOWlFBaTNuUWJENXRkRWc?oc=5",
         "published": "2026-09-16T11:24:00Z"
+      },
+      {
+        "title": "Roblox Widow Sues Male Escort Who She Gave $6M",
+        "outlet": "The Daily Beast",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQakVUMVlyX2xXZlZud1lqZWdpUEMtVTI3ZWhGYTdIVm0ySnFNZGRLTlhWZjBuQmZidkhwSW9UWHVubDBGclMzQVZxSFdPUHd0eThZZzlsaEk1WGlEdFg4RmRyeGF0TDVYMDdwS09tNldrdzBaX2NkSTZDNXlnNFI0Rm9n?oc=5",
+        "published": "2026-09-16T18:02:00Z"
       }
     ]
   },
