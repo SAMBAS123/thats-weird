@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-18T14:30:24Z",
+  "as_of": "2026-09-18T18:26:15Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 47,
+    "hits_7d": 45,
     "latest": [
       {
         "title": "Roblox Child Sex Abuse Lawsuit",
@@ -84,15 +84,9 @@
       },
       {
         "title": "Roblox Lawyer Q&A | Explaining Roblox Legal Action",
-        "outlet": "sokolovelaw.com",
+        "outlet": "Sokolove Law",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QN2JOVTQ5WkRMUTdxcktnM2xVNEw4OXRwYWJ2VlJtRDIwOTVqNC1ZdFktYzR0YU95RG9DYWlwQU5uTzJMMjVJdjdCaVhYUmNJc0pSU0lnSVZxRVFhc2JiQ2w0SHA2SlR2RndQellsT1g3VURfdGFQMDln?oc=5",
         "published": "2026-09-16T14:53:14Z"
-      },
-      {
-        "title": "Wealthy NYC 'Roblox' widow claims male escort scammed her out of $6M: 'Svengali-like control'",
-        "outlet": "New York Post",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXNpVC15NUx1eDhMSWg0WEM0SmVXU3RtbTBBdURiam1oWDhMbVg1aGlxMmlPOEVtOUoyclRZdGRBNVJmWU9XVkZOVEltZ2JMdy1nLTktUjhDUVp3MnZ3cnJfTnFQeWs3TmNQM2d1RXhKc3BwSkVDTGRWRHpGQzJGd1RXd2FESktwN2QzdGdzeFd6LTdfTzFBWlB6T3lIOWVfNV91dnlla3h5bzNSTG5STjRkbE5vQ3IzNEtIVENSUkZOaTJq?oc=5",
-        "published": "2026-09-16T19:55:29Z"
       },
       {
         "title": "Roblox Arbitration Clause Opposed by U.S. Senators in Child Sexual Assault Lawsuit Appeal",
@@ -107,22 +101,28 @@
         "published": "2026-09-15T18:05:10Z"
       },
       {
+        "title": "Wealthy NYC 'Roblox' widow claims male escort scammed her out of $6M: 'Svengali-like control'",
+        "outlet": "New York Post",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXNpVC15NUx1eDhMSWg0WEM0SmVXU3RtbTBBdURiam1oWDhMbVg1aGlxMmlPOEVtOUoyclRZdGRBNVJmWU9XVkZOVEltZ2JMdy1nLTktUjhDUVp3MnZ3cnJfTnFQeWs3TmNQM2d1RXhKc3BwSkVDTGRWRHpGQzJGd1RXd2FESktwN2QzdGdzeFd6LTdfTzFBWlB6T3lIOWVfNV91dnlla3h5bzNSTG5STjRkbE5vQ3IzNEtIVENSUkZOaTJq?oc=5",
+        "published": "2026-09-16T19:55:29Z"
+      },
+      {
         "title": "Roblox Games, Piracy Platforms Fertile Ground for Terrorist Grooming",
         "outlet": "Security Boulevard",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVVR4U3pYeDY1X25RUS1UMFl1UUxiUDBwbzNuNXlZSHFUdFNNeTl6V1dFUHk0OGpRQzhfX1hLVXBoRERjeGMya3dCXzJUQzlpbVFIWFFiR1E0SEtBVHk0NS1ldTB5UWlWeEFBQWVaTWtqb1JIejBKSWNwUGx2aFc0ZkZZX1ZXNlNUMERjYW96Z2FKczlxQ0cwZWQ5RHNIUUUyRG5fWV9qUGlIQQ?oc=5",
         "published": "2026-09-17T09:42:43Z"
       },
       {
-        "title": "Exclusive details: Widow of late Roblox mogul says male escort fleeced her for $6 million",
-        "outlet": "The Independent",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUUwLU5xamVkb2hMSFlHM1lrVFFnY0w1cDJmNFRVTm9SV05IeWhram80ck1BcG54RHlUM1I2VzhIaUZIeVpDYUNiUkFLaTJ4TWNnTk5RUkkybU1DSDdqRmRXYVlrX2dhRnQzWnVsV1NuRVFaa2Zid28zY19pbkM5NkZ4amUxTXZKNGhIZTBMdHZpRlFOWlFBaTNuUWJENXRkRWc?oc=5",
-        "published": "2026-09-16T11:24:00Z"
-      },
-      {
         "title": "Roblox Widow Sues Male Escort Who She Gave $6M",
         "outlet": "The Daily Beast",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQakVUMVlyX2xXZlZud1lqZWdpUEMtVTI3ZWhGYTdIVm0ySnFNZGRLTlhWZjBuQmZidkhwSW9UWHVubDBGclMzQVZxSFdPUHd0eThZZzlsaEk1WGlEdFg4RmRyeGF0TDVYMDdwS09tNldrdzBaX2NkSTZDNXlnNFI0Rm9n?oc=5",
         "published": "2026-09-16T18:02:00Z"
+      },
+      {
+        "title": "Exclusive details: Widow of late Roblox mogul says male escort fleeced her for $6 million",
+        "outlet": "The Independent",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUUwLU5xamVkb2hMSFlHM1lrVFFnY0w1cDJmNFRVTm9SV05IeWhram80ck1BcG54RHlUM1I2VzhIaUZIeVpDYUNiUkFLaTJ4TWNnTk5RUkkybU1DSDdqRmRXYVlrX2dhRnQzWnVsV1NuRVFaa2Zid28zY19pbkM5NkZ4amUxTXZKNGhIZTBMdHZpRlFOWlFBaTNuUWJENXRkRWc?oc=5",
+        "published": "2026-09-16T11:24:00Z"
       }
     ]
   },
@@ -170,7 +170,5 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": [
-    "courtlistener: The read operation timed out"
-  ]
+  "errors": []
 }
