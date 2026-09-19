@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-19T20:36:49Z",
+  "as_of": "2026-09-19T23:01:09Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 46,
+    "hits_7d": 47,
     "latest": [
       {
         "title": "Roblox Child Sex Abuse Lawsuit",
@@ -83,22 +83,16 @@
         "published": "2026-09-14T13:59:44Z"
       },
       {
-        "title": "Roblox Lawyer Q&A | Explaining Roblox Legal Action",
-        "outlet": "Sokolove Law",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QN2JOVTQ5WkRMUTdxcktnM2xVNEw4OXRwYWJ2VlJtRDIwOTVqNC1ZdFktYzR0YU95RG9DYWlwQU5uTzJMMjVJdjdCaVhYUmNJc0pSU0lnSVZxRVFhc2JiQ2w0SHA2SlR2RndQellsT1g3VURfdGFQMDln?oc=5",
-        "published": "2026-09-16T14:53:14Z"
+        "title": "Roblox Arbitration Clause Opposed by U.S. Senators in Child Sexual Assault Lawsuit Appeal",
+        "outlet": "AboutLawsuits.com",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTc4NTg3ZU1LVEZzMmt4LTVmUTAwUFdWMWxnSFFLajRRbW8zNlEtNWo5UWhUSzllS2FJNEZaRGFfTk1SRG55Rm8xZXQtcW92ZFoxVGpNR2d5RnhGbDBKc2szOHVIWk1DbS1qOGpGNmhSc3RpTXdQQTNVYi0zVVR2Um9LSktsZVo1UTJoUnNzYUVGWVZvQVRiNTl0aE9jY1F3NGx6Q2haRjZZUkYzUEg3amFxY09XcmlaV1otdDB2MGlzRWcxT0sw?oc=5",
+        "published": "2026-09-14T14:00:00Z"
       },
       {
         "title": "Roblox Refuses To Appear at Texas House Hearing on Child Safety",
         "outlet": "Texas Scorecard",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWHJPdFp0RExRanJCS3J1VWxvazNNM05KMzVIM2kzZ09aazRMWjlxVHZHTG5mLUlCcS1ibTZ0aXpTbU1ENlBHS3RYQ0FkMk5jRmg2MnVHYzBzT256NHU1YUxYUEs4azFkQXJlby1tM1BPS1NzUVJpRHQ0M2NjM2kydm9pRFZfYUZjMnBVWEx3YnJtZElNZThMUUlZV3pveDA?oc=5",
         "published": "2026-09-15T18:05:10Z"
-      },
-      {
-        "title": "Roblox Arbitration Clause Opposed by U.S. Senators in Child Sexual Assault Lawsuit Appeal",
-        "outlet": "AboutLawsuits.com",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTc4NTg3ZU1LVEZzMmt4LTVmUTAwUFdWMWxnSFFLajRRbW8zNlEtNWo5UWhUSzllS2FJNEZaRGFfTk1SRG55Rm8xZXQtcW92ZFoxVGpNR2d5RnhGbDBKc2szOHVIWk1DbS1qOGpGNmhSc3RpTXdQQTNVYi0zVVR2Um9LSktsZVo1UTJoUnNzYUVGWVZvQVRiNTl0aE9jY1F3NGx6Q2haRjZZUkYzUEg3amFxY09XcmlaV1otdDB2MGlzRWcxT0sw?oc=5",
-        "published": "2026-09-14T14:00:00Z"
       },
       {
         "title": "Wealthy NYC 'Roblox' widow claims male escort scammed her out of $6M: 'Svengali-like control'",
@@ -113,16 +107,22 @@
         "published": "2026-09-18T21:36:00Z"
       },
       {
-        "title": "Roblox Struggles To Shake LA County Public Nuisance Suit",
-        "outlet": "Law360",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52NDZzZ3kyQ1NEYUI4djM2ZTF5R21mVFlHX2g4eVFSQUczVTlqdGdvUXhmSkk4MkNyQ2JIVURnbzU1Ymw4Z1RBOC1OM1FUSE5vYml6Si130gFWQVVfeXFMTnY0NnNneTJDU0RhQjh2MzZlMXlHbWZUWUdfaDh5UVJBRzNVOWp0Z29ReGZKSTgyQ3JDYkhVRGdvNTVibDhnVEE4LU4zUVRITm9iaXpKLXc?oc=5",
-        "published": "2026-09-19T02:53:00Z"
+        "title": "Judge weighs Section 230 protection for Roblox age verification",
+        "outlet": "Daily Journal",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSlZCM2p3T0dJVkJjczFlNy1ob1dZN1hXSTJKNTc5OXJxbV9va1FnSGlRY1Ffb05ITWZRWk9MMjdGOUphNjhrMWYwTFk5QzdKLWhmR0hBeWJJLXhweXgzZ0lpZWFGNVFxcmxqWUVXOTlSSGVYN0owLWVnbmJmZlB4NmdLbUc0aHVrZ0I1MFJGbTdiU2ttdGpESjZsOTlyV1g3X3dQUGVLTU9adTg?oc=5",
+        "published": "2026-09-19T10:50:43Z"
       },
       {
         "title": "Roblox Games, Piracy Platforms Fertile Ground for Terrorist Grooming",
         "outlet": "Security Boulevard",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVVR4U3pYeDY1X25RUS1UMFl1UUxiUDBwbzNuNXlZSHFUdFNNeTl6V1dFUHk0OGpRQzhfX1hLVXBoRERjeGMya3dCXzJUQzlpbVFIWFFiR1E0SEtBVHk0NS1ldTB5UWlWeEFBQWVaTWtqb1JIejBKSWNwUGx2aFc0ZkZZX1ZXNlNUMERjYW96Z2FKczlxQ0cwZWQ5RHNIUUUyRG5fWV9qUGlIQQ?oc=5",
         "published": "2026-09-17T09:42:43Z"
+      },
+      {
+        "title": "Roblox Struggles To Shake LA County Public Nuisance Suit",
+        "outlet": "Law360",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52NDZzZ3kyQ1NEYUI4djM2ZTF5R21mVFlHX2g4eVFSQUczVTlqdGdvUXhmSkk4MkNyQ2JIVURnbzU1Ymw4Z1RBOC1OM1FUSE5vYml6Si130gFWQVVfeXFMTnY0NnNneTJDU0RhQjh2MzZlMXlHbWZUWUdfaDh5UVJBRzNVOWp0Z29ReGZKSTgyQ3JDYkhVRGdvNTVibDhnVEE4LU4zUVRITm9iaXpKLXc?oc=5",
+        "published": "2026-09-19T02:53:00Z"
       }
     ]
   },
