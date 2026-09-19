@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-19T00:18:36Z",
+  "as_of": "2026-09-19T05:50:58Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,13 +74,19 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 45,
+    "hits_7d": 46,
     "latest": [
       {
         "title": "Roblox Child Sex Abuse Lawsuit",
         "outlet": "Lawsuit Information Center",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mZ1RSZGJfTFVSUnc0OGFBSkY0VlVzYWVLY0NvNFkzYkxNSVlYUnNPeUxMSXcwVXBNeGh5NGU3d1hKdlFQZGFuSVZqX0QyOWFmUHpNaVFsTy1XUy1GVm00ZnJQc2swWVBodzUxTV9rRFdEZ190aGd6X3B4Qmc?oc=5",
         "published": "2026-09-14T13:59:44Z"
+      },
+      {
+        "title": "Wealthy NYC 'Roblox' widow claims male escort scammed her out of $6M: 'Svengali-like control'",
+        "outlet": "New York Post",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXNpVC15NUx1eDhMSWg0WEM0SmVXU3RtbTBBdURiam1oWDhMbVg1aGlxMmlPOEVtOUoyclRZdGRBNVJmWU9XVkZOVEltZ2JMdy1nLTktUjhDUVp3MnZ3cnJfTnFQeWs3TmNQM2d1RXhKc3BwSkVDTGRWRHpGQzJGd1RXd2FESktwN2QzdGdzeFd6LTdfTzFBWlB6T3lIOWVfNV91dnlla3h5bzNSTG5STjRkbE5vQ3IzNEtIVENSUkZOaTJq?oc=5",
+        "published": "2026-09-16T19:55:29Z"
       },
       {
         "title": "Roblox Lawyer Q&A | Explaining Roblox Legal Action",
@@ -101,22 +107,16 @@
         "published": "2026-09-15T18:05:10Z"
       },
       {
-        "title": "Wealthy NYC 'Roblox' widow claims male escort scammed her out of $6M: 'Svengali-like control'",
-        "outlet": "New York Post",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXNpVC15NUx1eDhMSWg0WEM0SmVXU3RtbTBBdURiam1oWDhMbVg1aGlxMmlPOEVtOUoyclRZdGRBNVJmWU9XVkZOVEltZ2JMdy1nLTktUjhDUVp3MnZ3cnJfTnFQeWs3TmNQM2d1RXhKc3BwSkVDTGRWRHpGQzJGd1RXd2FESktwN2QzdGdzeFd6LTdfTzFBWlB6T3lIOWVfNV91dnlla3h5bzNSTG5STjRkbE5vQ3IzNEtIVENSUkZOaTJq?oc=5",
-        "published": "2026-09-16T19:55:29Z"
-      },
-      {
         "title": "'I now realize I was foolish': Widow of early Roblox programmer allegedly defrauded out of $6 million trying to buy out a man from his escort contract",
         "outlet": "Fortune",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNnl0cVhJelNTeGQ2NmVPU2F6RHpxMHBfR19RVXJ5U0ZuVDI0TGR3S1F3TW9ZcU5iOWdBQmJDejFkOVk3R0NWVGdLc1FwWW01RWRvbmhpaXJIUnZ0V0w3a04tWjBJQTZlVlc2UjMtVGc5OTVMSW1JWEF2ekNqZkNEb0NIMS0tcGhocXdJ?oc=5",
         "published": "2026-09-18T21:36:00Z"
       },
       {
-        "title": "Exclusive details: Widow of late Roblox mogul says male escort fleeced her for $6 million",
-        "outlet": "The Independent",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUUwLU5xamVkb2hMSFlHM1lrVFFnY0w1cDJmNFRVTm9SV05IeWhram80ck1BcG54RHlUM1I2VzhIaUZIeVpDYUNiUkFLaTJ4TWNnTk5RUkkybU1DSDdqRmRXYVlrX2dhRnQzWnVsV1NuRVFaa2Zid28zY19pbkM5NkZ4amUxTXZKNGhIZTBMdHZpRlFOWlFBaTNuUWJENXRkRWc?oc=5",
-        "published": "2026-09-16T11:24:00Z"
+        "title": "Judge weighs Section 230 protection for Roblox age verification",
+        "outlet": "Daily Journal",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSlZCM2p3T0dJVkJjczFlNy1ob1dZN1hXSTJKNTc5OXJxbV9va1FnSGlRY1Ffb05ITWZRWk9MMjdGOUphNjhrMWYwTFk5QzdKLWhmR0hBeWJJLXhweXgzZ0lpZWFGNVFxcmxqWUVXOTlSSGVYN0owLWVnbmJmZlB4NmdLbUc0aHVrZ0I1MFJGbTdiU2ttdGpESjZsOTlyV1g3X3dQUGVLTU9adTg?oc=5",
+        "published": "2026-09-18T22:50:43Z"
       },
       {
         "title": "Roblox Games, Piracy Platforms Fertile Ground for Terrorist Grooming",
