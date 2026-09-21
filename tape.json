@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-20T21:30:53Z",
+  "as_of": "2026-09-21T00:14:42Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 46,
+    "hits_7d": 49,
     "latest": [
       {
         "title": "Roblox Child Sex Abuse Lawsuit",
@@ -107,16 +107,16 @@
         "published": "2026-09-14T14:00:00Z"
       },
       {
-        "title": "Burrows blasts Roblox for refusing to testify at state legislative hearing",
-        "outlet": "The Center Square",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTlNwUlZTclg4WUx2VV9aVllvbGpTTjBQV3h5T05rSDRtUm5peXZ0ZWgyb1RzSkRiZlpQbXlYaWxPMUVoa1dLWFl5bUFLS19IQlhxenFVQlNPWXd2SUsweUszV08wRnFRcjE1ekhxLUVjS0p3ZEFENDJpWXZ0Y1l2ZTlCRk8zZncwMkpsbHRPaWzSAZYBQVVfeXFMTjZPR2hidEpnNWVISF9oSWNOS1JCeEl1b2lQZkYxNFhGT2lWVmhvSGpVd0xqT3I1Wll0Qk92TVppUVRXT19LTUlTV1RMQ0dOLVNpYnhjTVZHTDVpT1BJUGpOOVVvQzF3Y0pqdVZ0Ri1wSnBJZHA3ZFNFVi1SbFpCcnJPN2NXQ0tkTDJZc01nV0stQmtraHhB?oc=5",
-        "published": "2026-09-16T22:11:00Z"
-      },
-      {
         "title": "Wealthy NYC 'Roblox' widow claims male escort scammed her out of $6M: 'Svengali-like control'",
         "outlet": "New York Post",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXNpVC15NUx1eDhMSWg0WEM0SmVXU3RtbTBBdURiam1oWDhMbVg1aGlxMmlPOEVtOUoyclRZdGRBNVJmWU9XVkZOVEltZ2JMdy1nLTktUjhDUVp3MnZ3cnJfTnFQeWs3TmNQM2d1RXhKc3BwSkVDTGRWRHpGQzJGd1RXd2FESktwN2QzdGdzeFd6LTdfTzFBWlB6T3lIOWVfNV91dnlla3h5bzNSTG5STjRkbE5vQ3IzNEtIVENSUkZOaTJq?oc=5",
         "published": "2026-09-16T19:55:29Z"
+      },
+      {
+        "title": "Burrows blasts Roblox for refusing to testify at state legislative hearing",
+        "outlet": "The Center Square",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTlNwUlZTclg4WUx2VV9aVllvbGpTTjBQV3h5T05rSDRtUm5peXZ0ZWgyb1RzSkRiZlpQbXlYaWxPMUVoa1dLWFl5bUFLS19IQlhxenFVQlNPWXd2SUsweUszV08wRnFRcjE1ekhxLUVjS0p3ZEFENDJpWXZ0Y1l2ZTlCRk8zZncwMkpsbHRPaWzSAZYBQVVfeXFMTjZPR2hidEpnNWVISF9oSWNOS1JCeEl1b2lQZkYxNFhGT2lWVmhvSGpVd0xqT3I1Wll0Qk92TVppUVRXT19LTUlTV1RMQ0dOLVNpYnhjTVZHTDVpT1BJUGpOOVVvQzF3Y0pqdVZ0Ri1wSnBJZHA3ZFNFVi1SbFpCcnJPN2NXQ0tkTDJZc01nV0stQmtraHhB?oc=5",
+        "published": "2026-09-16T22:11:00Z"
       },
       {
         "title": "Roblox Widow Sues Male Escort Who She Gave $6M",
