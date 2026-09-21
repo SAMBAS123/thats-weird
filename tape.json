@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-21T04:56:08Z",
+  "as_of": "2026-09-21T10:40:28Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 49,
+    "hits_7d": 47,
     "latest": [
       {
         "title": "Roblox Child Sex Abuse Lawsuit",
@@ -95,16 +95,16 @@
         "published": "2026-09-18T21:36:00Z"
       },
       {
+        "title": "Roblox Arbitration Clause Opposed by U.S. Senators in Child Sexual Assault Lawsuit Appeal",
+        "outlet": "AboutLawsuits.com",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTc4NTg3ZU1LVEZzMmt4LTVmUTAwUFdWMWxnSFFLajRRbW8zNlEtNWo5UWhUSzllS2FJNEZaRGFfTk1SRG55Rm8xZXQtcW92ZFoxVGpNR2d5RnhGbDBKc2szOHVIWk1DbS1qOGpGNmhSc3RpTXdQQTNVYi0zVVR2Um9LSktsZVo1UTJoUnNzYUVGWVZvQVRiNTl0aE9jY1F3NGx6Q2haRjZZUkYzUEg3amFxY09XcmlaV1otdDB2MGlzRWcxT0sw?oc=5",
+        "published": "2026-09-14T14:00:00Z"
+      },
+      {
         "title": "Roblox Refuses To Appear at Texas House Hearing on Child Safety",
         "outlet": "Texas Scorecard",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWHJPdFp0RExRanJCS3J1VWxvazNNM05KMzVIM2kzZ09aazRMWjlxVHZHTG5mLUlCcS1ibTZ0aXpTbU1ENlBHS3RYQ0FkMk5jRmg2MnVHYzBzT256NHU1YUxYUEs4azFkQXJlby1tM1BPS1NzUVJpRHQ0M2NjM2kydm9pRFZfYUZjMnBVWEx3YnJtZElNZThMUUlZV3pveDA?oc=5",
         "published": "2026-09-15T18:05:10Z"
-      },
-      {
-        "title": "Roblox Arbitration Clause Opposed by U.S. Senators in Child Sexual Assault Lawsuit Appeal",
-        "outlet": "aboutlawsuits.com",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTc4NTg3ZU1LVEZzMmt4LTVmUTAwUFdWMWxnSFFLajRRbW8zNlEtNWo5UWhUSzllS2FJNEZaRGFfTk1SRG55Rm8xZXQtcW92ZFoxVGpNR2d5RnhGbDBKc2szOHVIWk1DbS1qOGpGNmhSc3RpTXdQQTNVYi0zVVR2Um9LSktsZVo1UTJoUnNzYUVGWVZvQVRiNTl0aE9jY1F3NGx6Q2haRjZZUkYzUEg3amFxY09XcmlaV1otdDB2MGlzRWcxT0sw?oc=5",
-        "published": "2026-09-14T14:00:00Z"
       },
       {
         "title": "Burrows blasts Roblox for refusing to testify at state legislative hearing",
