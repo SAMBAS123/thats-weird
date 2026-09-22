@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-22T00:04:52Z",
+  "as_of": "2026-09-22T04:51:10Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 54,
+    "hits_7d": 57,
     "latest": [
       {
         "title": "Roblox Lawyer Q&A | Explaining Roblox Legal Action",
@@ -114,7 +114,7 @@
       },
       {
         "title": "Minecraft lawsuit investigation: Families impacted by video game addiction",
-        "outlet": "topclassactions.com",
+        "outlet": "Top Class Actions",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUTRLX1lhS2RfdWxrNUJtSzZLckl3UG1NcGQyYjJ1UE9rNUIwZzd4Q3NlOFpubVNJZUt4OG4zYk9YcllDeGtmcTFoaVNHMnhaM0xTS1ctSG1UeHNmMXJLcEFXSXlpczZLRHVKaDRUUHptZUIxd0c0YlhUTTduRTEzaFVYY043WHJ1eXd1WENua0g0Tk1iUWRSSjR0aTV3enNMWlgxb280VFY1Z1ZaalB5R1FMUk9jc2I5Xy05Sk5oNmthSXRfaWQ3RElkYWdPRDhwZUNz?oc=5",
         "published": "2026-09-16T18:21:36Z"
       },
