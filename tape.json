@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-21T21:02:39Z",
+  "as_of": "2026-09-22T00:04:52Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -9,9 +9,9 @@
     "query": "party:\"Roblox Corporation\"",
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
-    "total": 495,
+    "total": 496,
     "filed_7d": 4,
-    "filed_30d": 15,
+    "filed_30d": 16,
     "latest": [
       {
         "date_filed": "2026-09-18",
@@ -19,6 +19,13 @@
         "docket_number": "0:26-cv-04050",
         "court": "D. Minnesota",
         "url": "https://www.courtlistener.com/docket/74815821/arndt-v-roblox-corporation/"
+      },
+      {
+        "date_filed": "2026-09-17",
+        "case_name": "Newsome v. Roblox Corporation",
+        "docket_number": "3:26-cv-10650",
+        "court": "J.P.M.L.",
+        "url": "https://www.courtlistener.com/docket/74828209/newsome-v-roblox-corporation/"
       },
       {
         "date_filed": "2026-09-17",
@@ -61,20 +68,13 @@
         "docket_number": "3:26-cv-10094",
         "court": "N.D. Cal.",
         "url": "https://www.courtlistener.com/docket/74767021/aw-0020-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-09-09",
-        "case_name": "AW-0019 v. Roblox Corporation",
-        "docket_number": "3:26-cv-10091",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74766868/aw-0019-v-roblox-corporation/"
       }
     ]
   },
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 52,
+    "hits_7d": 54,
     "latest": [
       {
         "title": "Roblox Lawyer Q&A | Explaining Roblox Legal Action",
@@ -83,28 +83,22 @@
         "published": "2026-09-16T14:53:14Z"
       },
       {
-        "title": "Roblox Sexual Exploitation Lawsuit Alleges 15-Year-Old Girl Was Groomed by Online Predator",
-        "outlet": "AboutLawsuits.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOElaTkZncldBLXFneExnMDRFYjlkTlVKQ1hmcTNFYUUwRlNYSzRMVmFIdUtHY3dFbDhablhtdDNDUWluUk1aUzFBX0RmclZNc2Fpa01hS0pQNXlhQ29IUjJtNUtUQW5QY1JqVEMtOGJfLVR1cjRKcHVhVDNHMmk0MUFaS3NtTS1MbWdZMFB4THBRRGhjUHBCaHJEcmdTU3N4U3QyYm1kYnYxZnV3Z3c?oc=5",
-        "published": "2026-09-21T14:00:00Z"
-      },
-      {
         "title": "'I now realize I was foolish': Widow of early Roblox programmer allegedly defrauded out of $6 million trying to buy out a man from his escort contract",
         "outlet": "Fortune",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNnl0cVhJelNTeGQ2NmVPU2F6RHpxMHBfR19RVXJ5U0ZuVDI0TGR3S1F3TW9ZcU5iOWdBQmJDejFkOVk3R0NWVGdLc1FwWW01RWRvbmhpaXJIUnZ0V0w3a04tWjBJQTZlVlc2UjMtVGc5OTVMSW1JWEF2ekNqZkNEb0NIMS0tcGhocXdJ?oc=5",
         "published": "2026-09-18T21:36:00Z"
       },
       {
-        "title": "Roblox Refuses To Appear at Texas House Hearing on Child Safety",
-        "outlet": "texasscorecard.com",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWHJPdFp0RExRanJCS3J1VWxvazNNM05KMzVIM2kzZ09aazRMWjlxVHZHTG5mLUlCcS1ibTZ0aXpTbU1ENlBHS3RYQ0FkMk5jRmg2MnVHYzBzT256NHU1YUxYUEs4azFkQXJlby1tM1BPS1NzUVJpRHQ0M2NjM2kydm9pRFZfYUZjMnBVWEx3YnJtZElNZThMUUlZV3pveDA?oc=5",
-        "published": "2026-09-15T18:05:10Z"
+        "title": "Roblox Sexual Exploitation Lawsuit Alleges 15-Year-Old Girl Was Groomed by Online Predator",
+        "outlet": "AboutLawsuits.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOElaTkZncldBLXFneExnMDRFYjlkTlVKQ1hmcTNFYUUwRlNYSzRMVmFIdUtHY3dFbDhablhtdDNDUWluUk1aUzFBX0RmclZNc2Fpa01hS0pQNXlhQ29IUjJtNUtUQW5QY1JqVEMtOGJfLVR1cjRKcHVhVDNHMmk0MUFaS3NtTS1MbWdZMFB4THBRRGhjUHBCaHJEcmdTU3N4U3QyYm1kYnYxZnV3Z3c?oc=5",
+        "published": "2026-09-21T14:00:00Z"
       },
       {
-        "title": "Burrows blasts Roblox for refusing to testify at state legislative hearing",
-        "outlet": "The Center Square",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTlNwUlZTclg4WUx2VV9aVllvbGpTTjBQV3h5T05rSDRtUm5peXZ0ZWgyb1RzSkRiZlpQbXlYaWxPMUVoa1dLWFl5bUFLS19IQlhxenFVQlNPWXd2SUsweUszV08wRnFRcjE1ekhxLUVjS0p3ZEFENDJpWXZ0Y1l2ZTlCRk8zZncwMkpsbHRPaWzSAZYBQVVfeXFMTjZPR2hidEpnNWVISF9oSWNOS1JCeEl1b2lQZkYxNFhGT2lWVmhvSGpVd0xqT3I1Wll0Qk92TVppUVRXT19LTUlTV1RMQ0dOLVNpYnhjTVZHTDVpT1BJUGpOOVVvQzF3Y0pqdVZ0Ri1wSnBJZHA3ZFNFVi1SbFpCcnJPN2NXQ0tkTDJZc01nV0stQmtraHhB?oc=5",
-        "published": "2026-09-16T22:11:00Z"
+        "title": "Roblox Refuses To Appear at Texas House Hearing on Child Safety",
+        "outlet": "Texas Scorecard",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWHJPdFp0RExRanJCS3J1VWxvazNNM05KMzVIM2kzZ09aazRMWjlxVHZHTG5mLUlCcS1ibTZ0aXpTbU1ENlBHS3RYQ0FkMk5jRmg2MnVHYzBzT256NHU1YUxYUEs4azFkQXJlby1tM1BPS1NzUVJpRHQ0M2NjM2kydm9pRFZfYUZjMnBVWEx3YnJtZElNZThMUUlZV3pveDA?oc=5",
+        "published": "2026-09-15T18:05:10Z"
       },
       {
         "title": "Wealthy NYC 'Roblox' widow claims male escort scammed her out of $6M: 'Svengali-like control'",
@@ -113,14 +107,20 @@
         "published": "2026-09-16T19:55:29Z"
       },
       {
+        "title": "Burrows blasts Roblox for refusing to testify at state legislative hearing",
+        "outlet": "The Center Square",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTlNwUlZTclg4WUx2VV9aVllvbGpTTjBQV3h5T05rSDRtUm5peXZ0ZWgyb1RzSkRiZlpQbXlYaWxPMUVoa1dLWFl5bUFLS19IQlhxenFVQlNPWXd2SUsweUszV08wRnFRcjE1ekhxLUVjS0p3ZEFENDJpWXZ0Y1l2ZTlCRk8zZncwMkpsbHRPaWzSAZYBQVVfeXFMTjZPR2hidEpnNWVISF9oSWNOS1JCeEl1b2lQZkYxNFhGT2lWVmhvSGpVd0xqT3I1Wll0Qk92TVppUVRXT19LTUlTV1RMQ0dOLVNpYnhjTVZHTDVpT1BJUGpOOVVvQzF3Y0pqdVZ0Ri1wSnBJZHA3ZFNFVi1SbFpCcnJPN2NXQ0tkTDJZc01nV0stQmtraHhB?oc=5",
+        "published": "2026-09-16T22:11:00Z"
+      },
+      {
         "title": "Minecraft lawsuit investigation: Families impacted by video game addiction",
-        "outlet": "Top Class Actions",
+        "outlet": "topclassactions.com",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUTRLX1lhS2RfdWxrNUJtSzZLckl3UG1NcGQyYjJ1UE9rNUIwZzd4Q3NlOFpubVNJZUt4OG4zYk9YcllDeGtmcTFoaVNHMnhaM0xTS1ctSG1UeHNmMXJLcEFXSXlpczZLRHVKaDRUUHptZUIxd0c0YlhUTTduRTEzaFVYY043WHJ1eXd1WENua0g0Tk1iUWRSSjR0aTV3enNMWlgxb280VFY1Z1ZaalB5R1FMUk9jc2I5Xy05Sk5oNmthSXRfaWQ3RElkYWdPRDhwZUNz?oc=5",
         "published": "2026-09-16T18:21:36Z"
       },
       {
         "title": "Roblox Games, Piracy Platforms Fertile Ground for Terrorist Grooming",
-        "outlet": "securityboulevard.com",
+        "outlet": "Security Boulevard",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVVR4U3pYeDY1X25RUS1UMFl1UUxiUDBwbzNuNXlZSHFUdFNNeTl6V1dFUHk0OGpRQzhfX1hLVXBoRERjeGMya3dCXzJUQzlpbVFIWFFiR1E0SEtBVHk0NS1ldTB5UWlWeEFBQWVaTWtqb1JIejBKSWNwUGx2aFc0ZkZZX1ZXNlNUMERjYW96Z2FKczlxQ0cwZWQ5RHNIUUUyRG5fWV9qUGlIQQ?oc=5",
         "published": "2026-09-17T09:42:43Z"
       }
