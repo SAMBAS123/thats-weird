@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-22T22:06:50Z",
+  "as_of": "2026-09-23T00:29:29Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -9,10 +9,17 @@
     "query": "party:\"Roblox Corporation\"",
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
-    "total": 496,
+    "total": 497,
     "filed_7d": 4,
-    "filed_30d": 16,
+    "filed_30d": 17,
     "latest": [
+      {
+        "date_filed": "2026-09-22",
+        "case_name": "HL-0004 v. Roblox Corporation",
+        "docket_number": "3:26-cv-10804",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/74834300/hl-0004-v-roblox-corporation/"
+      },
       {
         "date_filed": "2026-09-18",
         "case_name": "Arndt v. Roblox Corporation",
@@ -61,20 +68,13 @@
         "docket_number": "3:26-cv-10097",
         "court": "N.D. Cal.",
         "url": "https://www.courtlistener.com/docket/74767270/john-doe-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-09-09",
-        "case_name": "AW-0020 v. Roblox Corporation",
-        "docket_number": "3:26-cv-10094",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74767021/aw-0020-v-roblox-corporation/"
       }
     ]
   },
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 61,
+    "hits_7d": 59,
     "latest": [
       {
         "title": "Roblox Lawyer Q&A | Explaining Roblox Legal Action",
@@ -90,7 +90,7 @@
       },
       {
         "title": "Roblox Sexual Exploitation Lawsuit Alleges 15-Year-Old Girl Was Groomed by Online Predator",
-        "outlet": "aboutlawsuits.com",
+        "outlet": "AboutLawsuits.com",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOElaTkZncldBLXFneExnMDRFYjlkTlVKQ1hmcTNFYUUwRlNYSzRMVmFIdUtHY3dFbDhablhtdDNDUWluUk1aUzFBX0RmclZNc2Fpa01hS0pQNXlhQ29IUjJtNUtUQW5QY1JqVEMtOGJfLVR1cjRKcHVhVDNHMmk0MUFaS3NtTS1MbWdZMFB4THBRRGhjUHBCaHJEcmdTU3N4U3QyYm1kYnYxZnV3Z3c?oc=5",
         "published": "2026-09-21T14:00:00Z"
       },
@@ -98,7 +98,7 @@
         "title": "Messy Roblox Lawsuit Includes Salaries Paid In Robux, Ownership Disputes",
         "outlet": "Aftermath",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RWk1RcXRCSURQcF8tclctaC1tU2dvOEpjTDBmVTFtVWNwNlpSaFFXSkZxNVRWaTRWbUxfNVE1YzVERC1ERkRQam1sUk9YYk51QU05YU9YNFpiUHpGekpUTDhfZjM5WDA5VWRDS1lrMA?oc=5",
-        "published": "2026-09-22T20:03:01Z"
+        "published": "2026-09-22T20:18:36Z"
       },
       {
         "title": "Burrows blasts Roblox for refusing to testify at state legislative hearing",
@@ -120,7 +120,7 @@
       },
       {
         "title": "Roblox Games, Piracy Platforms Fertile Ground for Terrorist Grooming",
-        "outlet": "Security Boulevard",
+        "outlet": "securityboulevard.com",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVVR4U3pYeDY1X25RUS1UMFl1UUxiUDBwbzNuNXlZSHFUdFNNeTl6V1dFUHk0OGpRQzhfX1hLVXBoRERjeGMya3dCXzJUQzlpbVFIWFFiR1E0SEtBVHk0NS1ldTB5UWlWeEFBQWVaTWtqb1JIejBKSWNwUGx2aFc0ZkZZX1ZXNlNUMERjYW96Z2FKczlxQ0cwZWQ5RHNIUUUyRG5fWV9qUGlIQQ?oc=5",
         "published": "2026-09-17T09:42:43Z"
       }
@@ -170,7 +170,5 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": [
-    "courtlistener: The read operation timed out"
-  ]
+  "errors": []
 }
