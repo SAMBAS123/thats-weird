@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-23T05:56:43Z",
+  "as_of": "2026-09-23T11:31:08Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,8 +74,14 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 60,
+    "hits_7d": 59,
     "latest": [
+      {
+        "title": "Tennessee moves forward with lawsuit against Roblox over child safety concerns",
+        "outlet": "wkrn.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWG1McWNrYl82eFBaRm5EaFg2WlU5Z1JsbjJTVVBOazIxWVRyZlNocEx3djJxdjhyaENmcGN1bFRSMUl6Y1NxYzAybGFVSnBaa1hyRURVVEg0YTdiLUdnUi1naHh5alBrY0VPVG14Tjk5dTRfWFBmUGNOVGVLcGJJTWlkd0Zlam8xUFlla0YwbTVWQVhjTWoxS2tVc0ZITG9Va2pGNkQ1OGtNZVVBY08tSWlHV0RXUQ?oc=5",
+        "published": "2026-09-23T03:20:54Z"
+      },
       {
         "title": "'I now realize I was foolish': Widow of early Roblox programmer allegedly defrauded out of $6 million trying to buy out a man from his escort contract",
         "outlet": "Fortune",
@@ -117,12 +123,6 @@
         "outlet": "Top Class Actions",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUTRLX1lhS2RfdWxrNUJtSzZLckl3UG1NcGQyYjJ1UE9rNUIwZzd4Q3NlOFpubVNJZUt4OG4zYk9YcllDeGtmcTFoaVNHMnhaM0xTS1ctSG1UeHNmMXJLcEFXSXlpczZLRHVKaDRUUHptZUIxd0c0YlhUTTduRTEzaFVYY043WHJ1eXd1WENua0g0Tk1iUWRSSjR0aTV3enNMWlgxb280VFY1Z1ZaalB5R1FMUk9jc2I5Xy05Sk5oNmthSXRfaWQ3RElkYWdPRDhwZUNz?oc=5",
         "published": "2026-09-16T18:21:36Z"
-      },
-      {
-        "title": "Roblox Games, Piracy Platforms Fertile Ground for Terrorist Grooming",
-        "outlet": "Security Boulevard",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVVR4U3pYeDY1X25RUS1UMFl1UUxiUDBwbzNuNXlZSHFUdFNNeTl6V1dFUHk0OGpRQzhfX1hLVXBoRERjeGMya3dCXzJUQzlpbVFIWFFiR1E0SEtBVHk0NS1ldTB5UWlWeEFBQWVaTWtqb1JIejBKSWNwUGx2aFc0ZkZZX1ZXNlNUMERjYW96Z2FKczlxQ0cwZWQ5RHNIUUUyRG5fWV9qUGlIQQ?oc=5",
-        "published": "2026-09-17T09:42:43Z"
       }
     ]
   },
