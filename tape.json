@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-23T00:29:29Z",
+  "as_of": "2026-09-23T05:56:43Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,19 +74,19 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 59,
+    "hits_7d": 60,
     "latest": [
-      {
-        "title": "Roblox Lawyer Q&A | Explaining Roblox Legal Action",
-        "outlet": "Sokolove Law",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QN2JOVTQ5WkRMUTdxcktnM2xVNEw4OXRwYWJ2VlJtRDIwOTVqNC1ZdFktYzR0YU95RG9DYWlwQU5uTzJMMjVJdjdCaVhYUmNJc0pSU0lnSVZxRVFhc2JiQ2w0SHA2SlR2RndQellsT1g3VURfdGFQMDln?oc=5",
-        "published": "2026-09-16T14:53:14Z"
-      },
       {
         "title": "'I now realize I was foolish': Widow of early Roblox programmer allegedly defrauded out of $6 million trying to buy out a man from his escort contract",
         "outlet": "Fortune",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNnl0cVhJelNTeGQ2NmVPU2F6RHpxMHBfR19RVXJ5U0ZuVDI0TGR3S1F3TW9ZcU5iOWdBQmJDejFkOVk3R0NWVGdLc1FwWW01RWRvbmhpaXJIUnZ0V0w3a04tWjBJQTZlVlc2UjMtVGc5OTVMSW1JWEF2ekNqZkNEb0NIMS0tcGhocXdJ?oc=5",
         "published": "2026-09-18T21:36:00Z"
+      },
+      {
+        "title": "Roblox Lawyer Q&A | Explaining Roblox Legal Action",
+        "outlet": "Sokolove Law",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QN2JOVTQ5WkRMUTdxcktnM2xVNEw4OXRwYWJ2VlJtRDIwOTVqNC1ZdFktYzR0YU95RG9DYWlwQU5uTzJMMjVJdjdCaVhYUmNJc0pSU0lnSVZxRVFhc2JiQ2w0SHA2SlR2RndQellsT1g3VURfdGFQMDln?oc=5",
+        "published": "2026-09-16T14:53:14Z"
       },
       {
         "title": "Roblox Sexual Exploitation Lawsuit Alleges 15-Year-Old Girl Was Groomed by Online Predator",
@@ -120,7 +120,7 @@
       },
       {
         "title": "Roblox Games, Piracy Platforms Fertile Ground for Terrorist Grooming",
-        "outlet": "securityboulevard.com",
+        "outlet": "Security Boulevard",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVVR4U3pYeDY1X25RUS1UMFl1UUxiUDBwbzNuNXlZSHFUdFNNeTl6V1dFUHk0OGpRQzhfX1hLVXBoRERjeGMya3dCXzJUQzlpbVFIWFFiR1E0SEtBVHk0NS1ldTB5UWlWeEFBQWVaTWtqb1JIejBKSWNwUGx2aFc0ZkZZX1ZXNlNUMERjYW96Z2FKczlxQ0cwZWQ5RHNIUUUyRG5fWV9qUGlIQQ?oc=5",
         "published": "2026-09-17T09:42:43Z"
       }
