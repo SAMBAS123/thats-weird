@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-24T09:57:49Z",
+  "as_of": "2026-09-24T15:03:07Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 61,
+    "hits_7d": 60,
     "latest": [
       {
         "title": "Roblox Data Privacy Mass Arbitration",
@@ -113,16 +113,16 @@
         "published": "2026-09-21T14:00:00Z"
       },
       {
-        "title": "TENNESSEE COURT REFUSES TO DISMISS CONSUMER PROTECTION LAWSUIT AGAINST ROBLOX",
-        "outlet": "3B Media News",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTlBIYnQ2VEdueXlENW5qN0JoYlhIT19PZDcxYlI3TWdhU21lQ2RSNzlJbTVWQ2d4SUw0cEE3WlN6a2hmZHhlWEh6TlFoaGREVDdJSHQxdldJRmY3Ukg2UjRlYUEwU0NsNEtPcWNhSjVrNzhYZXBmLThRWHFZeDJWaTZKV1VuWmhTRG9UUFdKTnZjOXFacDZ6ZzY3Y1phQWI0WHJTSA?oc=5",
-        "published": "2026-09-23T15:07:32Z"
+        "title": "Roblox, Fortnite sued over claims addictive game design harms minors",
+        "outlet": "Top Class Actions",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVcyWm4zdDFob1FpUWFKcmFFUVItQkF2QUdpdE9hMFh4N3NKYjRObEttcWp5NVdoclcydWVKVmFxOHlhU2tZbGlyVWt3Yzk2NkVnLS0wVUUzb3BqUWhtNURoWjdPZkYyNklWMWpqSmxvWWpjWmZyV3Y2cWx3dWNZRHlobURucUl1M1RwVGlnNU9qNnZIQkc4ZlI0dll1clVZTkNRazlDa0FnbkQtU0x0NzRZZ1pHSDZ1bjhUTWVGWmdRRFhyT3pVSQ?oc=5",
+        "published": "2026-09-24T14:05:54Z"
       },
       {
-        "title": "Will FIFA 22 have a World Cup mode? Ultimate Team add-on rumors & more",
-        "outlet": "Dexerto",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4ajlvU3FLVVV4UkRNeVhDSi1ITXdUclhZR3JNUnhFbFRMdUcwVkZQR0ZTX214cTB4ekItX3EzSEZVTGVaeFRlWHBuZnBMU1Y3OWN0c3B5U3JhNmdFakh6THQyeFJ0QUZqM2JkQmM5clBWdzE2Q0lVWHlhQS13b2c?oc=5",
-        "published": "2026-09-19T23:24:17Z"
+        "title": "Roblox Corporation (RBLX) Latest Stock News & Headlines - Yahoo Finance",
+        "outlet": "Yahoo! Finance Canada",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXYkJFcXZZbmtlTkNiVmM5SjRvY1YxRTZyT3J3bW53Mmx5ZlNpM21PSHc5TE1jWks4MVlhaFlSNmVJOEhYN1B3cHdVMDhiQkZ4VXlRbWtURW8?oc=5",
+        "published": "2026-09-23T12:57:36Z"
       }
     ]
   },
