@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-24T19:08:05Z",
+  "as_of": "2026-09-24T22:21:42Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,19 +74,25 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 60,
+    "hits_7d": 61,
     "latest": [
       {
         "title": "Roblox Data Privacy Mass Arbitration",
-        "outlet": "ClassAction.org",
+        "outlet": "classaction.org",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHU2l0YW5WRzA5ZXlWdmdlOW56X28yWnRCSW5lZzBNdms1QTd3RHhyYWlBRERqNDhhUjZ1ckF0WDNBb1VxbXA4QWQydVB3VnRqVndfX1hXLTRxazZYdXc2UVFpZUdOQVhVNlNOdktLRnl0eERDZVE?oc=5",
         "published": "2026-09-21T07:00:00Z"
       },
       {
         "title": "Messy Roblox Lawsuit Includes Salaries Paid In Robux, Ownership Disputes",
-        "outlet": "aftermath.site",
+        "outlet": "Aftermath",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RWk1RcXRCSURQcF8tclctaC1tU2dvOEpjTDBmVTFtVWNwNlpSaFFXSkZxNVRWaTRWbUxfNVE1YzVERC1ERkRQam1sUk9YYk51QU05YU9YNFpiUHpGekpUTDhfZjM5WDA5VWRDS1lrMA?oc=5",
         "published": "2026-09-22T20:18:36Z"
+      },
+      {
+        "title": "Roblox loses bid to halt L.A. County's lawsuit alleging child sex exploitation on gaming platform",
+        "outlet": "reuters.com",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdUE5MExvSFRkaGpUYmZGUjFJcFVKMGo5REJIaW04UXMwalkxeEMycVZLSzFkNFFxcGtKTWdMX1p3Nkt4MC01M3oyV0ZuVGhBRVhkWDhxLUplV3VLeDdnY2MwVUlHY3QtVXNCTGFUVWpOZVdCYnh2aFZSWmttWXNYYm94VUZ2NFkxUXJYTzVFX2ktMHhJODM0LXJiNVVEM082WVZSSnZXeE84S3BSVl90ZnRKaTR6aWFyWm1WWGFnWlVpYzA3OF9tQURSNm4?oc=5",
+        "published": "2026-09-24T21:01:43Z"
       },
       {
         "title": "Roblox Child Sexual Abuse Lawsuit",
@@ -102,13 +108,13 @@
       },
       {
         "title": "Tennessee moves forward with lawsuit against Roblox over child safety concerns",
-        "outlet": "wkrn.com",
+        "outlet": "WKRN News 2",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWG1McWNrYl82eFBaRm5EaFg2WlU5Z1JsbjJTVVBOazIxWVRyZlNocEx3djJxdjhyaENmcGN1bFRSMUl6Y1NxYzAybGFVSnBaa1hyRURVVEg0YTdiLUdnUi1naHh5alBrY0VPVG14Tjk5dTRfWFBmUGNOVGVLcGJJTWlkd0Zlam8xUFlla0YwbTVWQVhjTWoxS2tVc0ZITG9Va2pGNkQ1OGtNZVVBY08tSWlHV0RXUQ?oc=5",
         "published": "2026-09-21T21:25:36Z"
       },
       {
         "title": "Roblox Sexual Exploitation Lawsuit Alleges 15-Year-Old Girl Was Groomed by Online Predator",
-        "outlet": "AboutLawsuits.com",
+        "outlet": "aboutlawsuits.com",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOElaTkZncldBLXFneExnMDRFYjlkTlVKQ1hmcTNFYUUwRlNYSzRMVmFIdUtHY3dFbDhablhtdDNDUWluUk1aUzFBX0RmclZNc2Fpa01hS0pQNXlhQ29IUjJtNUtUQW5QY1JqVEMtOGJfLVR1cjRKcHVhVDNHMmk0MUFaS3NtTS1MbWdZMFB4THBRRGhjUHBCaHJEcmdTU3N4U3QyYm1kYnYxZnV3Z3c?oc=5",
         "published": "2026-09-21T14:00:00Z"
       },
@@ -117,12 +123,6 @@
         "outlet": "Top Class Actions",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVcyWm4zdDFob1FpUWFKcmFFUVItQkF2QUdpdE9hMFh4N3NKYjRObEttcWp5NVdoclcydWVKVmFxOHlhU2tZbGlyVWt3Yzk2NkVnLS0wVUUzb3BqUWhtNURoWjdPZkYyNklWMWpqSmxvWWpjWmZyV3Y2cWx3dWNZRHlobURucUl1M1RwVGlnNU9qNnZIQkc4ZlI0dll1clVZTkNRazlDa0FnbkQtU0x0NzRZZ1pHSDZ1bjhUTWVGWmdRRFhyT3pVSQ?oc=5",
         "published": "2026-09-24T14:05:54Z"
-      },
-      {
-        "title": "LACo Avoids Challenges to Roblox Child Exploitation Claims",
-        "outlet": "MyNewsLA.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcUxSTDlWblBPc2xCay12Q0hDMzc5SXpqX0htOVRtTklKNWJoaDhaYWczUFhiRVFQTUlKUXBlTzg5NUdBaXFPWUhmYTI5UkNDSlprcXNTMVFfU2x2b3RLM1NCd2RxSjdGUUY5YmRpalg1bzFmS3RuLXRnUzFhVzFaQzVBZnpKdTZuTlA0T2VvZjIxZGwyb0xWM2lIRjR5dE5mWWhFb1I5RWZQcml4MmRmOFRkYWpMdw?oc=5",
-        "published": "2026-09-24T15:59:00Z"
       }
     ]
   },
@@ -170,7 +170,5 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": [
-    "courtlistener: The read operation timed out"
-  ]
+  "errors": []
 }
