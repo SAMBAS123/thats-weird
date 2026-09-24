@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-23T23:40:24Z",
+  "as_of": "2026-09-24T04:45:22Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -9,10 +9,17 @@
     "query": "party:\"Roblox Corporation\"",
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
-    "total": 497,
-    "filed_7d": 4,
-    "filed_30d": 17,
+    "total": 498,
+    "filed_7d": 5,
+    "filed_30d": 18,
     "latest": [
+      {
+        "date_filed": "2026-09-23",
+        "case_name": "JANE DOE A.T.8155 for JANE DOE Y.T.8155 v. Roblox Corporation",
+        "docket_number": "3:26-cv-10865",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/74842774/jane-doe-at8155-for-jane-doe-yt8155-v-roblox-corporation/"
+      },
       {
         "date_filed": "2026-09-22",
         "case_name": "HL-0004 v. Roblox Corporation",
@@ -61,13 +68,6 @@
         "docket_number": "3:26-cv-10302",
         "court": "N.D. Cal.",
         "url": "https://www.courtlistener.com/docket/74782245/je-0001-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-09-09",
-        "case_name": "John Doe v. Roblox Corporation",
-        "docket_number": "3:26-cv-10097",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74767270/john-doe-v-roblox-corporation/"
       }
     ]
   },
@@ -76,6 +76,12 @@
     "source": "Google News RSS",
     "hits_7d": 60,
     "latest": [
+      {
+        "title": "Messy Roblox Lawsuit Includes Salaries Paid In Robux, Ownership Disputes",
+        "outlet": "aftermath.site",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RWk1RcXRCSURQcF8tclctaC1tU2dvOEpjTDBmVTFtVWNwNlpSaFFXSkZxNVRWaTRWbUxfNVE1YzVERC1ERkRQam1sUk9YYk51QU05YU9YNFpiUHpGekpUTDhfZjM5WDA5VWRDS1lrMA?oc=5",
+        "published": "2026-09-22T20:18:36Z"
+      },
       {
         "title": "Roblox Child Sexual Abuse Lawsuit",
         "outlet": "Lawsuit Information Center",
@@ -89,14 +95,8 @@
         "published": "2026-09-18T21:36:00Z"
       },
       {
-        "title": "Messy Roblox Lawsuit Includes Salaries Paid In Robux, Ownership Disputes",
-        "outlet": "Aftermath",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RWk1RcXRCSURQcF8tclctaC1tU2dvOEpjTDBmVTFtVWNwNlpSaFFXSkZxNVRWaTRWbUxfNVE1YzVERC1ERkRQam1sUk9YYk51QU05YU9YNFpiUHpGekpUTDhfZjM5WDA5VWRDS1lrMA?oc=5",
-        "published": "2026-09-22T20:18:36Z"
-      },
-      {
         "title": "Tennessee moves forward with lawsuit against Roblox over child safety concerns",
-        "outlet": "WKRN News 2",
+        "outlet": "wkrn.com",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWG1McWNrYl82eFBaRm5EaFg2WlU5Z1JsbjJTVVBOazIxWVRyZlNocEx3djJxdjhyaENmcGN1bFRSMUl6Y1NxYzAybGFVSnBaa1hyRURVVEg0YTdiLUdnUi1naHh5alBrY0VPVG14Tjk5dTRfWFBmUGNOVGVLcGJJTWlkd0Zlam8xUFlla0YwbTVWQVhjTWoxS2tVc0ZITG9Va2pGNkQ1OGtNZVVBY08tSWlHV0RXUQ?oc=5",
         "published": "2026-09-21T21:25:36Z"
       },
@@ -119,10 +119,10 @@
         "published": "2026-09-23T15:07:32Z"
       },
       {
-        "title": "Hontiveros urges Roblox to designate PH legal representative",
-        "outlet": "Inquirer.net",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUlJEOWh2azBXOUpXREVVaEd1eHd2SHJWdEFjajVtR3FHRlQtekdpekowR2hQbUp0UW5vTWpxQ0Jmb3IxdmxoUzcyd2JYb1otVU9rdHduX2c4UThVSWRRSklpeUFObUlQVzFBWTk1Y00zN2t1MDY1VVVKeWJiY3RtUWtucklGUW9xYW9icWFxcURLU1FwRVQ3bHdhd0ExOUpDMjFF0gGoAUFVX3lxTFBXRENpQk9LeVlyVW9QNElsUUxkeEUxUkdJaEdQblVDbG1JVlpOMHRiWlZXTGJzMUx2RDBKOFRhSVNOeWhXUFBqWnZmOFhzODdNZ28ybi1ZWmtGR19maHd4c0VjdzBsZHNHbkdQMVRodkFySmZsZm5CQ05rTkJVVEJQX3dtWHVBMkJyV1dORS1OMHFvS2NUX3h2Tkk2Ny1yQlE1d3RHZnZEag?oc=5",
-        "published": "2026-09-17T03:59:00Z"
+        "title": "Male escort accused of swindling ‘Roblox’ widow out of $6M underwent extensive plastic surgery to achieve his ‘Maxoris’ icy stare, sculpted abs",
+        "outlet": "New York Post",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPOG5uT1dZZ1lIVm1HLUdoRm1KOUo3cXI5czNQMkZoVFFoZUV4aHo4YjBkbHZPWW5fMFBuYnJLbHJFblRJcDYyb1B5bEJ3Ty1Vam55Y3FtMDZSWUVVUmZPMGpsd3Q4MnI4V3FQNV9FWDJhVnBxVzl1ckxmYnVmVXlKeWhReDNfemxPaVhaQllHZy1YbWY5QjJPdGZFRmJNNElPZ1BvZVB5R01Wc3Z1QmxPU2hWTmduTE8zRzlhUld5REt3alpTWkJVak9nMy1kcFN0eWNDcmU4MGVZOGs0R0V2VDc4cUZBYlZ1b2lua2VuN1pYTlJfTVNDR3FEc0Q?oc=5",
+        "published": "2026-09-17T16:23:00Z"
       }
     ]
   },
