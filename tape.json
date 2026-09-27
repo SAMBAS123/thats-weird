@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-27T13:55:36Z",
+  "as_of": "2026-09-27T18:21:17Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 58,
+    "hits_7d": 57,
     "latest": [
       {
         "title": "Roblox loses bid to halt L.A. County's lawsuit alleging child sex exploitation on gaming platform",
@@ -120,7 +120,7 @@
       },
       {
         "title": "Judge allows LA County child-safety lawsuit against Roblox to proceed",
-        "outlet": "dailyjournal.com",
+        "outlet": "Daily Journal",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObUNWLVJnQS1XcWljNGxkQnI2VTI3ZnJjejN6YWFpZzA2WUVKZUFhOWJWMTJ2cWNockdpdkZ3ZXc2WE1Eb1AxR1p1enh1d2RTUTR0SkZqcm9aNHJ0em9jbjhsRDYyX0Ztc1htWnJEdF9uTks0UFVKY2tjZFA1cWpFdUdFV2xWbU9RVXEzZlZod0VreXhpbFVvSy1DTVNoU1FnUXJJOUMtOU5XM2lLQUVSS2hJRQ?oc=5",
         "published": "2026-09-24T22:28:47Z"
       }
