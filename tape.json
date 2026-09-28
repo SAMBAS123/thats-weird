@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-28T15:24:28Z",
+  "as_of": "2026-09-28T21:57:56Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -9,10 +9,17 @@
     "query": "party:\"Roblox Corporation\"",
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
-    "total": 498,
-    "filed_7d": 2,
-    "filed_30d": 15,
+    "total": 499,
+    "filed_7d": 3,
+    "filed_30d": 16,
     "latest": [
+      {
+        "date_filed": "2026-09-28",
+        "case_name": "AW-0021 v. Roblox Corporation",
+        "docket_number": "3:26-cv-11000",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/74859233/aw-0021-v-roblox-corporation/"
+      },
       {
         "date_filed": "2026-09-23",
         "case_name": "JANE DOE A.T.8155 for JANE DOE Y.T.8155 v. Roblox Corporation",
@@ -61,20 +68,13 @@
         "docket_number": "3:26-cv-10333",
         "court": "N.D. Cal.",
         "url": "https://www.courtlistener.com/docket/74785812/hl-0003-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-09-11",
-        "case_name": "JE-0001 v. Roblox Corporation",
-        "docket_number": "3:26-cv-10302",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74782245/je-0001-v-roblox-corporation/"
       }
     ]
   },
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 57,
+    "hits_7d": 56,
     "latest": [
       {
         "title": "Roblox loses bid to halt L.A. County's lawsuit alleging child sex exploitation on gaming platform",
@@ -102,15 +102,9 @@
       },
       {
         "title": "Tennessee moves forward with lawsuit against Roblox over child safety concerns",
-        "outlet": "WKRN News 2",
+        "outlet": "wkrn.com",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWG1McWNrYl82eFBaRm5EaFg2WlU5Z1JsbjJTVVBOazIxWVRyZlNocEx3djJxdjhyaENmcGN1bFRSMUl6Y1NxYzAybGFVSnBaa1hyRURVVEg0YTdiLUdnUi1naHh5alBrY0VPVG14Tjk5dTRfWFBmUGNOVGVLcGJJTWlkd0Zlam8xUFlla0YwbTVWQVhjTWoxS2tVc0ZITG9Va2pGNkQ1OGtNZVVBY08tSWlHV0RXUQ?oc=5",
         "published": "2026-09-23T03:20:54Z"
-      },
-      {
-        "title": "Judge allows LA County child-safety lawsuit against Roblox to proceed",
-        "outlet": "Daily Journal",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObUNWLVJnQS1XcWljNGxkQnI2VTI3ZnJjejN6YWFpZzA2WUVKZUFhOWJWMTJ2cWNockdpdkZ3ZXc2WE1Eb1AxR1p1enh1d2RTUTR0SkZqcm9aNHJ0em9jbjhsRDYyX0Ztc1htWnJEdF9uTks0UFVKY2tjZFA1cWpFdUdFV2xWbU9RVXEzZlZod0VreXhpbFVvSy1DTVNoU1FnUXJJOUMtOU5XM2lLQUVSS2hJRQ?oc=5",
-        "published": "2026-09-24T22:28:47Z"
       },
       {
         "title": "Roblox, Fortnite sued over claims addictive game design harms minors",
@@ -123,6 +117,12 @@
         "outlet": "Pocket Gamer.biz",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkFKNTR0RDhzYlY1aWVQRlB5UWJZRk5mNkxZem9pa3lLelc5bUJRVlRQTUJmNG9SN3NWdlphZldxUXdKSVl4TVlXa1c4UDQyWUtIT1Z5YW1odXRUY251eDZkdzVMdWdMOFVPS3JUc2JidTQ1TDRFT0t5d0tBUjd4R2o3LXJoYVVIaWtJMXp0OUNQb092SnhfRA?oc=5",
         "published": "2026-09-25T10:03:00Z"
+      },
+      {
+        "title": "LACo Avoids Challenges to Roblox Child Exploitation Claims",
+        "outlet": "MyNewsLA.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcUxSTDlWblBPc2xCay12Q0hDMzc5SXpqX0htOVRtTklKNWJoaDhaYWczUFhiRVFQTUlKUXBlTzg5NUdBaXFPWUhmYTI5UkNDSlprcXNTMVFfU2x2b3RLM1NCd2RxSjdGUUY5YmRpalg1bzFmS3RuLXRnUzFhVzFaQzVBZnpKdTZuTlA0T2VvZjIxZGwyb0xWM2lIRjR5dE5mWWhFb1I5RWZQcml4MmRmOFRkYWpMdw?oc=5",
+        "published": "2026-09-24T15:59:00Z"
       }
     ]
   },
