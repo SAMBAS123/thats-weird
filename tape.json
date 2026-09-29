@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-29T01:54:50Z",
+  "as_of": "2026-09-29T08:26:10Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 51,
+    "hits_7d": 48,
     "latest": [
       {
         "title": "Roblox loses bid to halt L.A. County's lawsuit alleging child sex exploitation on gaming platform",
@@ -87,6 +87,12 @@
         "outlet": "Aftermath",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RWk1RcXRCSURQcF8tclctaC1tU2dvOEpjTDBmVTFtVWNwNlpSaFFXSkZxNVRWaTRWbUxfNVE1YzVERC1ERkRQam1sUk9YYk51QU05YU9YNFpiUHpGekpUTDhfZjM5WDA5VWRDS1lrMA?oc=5",
         "published": "2026-09-22T20:18:36Z"
+      },
+      {
+        "title": "Roblox Loses Bid to Stop L.A. County Lawsuit Over Alleged Child Sex Exploitation",
+        "outlet": "Law Commentary",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWUtzNHpyMmdJY1BOWHlobDBVejRuVm9Kc1M0OUt4T05LUHlaWThFcFc2RkZEWlFEVlZRV245V0ZKeHdYSUtzaXhoOFN0ZU41YU1SMnpIU1AtLWVvVWZXRnVzYW4ydERJNDVhV1FsdlAxTkI1N09icmcyaGZkNHlTUi1oVXNDMF81S25nOHBOQTJSWkh6bDBveVE2WG8?oc=5",
+        "published": "2026-09-25T04:52:45Z"
       },
       {
         "title": "Roblox fails to halt LA child-exploitation lawsuit over age checks",
@@ -117,12 +123,6 @@
         "outlet": "Pocket Gamer.biz",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkFKNTR0RDhzYlY1aWVQRlB5UWJZRk5mNkxZem9pa3lLelc5bUJRVlRQTUJmNG9SN3NWdlphZldxUXdKSVl4TVlXa1c4UDQyWUtIT1Z5YW1odXRUY251eDZkdzVMdWdMOFVPS3JUc2JidTQ1TDRFT0t5d0tBUjd4R2o3LXJoYVVIaWtJMXp0OUNQb092SnhfRA?oc=5",
         "published": "2026-09-25T10:03:00Z"
-      },
-      {
-        "title": "LACo Avoids Challenges to Roblox Child Exploitation Claims",
-        "outlet": "MyNewsLA.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcUxSTDlWblBPc2xCay12Q0hDMzc5SXpqX0htOVRtTklKNWJoaDhaYWczUFhiRVFQTUlKUXBlTzg5NUdBaXFPWUhmYTI5UkNDSlprcXNTMVFfU2x2b3RLM1NCd2RxSjdGUUY5YmRpalg1bzFmS3RuLXRnUzFhVzFaQzVBZnpKdTZuTlA0T2VvZjIxZGwyb0xWM2lIRjR5dE5mWWhFb1I5RWZQcml4MmRmOFRkYWpMdw?oc=5",
-        "published": "2026-09-24T15:59:00Z"
       }
     ]
   },
