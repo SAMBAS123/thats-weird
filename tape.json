@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-29T15:48:42Z",
+  "as_of": "2026-09-29T20:45:04Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,19 +74,13 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 48,
+    "hits_7d": 52,
     "latest": [
       {
         "title": "Roblox loses bid to halt L.A. County's lawsuit alleging child sex exploitation on gaming platform",
         "outlet": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdUE5MExvSFRkaGpUYmZGUjFJcFVKMGo5REJIaW04UXMwalkxeEMycVZLSzFkNFFxcGtKTWdMX1p3Nkt4MC01M3oyV0ZuVGhBRVhkWDhxLUplV3VLeDdnY2MwVUlHY3QtVXNCTGFUVWpOZVdCYnh2aFZSWmttWXNYYm94VUZ2NFkxUXJYTzVFX2ktMHhJODM0LXJiNVVEM082WVZSSnZXeE84S3BSVl90ZnRKaTR6aWFyWm1WWGFnWlVpYzA3OF9tQURSNm4?oc=5",
         "published": "2026-09-24T21:42:39Z"
-      },
-      {
-        "title": "Messy Roblox Lawsuit Includes Salaries Paid In Robux, Ownership Disputes",
-        "outlet": "Aftermath",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RWk1RcXRCSURQcF8tclctaC1tU2dvOEpjTDBmVTFtVWNwNlpSaFFXSkZxNVRWaTRWbUxfNVE1YzVERC1ERkRQam1sUk9YYk51QU05YU9YNFpiUHpGekpUTDhfZjM5WDA5VWRDS1lrMA?oc=5",
-        "published": "2026-09-22T20:18:36Z"
       },
       {
         "title": "Roblox Loses Bid to Stop L.A. County Lawsuit Over Alleged Child Sex Exploitation",
@@ -123,6 +117,12 @@
         "outlet": "MyNewsLA.com",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcUxSTDlWblBPc2xCay12Q0hDMzc5SXpqX0htOVRtTklKNWJoaDhaYWczUFhiRVFQTUlKUXBlTzg5NUdBaXFPWUhmYTI5UkNDSlprcXNTMVFfU2x2b3RLM1NCd2RxSjdGUUY5YmRpalg1bzFmS3RuLXRnUzFhVzFaQzVBZnpKdTZuTlA0T2VvZjIxZGwyb0xWM2lIRjR5dE5mWWhFb1I5RWZQcml4MmRmOFRkYWpMdw?oc=5",
         "published": "2026-09-24T15:59:00Z"
+      },
+      {
+        "title": "Roblox loses bid to halt Los Angeles County child safety lawsuit",
+        "outlet": "PocketGamer.biz",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkFKNTR0RDhzYlY1aWVQRlB5UWJZRk5mNkxZem9pa3lLelc5bUJRVlRQTUJmNG9SN3NWdlphZldxUXdKSVl4TVlXa1c4UDQyWUtIT1Z5YW1odXRUY251eDZkdzVMdWdMOFVPS3JUc2JidTQ1TDRFT0t5d0tBUjd4R2o3LXJoYVVIaWtJMXp0OUNQb092SnhfRA?oc=5",
+        "published": "2026-09-25T10:03:00Z"
       }
     ]
   },
@@ -170,5 +170,7 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": []
+  "errors": [
+    "courtlistener: The read operation timed out"
+  ]
 }
