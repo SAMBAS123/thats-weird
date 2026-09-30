@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-30T00:24:33Z",
+  "as_of": "2026-09-30T06:40:40Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -9,10 +9,24 @@
     "query": "party:\"Roblox Corporation\"",
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
-    "total": 500,
-    "filed_7d": 3,
-    "filed_30d": 17,
+    "total": 502,
+    "filed_7d": 5,
+    "filed_30d": 19,
     "latest": [
+      {
+        "date_filed": "2026-09-29",
+        "case_name": "JANE DOE I.S.9734 v. Roblox Corporation",
+        "docket_number": "3:26-cv-11113",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/74871476/jane-doe-is9734-v-roblox-corporation/"
+      },
+      {
+        "date_filed": "2026-09-29",
+        "case_name": "JANE DOE A.D.7299 for Minor JANE DOE T.D.7299 v. Roblox Corporation",
+        "docket_number": "3:26-cv-11112",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/74871444/jane-doe-ad7299-for-minor-jane-doe-td7299-v-roblox-corporation/"
+      },
       {
         "date_filed": "2026-09-29",
         "case_name": "JANE DOE C.R.1835 v. Roblox Corporation",
@@ -54,31 +68,17 @@
         "docket_number": "3:26-cv-10650",
         "court": "J.P.M.L.",
         "url": "https://www.courtlistener.com/docket/74828209/newsome-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-09-17",
-        "case_name": "Newsome v. Roblox Corporation",
-        "docket_number": "3:26-cv-10650",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74811514/newsome-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-09-15",
-        "case_name": "Graff v. Roblox Corporation",
-        "docket_number": "1:26-cv-11287",
-        "court": "N.D. Ill.",
-        "url": "https://www.courtlistener.com/docket/74793401/graff-v-roblox-corporation/"
       }
     ]
   },
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 54,
+    "hits_7d": 49,
     "latest": [
       {
         "title": "Roblox loses bid to halt L.A. County's lawsuit alleging child sex exploitation on gaming platform",
-        "outlet": "reuters.com",
+        "outlet": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdUE5MExvSFRkaGpUYmZGUjFJcFVKMGo5REJIaW04UXMwalkxeEMycVZLSzFkNFFxcGtKTWdMX1p3Nkt4MC01M3oyV0ZuVGhBRVhkWDhxLUplV3VLeDdnY2MwVUlHY3QtVXNCTGFUVWpOZVdCYnh2aFZSWmttWXNYYm94VUZ2NFkxUXJYTzVFX2ktMHhJODM0LXJiNVVEM082WVZSSnZXeE84S3BSVl90ZnRKaTR6aWFyWm1WWGFnWlVpYzA3OF9tQURSNm4?oc=5",
         "published": "2026-09-24T21:42:39Z"
       },
@@ -96,15 +96,9 @@
       },
       {
         "title": "Roblox Child Sexual Abuse Lawsuit",
-        "outlet": "Lawsuit Information Center",
+        "outlet": "lawsuit-information-center.com",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mZ1RSZGJfTFVSUnc0OGFBSkY0VlVzYWVLY0NvNFkzYkxNSVlYUnNPeUxMSXcwVXBNeGh5NGU3d1hKdlFQZGFuSVZqX0QyOWFmUHpNaVFsTy1XUy1GVm00ZnJQc2swWVBodzUxTV9rRFdEZ190aGd6X3B4Qmc?oc=5",
         "published": "2026-09-26T16:46:44Z"
-      },
-      {
-        "title": "Tennessee moves forward with lawsuit against Roblox over child safety concerns",
-        "outlet": "WKRN News 2",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWG1McWNrYl82eFBaRm5EaFg2WlU5Z1JsbjJTVVBOazIxWVRyZlNocEx3djJxdjhyaENmcGN1bFRSMUl6Y1NxYzAybGFVSnBaa1hyRURVVEg0YTdiLUdnUi1naHh5alBrY0VPVG14Tjk5dTRfWFBmUGNOVGVLcGJJTWlkd0Zlam8xUFlla0YwbTVWQVhjTWoxS2tVc0ZITG9Va2pGNkQ1OGtNZVVBY08tSWlHV0RXUQ?oc=5",
-        "published": "2026-09-23T03:20:54Z"
       },
       {
         "title": "Roblox, Fortnite sued over claims addictive game design harms minors",
@@ -120,9 +114,15 @@
       },
       {
         "title": "Roblox loses bid to halt Los Angeles County child safety lawsuit",
-        "outlet": "PocketGamer.biz",
+        "outlet": "pocketgamer.biz",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkFKNTR0RDhzYlY1aWVQRlB5UWJZRk5mNkxZem9pa3lLelc5bUJRVlRQTUJmNG9SN3NWdlphZldxUXdKSVl4TVlXa1c4UDQyWUtIT1Z5YW1odXRUY251eDZkdzVMdWdMOFVPS3JUc2JidTQ1TDRFT0t5d0tBUjd4R2o3LXJoYVVIaWtJMXp0OUNQb092SnhfRA?oc=5",
         "published": "2026-09-25T10:03:00Z"
+      },
+      {
+        "title": "Roblox to pay Kansas AG's office $10M as part of online child safety settlement",
+        "outlet": "KMBC",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeXpuUXQxZFpzcEp2YkpHNG1RYXREaUFRMzBRSVRXU09QRS1lM29iNjRnS0dKRURxRjBENktBckNGaGlNQkFQNkIzNHRKRjNtaHpqbGJUbTdmcjdIaFlPdkctcGFXZFlxLUlPZjVCUjl1VTVtcTAwSmZmWFpPeF9tdk5lanFLOG5Idl81Mm5TdDdkQ05fdTd2Yw?oc=5",
+        "published": "2026-09-29T21:29:00Z"
       }
     ]
   },
