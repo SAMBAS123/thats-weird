@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-30T13:39:41Z",
+  "as_of": "2026-09-30T19:16:55Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -9,10 +9,17 @@
     "query": "party:\"Roblox Corporation\"",
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
-    "total": 502,
-    "filed_7d": 5,
-    "filed_30d": 19,
+    "total": 503,
+    "filed_7d": 6,
+    "filed_30d": 20,
     "latest": [
+      {
+        "date_filed": "2026-09-30",
+        "case_name": "GE-0003 v. Roblox Corporation",
+        "docket_number": "3:26-cv-11150",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/74877633/ge-0003-v-roblox-corporation/"
+      },
       {
         "date_filed": "2026-09-29",
         "case_name": "JANE DOE I.S.9734 v. Roblox Corporation",
@@ -22,10 +29,10 @@
       },
       {
         "date_filed": "2026-09-29",
-        "case_name": "JANE DOE A.D.7299 for Minor JANE DOE T.D.7299 v. Roblox Corporation",
+        "case_name": "Jane Doe A.D.7299 v. Roblox Corporation",
         "docket_number": "3:26-cv-11112",
         "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74871444/jane-doe-ad7299-for-minor-jane-doe-td7299-v-roblox-corporation/"
+        "url": "https://www.courtlistener.com/docket/74871444/jane-doe-ad7299-v-roblox-corporation/"
       },
       {
         "date_filed": "2026-09-29",
@@ -61,20 +68,13 @@
         "docket_number": "0:26-cv-04050",
         "court": "D. Minnesota",
         "url": "https://www.courtlistener.com/docket/74815821/arndt-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-09-17",
-        "case_name": "Newsome v. Roblox Corporation",
-        "docket_number": "3:26-cv-10650",
-        "court": "J.P.M.L.",
-        "url": "https://www.courtlistener.com/docket/74828209/newsome-v-roblox-corporation/"
       }
     ]
   },
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 40,
+    "hits_7d": 41,
     "latest": [
       {
         "title": "Roblox loses bid to halt L.A. County's lawsuit alleging child sex exploitation on gaming platform",
@@ -114,7 +114,7 @@
       },
       {
         "title": "Roblox loses bid to halt Los Angeles County child safety lawsuit",
-        "outlet": "PocketGamer.biz",
+        "outlet": "pocketgamer.biz",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkFKNTR0RDhzYlY1aWVQRlB5UWJZRk5mNkxZem9pa3lLelc5bUJRVlRQTUJmNG9SN3NWdlphZldxUXdKSVl4TVlXa1c4UDQyWUtIT1Z5YW1odXRUY251eDZkdzVMdWdMOFVPS3JUc2JidTQ1TDRFT0t5d0tBUjd4R2o3LXJoYVVIaWtJMXp0OUNQb092SnhfRA?oc=5",
         "published": "2026-09-25T10:03:00Z"
       },
