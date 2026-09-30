@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-30T19:16:55Z",
+  "as_of": "2026-09-30T23:02:16Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -22,7 +22,7 @@
       },
       {
         "date_filed": "2026-09-29",
-        "case_name": "JANE DOE I.S.9734 v. Roblox Corporation",
+        "case_name": "Jane Doe I.S.9734 v. Roblox Corporation",
         "docket_number": "3:26-cv-11113",
         "court": "N.D. Cal.",
         "url": "https://www.courtlistener.com/docket/74871476/jane-doe-is9734-v-roblox-corporation/"
@@ -74,13 +74,19 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 41,
+    "hits_7d": 37,
     "latest": [
       {
         "title": "Roblox loses bid to halt L.A. County's lawsuit alleging child sex exploitation on gaming platform",
         "outlet": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdUE5MExvSFRkaGpUYmZGUjFJcFVKMGo5REJIaW04UXMwalkxeEMycVZLSzFkNFFxcGtKTWdMX1p3Nkt4MC01M3oyV0ZuVGhBRVhkWDhxLUplV3VLeDdnY2MwVUlHY3QtVXNCTGFUVWpOZVdCYnh2aFZSWmttWXNYYm94VUZ2NFkxUXJYTzVFX2ktMHhJODM0LXJiNVVEM082WVZSSnZXeE84S3BSVl90ZnRKaTR6aWFyWm1WWGFnWlVpYzA3OF9tQURSNm4?oc=5",
         "published": "2026-09-24T21:42:39Z"
+      },
+      {
+        "title": "Roblox to pay Kansas AG's office $10M as part of online child safety settlement",
+        "outlet": "KMBC",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeXpuUXQxZFpzcEp2YkpHNG1RYXREaUFRMzBRSVRXU09QRS1lM29iNjRnS0dKRURxRjBENktBckNGaGlNQkFQNkIzNHRKRjNtaHpqbGJUbTdmcjdIaFlPdkctcGFXZFlxLUlPZjVCUjl1VTVtcTAwSmZmWFpPeF9tdk5lanFLOG5Idl81Mm5TdDdkQ05fdTd2Yw?oc=5",
+        "published": "2026-09-29T21:29:00Z"
       },
       {
         "title": "Roblox Loses Bid to Stop L.A. County Lawsuit Over Alleged Child Sex Exploitation",
@@ -114,15 +120,9 @@
       },
       {
         "title": "Roblox loses bid to halt Los Angeles County child safety lawsuit",
-        "outlet": "pocketgamer.biz",
+        "outlet": "Pocket Gamer.biz",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkFKNTR0RDhzYlY1aWVQRlB5UWJZRk5mNkxZem9pa3lLelc5bUJRVlRQTUJmNG9SN3NWdlphZldxUXdKSVl4TVlXa1c4UDQyWUtIT1Z5YW1odXRUY251eDZkdzVMdWdMOFVPS3JUc2JidTQ1TDRFT0t5d0tBUjd4R2o3LXJoYVVIaWtJMXp0OUNQb092SnhfRA?oc=5",
         "published": "2026-09-25T10:03:00Z"
-      },
-      {
-        "title": "Roblox to pay Kansas AG's office $10M as part of online child safety settlement",
-        "outlet": "KMBC",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeXpuUXQxZFpzcEp2YkpHNG1RYXREaUFRMzBRSVRXU09QRS1lM29iNjRnS0dKRURxRjBENktBckNGaGlNQkFQNkIzNHRKRjNtaHpqbGJUbTdmcjdIaFlPdkctcGFXZFlxLUlPZjVCUjl1VTVtcTAwSmZmWFpPeF9tdk5lanFLOG5Idl81Mm5TdDdkQ05fdTd2Yw?oc=5",
-        "published": "2026-09-29T21:29:00Z"
       }
     ]
   },
