@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-29T20:45:04Z",
+  "as_of": "2026-09-30T00:24:33Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -9,10 +9,17 @@
     "query": "party:\"Roblox Corporation\"",
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
-    "total": 499,
+    "total": 500,
     "filed_7d": 3,
-    "filed_30d": 16,
+    "filed_30d": 17,
     "latest": [
+      {
+        "date_filed": "2026-09-29",
+        "case_name": "JANE DOE C.R.1835 v. Roblox Corporation",
+        "docket_number": "3:26-cv-11077",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/74867886/jane-doe-cr1835-v-roblox-corporation/"
+      },
       {
         "date_filed": "2026-09-28",
         "case_name": "AW-0021 v. Roblox Corporation",
@@ -61,24 +68,17 @@
         "docket_number": "1:26-cv-11287",
         "court": "N.D. Ill.",
         "url": "https://www.courtlistener.com/docket/74793401/graff-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-09-14",
-        "case_name": "HL-0003 v. Roblox Corporation",
-        "docket_number": "3:26-cv-10333",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74785812/hl-0003-v-roblox-corporation/"
       }
     ]
   },
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 52,
+    "hits_7d": 54,
     "latest": [
       {
         "title": "Roblox loses bid to halt L.A. County's lawsuit alleging child sex exploitation on gaming platform",
-        "outlet": "Reuters",
+        "outlet": "reuters.com",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdUE5MExvSFRkaGpUYmZGUjFJcFVKMGo5REJIaW04UXMwalkxeEMycVZLSzFkNFFxcGtKTWdMX1p3Nkt4MC01M3oyV0ZuVGhBRVhkWDhxLUplV3VLeDdnY2MwVUlHY3QtVXNCTGFUVWpOZVdCYnh2aFZSWmttWXNYYm94VUZ2NFkxUXJYTzVFX2ktMHhJODM0LXJiNVVEM082WVZSSnZXeE84S3BSVl90ZnRKaTR6aWFyWm1WWGFnWlVpYzA3OF9tQURSNm4?oc=5",
         "published": "2026-09-24T21:42:39Z"
       },
@@ -170,7 +170,5 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": [
-    "courtlistener: The read operation timed out"
-  ]
+  "errors": []
 }
