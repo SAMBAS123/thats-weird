@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-30T06:40:40Z",
+  "as_of": "2026-09-30T13:39:41Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 49,
+    "hits_7d": 40,
     "latest": [
       {
         "title": "Roblox loses bid to halt L.A. County's lawsuit alleging child sex exploitation on gaming platform",
@@ -96,7 +96,7 @@
       },
       {
         "title": "Roblox Child Sexual Abuse Lawsuit",
-        "outlet": "lawsuit-information-center.com",
+        "outlet": "Lawsuit Information Center",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mZ1RSZGJfTFVSUnc0OGFBSkY0VlVzYWVLY0NvNFkzYkxNSVlYUnNPeUxMSXcwVXBNeGh5NGU3d1hKdlFQZGFuSVZqX0QyOWFmUHpNaVFsTy1XUy1GVm00ZnJQc2swWVBodzUxTV9rRFdEZ190aGd6X3B4Qmc?oc=5",
         "published": "2026-09-26T16:46:44Z"
       },
@@ -104,7 +104,7 @@
         "title": "Roblox, Fortnite sued over claims addictive game design harms minors",
         "outlet": "Top Class Actions",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVcyWm4zdDFob1FpUWFKcmFFUVItQkF2QUdpdE9hMFh4N3NKYjRObEttcWp5NVdoclcydWVKVmFxOHlhU2tZbGlyVWt3Yzk2NkVnLS0wVUUzb3BqUWhtNURoWjdPZkYyNklWMWpqSmxvWWpjWmZyV3Y2cWx3dWNZRHlobURucUl1M1RwVGlnNU9qNnZIQkc4ZlI0dll1clVZTkNRazlDa0FnbkQtU0x0NzRZZ1pHSDZ1bjhUTWVGWmdRRFhyT3pVSQ?oc=5",
-        "published": "2026-09-24T14:05:54Z"
+        "published": "2026-09-24T14:07:01Z"
       },
       {
         "title": "LACo Avoids Challenges to Roblox Child Exploitation Claims",
@@ -114,7 +114,7 @@
       },
       {
         "title": "Roblox loses bid to halt Los Angeles County child safety lawsuit",
-        "outlet": "pocketgamer.biz",
+        "outlet": "PocketGamer.biz",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkFKNTR0RDhzYlY1aWVQRlB5UWJZRk5mNkxZem9pa3lLelc5bUJRVlRQTUJmNG9SN3NWdlphZldxUXdKSVl4TVlXa1c4UDQyWUtIT1Z5YW1odXRUY251eDZkdzVMdWdMOFVPS3JUc2JidTQ1TDRFT0t5d0tBUjd4R2o3LXJoYVVIaWtJMXp0OUNQb092SnhfRA?oc=5",
         "published": "2026-09-25T10:03:00Z"
       },
