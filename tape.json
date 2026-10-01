@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-01T16:24:55Z",
+  "as_of": "2026-10-01T21:48:19Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,14 +74,8 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 35,
+    "hits_7d": 37,
     "latest": [
-      {
-        "title": "Roblox loses bid to halt L.A. County's lawsuit alleging child sex exploitation on gaming platform",
-        "outlet": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdUE5MExvSFRkaGpUYmZGUjFJcFVKMGo5REJIaW04UXMwalkxeEMycVZLSzFkNFFxcGtKTWdMX1p3Nkt4MC01M3oyV0ZuVGhBRVhkWDhxLUplV3VLeDdnY2MwVUlHY3QtVXNCTGFUVWpOZVdCYnh2aFZSWmttWXNYYm94VUZ2NFkxUXJYTzVFX2ktMHhJODM0LXJiNVVEM082WVZSSnZXeE84S3BSVl90ZnRKaTR6aWFyWm1WWGFnWlVpYzA3OF9tQURSNm4?oc=5",
-        "published": "2026-09-24T21:42:39Z"
-      },
       {
         "title": "Roblox to pay Kansas AG's office $10M as part of online child safety settlement",
         "outlet": "KMBC",
@@ -123,6 +117,12 @@
         "outlet": "Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2RrdnJVMzVwSU9JY190NklXR1VMSEZwekJEbm9GOVgzWDM1ZER0ODRGNVRqLVNHeTBXeEFMV1ZXTFRfbUY0RGF2bmxNU0NEV2FIeWJyM2Z5UFFxU1lXOHlUVk45LTFCc1hwSlBRTVQwTWpFS1MzR2l4OU53MElqYlU3czFDWnZMQ0p6RzBzU3d5cTdD?oc=5",
         "published": "2026-09-30T18:12:33Z"
+      },
+      {
+        "title": "Video Game Addiction Lawsuits Top 100 Cases, No MDL [2026]",
+        "outlet": "tech-insider.org",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xT0paQ0xkWE5VRkZfeEYwVktGR2Itd3JyVEVpTHUwMmNmLTVXV1JwQWVzOVB1MGJEaXZDMWJlelRJMnB0LW5JVTdVN2d2bFI4bGhqVU1CMFdZT2tWYmNsWUtURU42c2pBcEZR?oc=5",
+        "published": "2026-09-29T21:58:48Z"
       }
     ]
   },
