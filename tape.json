@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-02T01:40:26Z",
+  "as_of": "2026-10-02T08:29:19Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,19 +74,13 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 39,
+    "hits_7d": 38,
     "latest": [
       {
         "title": "Roblox to pay Kansas AG's office $10M as part of online child safety settlement",
         "outlet": "KMBC",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeXpuUXQxZFpzcEp2YkpHNG1RYXREaUFRMzBRSVRXU09QRS1lM29iNjRnS0dKRURxRjBENktBckNGaGlNQkFQNkIzNHRKRjNtaHpqbGJUbTdmcjdIaFlPdkctcGFXZFlxLUlPZjVCUjl1VTVtcTAwSmZmWFpPeF9tdk5lanFLOG5Idl81Mm5TdDdkQ05fdTd2Yw?oc=5",
         "published": "2026-09-30T21:11:00Z"
-      },
-      {
-        "title": "Roblox Loses Bid to Stop L.A. County Lawsuit Over Alleged Child Sex Exploitation",
-        "outlet": "Law Commentary",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWUtzNHpyMmdJY1BOWHlobDBVejRuVm9Kc1M0OUt4T05LUHlaWThFcFc2RkZEWlFEVlZRV245V0ZKeHdYSUtzaXhoOFN0ZU41YU1SMnpIU1AtLWVvVWZXRnVzYW4ydERJNDVhV1FsdlAxTkI1N09icmcyaGZkNHlTUi1oVXNDMF81S25nOHBOQTJSWkh6bDBveVE2WG8?oc=5",
-        "published": "2026-09-25T04:52:45Z"
       },
       {
         "title": "Roblox fails to halt LA child-exploitation lawsuit over age checks",
@@ -101,6 +95,12 @@
         "published": "2026-09-26T16:46:44Z"
       },
       {
+        "title": "Roblox Stock Is Down 70% From Its High After a Jefferies Downgrade and a Child Safety Lawsuit Ruling",
+        "outlet": "TIKR.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMGZER0VDVjBqTWdzRW9uNWxGX29YMGtvbkJFNk1UR3FkWGFQY2IwMUJmenZ3SUtOcmIzQm5Ual9uZkNsTjBmcG9Td1BoNjhIa1JDck4yVFRjRFB4WXRPckhjRlVSb2RXRV96X05sTl9oelFsSlo5WWhzYldEcWdiUmZ0VkxuSm52NFd6ekhmYy1NVEktQWpNUE8tb0tDczdvYWVZbXNPV0YxWG51S2RtalVJZ2dFX2FpNUpkamlFa1E5ajA?oc=5",
+        "published": "2026-09-30T18:32:08Z"
+      },
+      {
         "title": "Roblox loses bid to halt Los Angeles County child safety lawsuit",
         "outlet": "Pocket Gamer.biz",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkFKNTR0RDhzYlY1aWVQRlB5UWJZRk5mNkxZem9pa3lLelc5bUJRVlRQTUJmNG9SN3NWdlphZldxUXdKSVl4TVlXa1c4UDQyWUtIT1Z5YW1odXRUY251eDZkdzVMdWdMOFVPS3JUc2JidTQ1TDRFT0t5d0tBUjd4R2o3LXJoYVVIaWtJMXp0OUNQb092SnhfRA?oc=5",
@@ -108,21 +108,21 @@
       },
       {
         "title": "Social Media Addiction Lawsuit: 2026 Updates and What To Know",
-        "outlet": "consumernotice.org",
+        "outlet": "Consumer Notice",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14V0d1a1lhazRNWlJULVFMRExnVW5vek1wZlJrRmZuZzJKYWZac1dkUm0wQ29nOXE2UVBkYV93Y1ppZFRlNWEyaXBtNG10YWNlVWFWOS16Z2lHMWMtX0czcXdWMDlXVURRdXpRbk05MEg?oc=5",
         "published": "2026-09-29T07:00:00Z"
-      },
-      {
-        "title": "Roblox Stock Is Down 70% From Its High After a Jefferies Downgrade and a Child Safety Lawsuit Ruling",
-        "outlet": "Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2RrdnJVMzVwSU9JY190NklXR1VMSEZwekJEbm9GOVgzWDM1ZER0ODRGNVRqLVNHeTBXeEFMV1ZXTFRfbUY0RGF2bmxNU0NEV2FIeWJyM2Z5UFFxU1lXOHlUVk45LTFCc1hwSlBRTVQwTWpFS1MzR2l4OU53MElqYlU3czFDWnZMQ0p6RzBzU3d5cTdD?oc=5",
-        "published": "2026-09-30T18:12:33Z"
       },
       {
         "title": "Video Game Addiction Lawsuits Top 100 Cases, No MDL [2026]",
         "outlet": "tech-insider.org",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xT0paQ0xkWE5VRkZfeEYwVktGR2Itd3JyVEVpTHUwMmNmLTVXV1JwQWVzOVB1MGJEaXZDMWJlelRJMnB0LW5JVTdVN2d2bFI4bGhqVU1CMFdZT2tWYmNsWUtURU42c2pBcEZR?oc=5",
         "published": "2026-09-29T21:58:48Z"
+      },
+      {
+        "title": "Roblox Shares Drop After Jefferies Cuts Rating and Target",
+        "outlet": "TradingPedia",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc3pGcDE5U2xhTGdkYUdZdkktLXNJUmwycXlHaEJMSm5SSlhaRnZyaXFKdndaRnk5c2I2aGNlbDR3alNOcjFESE9sbjNfV1RYcDRXeWlmUl9pTWxLZGcwSXJDUGVZQkFMWW5GdnowOXFtekNYWDZZNV8zaklaQ1RKZlhBR2k4d1ZhRVlSUzg5aVlNdHFkdFlXaXNTSU5HUDA?oc=5",
+        "published": "2026-09-28T09:50:04Z"
       }
     ]
   },
