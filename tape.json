@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-03T00:27:46Z",
+  "as_of": "2026-10-03T06:29:46Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 34,
+    "hits_7d": 35,
     "latest": [
       {
         "title": "Roblox to pay Kansas AG's office $10M as part of online child safety settlement",
@@ -102,7 +102,7 @@
       },
       {
         "title": "Roblox, Fortnite Addiction Lawsuit Alleges Games Caused Severe Withdrawal, Mental Health Problems",
-        "outlet": "aboutlawsuits.com",
+        "outlet": "AboutLawsuits.com",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVkZUNnhWdkJfbXVIOU9mNUF5c1Z0SnZRRGYyMnA4LWd1VlNaeXgzMlZHaHpLTXQxRDBVVEU5cHhjZnE2SkkwVlF1ZDB2WDlRbW9HaHN0OEwwb1ZPZ3VHZEprUW1LZ19iZHJJYUpDdmJzMk9lWC05QThOakw5TlBlNXNmNFV0R2RvNXNTbm1LTmNRYUtoOE9fZ2N0OXU4OGhack1FOHRTMlM5dlNKcUlGcA?oc=5",
         "published": "2026-10-02T14:00:00Z"
       },
