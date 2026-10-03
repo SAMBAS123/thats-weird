@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-03T06:29:46Z",
+  "as_of": "2026-10-03T12:32:29Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 35,
+    "hits_7d": 34,
     "latest": [
       {
         "title": "Roblox to pay Kansas AG's office $10M as part of online child safety settlement",
