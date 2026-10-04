@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-04T15:20:23Z",
+  "as_of": "2026-10-04T19:34:52Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 41,
+    "hits_7d": 43,
     "latest": [
       {
         "title": "Roblox to pay Kansas AG's office $10M as part of online child safety settlement",
@@ -84,7 +84,7 @@
       },
       {
         "title": "Roblox Sex Abuse Lawsuits for Minors",
-        "outlet": "ClassAction.org",
+        "outlet": "classaction.org",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oaUxWTmg2ZklxdmtzZkdjOWN2SUdLNUU2ck56Sm03WEIwc0ZCT0MxYWhreG5XZEVGWE9rUTFXaUJmM1JsdWRJZ2ZqcUwxY1JiUGU0NG5pMnAtZWVGOGxvcXNLUQ?oc=5",
         "published": "2026-09-30T07:00:00Z"
       },
@@ -96,7 +96,7 @@
       },
       {
         "title": "Roblox Stock Is Down 70% From Its High After a Jefferies Downgrade and a Child Safety Lawsuit Ruling",
-        "outlet": "tikr.com",
+        "outlet": "TIKR.com",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMGZER0VDVjBqTWdzRW9uNWxGX29YMGtvbkJFNk1UR3FkWGFQY2IwMUJmenZ3SUtOcmIzQm5Ual9uZkNsTjBmcG9Td1BoNjhIa1JDck4yVFRjRFB4WXRPckhjRlVSb2RXRV96X05sTl9oelFsSlo5WWhzYldEcWdiUmZ0VkxuSm52NFd6ekhmYy1NVEktQWpNUE8tb0tDczdvYWVZbXNPV0YxWG51S2RtalVJZ2dFX2FpNUpkamlFa1E5ajA?oc=5",
         "published": "2026-09-30T18:32:08Z"
       },
