@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-05T08:59:18Z",
+  "as_of": "2026-10-05T18:24:04Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 47,
+    "hits_7d": 50,
     "latest": [
       {
         "title": "Roblox to pay Kansas AG's office $10M as part of online child safety settlement",
@@ -89,12 +89,6 @@
         "published": "2026-09-30T07:00:00Z"
       },
       {
-        "title": "Roblox Stock Is Down 70% From Its High After a Jefferies Downgrade and a Child Safety Lawsuit Ruling",
-        "outlet": "TIKR.com",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMGZER0VDVjBqTWdzRW9uNWxGX29YMGtvbkJFNk1UR3FkWGFQY2IwMUJmenZ3SUtOcmIzQm5Ual9uZkNsTjBmcG9Td1BoNjhIa1JDck4yVFRjRFB4WXRPckhjRlVSb2RXRV96X05sTl9oelFsSlo5WWhzYldEcWdiUmZ0VkxuSm52NFd6ekhmYy1NVEktQWpNUE8tb0tDczdvYWVZbXNPV0YxWG51S2RtalVJZ2dFX2FpNUpkamlFa1E5ajA?oc=5",
-        "published": "2026-09-30T18:32:08Z"
-      },
-      {
         "title": "Roblox, Fortnite Addiction Lawsuit Alleges Games Caused Severe Withdrawal, Mental Health Problems",
         "outlet": "AboutLawsuits.com",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVkZUNnhWdkJfbXVIOU9mNUF5c1Z0SnZRRGYyMnA4LWd1VlNaeXgzMlZHaHpLTXQxRDBVVEU5cHhjZnE2SkkwVlF1ZDB2WDlRbW9HaHN0OEwwb1ZPZ3VHZEprUW1LZ19iZHJJYUpDdmJzMk9lWC05QThOakw5TlBlNXNmNFV0R2RvNXNTbm1LTmNRYUtoOE9fZ2N0OXU4OGhack1FOHRTMlM5dlNKcUlGcA?oc=5",
@@ -105,6 +99,12 @@
         "outlet": "Consumer Notice",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14V0d1a1lhazRNWlJULVFMRExnVW5vek1wZlJrRmZuZzJKYWZac1dkUm0wQ29nOXE2UVBkYV93Y1ppZFRlNWEyaXBtNG10YWNlVWFWOS16Z2lHMWMtX0czcXdWMDlXVURRdXpRbk05MEg?oc=5",
         "published": "2026-09-29T07:00:00Z"
+      },
+      {
+        "title": "Roblox Stock Is Down 70% From Its High After a Jefferies Downgrade and a Child Safety Lawsuit Ruling",
+        "outlet": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2RrdnJVMzVwSU9JY190NklXR1VMSEZwekJEbm9GOVgzWDM1ZER0ODRGNVRqLVNHeTBXeEFMV1ZXTFRfbUY0RGF2bmxNU0NEV2FIeWJyM2Z5UFFxU1lXOHlUVk45LTFCc1hwSlBRTVQwTWpFS1MzR2l4OU53MElqYlU3czFDWnZMQ0p6RzBzU3d5cTdD?oc=5",
+        "published": "2026-09-30T18:12:33Z"
       },
       {
         "title": "Social Media Addiction Lawsuit FAQs",
@@ -119,10 +119,10 @@
         "published": "2026-09-29T21:58:48Z"
       },
       {
-        "title": "Roblox Shares Drop After Jefferies Cuts Rating and Target",
-        "outlet": "TradingPedia",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc3pGcDE5U2xhTGdkYUdZdkktLXNJUmwycXlHaEJMSm5SSlhaRnZyaXFKdndaRnk5c2I2aGNlbDR3alNOcjFESE9sbjNfV1RYcDRXeWlmUl9pTWxLZGcwSXJDUGVZQkFMWW5GdnowOXFtekNYWDZZNV8zaklaQ1RKZlhBR2k4d1ZhRVlSUzg5aVlNdHFkdFlXaXNTSU5HUDA?oc=5",
-        "published": "2026-09-28T09:50:04Z"
+        "title": "Roblox Loses Bid to Send Teen Addiction Claims to Arbitration",
+        "outlet": "Bloomberg Law News",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT2ZWNlZJSjNhSDNFRVRqZEJqeHZ5V243R2cxQ3JnSjdSOFQxWGEzTHVDekpONWd2bG5hTXF6czNBOHlublNLbWU0QVNIVkV5S0lpRlFhdUJEUnlvYm04SFU2U0o3VU5kYVNDbzVacm1Rd3hTNmFpRnRLTkc4czNERmtSVWttN2F4TVQyZDRBVkdsZU5yYjYyVWVVS0hMRWh3NjlYWnFrbw?oc=5",
+        "published": "2026-09-29T17:41:00Z"
       }
     ]
   },
