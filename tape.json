@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-06T20:16:57Z",
+  "as_of": "2026-10-06T23:50:52Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 46,
+    "hits_7d": 44,
     "latest": [
       {
         "title": "Roblox to pay Kansas AG's office $10M as part of online child safety settlement",
@@ -113,16 +113,16 @@
         "published": "2026-10-02T14:00:00Z"
       },
       {
+        "title": "New San Diego County consumer protection unit announces first set of lawsuits",
+        "outlet": "NBC 7 San Diego",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVzNhTUJyZjdvd1doMXpPVVFSV1Qxc2ltTk02aFgxbWVkVlJwRGRsandIQUVMYXBZVnA0ZzRZY2lKTFk3a09YUUQ3b2VtUzc0ZHdNcENIWEpqeUZ0SFI4dEUyM1pxYWNWLUVZZmJtVFJvTXBySnpGTm5xTUhWc3QybFZHa3RkZWpLMVkzMjhrOElWcTNqb0E5Q0QwUERRUG0yUHpVMkpGYURSZUNhX1paNG02Q2RMUDZWWjRKUWVIUTBvZTTSAcsBQVVfeXFMTjh6Vm1sLXpBUURLRWlQSi0tQy1CT2otMU1lRUxyUVM0SXV2dFdxUkM4Mzl6bmVlbXQ4VWtsRXJZWTd3YnotNEItOWVJaGZkN1dWMHB6b3BZSTBGbmJpb2tpeHpsb0tLeVhfa2tZY3ZVaXlva2tjZjdSWmdzTUxvT2lZeGxub0JvTGt2SHIwcEw1c2VoQk1OYjhOb0VpTDdVcTVoWGNOQW9OVkExR0R5MEpiVWU4WEtiakFzLTRKRFFWRGFPbks1d0RxMFk?oc=5",
+        "published": "2026-10-06T21:12:11Z"
+      },
+      {
         "title": "Ozempic Gastroparesis Lawsuit: What to Know About Stomach Paralysis Claims",
         "outlet": "Consumer Notice",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGbmFJTHMxeWxtQ0dCdnJ6UzZxR1FrdnFhSzNlSFNtZ09lNnF1eHR5Mk15eVVMUzY0OFp0REdFZ2VPQXN6Qjd0T0g0c05Sd0dxdV8xdU11WUoyb2lsVmx3Sm4zdnZ2Rk5uUzE1RHZGU0VBelVpcmc?oc=5",
         "published": "2026-10-01T18:02:33Z"
-      },
-      {
-        "title": "San Diego County launches Consumer Protection Division, targets child safety",
-        "outlet": "cbs8.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRms3aGdKdm9RMk80RFR3cXVhVkN3SUk3bDA3dlZuaFlPMmI5LW1zRXBNUEx5amt5TmJYT295TXd3dHQ0LXpYX1ZMbXVVSDhaQ0w3R2tKeHZvZ0RJSGFad2xkbXAwYTF6TEZKcW1IOFR4eEIxd2UxT2cyX0dLS1ZLeXJlSkNqUkFZcmNzbFhzV211WG9KR0RuX21NamVTNEg5TTdqc1l3YXZNTEE5cmY0dG5aSHJMMzdrNVIyOERZTnNNcjY1NUxZRmJnejF1MlAzMmJDSDJQbEp5U3pNVEFGdjBUbnY5TWRNZElXRklwaw?oc=5",
-        "published": "2026-10-06T02:05:00Z"
       }
     ]
   },
