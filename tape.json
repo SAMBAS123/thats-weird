@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-07T19:58:12Z",
+  "as_of": "2026-10-08T00:10:54Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -9,10 +9,31 @@
     "query": "party:\"Roblox Corporation\"",
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
-    "total": 504,
-    "filed_7d": 2,
-    "filed_30d": 17,
+    "total": 507,
+    "filed_7d": 4,
+    "filed_30d": 20,
     "latest": [
+      {
+        "date_filed": "2026-10-07",
+        "case_name": "0003 v. Roblox Corporation",
+        "docket_number": "3:26-cv-11552",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/74932769/0003-v-roblox-corporation/"
+      },
+      {
+        "date_filed": "2026-10-07",
+        "case_name": "WL-0002 v. Roblox Corporation",
+        "docket_number": "3:26-cv-11551",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/74932374/wl-0002-v-roblox-corporation/"
+      },
+      {
+        "date_filed": "2026-10-07",
+        "case_name": "HL-0005 v. Roblox Corporation",
+        "docket_number": "3:26-cv-11525",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/74930989/hl-0005-v-roblox-corporation/"
+      },
       {
         "date_filed": "2026-10-02",
         "case_name": "0002 v. Roblox Corporation",
@@ -47,41 +68,14 @@
         "docket_number": "3:26-cv-11077",
         "court": "N.D. Cal.",
         "url": "https://www.courtlistener.com/docket/74867886/jane-doe-cr1835-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-09-28",
-        "case_name": "AW-0021 v. Roblox Corporation",
-        "docket_number": "3:26-cv-11000",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74859233/aw-0021-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-09-23",
-        "case_name": "JANE DOE A.T.8155 for JANE DOE Y.T.8155 v. Roblox Corporation",
-        "docket_number": "3:26-cv-10865",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74842774/jane-doe-at8155-for-jane-doe-yt8155-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-09-22",
-        "case_name": "HL-0004 v. Roblox Corporation",
-        "docket_number": "3:26-cv-10804",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74834300/hl-0004-v-roblox-corporation/"
       }
     ]
   },
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 44,
+    "hits_7d": 41,
     "latest": [
-      {
-        "title": "Roblox to pay Kansas AG's office $10M as part of online child safety settlement",
-        "outlet": "KMBC",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeXpuUXQxZFpzcEp2YkpHNG1RYXREaUFRMzBRSVRXU09QRS1lM29iNjRnS0dKRURxRjBENktBckNGaGlNQkFQNkIzNHRKRjNtaHpqbGJUbTdmcjdIaFlPdkctcGFXZFlxLUlPZjVCUjl1VTVtcTAwSmZmWFpPeF9tdk5lanFLOG5Idl81Mm5TdDdkQ05fdTd2Yw?oc=5",
-        "published": "2026-09-30T21:11:00Z"
-      },
       {
         "title": "Roblox ducks lawsuit for ignoring artist's 'NoAI' tag",
         "outlet": "Courthouse News",
@@ -123,6 +117,12 @@
         "outlet": "Yahoo Finance UK",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU2hpVU1rVGhRdVg5bGxBeExvLW1qNjBNMGNZR3RnakJZd1pCcmotQmVoUEFnbVZBanFmSTMtT0JRWkowM1l6MWFOcElfRThTb1BFeGxqVzBpeHpYTmhBekM2NmtrMXlVT0RvMGlMQ0JQMUw2NF9GaDZLZm96SVNjN1NVQkw2SEh0Rk1MaXdIVEc?oc=5",
         "published": "2026-10-06T00:05:00Z"
+      },
+      {
+        "title": "County launches new consumer protection unit with 3 suits targeting tech firms, ghost guns",
+        "outlet": "San Diego Union-Tribune",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLWlwZG5LUVRWLTRfai1xeFNrWGdUWDRuWHljTlluRlZBNjVoYnJoRTNtazN2OXRsUFdQcWtGNXVzMVlsTDZaTF9ZQ0pKQzkzYVlsWGJaOV8xYzRsQU1mR0FWekJLU3VPd3ZnZUFlLXN0d005TlNwdDJ2NGQ1eHRGdGNYOG5FeFBlLVZNODdOM2lUSFBRVnkyMFRxQ2JTUEcxaWlVSGJiWkxlM3JKODdNWHZTNnppeGtqeEgtMnFYajJueVVoaGZhbzFTWWZfcWN6cHpaNQ?oc=5",
+        "published": "2026-10-06T02:36:58Z"
       }
     ]
   },
@@ -170,7 +170,5 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": [
-    "courtlistener: The read operation timed out"
-  ]
+  "errors": []
 }
