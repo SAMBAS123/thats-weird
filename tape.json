@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-08T00:10:54Z",
+  "as_of": "2026-10-08T05:58:43Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 41,
+    "hits_7d": 42,
     "latest": [
       {
         "title": "Roblox ducks lawsuit for ignoring artist's 'NoAI' tag",
@@ -89,22 +89,16 @@
         "published": "2026-10-06T21:12:11Z"
       },
       {
-        "title": "Roblox Child Sexual Abuse Lawsuit",
-        "outlet": "Lawsuit Information Center",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mZ1RSZGJfTFVSUnc0OGFBSkY0VlVzYWVLY0NvNFkzYkxNSVlYUnNPeUxMSXcwVXBNeGh5NGU3d1hKdlFQZGFuSVZqX0QyOWFmUHpNaVFsTy1XUy1GVm00ZnJQc2swWVBodzUxTV9rRFdEZ190aGd6X3B4Qmc?oc=5",
-        "published": "2026-10-05T13:56:44Z"
-      },
-      {
         "title": "Roblox Lawsuit Claims 7-Year-Old Groomed by Sex Predator",
         "outlet": "AboutLawsuits.com",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2NQYkkyZ19fUER2bHFWOElyOHc3M2tMeVh2eFRpd0V3cXlrOTJCVjNJc3M5cDBOUjR2ZFZkSEJUeFc4d1pUUTR2NEFheHBIS2JHY0hKcEZGU0FXb1RHU0FhUGpfRjdqVnlEeDJCUjNaY0N5OExNLVZyN1JvSFN6ZXBrOWZqWXNsdzBOdUNQYW1JblBXcnJV?oc=5",
         "published": "2026-10-07T14:00:00Z"
       },
       {
-        "title": "Ozempic Gastroparesis Lawsuit: What to Know About Stomach Paralysis Claims",
-        "outlet": "Consumer Notice",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGbmFJTHMxeWxtQ0dCdnJ6UzZxR1FrdnFhSzNlSFNtZ09lNnF1eHR5Mk15eVVMUzY0OFp0REdFZ2VPQXN6Qjd0T0g0c05Sd0dxdV8xdU11WUoyb2lsVmx3Sm4zdnZ2Rk5uUzE1RHZGU0VBelVpcmc?oc=5",
-        "published": "2026-10-01T18:02:33Z"
+        "title": "Roblox Child Sexual Abuse Lawsuit",
+        "outlet": "Lawsuit Information Center",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mZ1RSZGJfTFVSUnc0OGFBSkY0VlVzYWVLY0NvNFkzYkxNSVlYUnNPeUxMSXcwVXBNeGh5NGU3d1hKdlFQZGFuSVZqX0QyOWFmUHpNaVFsTy1XUy1GVm00ZnJQc2swWVBodzUxTV9rRFdEZ190aGd6X3B4Qmc?oc=5",
+        "published": "2026-10-05T13:56:44Z"
       },
       {
         "title": "San Diego County launches Consumer Protection Division, targets child safety",
@@ -114,8 +108,8 @@
       },
       {
         "title": "San Diego Launches New Consumer Protection Unit With Lawsuits Against AppLovin, Roblox and Polymaker",
-        "outlet": "Yahoo Finance UK",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU2hpVU1rVGhRdVg5bGxBeExvLW1qNjBNMGNZR3RnakJZd1pCcmotQmVoUEFnbVZBanFmSTMtT0JRWkowM1l6MWFOcElfRThTb1BFeGxqVzBpeHpYTmhBekM2NmtrMXlVT0RvMGlMQ0JQMUw2NF9GaDZLZm96SVNjN1NVQkw2SEh0Rk1MaXdIVEc?oc=5",
+        "outlet": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQWlvWEJhemNkN3VhUXVXOGUtWVVRRlhCQjdwX1ZKczlhNDNmQUhJbUEtNzVKTkJUNFFkN0x2VjZyeVBzUkRFTkt6T0dTVFhVeGIwSFhBUkVEVFVZOFE3ZkVrNDYtRFZTbHdWUEF1a09xNUw2RDFhNWMwcWl3T0RxVGZCVG5aYlZPdExQYVhKSmVsaU1wcWttc2o3akpad0ZrSGs5XzF1ZkZRUQ?oc=5",
         "published": "2026-10-06T00:05:00Z"
       },
       {
@@ -123,6 +117,12 @@
         "outlet": "San Diego Union-Tribune",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLWlwZG5LUVRWLTRfai1xeFNrWGdUWDRuWHljTlluRlZBNjVoYnJoRTNtazN2OXRsUFdQcWtGNXVzMVlsTDZaTF9ZQ0pKQzkzYVlsWGJaOV8xYzRsQU1mR0FWekJLU3VPd3ZnZUFlLXN0d005TlNwdDJ2NGQ1eHRGdGNYOG5FeFBlLVZNODdOM2lUSFBRVnkyMFRxQ2JTUEcxaWlVSGJiWkxlM3JKODdNWHZTNnppeGtqeEgtMnFYajJueVVoaGZhbzFTWWZfcWN6cHpaNQ?oc=5",
         "published": "2026-10-06T02:36:58Z"
+      },
+      {
+        "title": "‘Significant gaps’ in gaming safety checks",
+        "outlet": "News.com.au",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaV9yc3lmOTB5aHYyYU5RbFYwYkRBd0c0MEF4ZFMwMl9jSGFOUVRCdVpvR0VQU0ZQd3N3T1U0clJhWlV1bkY4cHhQYkJoSmdzcEFkZ0VUWTVHbld2VjFLMjByM3NKNkY0Z0VDcXVBbkF2cS0ya081TWhtTUJvRG10dmhuZFRqU2hjdk56b1NGYjlCNmNQdjBnS3llZEJwQlFoX21wMzVhRUNBNld6TGFpSFFtUTVwUDRXSVZqRDdmX2ZvaVczazNFbUZ6QUszSG9LMFducTRteHUxN0ZnTmFhbzliLW55aVA4bUZkOWVweDHSAfYBQVVfeXFMT0FQQTEtYmpNSFN2Z1pwekR2cW50Q0dON2lYUFJyTUowUTZ2NUJ5Zl9hNXVrSUVLbHRMc09tdjRicy11MWY0U3BYME95enJaX09jZHFTekZEdXJjVXg3d3UwWE9EeENGQmEwQ0NiSjJtTkN0ZlY4T2FOeEF6ZTJ4QjhhS2U2cEVhcDF0Mm5NS0QyS1I1UzR1bXZLdi1Yalh0bUlhZ3NIcy1FYkdEVXQ4OGxweU4tdnBLU0JkZDA4OWtOcXd5d09VUTBpbTNRSVJWcDlrYkhrYU84Y0o1TTlyZmxJOUgtNldUQWJfSG84VEdDVzJFWVN3?oc=5",
+        "published": "2026-10-02T01:09:29Z"
       }
     ]
   },
