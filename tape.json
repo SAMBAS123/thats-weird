@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-08T13:24:07Z",
+  "as_of": "2026-10-08T19:55:22Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -9,10 +9,17 @@
     "query": "party:\"Roblox Corporation\"",
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
-    "total": 507,
-    "filed_7d": 4,
-    "filed_30d": 20,
+    "total": 508,
+    "filed_7d": 5,
+    "filed_30d": 21,
     "latest": [
+      {
+        "date_filed": "2026-10-08",
+        "case_name": "AW-0022 v. Roblox Corporation",
+        "docket_number": "3:26-cv-11616",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/74938213/aw-0022-v-roblox-corporation/"
+      },
       {
         "date_filed": "2026-10-07",
         "case_name": "0003 v. Roblox Corporation",
@@ -61,32 +68,25 @@
         "docket_number": "3:26-cv-11112",
         "court": "N.D. Cal.",
         "url": "https://www.courtlistener.com/docket/74871444/jane-doe-ad7299-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-09-29",
-        "case_name": "JANE DOE C.R.1835 v. Roblox Corporation",
-        "docket_number": "3:26-cv-11077",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74867886/jane-doe-cr1835-v-roblox-corporation/"
       }
     ]
   },
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 42,
+    "hits_7d": 44,
     "latest": [
-      {
-        "title": "Roblox ducks lawsuit for ignoring artist's 'NoAI' tag",
-        "outlet": "Courthouse News",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV05BMHBxdUV5S0dwZlF6MW1VQ2ZNRGlvZGFGeTduSlZBS1NReEhsU2g0c21KeUVtT2VuTFJxU1Zfd3Vjd1o4VnE1UXA1NW1GdmhhaS1zWGh4WjJTTjd3ZE1LcEVXLTROQUQ3QVJDNjk4UWtnUlZrSE9kY3U5RnlRUlZTQTE?oc=5",
-        "published": "2026-10-06T01:41:15Z"
-      },
       {
         "title": "New San Diego County consumer protection unit announces first set of lawsuits",
         "outlet": "NBC 7 San Diego",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVzNhTUJyZjdvd1doMXpPVVFSV1Qxc2ltTk02aFgxbWVkVlJwRGRsandIQUVMYXBZVnA0ZzRZY2lKTFk3a09YUUQ3b2VtUzc0ZHdNcENIWEpqeUZ0SFI4dEUyM1pxYWNWLUVZZmJtVFJvTXBySnpGTm5xTUhWc3QybFZHa3RkZWpLMVkzMjhrOElWcTNqb0E5Q0QwUERRUG0yUHpVMkpGYURSZUNhX1paNG02Q2RMUDZWWjRKUWVIUTBvZTTSAcsBQVVfeXFMTjh6Vm1sLXpBUURLRWlQSi0tQy1CT2otMU1lRUxyUVM0SXV2dFdxUkM4Mzl6bmVlbXQ4VWtsRXJZWTd3YnotNEItOWVJaGZkN1dWMHB6b3BZSTBGbmJpb2tpeHpsb0tLeVhfa2tZY3ZVaXlva2tjZjdSWmdzTUxvT2lZeGxub0JvTGt2SHIwcEw1c2VoQk1OYjhOb0VpTDdVcTVoWGNOQW9OVkExR0R5MEpiVWU4WEtiakFzLTRKRFFWRGFPbks1d0RxMFk?oc=5",
         "published": "2026-10-06T21:12:11Z"
+      },
+      {
+        "title": "Roblox ducks lawsuit for ignoring artist's 'NoAI' tag",
+        "outlet": "Courthouse News",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQmEwMHNxQ2ltTm8tT21OQ0pnRUxRZGFDbjZYVllsYmZBV0VFN2c5bnJVeW5La2FsUG1iMGtxX2I5Q2JkaGFCZzJrYjhLcFRtQUFfaHRQUUd1M1RTTDY4VDh1VXYzMWdtTE9VOTZhelZqZ0NJLW5XVnF5clNYcW5jWmg0cGdXeFdjQkE?oc=5",
+        "published": "2026-10-06T01:46:57Z"
       },
       {
         "title": "Roblox Child Sexual Abuse Lawsuit",
@@ -113,16 +113,16 @@
         "published": "2026-10-06T00:05:00Z"
       },
       {
+        "title": "Orlando Truck Accident Lawsuits: I-4 Crashes, Laws and Compensation",
+        "outlet": "Consumer Notice",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM2paaHp4U1paVjFnVm9QZ1lhLU9BczlMeTdCT3dWaUZneXNGbWRreXVRR1V0SWdWd252MnctUUxrUk1hODR6cHItS1d3QWNMSmNHRVBmV2JGb1B5RGNweUNUeEhsZDVobjAtY0hWWERJNU1UNjdoRlhnNUYwTmZEVzR6WQ?oc=5",
+        "published": "2026-10-02T02:28:54Z"
+      },
+      {
         "title": "County launches new consumer protection unit with 3 suits targeting tech firms, ghost guns",
         "outlet": "San Diego Union-Tribune",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLWlwZG5LUVRWLTRfai1xeFNrWGdUWDRuWHljTlluRlZBNjVoYnJoRTNtazN2OXRsUFdQcWtGNXVzMVlsTDZaTF9ZQ0pKQzkzYVlsWGJaOV8xYzRsQU1mR0FWekJLU3VPd3ZnZUFlLXN0d005TlNwdDJ2NGQ1eHRGdGNYOG5FeFBlLVZNODdOM2lUSFBRVnkyMFRxQ2JTUEcxaWlVSGJiWkxlM3JKODdNWHZTNnppeGtqeEgtMnFYajJueVVoaGZhbzFTWWZfcWN6cHpaNQ?oc=5",
         "published": "2026-10-06T02:36:58Z"
-      },
-      {
-        "title": "‘Significant gaps’ in gaming safety checks",
-        "outlet": "News.com.au",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaV9yc3lmOTB5aHYyYU5RbFYwYkRBd0c0MEF4ZFMwMl9jSGFOUVRCdVpvR0VQU0ZQd3N3T1U0clJhWlV1bkY4cHhQYkJoSmdzcEFkZ0VUWTVHbld2VjFLMjByM3NKNkY0Z0VDcXVBbkF2cS0ya081TWhtTUJvRG10dmhuZFRqU2hjdk56b1NGYjlCNmNQdjBnS3llZEJwQlFoX21wMzVhRUNBNld6TGFpSFFtUTVwUDRXSVZqRDdmX2ZvaVczazNFbUZ6QUszSG9LMFducTRteHUxN0ZnTmFhbzliLW55aVA4bUZkOWVweDHSAfYBQVVfeXFMT0FQQTEtYmpNSFN2Z1pwekR2cW50Q0dON2lYUFJyTUowUTZ2NUJ5Zl9hNXVrSUVLbHRMc09tdjRicy11MWY0U3BYME95enJaX09jZHFTekZEdXJjVXg3d3UwWE9EeENGQmEwQ0NiSjJtTkN0ZlY4T2FOeEF6ZTJ4QjhhS2U2cEVhcDF0Mm5NS0QyS1I1UzR1bXZLdi1Yalh0bUlhZ3NIcy1FYkdEVXQ4OGxweU4tdnBLU0JkZDA4OWtOcXd5d09VUTBpbTNRSVJWcDlrYkhrYU84Y0o1TTlyZmxJOUgtNldUQWJfSG84VEdDVzJFWVN3?oc=5",
-        "published": "2026-10-02T01:09:29Z"
       }
     ]
   },
