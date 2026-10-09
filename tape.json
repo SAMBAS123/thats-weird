@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-09T07:21:34Z",
+  "as_of": "2026-10-09T15:16:14Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 41,
+    "hits_7d": 39,
     "latest": [
       {
         "title": "New San Diego County consumer protection unit announces first set of lawsuits",
@@ -113,16 +113,16 @@
         "published": "2026-10-06T00:05:00Z"
       },
       {
+        "title": "TPPF’s Noah Torres on Roblox and Kid’s Online Safety | Texas House Testimony",
+        "outlet": "Texas Public Policy Foundation",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM3JhSVY3Umt4SWpOaTNCWFJXZF9CLVlSSExsbnQ1ZUZ3b25STE5QcEtLWXlpNmFIOFphNWZJVzlFVWN3cWxuVlVOeXBYajl3UThUMXdUWnlnMWdYTWZvdWhONnY3NHFhZlQ3RnI0LUxJanZFZWFhblBjU2ZzYVFJS0toNF93Wl9VMmhuUThvYXBFYUxwX3Q4SE1LTm9NaGEyRTF0dng0QU5JaURzVHd6NUc4T3RoOHJmR3Jz?oc=5",
+        "published": "2026-10-05T07:00:00Z"
+      },
+      {
         "title": "County launches new consumer protection unit with 3 suits targeting tech firms, ghost guns",
         "outlet": "San Diego Union-Tribune",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLWlwZG5LUVRWLTRfai1xeFNrWGdUWDRuWHljTlluRlZBNjVoYnJoRTNtazN2OXRsUFdQcWtGNXVzMVlsTDZaTF9ZQ0pKQzkzYVlsWGJaOV8xYzRsQU1mR0FWekJLU3VPd3ZnZUFlLXN0d005TlNwdDJ2NGQ1eHRGdGNYOG5FeFBlLVZNODdOM2lUSFBRVnkyMFRxQ2JTUEcxaWlVSGJiWkxlM3JKODdNWHZTNnppeGtqeEgtMnFYajJueVVoaGZhbzFTWWZfcWN6cHpaNQ?oc=5",
         "published": "2026-10-06T02:36:58Z"
-      },
-      {
-        "title": "TPPF’s Kate Bierly on Foreign Influence in K-12 Classrooms | Texas Senate Testimony",
-        "outlet": "Texas Public Policy Foundation",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS0dKVHRkdXRhNXlGMVZNQ3o3Q3FkMzkyMl81RkVoWnFaM1piTnFxQzFIU2h4dERsX0ZiY1ZrMWF1Mjh1OGNTZHRleVpBaWdWU09DOFFyaVV4eDNEaERuNmdwOUZHT3VIcXZPTXlsb1l6eVlrQ2R3WG1vUUVERGFUVnl6ZUplN1VOenVSNENJLUxSc24yd045eHZlMlQ4N3VGRUg0ZDZYcVBFc3J2VlB1cndCVHBfVGpNZU5rMU9tcTdKWVk0RVE?oc=5",
-        "published": "2026-10-08T01:51:24Z"
       }
     ]
   },
