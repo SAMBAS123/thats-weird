@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-09T15:16:14Z",
+  "as_of": "2026-10-09T20:07:28Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 39,
+    "hits_7d": 38,
     "latest": [
       {
         "title": "New San Diego County consumer protection unit announces first set of lawsuits",
@@ -85,7 +85,7 @@
       {
         "title": "Roblox ducks lawsuit for ignoring artist's 'NoAI' tag",
         "outlet": "Courthouse News",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQmEwMHNxQ2ltTm8tT21OQ0pnRUxRZGFDbjZYVllsYmZBV0VFN2c5bnJVeW5La2FsUG1iMGtxX2I5Q2JkaGFCZzJrYjhLcFRtQUFfaHRQUUd1M1RTTDY4VDh1VXYzMWdtTE9VOTZhelZqZ0NJLW5XVnF5clNYcW5jWmg0cGdXeFdjQkE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdUFCVllwV1hpZ3VuaWZxSDg2ZWNfZFpDaW1uYTYtbXpRaTNHOGh0WGZPajJjQnBhQ0R6RWh3QTVQcDJkRklEd0RwOHBaM09UQU1BRE96cEJYeDVlZWo0RzY3Tl9seXd5cnRYZHBueXNfOFRoME9NVmlkanFmbHZGYXhTeHRjdk1I?oc=5",
         "published": "2026-10-06T01:46:57Z"
       },
       {
@@ -101,16 +101,16 @@
         "published": "2026-10-07T14:00:00Z"
       },
       {
-        "title": "San Diego County launches Consumer Protection Division, targets child safety",
-        "outlet": "cbs8.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRms3aGdKdm9RMk80RFR3cXVhVkN3SUk3bDA3dlZuaFlPMmI5LW1zRXBNUEx5amt5TmJYT295TXd3dHQ0LXpYX1ZMbXVVSDhaQ0w3R2tKeHZvZ0RJSGFad2xkbXAwYTF6TEZKcW1IOFR4eEIxd2UxT2cyX0dLS1ZLeXJlSkNqUkFZcmNzbFhzV211WG9KR0RuX21NamVTNEg5TTdqc1l3YXZNTEE5cmY0dG5aSHJMMzdrNVIyOERZTnNNcjY1NUxZRmJnejF1MlAzMmJDSDJQbEp5U3pNVEFGdjBUbnY5TWRNZElXRklwaw?oc=5",
-        "published": "2026-10-06T02:05:00Z"
-      },
-      {
         "title": "San Diego Launches New Consumer Protection Unit With Lawsuits Against AppLovin, Roblox and Polymaker",
         "outlet": "Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQWlvWEJhemNkN3VhUXVXOGUtWVVRRlhCQjdwX1ZKczlhNDNmQUhJbUEtNzVKTkJUNFFkN0x2VjZyeVBzUkRFTkt6T0dTVFhVeGIwSFhBUkVEVFVZOFE3ZkVrNDYtRFZTbHdWUEF1a09xNUw2RDFhNWMwcWl3T0RxVGZCVG5aYlZPdExQYVhKSmVsaU1wcWttc2o3akpad0ZrSGs5XzF1ZkZRUQ?oc=5",
         "published": "2026-10-06T00:05:00Z"
+      },
+      {
+        "title": "San Diego County launches Consumer Protection Division, targets child safety",
+        "outlet": "cbs8.com",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRms3aGdKdm9RMk80RFR3cXVhVkN3SUk3bDA3dlZuaFlPMmI5LW1zRXBNUEx5amt5TmJYT295TXd3dHQ0LXpYX1ZMbXVVSDhaQ0w3R2tKeHZvZ0RJSGFad2xkbXAwYTF6TEZKcW1IOFR4eEIxd2UxT2cyX0dLS1ZLeXJlSkNqUkFZcmNzbFhzV211WG9KR0RuX21NamVTNEg5TTdqc1l3YXZNTEE5cmY0dG5aSHJMMzdrNVIyOERZTnNNcjY1NUxZRmJnejF1MlAzMmJDSDJQbEp5U3pNVEFGdjBUbnY5TWRNZElXRklwaw?oc=5",
+        "published": "2026-10-06T02:05:00Z"
       },
       {
         "title": "TPPF’s Noah Torres on Roblox and Kid’s Online Safety | Texas House Testimony",
@@ -119,10 +119,10 @@
         "published": "2026-10-05T07:00:00Z"
       },
       {
-        "title": "County launches new consumer protection unit with 3 suits targeting tech firms, ghost guns",
-        "outlet": "San Diego Union-Tribune",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLWlwZG5LUVRWLTRfai1xeFNrWGdUWDRuWHljTlluRlZBNjVoYnJoRTNtazN2OXRsUFdQcWtGNXVzMVlsTDZaTF9ZQ0pKQzkzYVlsWGJaOV8xYzRsQU1mR0FWekJLU3VPd3ZnZUFlLXN0d005TlNwdDJ2NGQ1eHRGdGNYOG5FeFBlLVZNODdOM2lUSFBRVnkyMFRxQ2JTUEcxaWlVSGJiWkxlM3JKODdNWHZTNnppeGtqeEgtMnFYajJueVVoaGZhbzFTWWZfcWN6cHpaNQ?oc=5",
-        "published": "2026-10-06T02:36:58Z"
+        "title": "THE Senate approved on third and final reading a proposed measure seeking to prohibit minors below 18 years old from using high-risk digital services like Meta Platforms, Roblox, and Gorebox. Full story: https://www.sunstar.com.ph/manila/senate-oks-bill-ba",
+        "outlet": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUnk0ejlWQ1BvbGw2Y1BXZktnSHhOSnEtTXlzNmhPNHVUZFo0VDZ6SDMxMjZkS0h6d3FKNmVPU2xZQ09ITVM2amsxNEZpdWF0OFRkRVBETzZNU2U4TjNsbUIzWGZGVERYUTRQYlJWX3BEV2FJdl9Dcm80cm9WSW5TaDlZZ1loQVc4Ujg3SWJsdm1xYVZIQkI2X05CdV9QVjVZd3RHNFJaVXhmOFFkVi1iYTdlNk5nV2pxODNKX2xRcXhjeTdQQ1g2YV91dkd2RzBYRy1paUY4R1F3cld3VTVF?oc=5",
+        "published": "2026-10-09T08:45:33Z"
       }
     ]
   },
