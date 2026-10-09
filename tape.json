@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-08T19:55:22Z",
+  "as_of": "2026-10-09T00:20:50Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -9,10 +9,17 @@
     "query": "party:\"Roblox Corporation\"",
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
-    "total": 508,
-    "filed_7d": 5,
-    "filed_30d": 21,
+    "total": 509,
+    "filed_7d": 6,
+    "filed_30d": 22,
     "latest": [
+      {
+        "date_filed": "2026-10-08",
+        "case_name": "DLG-0077 v. Roblox Corporation",
+        "docket_number": "3:26-cv-11637",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/74940012/dlg-0077-v-roblox-corporation/"
+      },
       {
         "date_filed": "2026-10-08",
         "case_name": "AW-0022 v. Roblox Corporation",
@@ -61,20 +68,13 @@
         "docket_number": "3:26-cv-11113",
         "court": "N.D. Cal.",
         "url": "https://www.courtlistener.com/docket/74871476/jane-doe-is9734-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-09-29",
-        "case_name": "Jane Doe A.D.7299 v. Roblox Corporation",
-        "docket_number": "3:26-cv-11112",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74871444/jane-doe-ad7299-v-roblox-corporation/"
       }
     ]
   },
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 44,
+    "hits_7d": 45,
     "latest": [
       {
         "title": "New San Diego County consumer protection unit announces first set of lawsuits",
