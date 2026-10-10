@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-10T00:01:40Z",
+  "as_of": "2026-10-10T05:47:43Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 37,
+    "hits_7d": 33,
     "latest": [
       {
         "title": "New San Diego County consumer protection unit announces first set of lawsuits",
@@ -119,10 +119,10 @@
         "published": "2026-10-05T07:00:00Z"
       },
       {
-        "title": "County launches new consumer protection unit with 3 suits targeting tech firms, ghost guns",
-        "outlet": "San Diego Union-Tribune",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLWlwZG5LUVRWLTRfai1xeFNrWGdUWDRuWHljTlluRlZBNjVoYnJoRTNtazN2OXRsUFdQcWtGNXVzMVlsTDZaTF9ZQ0pKQzkzYVlsWGJaOV8xYzRsQU1mR0FWekJLU3VPd3ZnZUFlLXN0d005TlNwdDJ2NGQ1eHRGdGNYOG5FeFBlLVZNODdOM2lUSFBRVnkyMFRxQ2JTUEcxaWlVSGJiWkxlM3JKODdNWHZTNnppeGtqeEgtMnFYajJueVVoaGZhbzFTWWZfcWN6cHpaNQ?oc=5",
-        "published": "2026-10-06T02:36:58Z"
+        "title": "NKY parents sue over teen’s suicide; Roblox says case should be dismissed",
+        "outlet": "WJAC",
+        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOaTFsWHY0b2ZNc1poTGhPU2htelVDTGd6d25KXzI2X0owdnFGTzNoRFpndDByNExrSFU4MktpZzU0ZjkyQjBPN2MtNGZBTUdzQ05fYTlTU1hKU3RibGtIMWVfYTVTZmVEbS1Dd0FCb0RGWjZyLWlIRHU3bFlnRnk0NS1NUG1rQ2UyUUFJM0t4TzZsbk4zT0NqM196R0dUN1RFYTBvZ2N1MlF4YjhmUk9HbDBqOWprZzgxOXJ5bUsyczBQOW5wX0dFZ0JMM3QxN0RaN0Y0bGVoWUk5cnJFR185d3pLT2ZNZTNxVUhrWE9GVVdncXpxOXo4b0J3RnlsNlpCWkJGbS01dENjczdqMUJES282MmdoNlp0Nm93WnpkSjRjQ3ZJWHVSa3FDQl9qM3VtYXgyMDlMN1dDeXlJY1hoOEd1ZWFrMkxlRGgtVmxqek1xZHFsZTlweGZiWHdQYzUzRVFuOEFad29VR1ozT3ZFRDFhT2pkd0dQVjlTblBpdndFdEE?oc=5",
+        "published": "2026-10-09T03:31:14Z"
       }
     ]
   },
