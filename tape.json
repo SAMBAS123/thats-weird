@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-09T20:07:28Z",
+  "as_of": "2026-10-10T00:01:40Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -10,8 +10,8 @@
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
     "total": 509,
-    "filed_7d": 6,
-    "filed_30d": 22,
+    "filed_7d": 5,
+    "filed_30d": 19,
     "latest": [
       {
         "date_filed": "2026-10-08",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 38,
+    "hits_7d": 37,
     "latest": [
       {
         "title": "New San Diego County consumer protection unit announces first set of lawsuits",
@@ -119,10 +119,10 @@
         "published": "2026-10-05T07:00:00Z"
       },
       {
-        "title": "THE Senate approved on third and final reading a proposed measure seeking to prohibit minors below 18 years old from using high-risk digital services like Meta Platforms, Roblox, and Gorebox. Full story: https://www.sunstar.com.ph/manila/senate-oks-bill-ba",
-        "outlet": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUnk0ejlWQ1BvbGw2Y1BXZktnSHhOSnEtTXlzNmhPNHVUZFo0VDZ6SDMxMjZkS0h6d3FKNmVPU2xZQ09ITVM2amsxNEZpdWF0OFRkRVBETzZNU2U4TjNsbUIzWGZGVERYUTRQYlJWX3BEV2FJdl9Dcm80cm9WSW5TaDlZZ1loQVc4Ujg3SWJsdm1xYVZIQkI2X05CdV9QVjVZd3RHNFJaVXhmOFFkVi1iYTdlNk5nV2pxODNKX2xRcXhjeTdQQ1g2YV91dkd2RzBYRy1paUY4R1F3cld3VTVF?oc=5",
-        "published": "2026-10-09T08:45:33Z"
+        "title": "County launches new consumer protection unit with 3 suits targeting tech firms, ghost guns",
+        "outlet": "San Diego Union-Tribune",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLWlwZG5LUVRWLTRfai1xeFNrWGdUWDRuWHljTlluRlZBNjVoYnJoRTNtazN2OXRsUFdQcWtGNXVzMVlsTDZaTF9ZQ0pKQzkzYVlsWGJaOV8xYzRsQU1mR0FWekJLU3VPd3ZnZUFlLXN0d005TlNwdDJ2NGQ1eHRGdGNYOG5FeFBlLVZNODdOM2lUSFBRVnkyMFRxQ2JTUEcxaWlVSGJiWkxlM3JKODdNWHZTNnppeGtqeEgtMnFYajJueVVoaGZhbzFTWWZfcWN6cHpaNQ?oc=5",
+        "published": "2026-10-06T02:36:58Z"
       }
     ]
   },
