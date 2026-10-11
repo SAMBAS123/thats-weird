@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-11T00:59:21Z",
+  "as_of": "2026-10-11T07:09:43Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 42,
+    "hits_7d": 46,
     "latest": [
       {
         "title": "New San Diego County consumer protection unit announces first set of lawsuits",
