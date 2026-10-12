@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-11T22:52:14Z",
+  "as_of": "2026-10-12T02:21:51Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -11,7 +11,7 @@
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
     "total": 509,
     "filed_7d": 5,
-    "filed_30d": 19,
+    "filed_30d": 18,
     "latest": [
       {
         "date_filed": "2026-10-08",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 49,
+    "hits_7d": 54,
     "latest": [
       {
         "title": "New San Diego County consumer protection unit announces first set of lawsuits",
