@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-13T09:22:34Z",
+  "as_of": "2026-10-13T17:35:18Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 53,
+    "hits_7d": 48,
     "latest": [
       {
         "title": "New San Diego County consumer protection unit announces first set of lawsuits",
@@ -101,28 +101,28 @@
         "published": "2026-10-09T03:31:14Z"
       },
       {
-        "title": "Persecuted journalists win protection from Europe's human rights court",
-        "outlet": "Courthouse News",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLWpMVUs3cWhsLVgzakRUNlpvRTBoSG5MQ1pGcUFaRUMtd1BOQnloZUdhRVdZdVFENXRPTHJiSWc4WkQ0eEw5REVSdU5XT25jWXNXNlNfN2pkYmFVN29ZMTIzcVZKclhlMk5YeUpTNG9renNzbkU2dTI3cVVBMmNGR3FMMThDa2dHblN3T051WHdEWnh6aGtKWFdZMHoxaHhNRjBv?oc=5",
-        "published": "2026-10-06T15:57:48Z"
-      },
-      {
         "title": "THE Senate approved on third and final reading a proposed measure seeking to prohibit minors below 18 years old from using high-risk digital services like Meta Platforms, Roblox, and Gorebox. Full story: https://www.sunstar.com.ph/manila/senate-oks-bill-ba",
         "outlet": "Facebook",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUnk0ejlWQ1BvbGw2Y1BXZktnSHhOSnEtTXlzNmhPNHVUZFo0VDZ6SDMxMjZkS0h6d3FKNmVPU2xZQ09ITVM2amsxNEZpdWF0OFRkRVBETzZNU2U4TjNsbUIzWGZGVERYUTRQYlJWX3BEV2FJdl9Dcm80cm9WSW5TaDlZZ1loQVc4Ujg3SWJsdm1xYVZIQkI2X05CdV9QVjVZd3RHNFJaVXhmOFFkVi1iYTdlNk5nV2pxODNKX2xRcXhjeTdQQ1g2YV91dkd2RzBYRy1paUY4R1F3cld3VTVF?oc=5",
         "published": "2026-10-09T08:45:33Z"
       },
       {
-        "title": "Philippine lower house approves bill restricting minors’ social media access",
-        "outlet": "WTVB",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVXA4bmg3NTFkb1RMNzFzWGhsNmJMcVZyMVNaNFRRMG9qWTM3VExoaWZhWE9GX2JPWUZVUW5PaGs1dUZ6UGo3eldXNjE4NnhOS1ExMmhTQWRFWV9MdjBUMkxEc1JaV3g5MXNaSTk5QmJIZjhpNDhzcG85eUxrSDZkX1BkblAtUzRCYWRsTTNPdllOMXpmenp6T3JRMzZuQnJIUXpPZVRHU25Ddw?oc=5",
-        "published": "2026-10-12T13:26:09Z"
-      },
-      {
         "title": "San Diego County sues Roblox for lack of youth protection",
         "outlet": "NBC 7 San Diego",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOay1aYWx3WmRmSVFpMEh2OVR4cFVESTZ6SnliQ0VKQ3JlTUJDWXFZTy1sczJLdmt6cldHY0dVLURveUx2YW1XYlRWaXJLMVpuTG94YXZONDhZZzBhQ1RTQkZJVFIyT2o5QUppaEdpT2JuYUJEaFpqaDJ4UndVakNiOE1zZ1luVFdHQVJTdzk4ZXJ2LWVUZlBuRmJtUUJCMGJFR2dGRldCa0ZjMXPSAbMBQVVfeXFMUG9IX3U4cUwwZlRpN2VSNXc5dlNROFJyaEIyZ0dRWjBlSkZ3dkZOV2F0dHhsXzllX2lGRm9JVzBTcHhseVZkdXByeE10LWNXcFoyU0hGN3NUQ0ZLWXBJWWhzQnB1clhuYVFzYzRhS3MxaEhSRXZnV1J0MmZGS0UwczgxMjFmaXNta3FGZlZFYWFhdmNPLXBRWmt5VGxkSzRDSkM2ZG1GMHhpQmluWU92UFNZWGM?oc=5",
         "published": "2026-10-06T18:40:41Z"
+      },
+      {
+        "title": "FOX 25 sits down with Attorney General Drummond to discuss the Kids Online Safety Act",
+        "outlet": "KOKH",
+        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPZDBWdE9qNW52UlllTF9nMHZfa3BZTGtoUm5oTk1pRDJNejR4LU93VmpyMGNKaU5FNjBIdWgxMWhxWFlsSWxGQm5LQnRQZkxRV1lXY29xd3daRTJITFFJckprRTN5Y1FoM1FUcm1nc3dYWmpmR2NtUHI1THR2TWVNdkM4eDFabmI5bU44cE1LU291Ulk1LUh0NzZkRmE0QjM5VHZ5MHEzbFp5Y0E5U1MwbGRWT2YycTlKNk1pc1FiUS1Wc2paNk95RnU0cHdvNDdMVnJpclJVNllvUUVsalNOcmZ6Y3hpTW9EaHJLVTZlNHlkZVRja0lXeGNBMmZkZ0w2V2xIT3FRRWRXS0NIMFAyS09vU2QyaGpDeEhxS0k0RDFEaGVVUXd5QTlCSnE2Vmk5M2o5ZlhJVFRhWFJ6?oc=5",
+        "published": "2026-10-08T05:08:46Z"
+      },
+      {
+        "title": "Unity Spark vs Roblox: Google Deal Lifts Stock 2% [2026]",
+        "outlet": "https://tech-insider.org/",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sU0VFV0RWSFoybEZwVEdPVWNiNWs3c2VHSDF6TWM5aGh4Sjg2UV9YdFNDM0xmZmVhVy1EVlVwVUlBaWVoVEh4Wi1uWGJQcHFYU0xndnJUSXlVeHh1UGQ5eDRRbmc5X0U0SEo4enlzWFNIUmNvQ3c?oc=5",
+        "published": "2026-10-10T00:34:51Z"
       }
     ]
   },
@@ -170,5 +170,7 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": []
+  "errors": [
+    "courtlistener: The read operation timed out"
+  ]
 }
