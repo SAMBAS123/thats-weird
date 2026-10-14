@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-14T07:34:23Z",
+  "as_of": "2026-10-14T13:41:10Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 49,
+    "hits_7d": 52,
     "latest": [
       {
         "title": "Roblox Lawsuit Claims 7-Year-Old Groomed by Sex Predator",
@@ -86,7 +86,13 @@
         "title": "Florida lawsuits target Roblox and Discord as officials warn of online predators",
         "outlet": "WPBF",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUFVZMGZkc3ZKUXhqN3ZDeHFMSDJxT08yS2hEYVgxaGNqN0ZZel9WX2ltcUFNT2dNQUN3YTlHOWpZRkJPdGNiOW53ZDBuNjh5WHo5NFF3NGkyM1VKS3NXN0dQYVk3R3BZYUhxWkl6bUtZVk5lSTFPYWEzTDdIcUFSTk9Fdk4tVGdzc1hHclB2SUpxcE9GQU93anRsbHY0a1k?oc=5",
-        "published": "2026-10-13T22:34:00Z"
+        "published": "2026-10-14T08:15:00Z"
+      },
+      {
+        "title": "Child safety organizations accuse Roblox of violating FTC rules",
+        "outlet": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vc3d2WndRcDlSUHVzRS1xSVBpS1Q4QmJtVEY3SUxhbHgxaTF5NFZFU2VfM1dyb1FFbDRWWXNWX2tUTXZ4MkxUZUVYck9CcE8zTGtZWU1sdlRWSzN3T09FY0ktOXJLMEp3WkRmOWxtRkpFOFV4dktRRg?oc=5",
+        "published": "2026-10-09T07:00:00Z"
       },
       {
         "title": "TPPF’s Kate Bierly on Foreign Influence in K-12 Classrooms | Texas Senate Testimony",
@@ -117,12 +123,6 @@
         "outlet": "https://tech-insider.org/",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sU0VFV0RWSFoybEZwVEdPVWNiNWs3c2VHSDF6TWM5aGh4Sjg2UV9YdFNDM0xmZmVhVy1EVlVwVUlBaWVoVEh4Wi1uWGJQcHFYU0xndnJUSXlVeHh1UGQ5eDRRbmc5X0U0SEo4enlzWFNIUmNvQ3c?oc=5",
         "published": "2026-10-10T00:34:51Z"
-      },
-      {
-        "title": "Google, Unity Debut Spark, an AI Game Maker for 18+ [2026]",
-        "outlet": "shattered.io",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2SWVpQXJKOFJmTHJpd1pQQWhYQVo4WndTeExfbVJIb2lrSVhBOTZTN2pIZmVYYTk5MkJHdFZWY3FIU1Q2RlVFVVpwTm5TOEZOMjlwZU5fRTAtRTlYVU9CLVJ1a3ZCd0Nlb3pN?oc=5",
-        "published": "2026-10-09T08:19:33Z"
       }
     ]
   },
@@ -170,5 +170,7 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": []
+  "errors": [
+    "courtlistener: The read operation timed out"
+  ]
 }
