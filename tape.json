@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-14T18:35:38Z",
+  "as_of": "2026-10-14T22:16:39Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -9,10 +9,17 @@
     "query": "party:\"Roblox Corporation\"",
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
-    "total": 509,
-    "filed_7d": 5,
-    "filed_30d": 18,
+    "total": 510,
+    "filed_7d": 6,
+    "filed_30d": 19,
     "latest": [
+      {
+        "date_filed": "2026-10-13",
+        "case_name": "Nassau County, New York v. Meta Platforms, Inc., fka Facebook, Inc.",
+        "docket_number": "3:26-cv-11802",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/74955636/nassau-county-new-york-v-meta-platforms-inc-fka-facebook-inc/"
+      },
       {
         "date_filed": "2026-10-08",
         "case_name": "DLG-0077 v. Roblox Corporation",
@@ -61,20 +68,13 @@
         "docket_number": "3:26-cv-11150",
         "court": "N.D. Cal.",
         "url": "https://www.courtlistener.com/docket/74877633/ge-0003-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-09-29",
-        "case_name": "Jane Doe I.S.9734 v. Roblox Corporation",
-        "docket_number": "3:26-cv-11113",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74871476/jane-doe-is9734-v-roblox-corporation/"
       }
     ]
   },
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 52,
+    "hits_7d": 49,
     "latest": [
       {
         "title": "Florida lawsuits target Roblox and Discord as officials warn of online predators",
@@ -89,12 +89,6 @@
         "published": "2026-10-14T15:48:51Z"
       },
       {
-        "title": "RBLX Stock Quote Price and Forecast",
-        "outlet": "CNN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wOC1MeGpVZlNQQkpTNnp4bjdNV0FoUXllNjhSUVFhQS1MZk1hUHZpN2NyUUxmY1ZzZEVPd1ZZSDNjbnotd091M1dPMkctSGYz?oc=5",
-        "published": "2026-10-12T20:15:11Z"
-      },
-      {
         "title": "Child safety organizations accuse Roblox of violating FTC rules",
         "outlet": "Mashable",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vc3d2WndRcDlSUHVzRS1xSVBpS1Q4QmJtVEY3SUxhbHgxaTF5NFZFU2VfM1dyb1FFbDRWWXNWX2tUTXZ4MkxUZUVYck9CcE8zTGtZWU1sdlRWSzN3T09FY0ktOXJLMEp3WkRmOWxtRkpFOFV4dktRRg?oc=5",
@@ -107,22 +101,28 @@
         "published": "2026-10-08T01:51:24Z"
       },
       {
+        "title": "Philippine lower house approves bill restricting minors' social media access",
+        "outlet": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZDNzV29nT3Zxd2hGVHVSRHVKVllzX1FfRFRtZUZFWUUwTklsVmlaQUYtUFJrTWJINURVOUJkeWJDbVltb29jUGdOU2RXWURYQmJZTnFabTIzYnBXN0lUN29TUE1VRW96dDFoNDZ0MUZyY3loYl81VFJWZ1lLbVdKRUJEbVBlZzZsdnphT2tsNGZxbktpUmx6T1NfSGpuRUYtcno2MnQyLVNQRnU2Wk84NGw5QnZReGFmckNuU01IMTVmYzJhYkNqeXdn?oc=5",
+        "published": "2026-10-12T22:40:10Z"
+      },
+      {
         "title": "NKY parents sue over teen’s suicide; Roblox says case should be dismissed",
         "outlet": "WJAC",
         "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOaTFsWHY0b2ZNc1poTGhPU2htelVDTGd6d25KXzI2X0owdnFGTzNoRFpndDByNExrSFU4MktpZzU0ZjkyQjBPN2MtNGZBTUdzQ05fYTlTU1hKU3RibGtIMWVfYTVTZmVEbS1Dd0FCb0RGWjZyLWlIRHU3bFlnRnk0NS1NUG1rQ2UyUUFJM0t4TzZsbk4zT0NqM196R0dUN1RFYTBvZ2N1MlF4YjhmUk9HbDBqOWprZzgxOXJ5bUsyczBQOW5wX0dFZ0JMM3QxN0RaN0Y0bGVoWUk5cnJFR185d3pLT2ZNZTNxVUhrWE9GVVdncXpxOXo4b0J3RnlsNlpCWkJGbS01dENjczdqMUJES282MmdoNlp0Nm93WnpkSjRjQ3ZJWHVSa3FDQl9qM3VtYXgyMDlMN1dDeXlJY1hoOEd1ZWFrMkxlRGgtVmxqek1xZHFsZTlweGZiWHdQYzUzRVFuOEFad29VR1ozT3ZFRDFhT2pkd0dQVjlTblBpdndFdEE?oc=5",
         "published": "2026-10-09T03:31:14Z"
       },
       {
+        "title": "Orange County family sues Discord and Roblox over child predator allegations",
+        "outlet": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdVdxTHJqc24tMVZOMHk3UEdBYVZHcm5WTk5BaFgxWkFVSGRlOXZQN1ZDNHRsX0RvUmdVTjloVnI4eGlHc2VXSEhjWjh6LWxfR09SMGVWNms5cGtSb0xLdS1ld1Y3YXdwVFB3QzZaYlR0emRIQjdRVC0tNjdidWYwd2dLa0lIcjJtcGIxLVNIajM?oc=5",
+        "published": "2026-10-14T15:48:51Z"
+      },
+      {
         "title": "THE Senate approved on third and final reading a proposed measure seeking to prohibit minors below 18 years old from using high-risk digital services like Meta Platforms, Roblox, and Gorebox. Full story: https://www.sunstar.com.ph/manila/senate-oks-bill-ba",
         "outlet": "Facebook",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUnk0ejlWQ1BvbGw2Y1BXZktnSHhOSnEtTXlzNmhPNHVUZFo0VDZ6SDMxMjZkS0h6d3FKNmVPU2xZQ09ITVM2amsxNEZpdWF0OFRkRVBETzZNU2U4TjNsbUIzWGZGVERYUTRQYlJWX3BEV2FJdl9Dcm80cm9WSW5TaDlZZ1loQVc4Ujg3SWJsdm1xYVZIQkI2X05CdV9QVjVZd3RHNFJaVXhmOFFkVi1iYTdlNk5nV2pxODNKX2xRcXhjeTdQQ1g2YV91dkd2RzBYRy1paUY4R1F3cld3VTVF?oc=5",
         "published": "2026-10-09T08:45:33Z"
-      },
-      {
-        "title": "Philippine lower house approves bill restricting minors’ social media access",
-        "outlet": "WTVB",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVXA4bmg3NTFkb1RMNzFzWGhsNmJMcVZyMVNaNFRRMG9qWTM3VExoaWZhWE9GX2JPWUZVUW5PaGs1dUZ6UGo3eldXNjE4NnhOS1ExMmhTQWRFWV9MdjBUMkxEc1JaV3g5MXNaSTk5QmJIZjhpNDhzcG85eUxrSDZkX1BkblAtUzRCYWRsTTNPdllOMXpmenp6T3JRMzZuQnJIUXpPZVRHU25Ddw?oc=5",
-        "published": "2026-10-12T13:26:09Z"
       }
     ]
   },
@@ -170,7 +170,5 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": [
-    "courtlistener: The read operation timed out"
-  ]
+  "errors": []
 }
