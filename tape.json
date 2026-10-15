@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-14T22:16:39Z",
+  "as_of": "2026-10-15T00:33:39Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 49,
+    "hits_7d": 47,
     "latest": [
       {
         "title": "Florida lawsuits target Roblox and Discord as officials warn of online predators",
@@ -95,16 +95,16 @@
         "published": "2026-10-09T07:00:00Z"
       },
       {
-        "title": "TPPF’s Kate Bierly on Foreign Influence in K-12 Classrooms | Texas Senate Testimony",
-        "outlet": "Texas Public Policy Foundation",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS0dKVHRkdXRhNXlGMVZNQ3o3Q3FkMzkyMl81RkVoWnFaM1piTnFxQzFIU2h4dERsX0ZiY1ZrMWF1Mjh1OGNTZHRleVpBaWdWU09DOFFyaVV4eDNEaERuNmdwOUZHT3VIcXZPTXlsb1l6eVlrQ2R3WG1vUUVERGFUVnl6ZUplN1VOenVSNENJLUxSc24yd045eHZlMlQ4N3VGRUg0ZDZYcVBFc3J2VlB1cndCVHBfVGpNZU5rMU9tcTdKWVk0RVE?oc=5",
-        "published": "2026-10-08T01:51:24Z"
-      },
-      {
         "title": "Philippine lower house approves bill restricting minors' social media access",
         "outlet": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZDNzV29nT3Zxd2hGVHVSRHVKVllzX1FfRFRtZUZFWUUwTklsVmlaQUYtUFJrTWJINURVOUJkeWJDbVltb29jUGdOU2RXWURYQmJZTnFabTIzYnBXN0lUN29TUE1VRW96dDFoNDZ0MUZyY3loYl81VFJWZ1lLbVdKRUJEbVBlZzZsdnphT2tsNGZxbktpUmx6T1NfSGpuRUYtcno2MnQyLVNQRnU2Wk84NGw5QnZReGFmckNuU01IMTVmYzJhYkNqeXdn?oc=5",
         "published": "2026-10-12T22:40:10Z"
+      },
+      {
+        "title": "TPPF’s Kate Bierly on Foreign Influence in K-12 Classrooms | Texas Senate Testimony",
+        "outlet": "Texas Public Policy Foundation",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS0dKVHRkdXRhNXlGMVZNQ3o3Q3FkMzkyMl81RkVoWnFaM1piTnFxQzFIU2h4dERsX0ZiY1ZrMWF1Mjh1OGNTZHRleVpBaWdWU09DOFFyaVV4eDNEaERuNmdwOUZHT3VIcXZPTXlsb1l6eVlrQ2R3WG1vUUVERGFUVnl6ZUplN1VOenVSNENJLUxSc24yd045eHZlMlQ4N3VGRUg0ZDZYcVBFc3J2VlB1cndCVHBfVGpNZU5rMU9tcTdKWVk0RVE?oc=5",
+        "published": "2026-10-08T01:51:24Z"
       },
       {
         "title": "NKY parents sue over teen’s suicide; Roblox says case should be dismissed",
@@ -170,5 +170,7 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": []
+  "errors": [
+    "courtlistener: The read operation timed out"
+  ]
 }
