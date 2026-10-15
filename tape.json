@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-15T05:52:51Z",
+  "as_of": "2026-10-15T11:23:29Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,19 +74,19 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 44,
+    "hits_7d": 38,
     "latest": [
-      {
-        "title": "Florida lawsuits target Roblox and Discord as officials warn of online predators",
-        "outlet": "WPBF",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUFVZMGZkc3ZKUXhqN3ZDeHFMSDJxT08yS2hEYVgxaGNqN0ZZel9WX2ltcUFNT2dNQUN3YTlHOWpZRkJPdGNiOW53ZDBuNjh5WHo5NFF3NGkyM1VKS3NXN0dQYVk3R3BZYUhxWkl6bUtZVk5lSTFPYWEzTDdIcUFSTk9Fdk4tVGdzc1hHclB2SUpxcE9GQU93anRsbHY0a1k?oc=5",
-        "published": "2026-10-14T08:15:00Z"
-      },
       {
         "title": "Orange County family sues Discord and Roblox over child predator allegations",
         "outlet": "WFTV",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVk9BM3pnWWJsRGI5YncwM09sZmpjMUFlVDFxbW8zT1NWSkpYZm1ROUVhSEQ5U3hWMm5vRlhaRHpNcElLMTdUV2ZNYXBIM3B6cmUwQVNXUGFaYTF5cEV2dXFNSzVtWFVaUzl2aExuMTFLeVRHaHNjSWdnbXVNbWI3VzhyR0k2MGpXcGtJMFdaNTI2Vjlmd2JFbWxWYU5xSkFLenpmdVBpclpCVVFKbC1rakw1Mm1CcXdST25mbG1MRTExV0hTbTlZajVwQ2zSAeABQVVfeXFMTkIyYnRGZHFuaERFa1ZFbXZzT2lsSjhfT0NzRWtLemNLVlJMT1laZndySUNjNkowX2dnWVVNZG5FQ3pMazhlbzFCdGt1aEE3WE1MMC1NRy1kQVljMUVJUklRQ3ZpVERjbER5TFVDOVQzZHVTUHVRTHRWWjFrM2tvdTlMNWdiRTcyVnFXTXJId2llV2hUN1ExbXRtaGVjdGt5VWtxZDEtZ3ZjUnQ1eWZvbGdBMzJLU3pWdEdWei0zSmJHUkFQVkFxc0dQNnRQdk02ZVB4TEYtakFNakZfQUVCdkw?oc=5",
         "published": "2026-10-14T15:48:51Z"
+      },
+      {
+        "title": "Florida lawsuits target Roblox and Discord as officials warn of online predators",
+        "outlet": "WPBF",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUFVZMGZkc3ZKUXhqN3ZDeHFMSDJxT08yS2hEYVgxaGNqN0ZZel9WX2ltcUFNT2dNQUN3YTlHOWpZRkJPdGNiOW53ZDBuNjh5WHo5NFF3NGkyM1VKS3NXN0dQYVk3R3BZYUhxWkl6bUtZVk5lSTFPYWEzTDdIcUFSTk9Fdk4tVGdzc1hHclB2SUpxcE9GQU93anRsbHY0a1k?oc=5",
+        "published": "2026-10-14T08:15:00Z"
       },
       {
         "title": "Child safety organizations accuse Roblox of violating FTC rules",
@@ -107,12 +107,6 @@
         "published": "2026-10-09T03:31:14Z"
       },
       {
-        "title": "Orange County family sues Discord and Roblox over child predator allegations",
-        "outlet": "Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdVdxTHJqc24tMVZOMHk3UEdBYVZHcm5WTk5BaFgxWkFVSGRlOXZQN1ZDNHRsX0RvUmdVTjloVnI4eGlHc2VXSEhjWjh6LWxfR09SMGVWNms5cGtSb0xLdS1ld1Y3YXdwVFB3QzZaYlR0emRIQjdRVC0tNjdidWYwd2dLa0lIcjJtcGIxLVNIajM?oc=5",
-        "published": "2026-10-14T15:48:51Z"
-      },
-      {
         "title": "THE Senate approved on third and final reading a proposed measure seeking to prohibit minors below 18 years old from using high-risk digital services like Meta Platforms, Roblox, and Gorebox. Full story: https://www.sunstar.com.ph/manila/senate-oks-bill-ba",
         "outlet": "Facebook",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUnk0ejlWQ1BvbGw2Y1BXZktnSHhOSnEtTXlzNmhPNHVUZFo0VDZ6SDMxMjZkS0h6d3FKNmVPU2xZQ09ITVM2amsxNEZpdWF0OFRkRVBETzZNU2U4TjNsbUIzWGZGVERYUTRQYlJWX3BEV2FJdl9Dcm80cm9WSW5TaDlZZ1loQVc4Ujg3SWJsdm1xYVZIQkI2X05CdV9QVjVZd3RHNFJaVXhmOFFkVi1iYTdlNk5nV2pxODNKX2xRcXhjeTdQQ1g2YV91dkd2RzBYRy1paUY4R1F3cld3VTVF?oc=5",
@@ -123,6 +117,12 @@
         "outlet": "https://tech-insider.org/",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sU0VFV0RWSFoybEZwVEdPVWNiNWs3c2VHSDF6TWM5aGh4Sjg2UV9YdFNDM0xmZmVhVy1EVlVwVUlBaWVoVEh4Wi1uWGJQcHFYU0xndnJUSXlVeHh1UGQ5eDRRbmc5X0U0SEo4enlzWFNIUmNvQ3c?oc=5",
         "published": "2026-10-10T00:34:51Z"
+      },
+      {
+        "title": "Nexus Legal Group Launches National Roblox Exploitation and Abuse Case Acquisition Program for Plaintiff Law Firms",
+        "outlet": "FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNcEV2c2FNUi1QVDN6cFMwZzU3MXpPYV9jOUZreW1yWWVvc1BsU3hId0FjNmxLWHRqTFFmMkdlQWdrNmwtaDVRelJZN3RkTHFWSHNzTUItMVE3OTRQQkhFajA3d0VibFBDQmI1WnM4U0kzM0lFRVpXMUpzYllWN1ZLS2EzWDBFVFE1WjdfeFhmVXdLZXpYWHVKSmgwZWV6X3Z3TmJWSzRRclFmbk94ajNQd2xpWXUtS2pEWXRrWms4SDdWSUE1RHRFUGtNQ0Z4dWxOZ0hsQjFQRHhjRjNnTThoVVA4cWlwTm9aMkFzZUhwTHZ5UmxkM0VvQzJYYU9qNlVkbGdXNUlzOA?oc=5",
+        "published": "2026-10-12T13:40:00Z"
       }
     ]
   },
