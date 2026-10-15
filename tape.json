@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-15T11:23:29Z",
+  "as_of": "2026-10-15T16:57:26Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,19 +74,19 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 38,
+    "hits_7d": 42,
     "latest": [
-      {
-        "title": "Orange County family sues Discord and Roblox over child predator allegations",
-        "outlet": "WFTV",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVk9BM3pnWWJsRGI5YncwM09sZmpjMUFlVDFxbW8zT1NWSkpYZm1ROUVhSEQ5U3hWMm5vRlhaRHpNcElLMTdUV2ZNYXBIM3B6cmUwQVNXUGFaYTF5cEV2dXFNSzVtWFVaUzl2aExuMTFLeVRHaHNjSWdnbXVNbWI3VzhyR0k2MGpXcGtJMFdaNTI2Vjlmd2JFbWxWYU5xSkFLenpmdVBpclpCVVFKbC1rakw1Mm1CcXdST25mbG1MRTExV0hTbTlZajVwQ2zSAeABQVVfeXFMTkIyYnRGZHFuaERFa1ZFbXZzT2lsSjhfT0NzRWtLemNLVlJMT1laZndySUNjNkowX2dnWVVNZG5FQ3pMazhlbzFCdGt1aEE3WE1MMC1NRy1kQVljMUVJUklRQ3ZpVERjbER5TFVDOVQzZHVTUHVRTHRWWjFrM2tvdTlMNWdiRTcyVnFXTXJId2llV2hUN1ExbXRtaGVjdGt5VWtxZDEtZ3ZjUnQ1eWZvbGdBMzJLU3pWdEdWei0zSmJHUkFQVkFxc0dQNnRQdk02ZVB4TEYtakFNakZfQUVCdkw?oc=5",
-        "published": "2026-10-14T15:48:51Z"
-      },
       {
         "title": "Florida lawsuits target Roblox and Discord as officials warn of online predators",
         "outlet": "WPBF",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUFVZMGZkc3ZKUXhqN3ZDeHFMSDJxT08yS2hEYVgxaGNqN0ZZel9WX2ltcUFNT2dNQUN3YTlHOWpZRkJPdGNiOW53ZDBuNjh5WHo5NFF3NGkyM1VKS3NXN0dQYVk3R3BZYUhxWkl6bUtZVk5lSTFPYWEzTDdIcUFSTk9Fdk4tVGdzc1hHclB2SUpxcE9GQU93anRsbHY0a1k?oc=5",
         "published": "2026-10-14T08:15:00Z"
+      },
+      {
+        "title": "Orange County family sues Discord and Roblox over child predator allegations",
+        "outlet": "WFTV",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVk9BM3pnWWJsRGI5YncwM09sZmpjMUFlVDFxbW8zT1NWSkpYZm1ROUVhSEQ5U3hWMm5vRlhaRHpNcElLMTdUV2ZNYXBIM3B6cmUwQVNXUGFaYTF5cEV2dXFNSzVtWFVaUzl2aExuMTFLeVRHaHNjSWdnbXVNbWI3VzhyR0k2MGpXcGtJMFdaNTI2Vjlmd2JFbWxWYU5xSkFLenpmdVBpclpCVVFKbC1rakw1Mm1CcXdST25mbG1MRTExV0hTbTlZajVwQ2zSAeABQVVfeXFMTkIyYnRGZHFuaERFa1ZFbXZzT2lsSjhfT0NzRWtLemNLVlJMT1laZndySUNjNkowX2dnWVVNZG5FQ3pMazhlbzFCdGt1aEE3WE1MMC1NRy1kQVljMUVJUklRQ3ZpVERjbER5TFVDOVQzZHVTUHVRTHRWWjFrM2tvdTlMNWdiRTcyVnFXTXJId2llV2hUN1ExbXRtaGVjdGt5VWtxZDEtZ3ZjUnQ1eWZvbGdBMzJLU3pWdEdWei0zSmJHUkFQVkFxc0dQNnRQdk02ZVB4TEYtakFNakZfQUVCdkw?oc=5",
+        "published": "2026-10-14T15:48:51Z"
       },
       {
         "title": "Child safety organizations accuse Roblox of violating FTC rules",
@@ -113,16 +113,16 @@
         "published": "2026-10-09T08:45:33Z"
       },
       {
+        "title": "Florida targets Discord in lawsuit over child safety, predator access",
+        "outlet": "Florida’s Voice",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTGYzbVd0aUJOeTFzakhidDFiV2hUeVg1eXpIdEx0eXRuQUNvY3YtMEJ5Q1FiMlN0SzRrYkh4aEo3V254MUhyQ25pQnRoNi1zMlJNSGFXTDNJWkJlaHZZUEFfUGJ6UXFWbHRlcDRPX0k2bWQxcHVPSWd5dTJ5SHhVXzBIaFB2V1RVeElXQjNocnFhUFNqUHBfbw?oc=5",
+        "published": "2026-10-15T16:17:00Z"
+      },
+      {
         "title": "Unity Spark vs Roblox: Google Deal Lifts Stock 2% [2026]",
         "outlet": "https://tech-insider.org/",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sU0VFV0RWSFoybEZwVEdPVWNiNWs3c2VHSDF6TWM5aGh4Sjg2UV9YdFNDM0xmZmVhVy1EVlVwVUlBaWVoVEh4Wi1uWGJQcHFYU0xndnJUSXlVeHh1UGQ5eDRRbmc5X0U0SEo4enlzWFNIUmNvQ3c?oc=5",
         "published": "2026-10-10T00:34:51Z"
-      },
-      {
-        "title": "Nexus Legal Group Launches National Roblox Exploitation and Abuse Case Acquisition Program for Plaintiff Law Firms",
-        "outlet": "FinancialContent",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNcEV2c2FNUi1QVDN6cFMwZzU3MXpPYV9jOUZreW1yWWVvc1BsU3hId0FjNmxLWHRqTFFmMkdlQWdrNmwtaDVRelJZN3RkTHFWSHNzTUItMVE3OTRQQkhFajA3d0VibFBDQmI1WnM4U0kzM0lFRVpXMUpzYllWN1ZLS2EzWDBFVFE1WjdfeFhmVXdLZXpYWHVKSmgwZWV6X3Z3TmJWSzRRclFmbk94ajNQd2xpWXUtS2pEWXRrWms4SDdWSUE1RHRFUGtNQ0Z4dWxOZ0hsQjFQRHhjRjNnTThoVVA4cWlwTm9aMkFzZUhwTHZ5UmxkM0VvQzJYYU9qNlVkbGdXNUlzOA?oc=5",
-        "published": "2026-10-12T13:40:00Z"
       }
     ]
   },
@@ -170,5 +170,7 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": []
+  "errors": [
+    "courtlistener: The read operation timed out"
+  ]
 }
