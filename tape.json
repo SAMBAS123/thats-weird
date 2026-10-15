@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-15T00:33:39Z",
+  "as_of": "2026-10-15T05:52:51Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -10,15 +10,15 @@
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
     "total": 510,
-    "filed_7d": 6,
-    "filed_30d": 19,
+    "filed_7d": 3,
+    "filed_30d": 18,
     "latest": [
       {
         "date_filed": "2026-10-13",
-        "case_name": "Nassau County, New York v. Meta Platforms, Inc., fka Facebook, Inc.",
+        "case_name": "Nassau County, New York v. Meta Platforms, Inc.",
         "docket_number": "3:26-cv-11802",
         "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74955636/nassau-county-new-york-v-meta-platforms-inc-fka-facebook-inc/"
+        "url": "https://www.courtlistener.com/docket/74955636/nassau-county-new-york-v-meta-platforms-inc/"
       },
       {
         "date_filed": "2026-10-08",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 47,
+    "hits_7d": 44,
     "latest": [
       {
         "title": "Florida lawsuits target Roblox and Discord as officials warn of online predators",
@@ -101,12 +101,6 @@
         "published": "2026-10-12T22:40:10Z"
       },
       {
-        "title": "TPPF’s Kate Bierly on Foreign Influence in K-12 Classrooms | Texas Senate Testimony",
-        "outlet": "Texas Public Policy Foundation",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS0dKVHRkdXRhNXlGMVZNQ3o3Q3FkMzkyMl81RkVoWnFaM1piTnFxQzFIU2h4dERsX0ZiY1ZrMWF1Mjh1OGNTZHRleVpBaWdWU09DOFFyaVV4eDNEaERuNmdwOUZHT3VIcXZPTXlsb1l6eVlrQ2R3WG1vUUVERGFUVnl6ZUplN1VOenVSNENJLUxSc24yd045eHZlMlQ4N3VGRUg0ZDZYcVBFc3J2VlB1cndCVHBfVGpNZU5rMU9tcTdKWVk0RVE?oc=5",
-        "published": "2026-10-08T01:51:24Z"
-      },
-      {
         "title": "NKY parents sue over teen’s suicide; Roblox says case should be dismissed",
         "outlet": "WJAC",
         "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOaTFsWHY0b2ZNc1poTGhPU2htelVDTGd6d25KXzI2X0owdnFGTzNoRFpndDByNExrSFU4MktpZzU0ZjkyQjBPN2MtNGZBTUdzQ05fYTlTU1hKU3RibGtIMWVfYTVTZmVEbS1Dd0FCb0RGWjZyLWlIRHU3bFlnRnk0NS1NUG1rQ2UyUUFJM0t4TzZsbk4zT0NqM196R0dUN1RFYTBvZ2N1MlF4YjhmUk9HbDBqOWprZzgxOXJ5bUsyczBQOW5wX0dFZ0JMM3QxN0RaN0Y0bGVoWUk5cnJFR185d3pLT2ZNZTNxVUhrWE9GVVdncXpxOXo4b0J3RnlsNlpCWkJGbS01dENjczdqMUJES282MmdoNlp0Nm93WnpkSjRjQ3ZJWHVSa3FDQl9qM3VtYXgyMDlMN1dDeXlJY1hoOEd1ZWFrMkxlRGgtVmxqek1xZHFsZTlweGZiWHdQYzUzRVFuOEFad29VR1ozT3ZFRDFhT2pkd0dQVjlTblBpdndFdEE?oc=5",
@@ -123,6 +117,12 @@
         "outlet": "Facebook",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUnk0ejlWQ1BvbGw2Y1BXZktnSHhOSnEtTXlzNmhPNHVUZFo0VDZ6SDMxMjZkS0h6d3FKNmVPU2xZQ09ITVM2amsxNEZpdWF0OFRkRVBETzZNU2U4TjNsbUIzWGZGVERYUTRQYlJWX3BEV2FJdl9Dcm80cm9WSW5TaDlZZ1loQVc4Ujg3SWJsdm1xYVZIQkI2X05CdV9QVjVZd3RHNFJaVXhmOFFkVi1iYTdlNk5nV2pxODNKX2xRcXhjeTdQQ1g2YV91dkd2RzBYRy1paUY4R1F3cld3VTVF?oc=5",
         "published": "2026-10-09T08:45:33Z"
+      },
+      {
+        "title": "Unity Spark vs Roblox: Google Deal Lifts Stock 2% [2026]",
+        "outlet": "https://tech-insider.org/",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sU0VFV0RWSFoybEZwVEdPVWNiNWs3c2VHSDF6TWM5aGh4Sjg2UV9YdFNDM0xmZmVhVy1EVlVwVUlBaWVoVEh4Wi1uWGJQcHFYU0xndnJUSXlVeHh1UGQ5eDRRbmc5X0U0SEo4enlzWFNIUmNvQ3c?oc=5",
+        "published": "2026-10-10T00:34:51Z"
       }
     ]
   },
@@ -170,7 +170,5 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": [
-    "courtlistener: The read operation timed out"
-  ]
+  "errors": []
 }
