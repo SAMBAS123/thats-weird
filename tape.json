@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-15T23:40:51Z",
+  "as_of": "2026-10-16T04:27:06Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -10,8 +10,8 @@
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
     "total": 512,
-    "filed_7d": 5,
-    "filed_30d": 20,
+    "filed_7d": 3,
+    "filed_30d": 19,
     "latest": [
       {
         "date_filed": "2026-10-15",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 44,
+    "hits_7d": 43,
     "latest": [
       {
         "title": "Florida lawsuits target Roblox and Discord as officials warn of online predators",
@@ -89,10 +89,10 @@
         "published": "2026-10-14T15:48:51Z"
       },
       {
-        "title": "RBLX Stock Quote Price and Forecast",
-        "outlet": "CNN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wOC1MeGpVZlNQQkpTNnp4bjdNV0FoUXllNjhSUVFhQS1MZk1hUHZpN2NyUUxmY1ZzZEVPd1ZZSDNjbnotd091M1dPMkctSGYz?oc=5",
-        "published": "2026-10-13T20:15:13Z"
+        "title": "FBI warns of growing online threats targeting children",
+        "outlet": "Spectrum News",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZllxdmczWkhGcTdTZThnZFRHci1uU2dGNUdXNjk2dlRxNGp0UjR1S0RtSkdNa0g3NF9jYzFlOFNlSDF0c0hwckozTEZFWHN1Rk1qQXJWS2VhV2lERXoxTWpxemh1dXNFa1J0Q19NZ3VmdU14SDZjckpSLURpT2g1NkVMSEFBSTczZjVwQWlTNzRWbDUtZEFfUTYyWm1fZmx3SUtob0gyUzZnR2ZuZnlleg?oc=5",
+        "published": "2026-10-14T18:00:00Z"
       },
       {
         "title": "Child safety organizations accuse Roblox of violating FTC rules",
@@ -104,7 +104,7 @@
         "title": "Florida sues Discord, claims site is 'hotbed' for child predators",
         "outlet": "Tallahassee Democrat",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOVVaME9iSHJHS3hJTm9Pc1QxSU9JM2J6bm9ndFBGc1VJai1Ed0puR1ZHV3BRREtlNGtjWEx0UFpnLUNKVnc2MkpHVXJmWW5XUFpkOVJWRkNBWUNDbVpaT0NwSjdoLU1ZaDN4dHFMNXhFVkVnVGVfeW9CZmRRRGJ3NzEtVU5hbFZTVHUwSC05QkZoc3hOdFFGbm9YVElTYzV4Y1NTMXhoSEpvOXNLNWFhUV9aQnI?oc=5",
-        "published": "2026-10-15T19:34:00Z"
+        "published": "2026-10-15T23:22:00Z"
       },
       {
         "title": "Philippine lower house approves bill restricting minors' social media access",
@@ -113,16 +113,16 @@
         "published": "2026-10-12T22:40:10Z"
       },
       {
-        "title": "NKY parents sue over teen’s suicide; Roblox says case should be dismissed",
-        "outlet": "WJAC",
-        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOaTFsWHY0b2ZNc1poTGhPU2htelVDTGd6d25KXzI2X0owdnFGTzNoRFpndDByNExrSFU4MktpZzU0ZjkyQjBPN2MtNGZBTUdzQ05fYTlTU1hKU3RibGtIMWVfYTVTZmVEbS1Dd0FCb0RGWjZyLWlIRHU3bFlnRnk0NS1NUG1rQ2UyUUFJM0t4TzZsbk4zT0NqM196R0dUN1RFYTBvZ2N1MlF4YjhmUk9HbDBqOWprZzgxOXJ5bUsyczBQOW5wX0dFZ0JMM3QxN0RaN0Y0bGVoWUk5cnJFR185d3pLT2ZNZTNxVUhrWE9GVVdncXpxOXo4b0J3RnlsNlpCWkJGbS01dENjczdqMUJES282MmdoNlp0Nm93WnpkSjRjQ3ZJWHVSa3FDQl9qM3VtYXgyMDlMN1dDeXlJY1hoOEd1ZWFrMkxlRGgtVmxqek1xZHFsZTlweGZiWHdQYzUzRVFuOEFad29VR1ozT3ZFRDFhT2pkd0dQVjlTblBpdndFdEE?oc=5",
-        "published": "2026-10-09T03:31:14Z"
+        "title": "Florida targets Discord in lawsuit over child safety, predator access",
+        "outlet": "Florida’s Voice",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTGYzbVd0aUJOeTFzakhidDFiV2hUeVg1eXpIdEx0eXRuQUNvY3YtMEJ5Q1FiMlN0SzRrYkh4aEo3V254MUhyQ25pQnRoNi1zMlJNSGFXTDNJWkJlaHZZUEFfUGJ6UXFWbHRlcDRPX0k2bWQxcHVPSWd5dTJ5SHhVXzBIaFB2V1RVeElXQjNocnFhUFNqUHBfbw?oc=5",
+        "published": "2026-10-15T16:17:00Z"
       },
       {
-        "title": "James Uthmeier sues Discord, alleging messaging platform fails to protect children from predators",
-        "outlet": "Florida Politics",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPek5tVDd1T1RqOG9RN2VlaTE3YkZsSUhFNkw5bk50MkN2bmE4ZEhnWHZDb0tzcUp6Rkh1XzIwaE9wNjFiU1p0TmJkTE5vSlU5dWpUb1JxUkkzVTNCZDFPazRURDZJdjJHSmh0SnRRWGZnM2hwUUNUMUQ1eHFMM3NxUS1hSlhwVlNQSlB5QUZsc2VxLW5fR3hpTTN4cjRPNWtlQnBLcGhwTEtKVFFtQW1MVWwtZXd3M2ZsV3lKcWJJNThJRllhYkZ0SnA2WkFXbXRDNFhsNmZESGc?oc=5",
-        "published": "2026-10-15T17:47:23Z"
+        "title": "THE Senate approved on third and final reading a proposed measure seeking to prohibit minors below 18 years old from using high-risk digital services like Meta Platforms, Roblox, and Gorebox. Full story: https://www.sunstar.com.ph/manila/senate-oks-bill-ba",
+        "outlet": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUnk0ejlWQ1BvbGw2Y1BXZktnSHhOSnEtTXlzNmhPNHVUZFo0VDZ6SDMxMjZkS0h6d3FKNmVPU2xZQ09ITVM2amsxNEZpdWF0OFRkRVBETzZNU2U4TjNsbUIzWGZGVERYUTRQYlJWX3BEV2FJdl9Dcm80cm9WSW5TaDlZZ1loQVc4Ujg3SWJsdm1xYVZIQkI2X05CdV9QVjVZd3RHNFJaVXhmOFFkVi1iYTdlNk5nV2pxODNKX2xRcXhjeTdQQ1g2YV91dkd2RzBYRy1paUY4R1F3cld3VTVF?oc=5",
+        "published": "2026-10-09T08:45:33Z"
       }
     ]
   },
