@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-16T18:47:17Z",
+  "as_of": "2026-10-16T22:04:12Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -9,10 +9,45 @@
     "query": "party:\"Roblox Corporation\"",
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
-    "total": 512,
-    "filed_7d": 3,
-    "filed_30d": 19,
+    "total": 517,
+    "filed_7d": 8,
+    "filed_30d": 24,
     "latest": [
+      {
+        "date_filed": "2026-10-16",
+        "case_name": "TONE v. ROBLOX CORPORATION",
+        "docket_number": "4:26-cv-12060",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/74979080/tone-v-roblox-corporation/"
+      },
+      {
+        "date_filed": "2026-10-16",
+        "case_name": "0006 v. Roblox Corporation",
+        "docket_number": "3:26-cv-12059",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/74979026/0006-v-roblox-corporation/"
+      },
+      {
+        "date_filed": "2026-10-16",
+        "case_name": "WKC-0001 v. Roblox Corporation",
+        "docket_number": "3:26-cv-12058",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/74978943/wkc-0001-v-roblox-corporation/"
+      },
+      {
+        "date_filed": "2026-10-16",
+        "case_name": "AW-0023 v. Roblox Corporation",
+        "docket_number": "3:26-cv-12038",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/74977911/aw-0023-v-roblox-corporation/"
+      },
+      {
+        "date_filed": "2026-10-16",
+        "case_name": "HL-0006 v. Roblox Corporation",
+        "docket_number": "3:26-cv-12033",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/74977462/hl-0006-v-roblox-corporation/"
+      },
       {
         "date_filed": "2026-10-15",
         "case_name": "0005 v. Roblox Corporation",
@@ -33,48 +68,13 @@
         "docket_number": "3:26-cv-11802",
         "court": "N.D. Cal.",
         "url": "https://www.courtlistener.com/docket/74955636/nassau-county-new-york-v-meta-platforms-inc/"
-      },
-      {
-        "date_filed": "2026-10-08",
-        "case_name": "DLG-0077 v. Roblox Corporation",
-        "docket_number": "3:26-cv-11637",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74940012/dlg-0077-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-10-08",
-        "case_name": "AW-0022 v. Roblox Corporation",
-        "docket_number": "3:26-cv-11616",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74938213/aw-0022-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-10-07",
-        "case_name": "0003 v. Roblox Corporation",
-        "docket_number": "3:26-cv-11552",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74932769/0003-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-10-07",
-        "case_name": "WL-0002 v. Roblox Corporation",
-        "docket_number": "3:26-cv-11551",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74932374/wl-0002-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-10-07",
-        "case_name": "HL-0005 v. Roblox Corporation",
-        "docket_number": "3:26-cv-11525",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74930989/hl-0005-v-roblox-corporation/"
       }
     ]
   },
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 36,
+    "hits_7d": 35,
     "latest": [
       {
         "title": "Florida lawsuits target Roblox and Discord as officials warn of online predators",
