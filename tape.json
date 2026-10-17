@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-16T22:04:12Z",
+  "as_of": "2026-10-17T00:26:35Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 35,
+    "hits_7d": 36,
     "latest": [
       {
         "title": "Florida lawsuits target Roblox and Discord as officials warn of online predators",
@@ -119,10 +119,10 @@
         "published": "2026-10-15T16:17:00Z"
       },
       {
-        "title": "NKY parents sue over teen’s suicide; Roblox says case should be dismissed",
-        "outlet": "WKRC",
-        "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOdFA4UE1zYjRkcGxrRVZoRlcxRnFqUzY2ZE5xTnVjTGtsdi1ESHhBVUY4VU9VcXUtNkstTE5ScmtzejZJLVRWZGZCbXZKUl9sY2xFN2pLb2VHY2ZiMk5QeEw2UXlEclU4Y19IeG9RM2gyYW1PNDZ2NWpUR2w2WkZnZi16TTRodVdNT01mSkxsYzlFQmxmNjVfdF9mYnZUOGZaUU9FZzFpTHBzOGFuLTRPeEwwTzRrWEdfczAzX21CQTBQamVvM3dpa2tzSS1vMWtKZjNhcHdqT1AyaHV4Ym5qaGU5TERPa0hTb3ZRSFBfSFRJSHJUZGt4X0NvT0YyZ3dFNHJyV3F0TkJmRlZtUzBBLTRaeDN1WjFQQks1V2xFNHp6bUhhR0lSNTlBcnZseVFJYUd1WTAtR1o5Tzk3R3hHQzJfYm1uLWNGMUFacUF4aE12dGR6SWVnXzZyclNTNHRzUm1Rd3RrMTctQ2Jtdjl0bU1UXzBFZUUyclJV?oc=5",
-        "published": "2026-10-11T00:58:15Z"
+        "title": "Waipahu Man Sentenced to 22 Years in Roblox Grooming Case",
+        "outlet": "Hoodline",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZm9EVDZDbVl4VTBBWE0tekhYd2ZWWjZCWm9CZm5QYkpubDhwc1MwbEpiWjdYZmVkS05UbVpEbFFST2x5cFJNSzNiVDdWeWVjVm5OQktqUklvWDZXUTBlNkRkejFwUk1NQWNmYXg4MWRXRmVaSFR6Zjc3bmhLbXBCZzBUQTJWNm9SdVZCbnpTZDJ3OUdqN1Vkc1FuRGEwMmQ0Rmg4LW93Q25sUQ?oc=5",
+        "published": "2026-10-16T23:36:06Z"
       }
     ]
   },
