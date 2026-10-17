@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-17T05:34:11Z",
+  "as_of": "2026-10-17T10:38:28Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 34,
+    "hits_7d": 38,
     "latest": [
       {
         "title": "Florida lawsuits target Roblox and Discord as officials warn of online predators",
@@ -113,16 +113,16 @@
         "published": "2026-10-15T17:47:23Z"
       },
       {
-        "title": "Florida targets Discord in lawsuit over child safety, predator access",
-        "outlet": "Florida’s Voice",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTGYzbVd0aUJOeTFzakhidDFiV2hUeVg1eXpIdEx0eXRuQUNvY3YtMEJ5Q1FiMlN0SzRrYkh4aEo3V254MUhyQ25pQnRoNi1zMlJNSGFXTDNJWkJlaHZZUEFfUGJ6UXFWbHRlcDRPX0k2bWQxcHVPSWd5dTJ5SHhVXzBIaFB2V1RVeElXQjNocnFhUFNqUHBfbw?oc=5",
-        "published": "2026-10-15T16:17:00Z"
-      },
-      {
         "title": "Waipahu Man Gets 22 Years for Using Roblox to Groom Girls Across the Country",
         "outlet": "Hoodline",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZm9EVDZDbVl4VTBBWE0tekhYd2ZWWjZCWm9CZm5QYkpubDhwc1MwbEpiWjdYZmVkS05UbVpEbFFST2x5cFJNSzNiVDdWeWVjVm5OQktqUklvWDZXUTBlNkRkejFwUk1NQWNmYXg4MWRXRmVaSFR6Zjc3bmhLbXBCZzBUQTJWNm9SdVZCbnpTZDJ3OUdqN1Vkc1FuRGEwMmQ0Rmg4LW93Q25sUQ?oc=5",
         "published": "2026-10-16T23:36:15Z"
+      },
+      {
+        "title": "Florida targets Discord in lawsuit over child safety, predator access",
+        "outlet": "Florida’s Voice",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTGYzbVd0aUJOeTFzakhidDFiV2hUeVg1eXpIdEx0eXRuQUNvY3YtMEJ5Q1FiMlN0SzRrYkh4aEo3V254MUhyQ25pQnRoNi1zMlJNSGFXTDNJWkJlaHZZUEFfUGJ6UXFWbHRlcDRPX0k2bWQxcHVPSWd5dTJ5SHhVXzBIaFB2V1RVeElXQjNocnFhUFNqUHBfbw?oc=5",
+        "published": "2026-10-15T16:17:00Z"
       }
     ]
   },
@@ -170,5 +170,7 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": []
+  "errors": [
+    "courtlistener: HTTP Error 502: Bad Gateway"
+  ]
 }
