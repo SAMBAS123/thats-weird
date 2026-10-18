@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-18T13:59:00Z",
+  "as_of": "2026-10-18T17:20:23Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 36,
+    "hits_7d": 37,
     "latest": [
       {
         "title": "Florida lawsuits target Roblox and Discord as officials warn of online predators",
@@ -93,6 +93,12 @@
         "outlet": "WFTV",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVk9BM3pnWWJsRGI5YncwM09sZmpjMUFlVDFxbW8zT1NWSkpYZm1ROUVhSEQ5U3hWMm5vRlhaRHpNcElLMTdUV2ZNYXBIM3B6cmUwQVNXUGFaYTF5cEV2dXFNSzVtWFVaUzl2aExuMTFLeVRHaHNjSWdnbXVNbWI3VzhyR0k2MGpXcGtJMFdaNTI2Vjlmd2JFbWxWYU5xSkFLenpmdVBpclpCVVFKbC1rakw1Mm1CcXdST25mbG1MRTExV0hTbTlZajVwQ2zSAeABQVVfeXFMTkIyYnRGZHFuaERFa1ZFbXZzT2lsSjhfT0NzRWtLemNLVlJMT1laZndySUNjNkowX2dnWVVNZG5FQ3pMazhlbzFCdGt1aEE3WE1MMC1NRy1kQVljMUVJUklRQ3ZpVERjbER5TFVDOVQzZHVTUHVRTHRWWjFrM2tvdTlMNWdiRTcyVnFXTXJId2llV2hUN1ExbXRtaGVjdGt5VWtxZDEtZ3ZjUnQ1eWZvbGdBMzJLU3pWdEdWei0zSmJHUkFQVkFxc0dQNnRQdk02ZVB4TEYtakFNakZfQUVCdkw?oc=5",
         "published": "2026-10-14T15:48:51Z"
+      },
+      {
+        "title": "Valeed Anjum | Snapchat & Roblox Child Sexual Exploitation",
+        "outlet": "Andreozzi + Foote",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR2lqY2dKc0ZjX2E1ZzJIX0lDSzlwbmkxM1JrQVp5NG1LTkRMTzhsaDc4WVBkQl9maGk5dmtiRXNhVGNnUlF6N2VwVG93dWZPU2cxQlh0TFd1YlFiSFlxcjJ4VjJndC1BNEMwUXFwX1BBWXBNODJmblQ4UTdOd1lvMkx3QXUweDB4b0gxaS1UU0VidlZzc2V1Nm90cTF3TGpKWU96cXVfMmJWQQ?oc=5",
+        "published": "2026-10-17T13:55:05Z"
       },
       {
         "title": "Florida sues Discord, claims site is 'hotbed' for child predators",
@@ -117,12 +123,6 @@
         "outlet": "Bloomberg Law News",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZUdEM2E2eGdmTVBuQjV5YmdzSzllc01FdUlTSG04NTJEcmN4NVNpMS1CQ0F1dnpmVFMtYlJ0TlJPbFZIclhFb3psUk0wY2xfYzJYQ0xrOTNvVmRDNFZHM0NHc0RfRnkyLXZQTE80QUM3QWVSM0VmeUJnanRIMHVuTmlGVUFIZzIwVjJPUzBPOVJNWGVSWkxFcVlPUUktUEhDZG1F?oc=5",
         "published": "2026-10-16T21:09:00Z"
-      },
-      {
-        "title": "James Uthmeier sues Discord, alleging messaging platform fails to protect children from predators",
-        "outlet": "Florida Politics",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPek5tVDd1T1RqOG9RN2VlaTE3YkZsSUhFNkw5bk50MkN2bmE4ZEhnWHZDb0tzcUp6Rkh1XzIwaE9wNjFiU1p0TmJkTE5vSlU5dWpUb1JxUkkzVTNCZDFPazRURDZJdjJHSmh0SnRRWGZnM2hwUUNUMUQ1eHFMM3NxUS1hSlhwVlNQSlB5QUZsc2VxLW5fR3hpTTN4cjRPNWtlQnBLcGhwTEtKVFFtQW1MVWwtZXd3M2ZsV3lKcWJJNThJRllhYkZ0SnA2WkFXbXRDNFhsNmZESGc?oc=5",
-        "published": "2026-10-15T17:47:23Z"
       }
     ]
   },
