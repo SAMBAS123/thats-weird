@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-17T22:16:06Z",
+  "as_of": "2026-10-18T00:03:45Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -11,7 +11,7 @@
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
     "total": 517,
     "filed_7d": 8,
-    "filed_30d": 24,
+    "filed_30d": 22,
     "latest": [
       {
         "date_filed": "2026-10-16",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 37,
+    "hits_7d": 39,
     "latest": [
       {
         "title": "Florida lawsuits target Roblox and Discord as officials warn of online predators",
