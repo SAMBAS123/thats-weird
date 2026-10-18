@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-18T00:03:45Z",
+  "as_of": "2026-10-18T04:27:02Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 39,
+    "hits_7d": 36,
     "latest": [
       {
         "title": "Florida lawsuits target Roblox and Discord as officials warn of online predators",
@@ -93,6 +93,12 @@
         "outlet": "Spectrum News",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZllxdmczWkhGcTdTZThnZFRHci1uU2dGNUdXNjk2dlRxNGp0UjR1S0RtSkdNa0g3NF9jYzFlOFNlSDF0c0hwckozTEZFWHN1Rk1qQXJWS2VhV2lERXoxTWpxemh1dXNFa1J0Q19NZ3VmdU14SDZjckpSLURpT2g1NkVMSEFBSTczZjVwQWlTNzRWbDUtZEFfUTYyWm1fZmx3SUtob0gyUzZnR2ZuZnlleg?oc=5",
         "published": "2026-10-14T18:00:00Z"
+      },
+      {
+        "title": "RBLX Stock Quote Price and Forecast",
+        "outlet": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wOC1MeGpVZlNQQkpTNnp4bjdNV0FoUXllNjhSUVFhQS1MZk1hUHZpN2NyUUxmY1ZzZEVPd1ZZSDNjbnotd091M1dPMkctSGYz?oc=5",
+        "published": "2026-10-15T20:15:11Z"
       },
       {
         "title": "Florida sues Discord, claims site is 'hotbed' for child predators",
@@ -117,12 +123,6 @@
         "outlet": "Florida Politics",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPek5tVDd1T1RqOG9RN2VlaTE3YkZsSUhFNkw5bk50MkN2bmE4ZEhnWHZDb0tzcUp6Rkh1XzIwaE9wNjFiU1p0TmJkTE5vSlU5dWpUb1JxUkkzVTNCZDFPazRURDZJdjJHSmh0SnRRWGZnM2hwUUNUMUQ1eHFMM3NxUS1hSlhwVlNQSlB5QUZsc2VxLW5fR3hpTTN4cjRPNWtlQnBLcGhwTEtKVFFtQW1MVWwtZXd3M2ZsV3lKcWJJNThJRllhYkZ0SnA2WkFXbXRDNFhsNmZESGc?oc=5",
         "published": "2026-10-15T17:47:23Z"
-      },
-      {
-        "title": "Waipahu Man Gets 22 Years for Using Roblox to Groom Girls Across the Country",
-        "outlet": "Hoodline",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZm9EVDZDbVl4VTBBWE0tekhYd2ZWWjZCWm9CZm5QYkpubDhwc1MwbEpiWjdYZmVkS05UbVpEbFFST2x5cFJNSzNiVDdWeWVjVm5OQktqUklvWDZXUTBlNkRkejFwUk1NQWNmYXg4MWRXRmVaSFR6Zjc3bmhLbXBCZzBUQTJWNm9SdVZCbnpTZDJ3OUdqN1Vkc1FuRGEwMmQ0Rmg4LW93Q25sUQ?oc=5",
-        "published": "2026-10-16T23:36:15Z"
       }
     ]
   },
