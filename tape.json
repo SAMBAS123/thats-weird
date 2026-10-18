@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-18T17:20:23Z",
+  "as_of": "2026-10-18T20:37:58Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,19 +74,19 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 37,
+    "hits_7d": 22,
     "latest": [
-      {
-        "title": "Florida lawsuits target Roblox and Discord as officials warn of online predators",
-        "outlet": "WPBF",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUFVZMGZkc3ZKUXhqN3ZDeHFMSDJxT08yS2hEYVgxaGNqN0ZZel9WX2ltcUFNT2dNQUN3YTlHOWpZRkJPdGNiOW53ZDBuNjh5WHo5NFF3NGkyM1VKS3NXN0dQYVk3R3BZYUhxWkl6bUtZVk5lSTFPYWEzTDdIcUFSTk9Fdk4tVGdzc1hHclB2SUpxcE9GQU93anRsbHY0a1k?oc=5",
-        "published": "2026-10-14T08:15:00Z"
-      },
       {
         "title": "FBI warns of growing online threats targeting children",
         "outlet": "Spectrum News",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZllxdmczWkhGcTdTZThnZFRHci1uU2dGNUdXNjk2dlRxNGp0UjR1S0RtSkdNa0g3NF9jYzFlOFNlSDF0c0hwckozTEZFWHN1Rk1qQXJWS2VhV2lERXoxTWpxemh1dXNFa1J0Q19NZ3VmdU14SDZjckpSLURpT2g1NkVMSEFBSTczZjVwQWlTNzRWbDUtZEFfUTYyWm1fZmx3SUtob0gyUzZnR2ZuZnlleg?oc=5",
         "published": "2026-10-14T18:00:00Z"
+      },
+      {
+        "title": "Florida lawsuits target Roblox and Discord as officials warn of online predators",
+        "outlet": "WPBF",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUFVZMGZkc3ZKUXhqN3ZDeHFMSDJxT08yS2hEYVgxaGNqN0ZZel9WX2ltcUFNT2dNQUN3YTlHOWpZRkJPdGNiOW53ZDBuNjh5WHo5NFF3NGkyM1VKS3NXN0dQYVk3R3BZYUhxWkl6bUtZVk5lSTFPYWEzTDdIcUFSTk9Fdk4tVGdzc1hHclB2SUpxcE9GQU93anRsbHY0a1k?oc=5",
+        "published": "2026-10-14T08:15:00Z"
       },
       {
         "title": "Orange County family sues Discord and Roblox over child predator allegations",
@@ -119,10 +119,10 @@
         "published": "2026-10-18T04:33:53Z"
       },
       {
-        "title": "Roblox Under Fire for Response to Arizona Child Safety Probe",
-        "outlet": "Bloomberg Law News",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZUdEM2E2eGdmTVBuQjV5YmdzSzllc01FdUlTSG04NTJEcmN4NVNpMS1CQ0F1dnpmVFMtYlJ0TlJPbFZIclhFb3psUk0wY2xfYzJYQ0xrOTNvVmRDNFZHM0NHc0RfRnkyLXZQTE80QUM3QWVSM0VmeUJnanRIMHVuTmlGVUFIZzIwVjJPUzBPOVJNWGVSWkxFcVlPUUktUEhDZG1F?oc=5",
-        "published": "2026-10-16T21:09:00Z"
+        "title": "Waipahu Man Gets 22 Years for Using Roblox to Groom Girls Across the Country",
+        "outlet": "Hoodline",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZm9EVDZDbVl4VTBBWE0tekhYd2ZWWjZCWm9CZm5QYkpubDhwc1MwbEpiWjdYZmVkS05UbVpEbFFST2x5cFJNSzNiVDdWeWVjVm5OQktqUklvWDZXUTBlNkRkejFwUk1NQWNmYXg4MWRXRmVaSFR6Zjc3bmhLbXBCZzBUQTJWNm9SdVZCbnpTZDJ3OUdqN1Vkc1FuRGEwMmQ0Rmg4LW93Q25sUQ?oc=5",
+        "published": "2026-10-16T23:36:15Z"
       }
     ]
   },
