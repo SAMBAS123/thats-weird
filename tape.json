@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-18T20:37:58Z",
+  "as_of": "2026-10-18T23:08:40Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 22,
+    "hits_7d": 38,
     "latest": [
       {
         "title": "FBI warns of growing online threats targeting children",
@@ -119,10 +119,10 @@
         "published": "2026-10-18T04:33:53Z"
       },
       {
-        "title": "Waipahu Man Gets 22 Years for Using Roblox to Groom Girls Across the Country",
-        "outlet": "Hoodline",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZm9EVDZDbVl4VTBBWE0tekhYd2ZWWjZCWm9CZm5QYkpubDhwc1MwbEpiWjdYZmVkS05UbVpEbFFST2x5cFJNSzNiVDdWeWVjVm5OQktqUklvWDZXUTBlNkRkejFwUk1NQWNmYXg4MWRXRmVaSFR6Zjc3bmhLbXBCZzBUQTJWNm9SdVZCbnpTZDJ3OUdqN1Vkc1FuRGEwMmQ0Rmg4LW93Q25sUQ?oc=5",
-        "published": "2026-10-16T23:36:15Z"
+        "title": "Roblox Under Fire for Response to Arizona Child Safety Probe",
+        "outlet": "Bloomberg Law News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZUdEM2E2eGdmTVBuQjV5YmdzSzllc01FdUlTSG04NTJEcmN4NVNpMS1CQ0F1dnpmVFMtYlJ0TlJPbFZIclhFb3psUk0wY2xfYzJYQ0xrOTNvVmRDNFZHM0NHc0RfRnkyLXZQTE80QUM3QWVSM0VmeUJnanRIMHVuTmlGVUFIZzIwVjJPUzBPOVJNWGVSWkxFcVlPUUktUEhDZG1F?oc=5",
+        "published": "2026-10-16T21:09:00Z"
       }
     ]
   },
