@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-18T23:08:40Z",
+  "as_of": "2026-10-19T01:13:07Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -11,7 +11,7 @@
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
     "total": 517,
     "filed_7d": 8,
-    "filed_30d": 22,
+    "filed_30d": 21,
     "latest": [
       {
         "date_filed": "2026-10-16",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 38,
+    "hits_7d": 36,
     "latest": [
       {
         "title": "FBI warns of growing online threats targeting children",
