@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-21T00:38:41Z",
+  "as_of": "2026-10-21T06:01:39Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 38,
+    "hits_7d": 41,
     "latest": [
       {
         "title": "Lawsuit alleges Roblox didn’t safeguard girl from predator’s explicit photos",
@@ -89,16 +89,16 @@
         "published": "2026-10-14T08:15:00Z"
       },
       {
-        "title": "'It Was Too Late': Another Las Vegas family sues Roblox",
-        "outlet": "KTNV Las Vegas",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnBxalBxazBMcHhaU3ZDSWNEdFplbXhMc3pTRmI1ZTB3S1drM1hnWV9yeHRIb1dPNTZpVkM4dXlIOW5mdTFsNWs5SFRfeGh1TmcwY2JCNzJ0WGY3eTg2eklyQnBJbFVLM256T1JsVjhtSHlOc0dQX0s4SkZHNDJMcnVDSkJmanJYUXdBanhhb0YzSDQ?oc=5",
-        "published": "2026-10-20T23:25:22Z"
-      },
-      {
         "title": "FBI warns of growing online threats targeting children",
         "outlet": "Spectrum News",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZllxdmczWkhGcTdTZThnZFRHci1uU2dGNUdXNjk2dlRxNGp0UjR1S0RtSkdNa0g3NF9jYzFlOFNlSDF0c0hwckozTEZFWHN1Rk1qQXJWS2VhV2lERXoxTWpxemh1dXNFa1J0Q19NZ3VmdU14SDZjckpSLURpT2g1NkVMSEFBSTczZjVwQWlTNzRWbDUtZEFfUTYyWm1fZmx3SUtob0gyUzZnR2ZuZnlleg?oc=5",
         "published": "2026-10-14T18:00:00Z"
+      },
+      {
+        "title": "'It was too late': Another Las Vegas family sues Roblox",
+        "outlet": "KTNV Las Vegas",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnBxalBxazBMcHhaU3ZDSWNEdFplbXhMc3pTRmI1ZTB3S1drM1hnWV9yeHRIb1dPNTZpVkM4dXlIOW5mdTFsNWs5SFRfeGh1TmcwY2JCNzJ0WGY3eTg2eklyQnBJbFVLM256T1JsVjhtSHlOc0dQX0s4SkZHNDJMcnVDSkJmanJYUXdBanhhb0YzSDQ?oc=5",
+        "published": "2026-10-20T23:25:00Z"
       },
       {
         "title": "Orange County family sues Discord and Roblox over child predator allegations",
@@ -170,5 +170,7 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": []
+  "errors": [
+    "courtlistener: The read operation timed out"
+  ]
 }
