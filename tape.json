@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-20T22:17:08Z",
+  "as_of": "2026-10-21T00:38:41Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -10,7 +10,7 @@
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
     "total": 518,
-    "filed_7d": 9,
+    "filed_7d": 8,
     "filed_30d": 22,
     "latest": [
       {
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 34,
+    "hits_7d": 38,
     "latest": [
       {
         "title": "Lawsuit alleges Roblox didn’t safeguard girl from predator’s explicit photos",
@@ -87,6 +87,12 @@
         "outlet": "WPBF",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUFVZMGZkc3ZKUXhqN3ZDeHFMSDJxT08yS2hEYVgxaGNqN0ZZel9WX2ltcUFNT2dNQUN3YTlHOWpZRkJPdGNiOW53ZDBuNjh5WHo5NFF3NGkyM1VKS3NXN0dQYVk3R3BZYUhxWkl6bUtZVk5lSTFPYWEzTDdIcUFSTk9Fdk4tVGdzc1hHclB2SUpxcE9GQU93anRsbHY0a1k?oc=5",
         "published": "2026-10-14T08:15:00Z"
+      },
+      {
+        "title": "'It Was Too Late': Another Las Vegas family sues Roblox",
+        "outlet": "KTNV Las Vegas",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnBxalBxazBMcHhaU3ZDSWNEdFplbXhMc3pTRmI1ZTB3S1drM1hnWV9yeHRIb1dPNTZpVkM4dXlIOW5mdTFsNWs5SFRfeGh1TmcwY2JCNzJ0WGY3eTg2eklyQnBJbFVLM256T1JsVjhtSHlOc0dQX0s4SkZHNDJMcnVDSkJmanJYUXdBanhhb0YzSDQ?oc=5",
+        "published": "2026-10-20T23:25:22Z"
       },
       {
         "title": "FBI warns of growing online threats targeting children",
@@ -117,12 +123,6 @@
         "outlet": "Tallahassee Democrat",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOVVaME9iSHJHS3hJTm9Pc1QxSU9JM2J6bm9ndFBGc1VJai1Ed0puR1ZHV3BRREtlNGtjWEx0UFpnLUNKVnc2MkpHVXJmWW5XUFpkOVJWRkNBWUNDbVpaT0NwSjdoLU1ZaDN4dHFMNXhFVkVnVGVfeW9CZmRRRGJ3NzEtVU5hbFZTVHUwSC05QkZoc3hOdFFGbm9YVElTYzV4Y1NTMXhoSEpvOXNLNWFhUV9aQnI?oc=5",
         "published": "2026-10-15T23:22:00Z"
-      },
-      {
-        "title": "Social Media Addiction Lawsuit FAQs",
-        "outlet": "Lawsuit Information Center",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMUprOXZJanlkcko2U3VoazRfWFFheE1SVzdjVW1VTlBZRmpZdDcwdzI3djdXWXp1RC05TzZ5ZGtsZXpDUjRfLUlUVmdXSHVKeGNXN0ZDbjBKQmpkSWdMREx3dm81RDFsbU82Q2JGb1BJQ050T2lwZlJnd2g2bHNZMmZjMW5ZQQ?oc=5",
-        "published": "2026-10-18T01:20:19Z"
       }
     ]
   },
@@ -170,7 +170,5 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": [
-    "courtlistener: The read operation timed out"
-  ]
+  "errors": []
 }
