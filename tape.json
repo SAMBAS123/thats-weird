@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-21T11:43:48Z",
+  "as_of": "2026-10-21T17:08:25Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 44,
+    "hits_7d": 39,
     "latest": [
       {
         "title": "Lawsuit alleges Roblox didn’t safeguard girl from predator’s explicit photos",
@@ -95,12 +95,6 @@
         "published": "2026-10-20T23:25:00Z"
       },
       {
-        "title": "Orange County family sues Discord and Roblox over child predator allegations",
-        "outlet": "WFTV",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVk9BM3pnWWJsRGI5YncwM09sZmpjMUFlVDFxbW8zT1NWSkpYZm1ROUVhSEQ5U3hWMm5vRlhaRHpNcElLMTdUV2ZNYXBIM3B6cmUwQVNXUGFaYTF5cEV2dXFNSzVtWFVaUzl2aExuMTFLeVRHaHNjSWdnbXVNbWI3VzhyR0k2MGpXcGtJMFdaNTI2Vjlmd2JFbWxWYU5xSkFLenpmdVBpclpCVVFKbC1rakw1Mm1CcXdST25mbG1MRTExV0hTbTlZajVwQ2zSAeABQVVfeXFMTkIyYnRGZHFuaERFa1ZFbXZzT2lsSjhfT0NzRWtLemNLVlJMT1laZndySUNjNkowX2dnWVVNZG5FQ3pMazhlbzFCdGt1aEE3WE1MMC1NRy1kQVljMUVJUklRQ3ZpVERjbER5TFVDOVQzZHVTUHVRTHRWWjFrM2tvdTlMNWdiRTcyVnFXTXJId2llV2hUN1ExbXRtaGVjdGt5VWtxZDEtZ3ZjUnQ1eWZvbGdBMzJLU3pWdEdWei0zSmJHUkFQVkFxc0dQNnRQdk02ZVB4TEYtakFNakZfQUVCdkw?oc=5",
-        "published": "2026-10-14T15:48:51Z"
-      },
-      {
         "title": "Valeed Anjum | Snapchat & Roblox Child Sexual Exploitation",
         "outlet": "Andreozzi + Foote",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR2lqY2dKc0ZjX2E1ZzJIX0lDSzlwbmkxM1JrQVp5NG1LTkRMTzhsaDc4WVBkQl9maGk5dmtiRXNhVGNnUlF6N2VwVG93dWZPU2cxQlh0TFd1YlFiSFlxcjJ4VjJndC1BNEMwUXFwX1BBWXBNODJmblQ4UTdOd1lvMkx3QXUweDB4b0gxaS1UU0VidlZzc2V1Nm90cTF3TGpKWU96cXVfMmJWQQ?oc=5",
@@ -113,16 +107,22 @@
         "published": "2026-10-19T18:41:00Z"
       },
       {
+        "title": "Roblox Lawsuit 2026: Who Can File, Claims and Where the Cases Stand",
+        "outlet": "Legal Desire",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TWWlFT3l2ME56bHdpUlR1WnN5SEp4Z2c5NXZXX25zNnpFQThCczQ2RFQ2a1ZrUk9BaktNR1ZfYUY0Rmt4X0VaMTJsdHByQXRP?oc=5",
+        "published": "2026-10-18T04:33:53Z"
+      },
+      {
         "title": "Florida sues Discord, claims site is 'hotbed' for child predators",
         "outlet": "Tallahassee Democrat",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOVVaME9iSHJHS3hJTm9Pc1QxSU9JM2J6bm9ndFBGc1VJai1Ed0puR1ZHV3BRREtlNGtjWEx0UFpnLUNKVnc2MkpHVXJmWW5XUFpkOVJWRkNBWUNDbVpaT0NwSjdoLU1ZaDN4dHFMNXhFVkVnVGVfeW9CZmRRRGJ3NzEtVU5hbFZTVHUwSC05QkZoc3hOdFFGbm9YVElTYzV4Y1NTMXhoSEpvOXNLNWFhUV9aQnI?oc=5",
         "published": "2026-10-15T23:22:00Z"
       },
       {
-        "title": "Social Media Addiction Lawsuit FAQs",
-        "outlet": "Lawsuit Information Center",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMUprOXZJanlkcko2U3VoazRfWFFheE1SVzdjVW1VTlBZRmpZdDcwdzI3djdXWXp1RC05TzZ5ZGtsZXpDUjRfLUlUVmdXSHVKeGNXN0ZDbjBKQmpkSWdMREx3dm81RDFsbU82Q2JGb1BJQ050T2lwZlJnd2g2bHNZMmZjMW5ZQQ?oc=5",
-        "published": "2026-10-18T01:20:19Z"
+        "title": "Epic And Roblox Sued For Allegedly Creating Deliberately Addictive Games",
+        "outlet": "Kotaku",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbG13UEdoVjFvZGZTcFNfMVJkQTZmbGdKUXZESnE2RUV5YkJMdE14X3c4X09UcW5vTGxPaFdCLU1hdFB0TmFmWmN6V0hfYm1HNTZyd3ZyMHlxOVQyVGZwR1JSeEF5ZEZRa1hSS2tOZ2JNZ2hVeGl2RU9qMDFYLW9nOFVFUjdQVHp3SFJUcjRVNHRFM2R6cUhLc0stcTg2c3BLZ2ppZA?oc=5",
+        "published": "2026-10-21T15:45:01Z"
       }
     ]
   },
