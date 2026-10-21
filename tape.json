@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-21T20:36:43Z",
+  "as_of": "2026-10-21T23:59:41Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 42,
+    "hits_7d": 39,
     "latest": [
       {
         "title": "Lawsuit alleges Roblox didn’t safeguard girl from predator’s explicit photos",
@@ -101,12 +101,6 @@
         "published": "2026-10-19T18:41:00Z"
       },
       {
-        "title": "Florida sues Discord, claims site is 'hotbed' for child predators",
-        "outlet": "Tallahassee Democrat",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOVVaME9iSHJHS3hJTm9Pc1QxSU9JM2J6bm9ndFBGc1VJai1Ed0puR1ZHV3BRREtlNGtjWEx0UFpnLUNKVnc2MkpHVXJmWW5XUFpkOVJWRkNBWUNDbVpaT0NwSjdoLU1ZaDN4dHFMNXhFVkVnVGVfeW9CZmRRRGJ3NzEtVU5hbFZTVHUwSC05QkZoc3hOdFFGbm9YVElTYzV4Y1NTMXhoSEpvOXNLNWFhUV9aQnI?oc=5",
-        "published": "2026-10-15T23:22:00Z"
-      },
-      {
         "title": "Social Media Addiction Lawsuit FAQs",
         "outlet": "Lawsuit Information Center",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMUprOXZJanlkcko2U3VoazRfWFFheE1SVzdjVW1VTlBZRmpZdDcwdzI3djdXWXp1RC05TzZ5ZGtsZXpDUjRfLUlUVmdXSHVKeGNXN0ZDbjBKQmpkSWdMREx3dm81RDFsbU82Q2JGb1BJQ050T2lwZlJnd2g2bHNZMmZjMW5ZQQ?oc=5",
@@ -123,6 +117,12 @@
         "outlet": "CNN",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wOC1MeGpVZlNQQkpTNnp4bjdNV0FoUXllNjhSUVFhQS1MZk1hUHZpN2NyUUxmY1ZzZEVPd1ZZSDNjbnotd091M1dPMkctSGYz?oc=5",
         "published": "2026-10-19T20:15:25Z"
+      },
+      {
+        "title": "Epic And Roblox Sued For Allegedly Creating Deliberately Addictive Games",
+        "outlet": "Kotaku",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbG13UEdoVjFvZGZTcFNfMVJkQTZmbGdKUXZESnE2RUV5YkJMdE14X3c4X09UcW5vTGxPaFdCLU1hdFB0TmFmWmN6V0hfYm1HNTZyd3ZyMHlxOVQyVGZwR1JSeEF5ZEZRa1hSS2tOZ2JNZ2hVeGl2RU9qMDFYLW9nOFVFUjdQVHp3SFJUcjRVNHRFM2R6cUhLc0stcTg2c3BLZ2ppZA?oc=5",
+        "published": "2026-10-21T15:45:01Z"
       }
     ]
   },
