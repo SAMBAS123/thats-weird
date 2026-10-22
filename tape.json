@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-22T19:13:13Z",
+  "as_of": "2026-10-22T22:18:52Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -9,10 +9,17 @@
     "query": "party:\"Roblox Corporation\"",
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
-    "total": 519,
-    "filed_7d": 9,
-    "filed_30d": 23,
+    "total": 520,
+    "filed_7d": 10,
+    "filed_30d": 24,
     "latest": [
+      {
+        "date_filed": "2026-10-22",
+        "case_name": "SHC-0001 v. Roblox Corporation",
+        "docket_number": "3:26-cv-12334",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/75006698/shc-0001-v-roblox-corporation/"
+      },
       {
         "date_filed": "2026-10-21",
         "case_name": "AWKO-0007 v. Roblox Corporation",
@@ -61,13 +68,6 @@
         "docket_number": "3:26-cv-12033",
         "court": "N.D. Cal.",
         "url": "https://www.courtlistener.com/docket/74977462/hl-0006-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-10-15",
-        "case_name": "0005 v. Roblox Corporation",
-        "docket_number": "3:26-cv-11966",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74971238/0005-v-roblox-corporation/"
       }
     ]
   },
