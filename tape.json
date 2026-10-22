@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-22T10:08:17Z",
+  "as_of": "2026-10-22T15:14:39Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 37,
+    "hits_7d": 39,
     "latest": [
       {
         "title": "Lawsuit alleges Roblox didn’t safeguard girl from predator’s explicit photos",
@@ -92,7 +92,13 @@
         "title": "'It was too late': Another Las Vegas family sues Roblox",
         "outlet": "KTNV Las Vegas",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnBxalBxazBMcHhaU3ZDSWNEdFplbXhMc3pTRmI1ZTB3S1drM1hnWV9yeHRIb1dPNTZpVkM4dXlIOW5mdTFsNWs5SFRfeGh1TmcwY2JCNzJ0WGY3eTg2eklyQnBJbFVLM256T1JsVjhtSHlOc0dQX0s4SkZHNDJMcnVDSkJmanJYUXdBanhhb0YzSDQ?oc=5",
-        "published": "2026-10-22T01:32:04Z"
+        "published": "2026-10-20T23:25:00Z"
+      },
+      {
+        "title": "Video Game Addiction Lawsuit Settlements (October 2026)",
+        "outlet": "Lawsuit Information Center",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQUVWdlFhSVBFelVab0lHTUN0dzJyWGhwTXEyZEFuQmQzTHNVMVNPeHV1ZzB2bXN1TUVFZ2hpMFNrTkJveEd1TlFZdmc5elNTZDlGQk1JQ3NabElEdHJnMmNKUE56bXBnMUxOdGhVZmJQdGJwRlNUZ0wtMWE1YTU5X084UQ?oc=5",
+        "published": "2026-10-21T14:48:00Z"
       },
       {
         "title": "Roblox Is Now Down 38% in 2026: Is RBLX Stock Dead Money or Poised for a Comeback?",
@@ -105,12 +111,6 @@
         "outlet": "Legal Desire",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TWWlFT3l2ME56bHdpUlR1WnN5SEp4Z2c5NXZXX25zNnpFQThCczQ2RFQ2a1ZrUk9BaktNR1ZfYUY0Rmt4X0VaMTJsdHByQXRP?oc=5",
         "published": "2026-10-18T04:33:53Z"
-      },
-      {
-        "title": "Social Media Addiction Lawsuit FAQs",
-        "outlet": "Lawsuit Information Center",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMUprOXZJanlkcko2U3VoazRfWFFheE1SVzdjVW1VTlBZRmpZdDcwdzI3djdXWXp1RC05TzZ5ZGtsZXpDUjRfLUlUVmdXSHVKeGNXN0ZDbjBKQmpkSWdMREx3dm81RDFsbU82Q2JGb1BJQ050T2lwZlJnd2g2bHNZMmZjMW5ZQQ?oc=5",
-        "published": "2026-10-18T01:20:19Z"
       },
       {
         "title": "Epic And Roblox Sued For Allegedly Creating Deliberately Addictive Games",
