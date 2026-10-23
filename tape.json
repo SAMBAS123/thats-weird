@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-23T18:18:44Z",
+  "as_of": "2026-10-23T22:06:49Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -15,10 +15,10 @@
     "latest": [
       {
         "date_filed": "2026-10-23",
-        "case_name": "0008 v. Roblox Corporation",
+        "case_name": "KG-JD 0008 v. Roblox Corporation",
         "docket_number": "3:26-cv-12396",
         "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/75011169/0008-v-roblox-corporation/"
+        "url": "https://www.courtlistener.com/docket/75011169/kg-jd-0008-v-roblox-corporation/"
       },
       {
         "date_filed": "2026-10-23",
@@ -57,10 +57,10 @@
       },
       {
         "date_filed": "2026-10-16",
-        "case_name": "0006 v. Roblox Corporation",
+        "case_name": "KG-JD 0006 v. Roblox Corporation",
         "docket_number": "3:26-cv-12059",
         "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74979026/0006-v-roblox-corporation/"
+        "url": "https://www.courtlistener.com/docket/74979026/kg-jd-0006-v-roblox-corporation/"
       },
       {
         "date_filed": "2026-10-16",
@@ -74,13 +74,19 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 35,
+    "hits_7d": 34,
     "latest": [
       {
         "title": "Lawsuit alleges Roblox didn’t safeguard girl from predator’s explicit photos",
         "outlet": "Las Vegas Review-Journal",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVlhDSENzNnk5WkwtWGQ2RWZZNzZXSTRFalgzQ0JXa1RDNE9haEMzWmE5OVVtcnhjcmc4bFZnVE1kaWFaemJETkdNVmVlWW5HMjhMR2tSVWJUN0VHblFaUmVHcFg4b2ZnLVJycWVuTmlVNFZjS2JuTjNJdjl3RWEwMTRYN2VYeGF0ZWJQRUltLTlYLTJSMGpTb0tJRDVrZHJ6S1Z1dWd6czhfVGxoT2hCZnJLRVZ4a3h0ekhPVE12bGtreE56aElpWG1yRQ?oc=5",
         "published": "2026-10-19T15:00:00Z"
+      },
+      {
+        "title": "Roblox Child Sexual Abuse Lawsuit",
+        "outlet": "Lawsuit Information Center",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mZ1RSZGJfTFVSUnc0OGFBSkY0VlVzYWVLY0NvNFkzYkxNSVlYUnNPeUxMSXcwVXBNeGh5NGU3d1hKdlFQZGFuSVZqX0QyOWFmUHpNaVFsTy1XUy1GVm00ZnJQc2swWVBodzUxTV9rRFdEZ190aGd6X3B4Qmc?oc=5",
+        "published": "2026-10-23T12:29:44Z"
       },
       {
         "title": "'It was too late': Another Las Vegas family sues Roblox",
@@ -93,12 +99,6 @@
         "outlet": "Mashable",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41cmxuN0ljbWhtUEQzNTlfUUdpZWJrUm1OQVR2SGVjWkd0MU5VSWpuRVZSRFVwZVp1akZ1M0c1d0w4QjJscnV6dWJJcldSMzZ0V01WQVotTWYxVW1zc2VleEdva1dGbzEwTlgtZ2xVNFp4Wko2c0R6RHZYY0tEUQ?oc=5",
         "published": "2026-10-22T07:00:00Z"
-      },
-      {
-        "title": "Video Game Addiction Lawsuit Settlements (October 2026)",
-        "outlet": "Lawsuit Information Center",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQUVWdlFhSVBFelVab0lHTUN0dzJyWGhwTXEyZEFuQmQzTHNVMVNPeHV1ZzB2bXN1TUVFZ2hpMFNrTkJveEd1TlFZdmc5elNTZDlGQk1JQ3NabElEdHJnMmNKUE56bXBnMUxOdGhVZmJQdGJwRlNUZ0wtMWE1YTU5X084UQ?oc=5",
-        "published": "2026-10-21T14:48:00Z"
       },
       {
         "title": "Roblox Is Now Down 38% in 2026: Is RBLX Stock Dead Money or Poised for a Comeback?",
