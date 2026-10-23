@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-22T22:18:52Z",
+  "as_of": "2026-10-23T01:28:07Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -10,8 +10,8 @@
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
     "total": 520,
-    "filed_7d": 10,
-    "filed_30d": 24,
+    "filed_7d": 8,
+    "filed_30d": 23,
     "latest": [
       {
         "date_filed": "2026-10-22",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 38,
+    "hits_7d": 35,
     "latest": [
       {
         "title": "Lawsuit alleges Roblox didn’t safeguard girl from predator’s explicit photos",
@@ -87,12 +87,6 @@
         "outlet": "KTNV Las Vegas",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnBxalBxazBMcHhaU3ZDSWNEdFplbXhMc3pTRmI1ZTB3S1drM1hnWV9yeHRIb1dPNTZpVkM4dXlIOW5mdTFsNWs5SFRfeGh1TmcwY2JCNzJ0WGY3eTg2eklyQnBJbFVLM256T1JsVjhtSHlOc0dQX0s4SkZHNDJMcnVDSkJmanJYUXdBanhhb0YzSDQ?oc=5",
         "published": "2026-10-20T23:25:00Z"
-      },
-      {
-        "title": "Louisiana attorney general sues Roblox for exposing children to sexual predators",
-        "outlet": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41cmxuN0ljbWhtUEQzNTlfUUdpZWJrUm1OQVR2SGVjWkd0MU5VSWpuRVZSRFVwZVp1akZ1M0c1d0w4QjJscnV6dWJJcldSMzZ0V01WQVotTWYxVW1zc2VleEdva1dGbzEwTlgtZ2xVNFp4Wko2c0R6RHZYY0tEUQ?oc=5",
-        "published": "2026-10-22T07:00:00Z"
       },
       {
         "title": "Video Game Addiction Lawsuit Settlements (October 2026)",
@@ -123,6 +117,12 @@
         "outlet": "Hoodline",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVlRvbnBReTczNXp5dnhaTmdpdmNtNXJZbWl5QTdkMEs3TjFHNU1Xa1lpbkdubmMyYmhITUxVVzFYZzhzVWpXTVRqQlY3aTNBd19mV1VWZk0yUk5pbWJXTVRORER3REhYRGVIcU1nZXppYnV4dUFxcGlsOUVMUFd3LVptem9zZi1qbnZEWUd3UXQxQlppeDZGVGNDbExZRWhqMmY4TmJmNWNYSW1Cck9zdkFrVmsydw?oc=5",
         "published": "2026-10-19T16:46:34Z"
+      },
+      {
+        "title": "Can Ozempic Cause Vision Loss? NAION Symptoms, Studies & Lawsuits",
+        "outlet": "Consumer Notice",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UVGJsZm54ZVU4M0VtWFh0WXkzYXo1a1BxZi1ScFNudTZPWjdjNDF5VnN5SExXSTNYVENJRUFIRVVfdXNxRFNXZHF4LW5SM0JRLWdIQWRFRXZNdkNGNHRSS05rTkZiY1JtWmhWUjFZSHJPekM5Y2c?oc=5",
+        "published": "2026-10-16T07:00:00Z"
       }
     ]
   },
