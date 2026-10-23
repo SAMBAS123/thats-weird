@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-23T13:22:33Z",
+  "as_of": "2026-10-23T18:18:44Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -9,10 +9,24 @@
     "query": "party:\"Roblox Corporation\"",
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
-    "total": 520,
-    "filed_7d": 8,
-    "filed_30d": 23,
+    "total": 522,
+    "filed_7d": 10,
+    "filed_30d": 25,
     "latest": [
+      {
+        "date_filed": "2026-10-23",
+        "case_name": "0008 v. Roblox Corporation",
+        "docket_number": "3:26-cv-12396",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/75011169/0008-v-roblox-corporation/"
+      },
+      {
+        "date_filed": "2026-10-23",
+        "case_name": "AWKO-0005, a minor represented by her proposed court-appointed guardian ad litem, AWKO-GAL-0005 v. Roblox Corporation",
+        "docket_number": "3:26-cv-12390",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/75010717/awko-0005-a-minor-represented-by-her-proposed-court-appointed-guardian-ad/"
+      },
       {
         "date_filed": "2026-10-22",
         "case_name": "SHC-0001 v. Roblox Corporation",
@@ -54,27 +68,13 @@
         "docket_number": "3:26-cv-12058",
         "court": "N.D. Cal.",
         "url": "https://www.courtlistener.com/docket/74978943/wkc-0001-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-10-16",
-        "case_name": "AW-0023 v. Roblox Corporation",
-        "docket_number": "3:26-cv-12038",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74977911/aw-0023-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-10-16",
-        "case_name": "HL-0006 v. Roblox Corporation",
-        "docket_number": "3:26-cv-12033",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74977462/hl-0006-v-roblox-corporation/"
       }
     ]
   },
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 38,
+    "hits_7d": 35,
     "latest": [
       {
         "title": "Lawsuit alleges Roblox didn’t safeguard girl from predator’s explicit photos",
@@ -83,16 +83,16 @@
         "published": "2026-10-19T15:00:00Z"
       },
       {
+        "title": "'It was too late': Another Las Vegas family sues Roblox",
+        "outlet": "KTNV Las Vegas",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnBxalBxazBMcHhaU3ZDSWNEdFplbXhMc3pTRmI1ZTB3S1drM1hnWV9yeHRIb1dPNTZpVkM4dXlIOW5mdTFsNWs5SFRfeGh1TmcwY2JCNzJ0WGY3eTg2eklyQnBJbFVLM256T1JsVjhtSHlOc0dQX0s4SkZHNDJMcnVDSkJmanJYUXdBanhhb0YzSDQ?oc=5",
+        "published": "2026-10-20T23:25:00Z"
+      },
+      {
         "title": "Louisiana attorney general sues Roblox for exposing children to sexual predators",
         "outlet": "Mashable",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41cmxuN0ljbWhtUEQzNTlfUUdpZWJrUm1OQVR2SGVjWkd0MU5VSWpuRVZSRFVwZVp1akZ1M0c1d0w4QjJscnV6dWJJcldSMzZ0V01WQVotTWYxVW1zc2VleEdva1dGbzEwTlgtZ2xVNFp4Wko2c0R6RHZYY0tEUQ?oc=5",
         "published": "2026-10-22T07:00:00Z"
-      },
-      {
-        "title": "'It was too late': Another Las Vegas family sues Roblox",
-        "outlet": "KTNV Las Vegas",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnBxalBxazBMcHhaU3ZDSWNEdFplbXhMc3pTRmI1ZTB3S1drM1hnWV9yeHRIb1dPNTZpVkM4dXlIOW5mdTFsNWs5SFRfeGh1TmcwY2JCNzJ0WGY3eTg2eklyQnBJbFVLM256T1JsVjhtSHlOc0dQX0s4SkZHNDJMcnVDSkJmanJYUXdBanhhb0YzSDQ?oc=5",
-        "published": "2026-10-20T23:13:08Z"
       },
       {
         "title": "Video Game Addiction Lawsuit Settlements (October 2026)",
@@ -113,16 +113,16 @@
         "published": "2026-10-18T04:33:53Z"
       },
       {
-        "title": "RBLX Stock Quote Price and Forecast",
-        "outlet": "CNN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wOC1MeGpVZlNQQkpTNnp4bjdNV0FoUXllNjhSUVFhQS1MZk1hUHZpN2NyUUxmY1ZzZEVPd1ZZSDNjbnotd091M1dPMkctSGYz?oc=5",
-        "published": "2026-10-20T20:15:11Z"
-      },
-      {
         "title": "Epic And Roblox Sued For Allegedly Creating Deliberately Addictive Games",
         "outlet": "Kotaku",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbG13UEdoVjFvZGZTcFNfMVJkQTZmbGdKUXZESnE2RUV5YkJMdE14X3c4X09UcW5vTGxPaFdCLU1hdFB0TmFmWmN6V0hfYm1HNTZyd3ZyMHlxOVQyVGZwR1JSeEF5ZEZRa1hSS2tOZ2JNZ2hVeGl2RU9qMDFYLW9nOFVFUjdQVHp3SFJUcjRVNHRFM2R6cUhLc0stcTg2c3BLZ2ppZA?oc=5",
         "published": "2026-10-21T15:45:01Z"
+      },
+      {
+        "title": "Las Vegas Lawsuit Says Roblox Failed to Protect 9-Year-Old",
+        "outlet": "Hoodline",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVlRvbnBReTczNXp5dnhaTmdpdmNtNXJZbWl5QTdkMEs3TjFHNU1Xa1lpbkdubmMyYmhITUxVVzFYZzhzVWpXTVRqQlY3aTNBd19mV1VWZk0yUk5pbWJXTVRORER3REhYRGVIcU1nZXppYnV4dUFxcGlsOUVMUFd3LVptem9zZi1qbnZEWUd3UXQxQlppeDZGVGNDbExZRWhqMmY4TmJmNWNYSW1Cck9zdkFrVmsydw?oc=5",
+        "published": "2026-10-19T16:46:34Z"
       }
     ]
   },
