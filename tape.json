@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-24T14:29:32Z",
+  "as_of": "2026-10-24T18:06:11Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 41,
+    "hits_7d": 36,
     "latest": [
       {
         "title": "Roblox Child Sexual Abuse Lawsuit",
@@ -89,16 +89,16 @@
         "published": "2026-10-19T15:00:00Z"
       },
       {
+        "title": "Roblox facing wave of lawsuits following child safety accusations",
+        "outlet": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtYzlBSEtES0RqRTc1RTJPNUhjbW5sek5mOFZBdVpBQi03WHFXT3UtMUczYWdrMjBBTm52R0ZaYXhoMm1GRGJac0Vpd0hJaXl0eUcwVVZ2NFZ0eFlUMkZGMw?oc=5",
+        "published": "2026-10-22T18:38:29Z"
+      },
+      {
         "title": "'It was too late': Another Las Vegas family sues Roblox",
         "outlet": "KTNV Las Vegas",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnBxalBxazBMcHhaU3ZDSWNEdFplbXhMc3pTRmI1ZTB3S1drM1hnWV9yeHRIb1dPNTZpVkM4dXlIOW5mdTFsNWs5SFRfeGh1TmcwY2JCNzJ0WGY3eTg2eklyQnBJbFVLM256T1JsVjhtSHlOc0dQX0s4SkZHNDJMcnVDSkJmanJYUXdBanhhb0YzSDQ?oc=5",
-        "published": "2026-10-20T23:25:00Z"
-      },
-      {
-        "title": "Louisiana attorney general sues Roblox for exposing children to sexual predators",
-        "outlet": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41cmxuN0ljbWhtUEQzNTlfUUdpZWJrUm1OQVR2SGVjWkd0MU5VSWpuRVZSRFVwZVp1akZ1M0c1d0w4QjJscnV6dWJJcldSMzZ0V01WQVotTWYxVW1zc2VleEdva1dGbzEwTlgtZ2xVNFp4Wko2c0R6RHZYY0tEUQ?oc=5",
-        "published": "2026-10-22T07:00:00Z"
+        "published": "2026-10-20T23:13:08Z"
       },
       {
         "title": "Parents say Roblox's digital currency isn't harmless fun — it's grooming kids to gamble",
