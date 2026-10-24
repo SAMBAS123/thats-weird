@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-23T22:06:49Z",
+  "as_of": "2026-10-24T00:38:43Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -10,8 +10,8 @@
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
     "total": 522,
-    "filed_7d": 10,
-    "filed_30d": 25,
+    "filed_7d": 5,
+    "filed_30d": 24,
     "latest": [
       {
         "date_filed": "2026-10-23",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 34,
+    "hits_7d": 33,
     "latest": [
       {
         "title": "Lawsuit alleges Roblox didn’t safeguard girl from predator’s explicit photos",
