@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-25T19:01:11Z",
+  "as_of": "2026-10-25T21:44:37Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,19 +74,19 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 37,
+    "hits_7d": 38,
     "latest": [
-      {
-        "title": "Roblox Child Sexual Abuse Lawsuit",
-        "outlet": "Lawsuit Information Center",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mZ1RSZGJfTFVSUnc0OGFBSkY0VlVzYWVLY0NvNFkzYkxNSVlYUnNPeUxMSXcwVXBNeGh5NGU3d1hKdlFQZGFuSVZqX0QyOWFmUHpNaVFsTy1XUy1GVm00ZnJQc2swWVBodzUxTV9rRFdEZ190aGd6X3B4Qmc?oc=5",
-        "published": "2026-10-23T12:29:44Z"
-      },
       {
         "title": "Lawsuit alleges Roblox didn’t safeguard girl from predator’s explicit photos",
         "outlet": "Las Vegas Review-Journal",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVlhDSENzNnk5WkwtWGQ2RWZZNzZXSTRFalgzQ0JXa1RDNE9haEMzWmE5OVVtcnhjcmc4bFZnVE1kaWFaemJETkdNVmVlWW5HMjhMR2tSVWJUN0VHblFaUmVHcFg4b2ZnLVJycWVuTmlVNFZjS2JuTjNJdjl3RWEwMTRYN2VYeGF0ZWJQRUltLTlYLTJSMGpTb0tJRDVrZHJ6S1Z1dWd6czhfVGxoT2hCZnJLRVZ4a3h0ekhPVE12bGtreE56aElpWG1yRQ?oc=5",
         "published": "2026-10-19T15:00:00Z"
+      },
+      {
+        "title": "Roblox Child Sexual Abuse Lawsuit",
+        "outlet": "Lawsuit Information Center",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mZ1RSZGJfTFVSUnc0OGFBSkY0VlVzYWVLY0NvNFkzYkxNSVlYUnNPeUxMSXcwVXBNeGh5NGU3d1hKdlFQZGFuSVZqX0QyOWFmUHpNaVFsTy1XUy1GVm00ZnJQc2swWVBodzUxTV9rRFdEZ190aGd6X3B4Qmc?oc=5",
+        "published": "2026-10-23T12:29:44Z"
       },
       {
         "title": "'It was too late': Another Las Vegas family sues Roblox",
@@ -113,16 +113,16 @@
         "published": "2026-10-22T07:00:00Z"
       },
       {
+        "title": "RBLX Stock Quote Price and Forecast",
+        "outlet": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wOC1MeGpVZlNQQkpTNnp4bjdNV0FoUXllNjhSUVFhQS1MZk1hUHZpN2NyUUxmY1ZzZEVPd1ZZSDNjbnotd091M1dPMkctSGYz?oc=5",
+        "published": "2026-10-23T17:57:22Z"
+      },
+      {
         "title": "Epic And Roblox Sued For Allegedly Creating Deliberately Addictive Games",
         "outlet": "Kotaku",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbG13UEdoVjFvZGZTcFNfMVJkQTZmbGdKUXZESnE2RUV5YkJMdE14X3c4X09UcW5vTGxPaFdCLU1hdFB0TmFmWmN6V0hfYm1HNTZyd3ZyMHlxOVQyVGZwR1JSeEF5ZEZRa1hSS2tOZ2JNZ2hVeGl2RU9qMDFYLW9nOFVFUjdQVHp3SFJUcjRVNHRFM2R6cUhLc0stcTg2c3BLZ2ppZA?oc=5",
         "published": "2026-10-21T15:45:01Z"
-      },
-      {
-        "title": "Las Vegas Lawsuit Says Roblox Failed to Protect 9-Year-Old",
-        "outlet": "Hoodline",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVlRvbnBReTczNXp5dnhaTmdpdmNtNXJZbWl5QTdkMEs3TjFHNU1Xa1lpbkdubmMyYmhITUxVVzFYZzhzVWpXTVRqQlY3aTNBd19mV1VWZk0yUk5pbWJXTVRORER3REhYRGVIcU1nZXppYnV4dUFxcGlsOUVMUFd3LVptem9zZi1qbnZEWUd3UXQxQlppeDZGVGNDbExZRWhqMmY4TmJmNWNYSW1Cck9zdkFrVmsydw?oc=5",
-        "published": "2026-10-19T16:46:34Z"
       }
     ]
   },
