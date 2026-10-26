@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-26T06:08:46Z",
+  "as_of": "2026-10-26T12:55:03Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 37,
+    "hits_7d": 27,
     "latest": [
       {
         "title": "Lawsuit alleges Roblox didn’t safeguard girl from predator’s explicit photos",
@@ -92,7 +92,7 @@
         "title": "'It was too late': Another Las Vegas family sues Roblox",
         "outlet": "KTNV Las Vegas",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnBxalBxazBMcHhaU3ZDSWNEdFplbXhMc3pTRmI1ZTB3S1drM1hnWV9yeHRIb1dPNTZpVkM4dXlIOW5mdTFsNWs5SFRfeGh1TmcwY2JCNzJ0WGY3eTg2eklyQnBJbFVLM256T1JsVjhtSHlOc0dQX0s4SkZHNDJMcnVDSkJmanJYUXdBanhhb0YzSDQ?oc=5",
-        "published": "2026-10-20T23:25:00Z"
+        "published": "2026-10-20T23:13:08Z"
       },
       {
         "title": "Roblox Is Now Down 38% in 2026: Is RBLX Stock Dead Money or Poised for a Comeback?",
