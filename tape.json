@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-26T12:55:03Z",
+  "as_of": "2026-10-26T19:16:01Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,14 +74,8 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 27,
+    "hits_7d": 33,
     "latest": [
-      {
-        "title": "Lawsuit alleges Roblox didn’t safeguard girl from predator’s explicit photos",
-        "outlet": "Las Vegas Review-Journal",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVlhDSENzNnk5WkwtWGQ2RWZZNzZXSTRFalgzQ0JXa1RDNE9haEMzWmE5OVVtcnhjcmc4bFZnVE1kaWFaemJETkdNVmVlWW5HMjhMR2tSVWJUN0VHblFaUmVHcFg4b2ZnLVJycWVuTmlVNFZjS2JuTjNJdjl3RWEwMTRYN2VYeGF0ZWJQRUltLTlYLTJSMGpTb0tJRDVrZHJ6S1Z1dWd6czhfVGxoT2hCZnJLRVZ4a3h0ekhPVE12bGtreE56aElpWG1yRQ?oc=5",
-        "published": "2026-10-19T15:00:00Z"
-      },
       {
         "title": "Roblox Child Sexual Abuse Lawsuit",
         "outlet": "Lawsuit Information Center",
@@ -92,13 +86,19 @@
         "title": "'It was too late': Another Las Vegas family sues Roblox",
         "outlet": "KTNV Las Vegas",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnBxalBxazBMcHhaU3ZDSWNEdFplbXhMc3pTRmI1ZTB3S1drM1hnWV9yeHRIb1dPNTZpVkM4dXlIOW5mdTFsNWs5SFRfeGh1TmcwY2JCNzJ0WGY3eTg2eklyQnBJbFVLM256T1JsVjhtSHlOc0dQX0s4SkZHNDJMcnVDSkJmanJYUXdBanhhb0YzSDQ?oc=5",
-        "published": "2026-10-20T23:13:08Z"
+        "published": "2026-10-20T23:25:00Z"
       },
       {
-        "title": "Roblox Is Now Down 38% in 2026: Is RBLX Stock Dead Money or Poised for a Comeback?",
-        "outlet": "24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3Y2ZE5jV2llQi1uck9UU3NtRS1sYXFOcnRReVc5em9OUGZBdHZpOHFibGhiVm84WjFfNUZ1ak1ldF9VaFhUVWdleG5qbDVCODNldDl0ZU1oWkJ2OHVZUzBkSnRyck9QaW80N2RkLXJKOUtDaEdhNzdCU0FDNlRHc3VEcHhvX1UzY1hLY3dQTk1yX3kwWW11cFpaMTJMMVBJOExKaGRBeWJBRm1kV1hPQldHQy16Y2dlNHh1Wl9tbEc?oc=5",
-        "published": "2026-10-19T18:41:00Z"
+        "title": "Roblox, Fortnite, Minecraft Addiction Lawsuit Alleges Games Caused Severe Depression in Child",
+        "outlet": "AboutLawsuits.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHMwcHJZMjJMdVJoc0c4dnVoLS1YdkRwajBOT1dHQlJEcWlIRHpMcnA1OWxuclNVbGN5Q1lUbjFpVlY4eGRoNzJtcEZZTUdYNm1sZk1hMFJvazJjVElsc2lIUDVIYS1tMXBwT0RpSGRodVBnRXdTM2N0dElnZUxPdXBtaFpNaEszdXN1WVBhT3M3aEl1MS1R?oc=5",
+        "published": "2026-10-26T13:00:00Z"
+      },
+      {
+        "title": "Roblox shareholder sues CEO, directors over age verification disclosures",
+        "outlet": "Las Vegas Review-Journal",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT05Uemg2VkxlZGxubnRHdDhNNnZfbm9nZmFLWjhFZ3R4ZGdzaEhXem14Q0tmNEMzQmd0dU83SnN5UldGNjBZYkdqZnBwdzlLYWFHZmJGaF9WdUVoaVZNTVBzREk3QkdpRUswazR3RnN2QlB2cmJyM01vd3hkVDRDWjliZ2xyVWRlSWExdWhldHRZRmhvY1BNODBjQ0hEYWVmZndwVVVXUHpXVVRmYTVSdmRteDlzTFUxUGlZ?oc=5",
+        "published": "2026-10-22T16:44:54Z"
       },
       {
         "title": "Parents say Roblox's digital currency isn't harmless fun — it's grooming kids to gamble",
@@ -119,10 +119,10 @@
         "published": "2026-10-21T15:45:01Z"
       },
       {
-        "title": "Las Vegas Lawsuit Says Roblox Failed to Protect 9-Year-Old",
-        "outlet": "Hoodline",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVlRvbnBReTczNXp5dnhaTmdpdmNtNXJZbWl5QTdkMEs3TjFHNU1Xa1lpbkdubmMyYmhITUxVVzFYZzhzVWpXTVRqQlY3aTNBd19mV1VWZk0yUk5pbWJXTVRORER3REhYRGVIcU1nZXppYnV4dUFxcGlsOUVMUFd3LVptem9zZi1qbnZEWUd3UXQxQlppeDZGVGNDbExZRWhqMmY4TmJmNWNYSW1Cck9zdkFrVmsydw?oc=5",
-        "published": "2026-10-19T16:46:34Z"
+        "title": "Las Vegas Parents Sue Roblox in Clark County Court, Alleging Gaming Platform Failed to Protect 9-Year-Old from Predator",
+        "outlet": "Nevada Globe",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNlZ4WkdHU3dxN3ZNM3ViOUZfOWhyNWZnRjFMVEFJLU9mcjFybkNRV0x2Yks2S28waVpmWHRNSk96a2M5S29wVWFKYnNkYzQ4RUR5RENLWUpYODJfZEhOLURHWVBrREt5VUoxeE0wdDU1VGtKS3dlbWlETm5hdEl2QTVXcUFRSEREcjdJVW1QUzItRktDbVBETUtTZVA2T0JrbVA1UmdXWGc0R1AxM20tNFRmQUlfSDBlRGNjTDZFQmRHMUFWR3plTzZvTUFDYmtNVWNjakNXcEQtaEx0NWljUllnLUNqczZ3ZUNN?oc=5",
+        "published": "2026-10-19T19:42:11Z"
       }
     ]
   },
@@ -170,5 +170,7 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": []
+  "errors": [
+    "courtlistener: The read operation timed out"
+  ]
 }
