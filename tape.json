@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-25T21:44:37Z",
+  "as_of": "2026-10-26T00:19:16Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 38,
+    "hits_7d": 39,
     "latest": [
       {
         "title": "Lawsuit alleges Roblox didn’t safeguard girl from predator’s explicit photos",
@@ -92,19 +92,19 @@
         "title": "'It was too late': Another Las Vegas family sues Roblox",
         "outlet": "KTNV Las Vegas",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnBxalBxazBMcHhaU3ZDSWNEdFplbXhMc3pTRmI1ZTB3S1drM1hnWV9yeHRIb1dPNTZpVkM4dXlIOW5mdTFsNWs5SFRfeGh1TmcwY2JCNzJ0WGY3eTg2eklyQnBJbFVLM256T1JsVjhtSHlOc0dQX0s4SkZHNDJMcnVDSkJmanJYUXdBanhhb0YzSDQ?oc=5",
-        "published": "2026-10-20T23:13:08Z"
-      },
-      {
-        "title": "Parents say Roblox's digital currency isn't harmless fun — it's grooming kids to gamble",
-        "outlet": "The Cool Down",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVF9TRGg4WXVWYWlzS3dkMk56cmowS29DcV9tZnlIMXVrUWh0ZmVrX1IwQlhGRklpYkhNd1NZai1yckg1MnZsejQxWUVwSk1JTXVkc0xuZW5vQXRrSlctamoycXI3Nlp3UWlxWlFmeXlQVEpnYmdBWUhUM05CMUMwSVp4cw?oc=5",
-        "published": "2026-10-24T00:57:00Z"
+        "published": "2026-10-20T23:25:00Z"
       },
       {
         "title": "Roblox Is Now Down 38% in 2026: Is RBLX Stock Dead Money or Poised for a Comeback?",
         "outlet": "24/7 Wall St.",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3Y2ZE5jV2llQi1uck9UU3NtRS1sYXFOcnRReVc5em9OUGZBdHZpOHFibGhiVm84WjFfNUZ1ak1ldF9VaFhUVWdleG5qbDVCODNldDl0ZU1oWkJ2OHVZUzBkSnRyck9QaW80N2RkLXJKOUtDaEdhNzdCU0FDNlRHc3VEcHhvX1UzY1hLY3dQTk1yX3kwWW11cFpaMTJMMVBJOExKaGRBeWJBRm1kV1hPQldHQy16Y2dlNHh1Wl9tbEc?oc=5",
         "published": "2026-10-19T18:41:00Z"
+      },
+      {
+        "title": "Parents say Roblox's digital currency isn't harmless fun — it's grooming kids to gamble",
+        "outlet": "The Cool Down",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVF9TRGg4WXVWYWlzS3dkMk56cmowS29DcV9tZnlIMXVrUWh0ZmVrX1IwQlhGRklpYkhNd1NZai1yckg1MnZsejQxWUVwSk1JTXVkc0xuZW5vQXRrSlctamoycXI3Nlp3UWlxWlFmeXlQVEpnYmdBWUhUM05CMUMwSVp4cw?oc=5",
+        "published": "2026-10-24T00:57:00Z"
       },
       {
         "title": "Can Ozempic Cause Blindness? NAION Risks & Symptoms",
