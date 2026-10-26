@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-26T19:16:01Z",
+  "as_of": "2026-10-26T23:08:25Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 33,
+    "hits_7d": 35,
     "latest": [
       {
         "title": "Roblox Child Sexual Abuse Lawsuit",
@@ -119,10 +119,10 @@
         "published": "2026-10-21T15:45:01Z"
       },
       {
-        "title": "Las Vegas Parents Sue Roblox in Clark County Court, Alleging Gaming Platform Failed to Protect 9-Year-Old from Predator",
-        "outlet": "Nevada Globe",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNlZ4WkdHU3dxN3ZNM3ViOUZfOWhyNWZnRjFMVEFJLU9mcjFybkNRV0x2Yks2S28waVpmWHRNSk96a2M5S29wVWFKYnNkYzQ4RUR5RENLWUpYODJfZEhOLURHWVBrREt5VUoxeE0wdDU1VGtKS3dlbWlETm5hdEl2QTVXcUFRSEREcjdJVW1QUzItRktDbVBETUtTZVA2T0JrbVA1UmdXWGc0R1AxM20tNFRmQUlfSDBlRGNjTDZFQmRHMUFWR3plTzZvTUFDYmtNVWNjakNXcEQtaEx0NWljUllnLUNqczZ3ZUNN?oc=5",
-        "published": "2026-10-19T19:42:11Z"
+        "title": "Texas sues OpenAI over ChatGPT safety claims",
+        "outlet": "Houston Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnpEOE9Yb3c1YWlGVDJCSkt2SXZHSVZvQjdSN0ZpcEIxcHhteVU4My05Snp0ODZUaHRpSTktb3BhNkV2aWN1MThyMWxLNlJNdWxPYmxIRm50VjM2NUVWOWQ2UnVmeWpFT2c1ZVNyRm1qcnRaaVY4blRRNEFMalNuazVuUU1OOGpHaHlLa2lCdGhlbHZZV2tmTGRaVmp2eWRFbWJrbExwUVJjUWM?oc=5",
+        "published": "2026-10-23T22:08:19Z"
       }
     ]
   },
@@ -170,7 +170,5 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": [
-    "courtlistener: The read operation timed out"
-  ]
+  "errors": []
 }
