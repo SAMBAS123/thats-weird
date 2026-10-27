@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-26T23:08:25Z",
+  "as_of": "2026-10-27T02:02:37Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -10,7 +10,7 @@
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
     "total": 522,
-    "filed_7d": 5,
+    "filed_7d": 4,
     "filed_30d": 24,
     "latest": [
       {
