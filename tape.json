@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-27T07:47:34Z",
+  "as_of": "2026-10-27T14:28:14Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -9,10 +9,17 @@
     "query": "party:\"Roblox Corporation\"",
     "source": "https://www.courtlistener.com/",
     "search_url": "https://www.courtlistener.com/?type=d&q=party%3A%22Roblox%20Corporation%22&order_by=dateFiled+desc",
-    "total": 522,
-    "filed_7d": 4,
-    "filed_30d": 24,
+    "total": 523,
+    "filed_7d": 5,
+    "filed_30d": 25,
     "latest": [
+      {
+        "date_filed": "2026-10-26",
+        "case_name": "LCHB-GAL-0001 v. Roblox Corporation",
+        "docket_number": "3:26-cv-12541",
+        "court": "N.D. Cal.",
+        "url": "https://www.courtlistener.com/docket/75022992/lchb-gal-0001-v-roblox-corporation/"
+      },
       {
         "date_filed": "2026-10-23",
         "case_name": "KG-JD 0008 v. Roblox Corporation",
@@ -61,13 +68,6 @@
         "docket_number": "3:26-cv-12059",
         "court": "N.D. Cal.",
         "url": "https://www.courtlistener.com/docket/74979026/kg-jd-0006-v-roblox-corporation/"
-      },
-      {
-        "date_filed": "2026-10-16",
-        "case_name": "WKC-0001 v. Roblox Corporation",
-        "docket_number": "3:26-cv-12058",
-        "court": "N.D. Cal.",
-        "url": "https://www.courtlistener.com/docket/74978943/wkc-0001-v-roblox-corporation/"
       }
     ]
   },
@@ -170,7 +170,5 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": [
-    "courtlistener: HTTP Error 500: Internal Server Error"
-  ]
+  "errors": []
 }
