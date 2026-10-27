@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-27T02:02:37Z",
+  "as_of": "2026-10-27T07:47:34Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 35,
+    "hits_7d": 27,
     "latest": [
       {
         "title": "Roblox Child Sexual Abuse Lawsuit",
@@ -98,7 +98,7 @@
         "title": "Roblox shareholder sues CEO, directors over age verification disclosures",
         "outlet": "Las Vegas Review-Journal",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT05Uemg2VkxlZGxubnRHdDhNNnZfbm9nZmFLWjhFZ3R4ZGdzaEhXem14Q0tmNEMzQmd0dU83SnN5UldGNjBZYkdqZnBwdzlLYWFHZmJGaF9WdUVoaVZNTVBzREk3QkdpRUswazR3RnN2QlB2cmJyM01vd3hkVDRDWjliZ2xyVWRlSWExdWhldHRZRmhvY1BNODBjQ0hEYWVmZndwVVVXUHpXVVRmYTVSdmRteDlzTFUxUGlZ?oc=5",
-        "published": "2026-10-22T16:44:54Z"
+        "published": "2026-10-21T23:27:00Z"
       },
       {
         "title": "Parents say Roblox's digital currency isn't harmless fun — it's grooming kids to gamble",
@@ -170,5 +170,7 @@
       "url": "https://www.reuters.com/legal/government/roblox-pay-23-million-alabama-west-virginia-settle-child-safety-investigations-2026-04-21/"
     }
   ],
-  "errors": []
+  "errors": [
+    "courtlistener: HTTP Error 500: Internal Server Error"
+  ]
 }
