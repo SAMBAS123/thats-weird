@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-27T20:03:18Z",
+  "as_of": "2026-10-27T23:44:39Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,19 +74,13 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 27,
+    "hits_7d": 38,
     "latest": [
       {
         "title": "Roblox Child Sexual Abuse Lawsuit",
         "outlet": "Lawsuit Information Center",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mZ1RSZGJfTFVSUnc0OGFBSkY0VlVzYWVLY0NvNFkzYkxNSVlYUnNPeUxMSXcwVXBNeGh5NGU3d1hKdlFQZGFuSVZqX0QyOWFmUHpNaVFsTy1XUy1GVm00ZnJQc2swWVBodzUxTV9rRFdEZ190aGd6X3B4Qmc?oc=5",
         "published": "2026-10-23T12:29:44Z"
-      },
-      {
-        "title": "'It was too late': Another Las Vegas family sues Roblox",
-        "outlet": "KTNV Las Vegas",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnBxalBxazBMcHhaU3ZDSWNEdFplbXhMc3pTRmI1ZTB3S1drM1hnWV9yeHRIb1dPNTZpVkM4dXlIOW5mdTFsNWs5SFRfeGh1TmcwY2JCNzJ0WGY3eTg2eklyQnBJbFVLM256T1JsVjhtSHlOc0dQX0s4SkZHNDJMcnVDSkJmanJYUXdBanhhb0YzSDQ?oc=5",
-        "published": "2026-10-20T23:25:00Z"
       },
       {
         "title": "Roblox, Fortnite, Minecraft Addiction Lawsuit Alleges Games Caused Severe Depression in Child",
@@ -123,6 +117,12 @@
         "outlet": "Houston Chronicle",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnpEOE9Yb3c1YWlGVDJCSkt2SXZHSVZvQjdSN0ZpcEIxcHhteVU4My05Snp0ODZUaHRpSTktb3BhNkV2aWN1MThyMWxLNlJNdWxPYmxIRm50VjM2NUVWOWQ2UnVmeWpFT2c1ZVNyRm1qcnRaaVY4blRRNEFMalNuazVuUU1OOGpHaHlLa2lCdGhlbHZZV2tmTGRaVmp2eWRFbWJrbExwUVJjUWM?oc=5",
         "published": "2026-10-23T22:08:19Z"
+      },
+      {
+        "title": "Snapchat Child Sexual Abuse Lawsuit Alleges Predator Targeted 9-Year-Old Girl",
+        "outlet": "AboutLawsuits.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWtINlprbmh3bG12MnRqM044RTQ1NkVqTjVSbVhneHAyR0dXaWROYjBpWFA0bG5JOUxiUTA5a0c2NDhITHU1YjZPcUNiWmVPbDFlMFZFU1NGaFc5bTBmQWxHbVBvako3Ry1ta1FYa3otZVhsZFNpdnZUUWFMekJDMWdCVGNEVWdTbS1yN3RBWXVBSnBJdkh5MkZxd1hMUmpXZ25jX1BQTlRoZjBZSzVBY3JfeGM0Zw?oc=5",
+        "published": "2026-10-27T14:00:00Z"
       }
     ]
   },
