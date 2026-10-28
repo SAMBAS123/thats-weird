@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-28T12:47:02Z",
+  "as_of": "2026-10-28T18:49:57Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 36,
+    "hits_7d": 26,
     "latest": [
       {
         "title": "Roblox Child Sexual Abuse Lawsuit",
@@ -113,16 +113,16 @@
         "published": "2026-10-22T07:00:00Z"
       },
       {
-        "title": "Epic And Roblox Sued For Allegedly Creating Deliberately Addictive Games",
-        "outlet": "Kotaku",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbG13UEdoVjFvZGZTcFNfMVJkQTZmbGdKUXZESnE2RUV5YkJMdE14X3c4X09UcW5vTGxPaFdCLU1hdFB0TmFmWmN6V0hfYm1HNTZyd3ZyMHlxOVQyVGZwR1JSeEF5ZEZRa1hSS2tOZ2JNZ2hVeGl2RU9qMDFYLW9nOFVFUjdQVHp3SFJUcjRVNHRFM2R6cUhLc0stcTg2c3BLZ2ppZA?oc=5",
-        "published": "2026-10-21T15:45:01Z"
-      },
-      {
         "title": "Texas sues OpenAI over ChatGPT safety claims",
         "outlet": "Houston Chronicle",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnpEOE9Yb3c1YWlGVDJCSkt2SXZHSVZvQjdSN0ZpcEIxcHhteVU4My05Snp0ODZUaHRpSTktb3BhNkV2aWN1MThyMWxLNlJNdWxPYmxIRm50VjM2NUVWOWQ2UnVmeWpFT2c1ZVNyRm1qcnRaaVY4blRRNEFMalNuazVuUU1OOGpHaHlLa2lCdGhlbHZZV2tmTGRaVmp2eWRFbWJrbExwUVJjUWM?oc=5",
         "published": "2026-10-23T22:08:19Z"
+      },
+      {
+        "title": "Snapchat Child Sexual Abuse Lawsuit Alleges Predator Targeted 9-Year-Old Girl",
+        "outlet": "AboutLawsuits.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWtINlprbmh3bG12MnRqM044RTQ1NkVqTjVSbVhneHAyR0dXaWROYjBpWFA0bG5JOUxiUTA5a0c2NDhITHU1YjZPcUNiWmVPbDFlMFZFU1NGaFc5bTBmQWxHbVBvako3Ry1ta1FYa3otZVhsZFNpdnZUUWFMekJDMWdCVGNEVWdTbS1yN3RBWXVBSnBJdkh5MkZxd1hMUmpXZ25jX1BQTlRoZjBZSzVBY3JfeGM0Zw?oc=5",
+        "published": "2026-10-27T14:00:00Z"
       }
     ]
   },
