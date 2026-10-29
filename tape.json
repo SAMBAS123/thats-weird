@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-29T02:24:23Z",
+  "as_of": "2026-10-29T09:53:41Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 39,
+    "hits_7d": 27,
     "latest": [
       {
         "title": "Roblox Child Sexual Abuse Lawsuit",
@@ -83,16 +83,10 @@
         "published": "2026-10-23T12:29:44Z"
       },
       {
-        "title": "Snapchat Child Sexual Abuse Lawsuit Alleges Predator Targeted 9-Year-Old Girl",
+        "title": "Roblox, Fortnite, Minecraft Addiction Lawsuit Alleges Games Caused Severe Depression in Child",
         "outlet": "AboutLawsuits.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWtINlprbmh3bG12MnRqM044RTQ1NkVqTjVSbVhneHAyR0dXaWROYjBpWFA0bG5JOUxiUTA5a0c2NDhITHU1YjZPcUNiWmVPbDFlMFZFU1NGaFc5bTBmQWxHbVBvako3Ry1ta1FYa3otZVhsZFNpdnZUUWFMekJDMWdCVGNEVWdTbS1yN3RBWXVBSnBJdkh5MkZxd1hMUmpXZ25jX1BQTlRoZjBZSzVBY3JfeGM0Zw?oc=5",
-        "published": "2026-10-27T14:00:00Z"
-      },
-      {
-        "title": "Video Game Addiction Lawsuit 2026: 100+ Cases, No MDL",
-        "outlet": "shattered.io",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jVEctQnpqTk9tdURqaEhPQXdzVjk4Zk1HWFp3Snd4OFVsUmZib0FVSGx2cl9RN0RPQXJWZGM1VHNLSERfcXJwQk16UUFwNXhhYkhLZExncXNIZms5V1owVEJKQk5PQQ?oc=5",
-        "published": "2026-10-26T11:54:28Z"
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHMwcHJZMjJMdVJoc0c4dnVoLS1YdkRwajBOT1dHQlJEcWlIRHpMcnA1OWxuclNVbGN5Q1lUbjFpVlY4eGRoNzJtcEZZTUdYNm1sZk1hMFJvazJjVElsc2lIUDVIYS1tMXBwT0RpSGRodVBnRXdTM2N0dElnZUxPdXBtaFpNaEszdXN1WVBhT3M3aEl1MS1R?oc=5",
+        "published": "2026-10-26T13:00:00Z"
       },
       {
         "title": "Parents say Roblox's digital currency isn't harmless fun — it's grooming kids to gamble",
@@ -101,28 +95,34 @@
         "published": "2026-10-24T00:57:00Z"
       },
       {
-        "title": "Can Ozempic Cause Blindness? NAION Risks & Symptoms",
-        "outlet": "Consumer Notice",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UVGJsZm54ZVU4M0VtWFh0WXkzYXo1a1BxZi1ScFNudTZPWjdjNDF5VnN5SExXSTNYVENJRUFIRVVfdXNxRFNXZHF4LW5SM0JRLWdIQWRFRXZNdkNGNHRSS05rTkZiY1JtWmhWUjFZSHJPekM5Y2c?oc=5",
-        "published": "2026-10-22T07:00:00Z"
+        "title": "Roblox Shares Fall 3% After Bleecker Street Research Raises Child Safety and User Growth Concerns",
+        "outlet": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWFVaRFMtNWlEOUNIcTRvN3F3TjZWUDlTZjhiNmFfN21zZ0xlRjJ3M1RXMWtRS25WZVVmZ3JTZ3JwXzZTOGFKNFJIS0xXanM5UFhPRkZTRWUyN2o2MEVKVEx5WTZqYVVfckZaY0ZlaW5Rb2pZcXlNaUt6aTU3empHU1FYMEpxSWZycTROd3pVajNweXVkbl9nNEV3?oc=5",
+        "published": "2026-10-27T14:23:45Z"
       },
       {
-        "title": "Texas sues OpenAI over ChatGPT safety claims",
-        "outlet": "Houston Chronicle",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnpEOE9Yb3c1YWlGVDJCSkt2SXZHSVZvQjdSN0ZpcEIxcHhteVU4My05Snp0ODZUaHRpSTktb3BhNkV2aWN1MThyMWxLNlJNdWxPYmxIRm50VjM2NUVWOWQ2UnVmeWpFT2c1ZVNyRm1qcnRaaVY4blRRNEFMalNuazVuUU1OOGpHaHlLa2lCdGhlbHZZV2tmTGRaVmp2eWRFbWJrbExwUVJjUWM?oc=5",
-        "published": "2026-10-23T22:08:19Z"
+        "title": "Jail medical neglect led to Nevada man’s amputation, lawsuit alleges",
+        "outlet": "Las Vegas Review-Journal",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLVRVZXhRcmktWkZET1J0NU0zZ1lHYkJPTlVON3Q0V3dLZXllY0tzNmRBbjJ5Ukk1LTN5X0lJWW4yaWZfZ3pHRmFNOWxPTktCQkZ2MXJPMXNBU0s5U0FpVFVIMHNzcWJkVkcyZjNxckgtaW1uOEhFVm9zZWgwTGhUUndVV2RQV3MtVzU2NFRqekdyZEtqWG1xaWd2SFlHWXkxSl9jYmQyOVpPbkp1WkVwT3I4M2FzMWgtRnNmQUEtbG0?oc=5",
+        "published": "2026-10-28T12:30:00Z"
       },
       {
-        "title": "Roblox, Fortnite, Minecraft Addiction Lawsuit Alleges Games Caused Severe Depression in Child",
+        "title": "Snapchat Child Sexual Abuse Lawsuit Alleges Predator Targeted 9-Year-Old Girl",
         "outlet": "AboutLawsuits.com",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHMwcHJZMjJMdVJoc0c4dnVoLS1YdkRwajBOT1dHQlJEcWlIRHpMcnA1OWxuclNVbGN5Q1lUbjFpVlY4eGRoNzJtcEZZTUdYNm1sZk1hMFJvazJjVElsc2lIUDVIYS1tMXBwT0RpSGRodVBnRXdTM2N0dElnZUxPdXBtaFpNaEszdXN1WVBhT3M3aEl1MS1R?oc=5",
-        "published": "2026-10-26T13:00:00Z"
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWtINlprbmh3bG12MnRqM044RTQ1NkVqTjVSbVhneHAyR0dXaWROYjBpWFA0bG5JOUxiUTA5a0c2NDhITHU1YjZPcUNiWmVPbDFlMFZFU1NGaFc5bTBmQWxHbVBvako3Ry1ta1FYa3otZVhsZFNpdnZUUWFMekJDMWdCVGNEVWdTbS1yN3RBWXVBSnBJdkh5MkZxd1hMUmpXZ25jX1BQTlRoZjBZSzVBY3JfeGM0Zw?oc=5",
+        "published": "2026-10-27T14:00:00Z"
       },
       {
         "title": "Beyond Roblox: Are Digital Platforms Addressing Online Grooming?",
         "outlet": "TechRound",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNG85TVhocXJLV1hMaDV6bURFMXZsd1hPX0VlUmdVQzF0NGh2VldUTHBBSkNyQ0lqZUpjLUFPQXYtQUV2dHN3UmhDTXRiN2dQY21YNUZqX08wbTNOMWJ4aEUxeU11Qmh5cDNpeXJ3eThCNHF4Wi03aWVDT0E5a3d2aWl1d2dOWXJuTkMtZE5idW1RN2lEb0NJ?oc=5",
         "published": "2026-10-28T10:05:30Z"
+      },
+      {
+        "title": "Roblox Logs 4.05B Hours, Eyes Older Players [2026]",
+        "outlet": "https://tech-insider.org/",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeU1PU3ZNZUpPZUV4T2xiYnRsNHdxZUJ0SFV6WnBqUlBXSjN1QUlqNXJnMy1WVGlYNnRkNUZTekxpb3NzdFFoOHFiMEVpbWhEQ0ktdnVLQklrb3VQdzNVSHVKbzVhTXpZaUo3WlVIVWJIUkJnaFF4NzhZSENCN29kTzVwUQ?oc=5",
+        "published": "2026-10-22T13:07:22Z"
       }
     ]
   },
