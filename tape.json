@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-29T16:54:13Z",
+  "as_of": "2026-10-29T21:47:03Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,13 +74,19 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 41,
+    "hits_7d": 25,
     "latest": [
       {
         "title": "Roblox Child Sexual Abuse Lawsuit",
         "outlet": "Lawsuit Information Center",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mZ1RSZGJfTFVSUnc0OGFBSkY0VlVzYWVLY0NvNFkzYkxNSVlYUnNPeUxMSXcwVXBNeGh5NGU3d1hKdlFQZGFuSVZqX0QyOWFmUHpNaVFsTy1XUy1GVm00ZnJQc2swWVBodzUxTV9rRFdEZ190aGd6X3B4Qmc?oc=5",
         "published": "2026-10-23T12:29:44Z"
+      },
+      {
+        "title": "Roblox, Discord users alleging childhood sexual abuse fight arbitration bid",
+        "outlet": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZzk5elppSEJ3czMzcHdESXBNVmFCUXlqYktFSlZvNDNaa2ozMjU1R1N2bXlVSWZwYzR0Q2Y2QWhCZVBsdGhOaU85cHJ0Z3haLTMtU2ttd0FybXUwMjRBb205dnFRRmVvQXd5OVV2RXRVUkx2Y202Vk00cmNJcEhIS2M4QWQ2djBVdy0zM2hJcFlaVl9WRjhUQ3kzRW1YcTdhZ3ZjM2NBdG5ZaE5kM3ZybnVPUVJ5enI1TkhrbnJCRDhtQlU3d0E?oc=5",
+        "published": "2026-10-28T22:23:42Z"
       },
       {
         "title": "Roblox, Fortnite, Minecraft Addiction Lawsuit Alleges Games Caused Severe Depression in Child",
@@ -95,10 +101,10 @@
         "published": "2026-10-24T00:57:00Z"
       },
       {
-        "title": "Texas sues OpenAI over ChatGPT safety claims",
-        "outlet": "Houston Chronicle",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnpEOE9Yb3c1YWlGVDJCSkt2SXZHSVZvQjdSN0ZpcEIxcHhteVU4My05Snp0ODZUaHRpSTktb3BhNkV2aWN1MThyMWxLNlJNdWxPYmxIRm50VjM2NUVWOWQ2UnVmeWpFT2c1ZVNyRm1qcnRaaVY4blRRNEFMalNuazVuUU1OOGpHaHlLa2lCdGhlbHZZV2tmTGRaVmp2eWRFbWJrbExwUVJjUWM?oc=5",
-        "published": "2026-10-23T22:08:19Z"
+        "title": "Roblox (RBLX) Stock May Be 27% Undervalued Despite Weak Bookings",
+        "outlet": "Yahoo Finance Singapore",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55dkN6V0FqdXZyWTZ3X2EyTzVVU1dleTNFXzJBUjhhZm42MXJtcFdMNW13bXgtM2dwb3I0Y3dOdjVqMS1LMWlNZ1IwamxPb0dPWk4xNkF1dkoxai0zSWZMN3dFd09pelFCeFhQdUFhQXVGVFVPX1pkY3NsakdnUQ?oc=5",
+        "published": "2026-10-29T18:15:42Z"
       },
       {
         "title": "Snapchat Child Sexual Abuse Lawsuit Alleges Predator Targeted 9-Year-Old Girl",
@@ -107,22 +113,16 @@
         "published": "2026-10-27T14:00:00Z"
       },
       {
+        "title": "AG McCuskey suing TikTok ‘for putting West Virginia kids at risk’",
+        "outlet": "WBOY.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdzBIekUtSXY4OUNJLUhWSWZlb2s3NmJ4TllGZDlocXFjQWpXUzMxTGdHaU16cWRtaVJGSlJRaTYzeTQxQTQ5WExtTGRPSjNBeVp4UnR6dnVOTGY2ejJ6TkJSbml2VUd3cjk2YjkwRHhuTVlEeUpMaWVpelQwai1KTU53WXM4eUhqMF9KV3kzN0ZFdXNCenVlWXlwN3o4ZTZySzJ3cTM5VEIxdjNY0gGsAUFVX3lxTE13MEh6RS1Jdjg5Q0ktSFZJZmVvazc2YnhOWUZkOWhxcWNBaldTMzFMZ0dpTXpxZG1pUkZKUlFpNjN5NDFBNDlYTG1MZE9KM0F5WnhSdHp2dU5MZjZ6MnpOQlJuaXZVR3dyOTZiOTBEeG5NWUR5SkxpZWl6VDBqLUpNTndZczh5SGowX0pXeTM3RkV1c0J6dWVZeXA3ejhlNnJLMndxMzlUQjF2M1g?oc=5",
+        "published": "2026-10-29T12:05:33Z"
+      },
+      {
         "title": "Beyond Roblox: Are Digital Platforms Addressing Online Grooming?",
         "outlet": "TechRound",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNG85TVhocXJLV1hMaDV6bURFMXZsd1hPX0VlUmdVQzF0NGh2VldUTHBBSkNyQ0lqZUpjLUFPQXYtQUV2dHN3UmhDTXRiN2dQY21YNUZqX08wbTNOMWJ4aEUxeU11Qmh5cDNpeXJ3eThCNHF4Wi03aWVDT0E5a3d2aWl1d2dOWXJuTkMtZE5idW1RN2lEb0NJ?oc=5",
         "published": "2026-10-28T10:05:30Z"
-      },
-      {
-        "title": "Texas sues OpenAI for deceiving consumers about safety, seeks sweeping reforms and fines",
-        "outlet": "The Record from Recorded Future News",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BeFpleV90ZDR5ampxVEwzbU5LdFo3d2JNSHhVMy1CTnI2bjVBbHZBeWRrR2lGbm9TM1B1UDJZR2VhSU1zWWxPNFR4TE4tbGZmUkRWa2pCMVQ5bVlaNkxHODRhZHhEZmZRUUFFYklR?oc=5",
-        "published": "2026-10-27T02:09:34Z"
-      },
-      {
-        "title": "Dear Roblox Stock Fans, Mark Your Calendars for October 29",
-        "outlet": "Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbkFLY0hEUDhIOFpKeENtekdwbFB2ZjdBMWoyQlhrS2JzOWlkclM4RVhiQzdpSGlyTGZCNDFnTGdjOEU0dWZLMmIxYzRvUGZUWURqUXV6SkZSTXF5Tng5Vkg2ZVE3SlR5YVhwbjM2c0hTRVRNZFc0ME5FXzBHWWIxYnpDVVRubzhDa3VDY3h6M2VLbGVWQjZRQzlyNFF6STBJeTdj?oc=5",
-        "published": "2026-10-28T15:19:57Z"
       }
     ]
   },
