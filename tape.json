@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-29T09:53:41Z",
+  "as_of": "2026-10-29T16:54:13Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 27,
+    "hits_7d": 41,
     "latest": [
       {
         "title": "Roblox Child Sexual Abuse Lawsuit",
@@ -95,16 +95,10 @@
         "published": "2026-10-24T00:57:00Z"
       },
       {
-        "title": "Roblox Shares Fall 3% After Bleecker Street Research Raises Child Safety and User Growth Concerns",
-        "outlet": "Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWFVaRFMtNWlEOUNIcTRvN3F3TjZWUDlTZjhiNmFfN21zZ0xlRjJ3M1RXMWtRS25WZVVmZ3JTZ3JwXzZTOGFKNFJIS0xXanM5UFhPRkZTRWUyN2o2MEVKVEx5WTZqYVVfckZaY0ZlaW5Rb2pZcXlNaUt6aTU3empHU1FYMEpxSWZycTROd3pVajNweXVkbl9nNEV3?oc=5",
-        "published": "2026-10-27T14:23:45Z"
-      },
-      {
-        "title": "Jail medical neglect led to Nevada man’s amputation, lawsuit alleges",
-        "outlet": "Las Vegas Review-Journal",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLVRVZXhRcmktWkZET1J0NU0zZ1lHYkJPTlVON3Q0V3dLZXllY0tzNmRBbjJ5Ukk1LTN5X0lJWW4yaWZfZ3pHRmFNOWxPTktCQkZ2MXJPMXNBU0s5U0FpVFVIMHNzcWJkVkcyZjNxckgtaW1uOEhFVm9zZWgwTGhUUndVV2RQV3MtVzU2NFRqekdyZEtqWG1xaWd2SFlHWXkxSl9jYmQyOVpPbkp1WkVwT3I4M2FzMWgtRnNmQUEtbG0?oc=5",
-        "published": "2026-10-28T12:30:00Z"
+        "title": "Texas sues OpenAI over ChatGPT safety claims",
+        "outlet": "Houston Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnpEOE9Yb3c1YWlGVDJCSkt2SXZHSVZvQjdSN0ZpcEIxcHhteVU4My05Snp0ODZUaHRpSTktb3BhNkV2aWN1MThyMWxLNlJNdWxPYmxIRm50VjM2NUVWOWQ2UnVmeWpFT2c1ZVNyRm1qcnRaaVY4blRRNEFMalNuazVuUU1OOGpHaHlLa2lCdGhlbHZZV2tmTGRaVmp2eWRFbWJrbExwUVJjUWM?oc=5",
+        "published": "2026-10-23T22:08:19Z"
       },
       {
         "title": "Snapchat Child Sexual Abuse Lawsuit Alleges Predator Targeted 9-Year-Old Girl",
@@ -119,10 +113,16 @@
         "published": "2026-10-28T10:05:30Z"
       },
       {
-        "title": "Roblox Logs 4.05B Hours, Eyes Older Players [2026]",
-        "outlet": "https://tech-insider.org/",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeU1PU3ZNZUpPZUV4T2xiYnRsNHdxZUJ0SFV6WnBqUlBXSjN1QUlqNXJnMy1WVGlYNnRkNUZTekxpb3NzdFFoOHFiMEVpbWhEQ0ktdnVLQklrb3VQdzNVSHVKbzVhTXpZaUo3WlVIVWJIUkJnaFF4NzhZSENCN29kTzVwUQ?oc=5",
-        "published": "2026-10-22T13:07:22Z"
+        "title": "Texas sues OpenAI for deceiving consumers about safety, seeks sweeping reforms and fines",
+        "outlet": "The Record from Recorded Future News",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BeFpleV90ZDR5ampxVEwzbU5LdFo3d2JNSHhVMy1CTnI2bjVBbHZBeWRrR2lGbm9TM1B1UDJZR2VhSU1zWWxPNFR4TE4tbGZmUkRWa2pCMVQ5bVlaNkxHODRhZHhEZmZRUUFFYklR?oc=5",
+        "published": "2026-10-27T02:09:34Z"
+      },
+      {
+        "title": "Dear Roblox Stock Fans, Mark Your Calendars for October 29",
+        "outlet": "Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbkFLY0hEUDhIOFpKeENtekdwbFB2ZjdBMWoyQlhrS2JzOWlkclM4RVhiQzdpSGlyTGZCNDFnTGdjOEU0dWZLMmIxYzRvUGZUWURqUXV6SkZSTXF5Tng5Vkg2ZVE3SlR5YVhwbjM2c0hTRVRNZFc0ME5FXzBHWWIxYnpDVVRubzhDa3VDY3h6M2VLbGVWQjZRQzlyNFF6STBJeTdj?oc=5",
+        "published": "2026-10-28T15:19:57Z"
       }
     ]
   },
