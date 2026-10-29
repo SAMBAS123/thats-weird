@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-28T23:11:35Z",
+  "as_of": "2026-10-29T02:24:23Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 26,
+    "hits_7d": 39,
     "latest": [
       {
         "title": "Roblox Child Sexual Abuse Lawsuit",
@@ -83,16 +83,10 @@
         "published": "2026-10-23T12:29:44Z"
       },
       {
-        "title": "Roblox, Fortnite, Minecraft Addiction Lawsuit Alleges Games Caused Severe Depression in Child",
+        "title": "Snapchat Child Sexual Abuse Lawsuit Alleges Predator Targeted 9-Year-Old Girl",
         "outlet": "AboutLawsuits.com",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHMwcHJZMjJMdVJoc0c4dnVoLS1YdkRwajBOT1dHQlJEcWlIRHpMcnA1OWxuclNVbGN5Q1lUbjFpVlY4eGRoNzJtcEZZTUdYNm1sZk1hMFJvazJjVElsc2lIUDVIYS1tMXBwT0RpSGRodVBnRXdTM2N0dElnZUxPdXBtaFpNaEszdXN1WVBhT3M3aEl1MS1R?oc=5",
-        "published": "2026-10-26T13:00:00Z"
-      },
-      {
-        "title": "Roblox shareholder sues CEO, directors over age verification disclosures",
-        "outlet": "Las Vegas Review-Journal",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT05Uemg2VkxlZGxubnRHdDhNNnZfbm9nZmFLWjhFZ3R4ZGdzaEhXem14Q0tmNEMzQmd0dU83SnN5UldGNjBZYkdqZnBwdzlLYWFHZmJGaF9WdUVoaVZNTVBzREk3QkdpRUswazR3RnN2QlB2cmJyM01vd3hkVDRDWjliZ2xyVWRlSWExdWhldHRZRmhvY1BNODBjQ0hEYWVmZndwVVVXUHpXVVRmYTVSdmRteDlzTFUxUGlZ?oc=5",
-        "published": "2026-10-21T23:27:00Z"
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWtINlprbmh3bG12MnRqM044RTQ1NkVqTjVSbVhneHAyR0dXaWROYjBpWFA0bG5JOUxiUTA5a0c2NDhITHU1YjZPcUNiWmVPbDFlMFZFU1NGaFc5bTBmQWxHbVBvako3Ry1ta1FYa3otZVhsZFNpdnZUUWFMekJDMWdCVGNEVWdTbS1yN3RBWXVBSnBJdkh5MkZxd1hMUmpXZ25jX1BQTlRoZjBZSzVBY3JfeGM0Zw?oc=5",
+        "published": "2026-10-27T14:00:00Z"
       },
       {
         "title": "Video Game Addiction Lawsuit 2026: 100+ Cases, No MDL",
@@ -113,10 +107,16 @@
         "published": "2026-10-22T07:00:00Z"
       },
       {
-        "title": "Snapchat Child Sexual Abuse Lawsuit Alleges Predator Targeted 9-Year-Old Girl",
+        "title": "Texas sues OpenAI over ChatGPT safety claims",
+        "outlet": "Houston Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnpEOE9Yb3c1YWlGVDJCSkt2SXZHSVZvQjdSN0ZpcEIxcHhteVU4My05Snp0ODZUaHRpSTktb3BhNkV2aWN1MThyMWxLNlJNdWxPYmxIRm50VjM2NUVWOWQ2UnVmeWpFT2c1ZVNyRm1qcnRaaVY4blRRNEFMalNuazVuUU1OOGpHaHlLa2lCdGhlbHZZV2tmTGRaVmp2eWRFbWJrbExwUVJjUWM?oc=5",
+        "published": "2026-10-23T22:08:19Z"
+      },
+      {
+        "title": "Roblox, Fortnite, Minecraft Addiction Lawsuit Alleges Games Caused Severe Depression in Child",
         "outlet": "AboutLawsuits.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWtINlprbmh3bG12MnRqM044RTQ1NkVqTjVSbVhneHAyR0dXaWROYjBpWFA0bG5JOUxiUTA5a0c2NDhITHU1YjZPcUNiWmVPbDFlMFZFU1NGaFc5bTBmQWxHbVBvako3Ry1ta1FYa3otZVhsZFNpdnZUUWFMekJDMWdCVGNEVWdTbS1yN3RBWXVBSnBJdkh5MkZxd1hMUmpXZ25jX1BQTlRoZjBZSzVBY3JfeGM0Zw?oc=5",
-        "published": "2026-10-27T14:00:00Z"
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHMwcHJZMjJMdVJoc0c4dnVoLS1YdkRwajBOT1dHQlJEcWlIRHpMcnA1OWxuclNVbGN5Q1lUbjFpVlY4eGRoNzJtcEZZTUdYNm1sZk1hMFJvazJjVElsc2lIUDVIYS1tMXBwT0RpSGRodVBnRXdTM2N0dElnZUxPdXBtaFpNaEszdXN1WVBhT3M3aEl1MS1R?oc=5",
+        "published": "2026-10-26T13:00:00Z"
       },
       {
         "title": "Beyond Roblox: Are Digital Platforms Addressing Online Grooming?",
