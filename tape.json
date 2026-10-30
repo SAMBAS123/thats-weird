@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-30T15:53:58Z",
+  "as_of": "2026-10-30T20:45:04Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 46,
+    "hits_7d": 27,
     "latest": [
       {
         "title": "Roblox, Discord users alleging childhood sexual abuse fight arbitration bid",
@@ -96,15 +96,9 @@
       },
       {
         "title": "Roblox (RBLX) Stock May Be 27% Undervalued Despite Weak Bookings",
-        "outlet": "Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVlFSTUFQVl9ac2RXSHplTk9sMU9PLW9lZ0lZWFhPam1OcHlKMTRGUVhBSDdmY0hEZThrWm41X1hZOFdfRG5Dak1yUWZOZGhJTnlGcUNzNEFNUHVYcTllb0xUM3lNd1ZJLW5RZjJJamthcWROM1VxUk9qNXJLbFRoUzM3eFhaMHpueFRDeFZyeXJxQjQ?oc=5",
+        "outlet": "Yahoo Finance Singapore",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55dkN6V0FqdXZyWTZ3X2EyTzVVU1dleTNFXzJBUjhhZm42MXJtcFdMNW13bXgtM2dwb3I0Y3dOdjVqMS1LMWlNZ1IwamxPb0dPWk4xNkF1dkoxai0zSWZMN3dFd09pelFCeFhQdUFhQXVGVFVPX1pkY3NsakdnUQ?oc=5",
         "published": "2026-10-29T18:15:42Z"
-      },
-      {
-        "title": "Texas sues OpenAI over ChatGPT safety claims",
-        "outlet": "Houston Chronicle",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnpEOE9Yb3c1YWlGVDJCSkt2SXZHSVZvQjdSN0ZpcEIxcHhteVU4My05Snp0ODZUaHRpSTktb3BhNkV2aWN1MThyMWxLNlJNdWxPYmxIRm50VjM2NUVWOWQ2UnVmeWpFT2c1ZVNyRm1qcnRaaVY4blRRNEFMalNuazVuUU1OOGpHaHlLa2lCdGhlbHZZV2tmTGRaVmp2eWRFbWJrbExwUVJjUWM?oc=5",
-        "published": "2026-10-23T22:08:19Z"
       },
       {
         "title": "Beyond Roblox: Are Digital Platforms Addressing Online Grooming?",
@@ -123,6 +117,12 @@
         "outlet": "WBOY.com",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdzBIekUtSXY4OUNJLUhWSWZlb2s3NmJ4TllGZDlocXFjQWpXUzMxTGdHaU16cWRtaVJGSlJRaTYzeTQxQTQ5WExtTGRPSjNBeVp4UnR6dnVOTGY2ejJ6TkJSbml2VUd3cjk2YjkwRHhuTVlEeUpMaWVpelQwai1KTU53WXM4eUhqMF9KV3kzN0ZFdXNCenVlWXlwN3o4ZTZySzJ3cTM5VEIxdjNY0gGsAUFVX3lxTE13MEh6RS1Jdjg5Q0ktSFZJZmVvazc2YnhOWUZkOWhxcWNBaldTMzFMZ0dpTXpxZG1pUkZKUlFpNjN5NDFBNDlYTG1MZE9KM0F5WnhSdHp2dU5MZjZ6MnpOQlJuaXZVR3dyOTZiOTBEeG5NWUR5SkxpZWl6VDBqLUpNTndZczh5SGowX0pXeTM3RkV1c0J6dWVZeXA3ejhlNnJLMndxMzlUQjF2M1g?oc=5",
         "published": "2026-10-29T12:05:33Z"
+      },
+      {
+        "title": "Roblox appoints Joel Neoh as first managing director for Southeast Asia and Oceania",
+        "outlet": "Capital Brief",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWTE4Zy04akh0UHRVVlkwYzNmVVB6VVZfeFJDSjZSZUkwdnhXRFZWRzdGMldrVWVpRnBWU2t1WGV4MEFLMGZzZHhYUjJBbDA3V3I0Rk1pT0tiMk5na2JYeWtRckFHSjFEaEdOQm5FZnZRNmVoclFQejhsSktnS3M4S1ZmNHJNbDREME5SNUR4T1V1cFlWS09xWEhEcHBrWEFpTUc2Z09MaHlYR0dIR3VvM0pYOExiMWFMQ1dZV3lCTnpsQ1lqV1dtNXBFZXVsaklJNTVHdHFrRkoyTUdJN0hleC0zeDlPNzRpNDV5ZzVXdTk?oc=5",
+        "published": "2026-10-30T06:15:00Z"
       }
     ]
   },
