@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-29T21:47:03Z",
+  "as_of": "2026-10-30T01:56:19Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,19 +74,19 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 25,
+    "hits_7d": 27,
     "latest": [
-      {
-        "title": "Roblox Child Sexual Abuse Lawsuit",
-        "outlet": "Lawsuit Information Center",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mZ1RSZGJfTFVSUnc0OGFBSkY0VlVzYWVLY0NvNFkzYkxNSVlYUnNPeUxMSXcwVXBNeGh5NGU3d1hKdlFQZGFuSVZqX0QyOWFmUHpNaVFsTy1XUy1GVm00ZnJQc2swWVBodzUxTV9rRFdEZ190aGd6X3B4Qmc?oc=5",
-        "published": "2026-10-23T12:29:44Z"
-      },
       {
         "title": "Roblox, Discord users alleging childhood sexual abuse fight arbitration bid",
         "outlet": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZzk5elppSEJ3czMzcHdESXBNVmFCUXlqYktFSlZvNDNaa2ozMjU1R1N2bXlVSWZwYzR0Q2Y2QWhCZVBsdGhOaU85cHJ0Z3haLTMtU2ttd0FybXUwMjRBb205dnFRRmVvQXd5OVV2RXRVUkx2Y202Vk00cmNJcEhIS2M4QWQ2djBVdy0zM2hJcFlaVl9WRjhUQ3kzRW1YcTdhZ3ZjM2NBdG5ZaE5kM3ZybnVPUVJ5enI1TkhrbnJCRDhtQlU3d0E?oc=5",
         "published": "2026-10-28T22:23:42Z"
+      },
+      {
+        "title": "Roblox Child Sexual Abuse Lawsuit",
+        "outlet": "Lawsuit Information Center",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mZ1RSZGJfTFVSUnc0OGFBSkY0VlVzYWVLY0NvNFkzYkxNSVlYUnNPeUxMSXcwVXBNeGh5NGU3d1hKdlFQZGFuSVZqX0QyOWFmUHpNaVFsTy1XUy1GVm00ZnJQc2swWVBodzUxTV9rRFdEZ190aGd6X3B4Qmc?oc=5",
+        "published": "2026-10-23T12:29:44Z"
       },
       {
         "title": "Roblox, Fortnite, Minecraft Addiction Lawsuit Alleges Games Caused Severe Depression in Child",
