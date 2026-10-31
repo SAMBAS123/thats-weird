@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-31T06:57:50Z",
+  "as_of": "2026-10-31T13:37:10Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 27,
+    "hits_7d": 40,
     "latest": [
       {
         "title": "Roblox, Discord users alleging childhood sexual abuse fight arbitration bid",
@@ -89,10 +89,10 @@
         "published": "2026-10-26T13:00:00Z"
       },
       {
-        "title": "Roblox Shares Fall 3% After Bleecker Street Research Raises Child Safety and User Growth Concerns",
+        "title": "Roblox (RBLX) Stock May Be 27% Undervalued Despite Weak Bookings",
         "outlet": "Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWFVaRFMtNWlEOUNIcTRvN3F3TjZWUDlTZjhiNmFfN21zZ0xlRjJ3M1RXMWtRS25WZVVmZ3JTZ3JwXzZTOGFKNFJIS0xXanM5UFhPRkZTRWUyN2o2MEVKVEx5WTZqYVVfckZaY0ZlaW5Rb2pZcXlNaUt6aTU3empHU1FYMEpxSWZycTROd3pVajNweXVkbl9nNEV3?oc=5",
-        "published": "2026-10-27T14:23:45Z"
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVlFSTUFQVl9ac2RXSHplTk9sMU9PLW9lZ0lZWFhPam1OcHlKMTRGUVhBSDdmY0hEZThrWm41X1hZOFdfRG5Dak1yUWZOZGhJTnlGcUNzNEFNUHVYcTllb0xUM3lNd1ZJLW5RZjJJamthcWROM1VxUk9qNXJLbFRoUzM3eFhaMHpueFRDeFZyeXJxQjQ?oc=5",
+        "published": "2026-10-29T18:15:42Z"
       },
       {
         "title": "Beyond Roblox: Are Digital Platforms Addressing Online Grooming?",
