@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-01T15:59:14Z",
+  "as_of": "2026-11-01T20:28:18Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 39,
+    "hits_7d": 42,
     "latest": [
       {
         "title": "Roblox, Discord users alleging childhood sexual abuse fight arbitration bid",
@@ -119,10 +119,10 @@
         "published": "2026-10-30T06:15:00Z"
       },
       {
-        "title": "Halo: Combat Evolved has reportedly been ported to Roblox",
-        "outlet": "Mezha.net",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkcyR09oVk5senVGckhuaFllYmFSb28taFFkRkw0R1VtQjdrMHplZ1c2ZU5haERBUm9lR1BUTDFnMzk2U3JhWUV3NVlQMXZQQ3Q0ZS1ybFVDZ1RaclNGT2hwQUl3blZab1ZZaGpEVkR3Y0VBSVNFaVgtS0FHMjE5V2c1R1dudw?oc=5",
-        "published": "2026-10-28T18:39:56Z"
+        "title": "Social Media Addiction Lawsuit Payouts & Updates | October 2026",
+        "outlet": "Sokolove Law",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xRFdfbm5BWk0zT0poQkpLRU1jbXJkSXhMSXdhNDVUZXFKb0dvNGVLOFJJLW1zSE1IUE5DUGVsSG8tbUZIZDkwYW4zRTRqRmhEbUpEMjduN3A5cUhBLWxZSkZ1My1YRVhlVk1UNzdaaUVFZm00Wnc?oc=5",
+        "published": "2026-10-30T23:05:40Z"
       }
     ]
   },
