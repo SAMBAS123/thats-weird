@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-01T20:28:18Z",
+  "as_of": "2026-11-02T00:40:01Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 42,
+    "hits_7d": 44,
     "latest": [
       {
         "title": "Roblox, Discord users alleging childhood sexual abuse fight arbitration bid",
@@ -119,10 +119,10 @@
         "published": "2026-10-30T06:15:00Z"
       },
       {
-        "title": "Social Media Addiction Lawsuit Payouts & Updates | October 2026",
-        "outlet": "Sokolove Law",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xRFdfbm5BWk0zT0poQkpLRU1jbXJkSXhMSXdhNDVUZXFKb0dvNGVLOFJJLW1zSE1IUE5DUGVsSG8tbUZIZDkwYW4zRTRqRmhEbUpEMjduN3A5cUhBLWxZSkZ1My1YRVhlVk1UNzdaaUVFZm00Wnc?oc=5",
-        "published": "2026-10-30T23:05:40Z"
+        "title": "Roblox Just Sank 15.48%. Here’s What It Means for Your ETFs",
+        "outlet": "24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUmtxZWxqbmhiSE45SUpDM3liV0Y5QnFBWEZFLTVCN2k5WG1KcGRfVmhlTU5uLUdYemt3UnBJZWlNRzhlWWZyV1ZhNFRNNi1GbXJWcmF5cFNfMTZOSThOQWRJWTJfYnIwb18wcWc0ZldmLW9QQnd3SGlKbGtoYU8zRzl4OFdZSFhqbUJMYmZCdXlud3h1MmVDdEh2bkdqdGV1Q2dzQ0J5VQ?oc=5",
+        "published": "2026-10-30T17:41:00Z"
       }
     ]
   },
