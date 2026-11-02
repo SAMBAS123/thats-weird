@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-02T07:38:37Z",
+  "as_of": "2026-11-02T18:17:24Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 44,
+    "hits_7d": 23,
     "latest": [
       {
         "title": "Roblox, Discord users alleging childhood sexual abuse fight arbitration bid",
@@ -83,22 +83,22 @@
         "published": "2026-10-28T22:23:42Z"
       },
       {
-        "title": "Roblox, Fortnite, Minecraft Addiction Lawsuit Alleges Games Caused Severe Depression in Child",
-        "outlet": "AboutLawsuits.com",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHMwcHJZMjJMdVJoc0c4dnVoLS1YdkRwajBOT1dHQlJEcWlIRHpMcnA1OWxuclNVbGN5Q1lUbjFpVlY4eGRoNzJtcEZZTUdYNm1sZk1hMFJvazJjVElsc2lIUDVIYS1tMXBwT0RpSGRodVBnRXdTM2N0dElnZUxPdXBtaFpNaEszdXN1WVBhT3M3aEl1MS1R?oc=5",
-        "published": "2026-10-26T13:00:00Z"
-      },
-      {
-        "title": "Roblox (RBLX) Stock May Be 27% Undervalued Despite Weak Bookings",
-        "outlet": "Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVlFSTUFQVl9ac2RXSHplTk9sMU9PLW9lZ0lZWFhPam1OcHlKMTRGUVhBSDdmY0hEZThrWm41X1hZOFdfRG5Dak1yUWZOZGhJTnlGcUNzNEFNUHVYcTllb0xUM3lNd1ZJLW5RZjJJamthcWROM1VxUk9qNXJLbFRoUzM3eFhaMHpueFRDeFZyeXJxQjQ?oc=5",
-        "published": "2026-10-29T18:15:42Z"
-      },
-      {
         "title": "Snapchat Child Sexual Abuse Lawsuit Alleges Predator Targeted 9-Year-Old Girl",
         "outlet": "AboutLawsuits.com",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWtINlprbmh3bG12MnRqM044RTQ1NkVqTjVSbVhneHAyR0dXaWROYjBpWFA0bG5JOUxiUTA5a0c2NDhITHU1YjZPcUNiWmVPbDFlMFZFU1NGaFc5bTBmQWxHbVBvako3Ry1ta1FYa3otZVhsZFNpdnZUUWFMekJDMWdCVGNEVWdTbS1yN3RBWXVBSnBJdkh5MkZxd1hMUmpXZ25jX1BQTlRoZjBZSzVBY3JfeGM0Zw?oc=5",
         "published": "2026-10-27T14:00:00Z"
+      },
+      {
+        "title": "Roblox horror games to play this Halloween",
+        "outlet": "The Daily Iowan",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQWV5VDVqTkZoMjNUemhvZE94LWdOMDFGcDNHbzY4OXdSS1QtVnJOcmdqUWJ2aExvMnZaSkQtb2xTd0EwRkJEd0NhTEk1c0J5S2dYdkEzUmdOSnFlc185dlBYcTlzQ25UeW1aYWtxZlF6MWFOVHlHcmdqRDJaSTA2Z0ROcw?oc=5",
+        "published": "2026-10-30T00:24:06Z"
+      },
+      {
+        "title": "Roblox (RBLX) Stock May Be 27% Undervalued Despite Weak Bookings",
+        "outlet": "Yahoo Finance Singapore",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55dkN6V0FqdXZyWTZ3X2EyTzVVU1dleTNFXzJBUjhhZm42MXJtcFdMNW13bXgtM2dwb3I0Y3dOdjVqMS1LMWlNZ1IwamxPb0dPWk4xNkF1dkoxai0zSWZMN3dFd09pelFCeFhQdUFhQXVGVFVPX1pkY3NsakdnUQ?oc=5",
+        "published": "2026-10-29T18:15:42Z"
       },
       {
         "title": "AG McCuskey suing TikTok ‘for putting West Virginia kids at risk’",
