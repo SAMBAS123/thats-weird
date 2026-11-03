@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-03T17:48:46Z",
+  "as_of": "2026-11-03T23:16:59Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 41,
+    "hits_7d": 25,
     "latest": [
       {
         "title": "Roblox, Discord users alleging childhood sexual abuse fight arbitration bid",
@@ -89,6 +89,12 @@
         "published": "2026-11-02T13:20:44Z"
       },
       {
+        "title": "Roblox horror games to play this Halloween",
+        "outlet": "The Daily Iowan",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQWV5VDVqTkZoMjNUemhvZE94LWdOMDFGcDNHbzY4OXdSS1QtVnJOcmdqUWJ2aExvMnZaSkQtb2xTd0EwRkJEd0NhTEk1c0J5S2dYdkEzUmdOSnFlc185dlBYcTlzQ25UeW1aYWtxZlF6MWFOVHlHcmdqRDJaSTA2Z0ROcw?oc=5",
+        "published": "2026-10-30T00:24:06Z"
+      },
+      {
         "title": "Roblox (RBLX) Stock May Be 27% Undervalued Despite Weak Bookings",
         "outlet": "Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVlFSTUFQVl9ac2RXSHplTk9sMU9PLW9lZ0lZWFhPam1OcHlKMTRGUVhBSDdmY0hEZThrWm41X1hZOFdfRG5Dak1yUWZOZGhJTnlGcUNzNEFNUHVYcTllb0xUM3lNd1ZJLW5RZjJJamthcWROM1VxUk9qNXJLbFRoUzM3eFhaMHpueFRDeFZyeXJxQjQ?oc=5",
@@ -99,12 +105,6 @@
         "outlet": "WBOY.com",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdzBIekUtSXY4OUNJLUhWSWZlb2s3NmJ4TllGZDlocXFjQWpXUzMxTGdHaU16cWRtaVJGSlJRaTYzeTQxQTQ5WExtTGRPSjNBeVp4UnR6dnVOTGY2ejJ6TkJSbml2VUd3cjk2YjkwRHhuTVlEeUpMaWVpelQwai1KTU53WXM4eUhqMF9KV3kzN0ZFdXNCenVlWXlwN3o4ZTZySzJ3cTM5VEIxdjNY0gGsAUFVX3lxTE13MEh6RS1Jdjg5Q0ktSFZJZmVvazc2YnhOWUZkOWhxcWNBaldTMzFMZ0dpTXpxZG1pUkZKUlFpNjN5NDFBNDlYTG1MZE9KM0F5WnhSdHp2dU5MZjZ6MnpOQlJuaXZVR3dyOTZiOTBEeG5NWUR5SkxpZWl6VDBqLUpNTndZczh5SGowX0pXeTM3RkV1c0J6dWVZeXA3ejhlNnJLMndxMzlUQjF2M1g?oc=5",
         "published": "2026-10-29T12:05:33Z"
-      },
-      {
-        "title": "Chamber Forum: James Uthmeier says Florida is turning AI against child predators",
-        "outlet": "Florida Politics",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc3VocGdDQXM0UjdGbmt4alJveWkxdWpNdFNFRUdPbEdVZXFfQVdLbEJrSHZVeWZuWkg5N1RWYUdkYXFuSEEwVXJEeUIyQ0JPak9OQ1NCWDBidnY3UzJNZEpJSmt5cTY3OGEyOGVSQUo1dms0aG1nc3ltTlQwQ2dRaVhJNmxVY1dlZlFkRkVMbVVuUWVuQnBfSGliODk4UEJ3c2ZGOUhsLTZXTzM2cEJfZjNkR1llNmd2NFFyZ3ZQTWcyZw?oc=5",
-        "published": "2026-10-28T19:44:07Z"
       },
       {
         "title": "Dear Roblox Stock Fans, Mark Your Calendars for October 29",
