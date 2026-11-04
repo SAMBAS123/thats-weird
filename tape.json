@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-04T10:49:51Z",
+  "as_of": "2026-11-04T18:37:32Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 18,
+    "hits_7d": 20,
     "latest": [
       {
         "title": "Roblox, Discord users alleging childhood sexual abuse fight arbitration bid",
@@ -89,6 +89,18 @@
         "published": "2026-11-02T13:20:44Z"
       },
       {
+        "title": "/E Wave at Cornell Roblox Club!",
+        "outlet": "The Cornell Daily Sun",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12U3JDSzRFb1prcWRWTGtHSWUyTl8zc1dQZnUwbkhKNnpIUTVBeEJjWDZWVzV1QktIY3VNeElUaTZ0UTVsTTJkWEVPbDBmY2xUNDhBNXV5dFJYU1BvMGF2SW9yOWplNWNRM3Q2bGtuTzBWR2JnaHJRblg5MUc?oc=5",
+        "published": "2026-11-04T14:10:55Z"
+      },
+      {
+        "title": "'Addicted to hacking': Young hacker behind historic breach speaks out for 1st time, before reporting to prison - ABC News",
+        "outlet": "Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObHotRTVhbWRuZE1vbkNkRlV5cjUtODlSV0NJYkMyR00tVzJFUjUxNjVHc0x1ZHRiMDg5dnBvczVuQVFocHNocU8yWF85RmRpLXFaQkx1RWdZeHlscmE5UU5aR1haUmgwbEh0TWtYTEVIUEV0YmZXM0U0Unk3SXdCQm50OXg3Wkp0N3Q3eC04OHo3Y0paREU4b3gzem9ubWPSAaQBQVVfeXFMTTFaMzJodU9aZWlRMU1zandRMHc3SmJpckwzQmNHQWdDVHJ5eVNvNWtzSmowd2lyTUptdTJCUTJWZVVzX0E5RFZNT1J2YW1JcHctcUNOa3pnbW84cXE5eEthYTNqa3VPUDI3MEh0VzlfUTRVQ0VrODA0RlBGaVJuUjhlTndwc2JPM2ttVDlwQmxyREpBZXhmUjh0SXNJSGxyMGdfUzQ?oc=5",
+        "published": "2026-11-04T07:42:01Z"
+      },
+      {
         "title": "Roblox horror games to play this Halloween",
         "outlet": "The Daily Iowan",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQWV5VDVqTkZoMjNUemhvZE94LWdOMDFGcDNHbzY4OXdSS1QtVnJOcmdqUWJ2aExvMnZaSkQtb2xTd0EwRkJEd0NhTEk1c0J5S2dYdkEzUmdOSnFlc185dlBYcTlzQ25UeW1aYWtxZlF6MWFOVHlHcmdqRDJaSTA2Z0ROcw?oc=5",
@@ -101,28 +113,16 @@
         "published": "2026-10-29T18:15:42Z"
       },
       {
-        "title": "Roblox appoints Joel Neoh as first managing director for Southeast Asia and Oceania",
-        "outlet": "Capital Brief",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWTE4Zy04akh0UHRVVlkwYzNmVVB6VVZfeFJDSjZSZUkwdnhXRFZWRzdGMldrVWVpRnBWU2t1WGV4MEFLMGZzZHhYUjJBbDA3V3I0Rk1pT0tiMk5na2JYeWtRckFHSjFEaEdOQm5FZnZRNmVoclFQejhsSktnS3M4S1ZmNHJNbDREME5SNUR4T1V1cFlWS09xWEhEcHBrWEFpTUc2Z09MaHlYR0dIR3VvM0pYOExiMWFMQ1dZV3lCTnpsQ1lqV1dtNXBFZXVsaklJNTVHdHFrRkoyTUdJN0hleC0zeDlPNzRpNDV5ZzVXdTk?oc=5",
-        "published": "2026-10-30T06:15:00Z"
-      },
-      {
-        "title": "Roblox Just Sank 15.48%. Here’s What It Means for Your ETFs",
-        "outlet": "24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUmtxZWxqbmhiSE45SUpDM3liV0Y5QnFBWEZFLTVCN2k5WG1KcGRfVmhlTU5uLUdYemt3UnBJZWlNRzhlWWZyV1ZhNFRNNi1GbXJWcmF5cFNfMTZOSThOQWRJWTJfYnIwb18wcWc0ZldmLW9QQnd3SGlKbGtoYU8zRzl4OFdZSFhqbUJMYmZCdXlud3h1MmVDdEh2bkdqdGV1Q2dzQ0J5VQ?oc=5",
-        "published": "2026-10-30T17:41:00Z"
-      },
-      {
-        "title": "Dear Roblox Stock Fans, Mark Your Calendars for October 29",
-        "outlet": "Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbkFLY0hEUDhIOFpKeENtekdwbFB2ZjdBMWoyQlhrS2JzOWlkclM4RVhiQzdpSGlyTGZCNDFnTGdjOEU0dWZLMmIxYzRvUGZUWURqUXV6SkZSTXF5Tng5Vkg2ZVE3SlR5YVhwbjM2c0hTRVRNZFc0ME5FXzBHWWIxYnpDVVRubzhDa3VDY3h6M2VLbGVWQjZRQzlyNFF6STBJeTdj?oc=5",
-        "published": "2026-10-28T15:19:57Z"
-      },
-      {
         "title": "Halo: Combat Evolved has reportedly been ported to Roblox",
         "outlet": "Mezha.net",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkcyR09oVk5senVGckhuaFllYmFSb28taFFkRkw0R1VtQjdrMHplZ1c2ZU5haERBUm9lR1BUTDFnMzk2U3JhWUV3NVlQMXZQQ3Q0ZS1ybFVDZ1RaclNGT2hwQUl3blZab1ZZaGpEVkR3Y0VBSVNFaVgtS0FHMjE5V2c1R1dudw?oc=5",
         "published": "2026-10-28T18:39:56Z"
+      },
+      {
+        "title": "Ford pledges no driver data sales as GM settles data sale lawsuit",
+        "outlet": "MobileSyrup",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVHRkWnBDOGE0Ql95SElLRXNPSUUwRWtzMUlMU2FLWGxtcmdKVVBweWhyWnJBQlZHMlZwV3haTHhySXd6TTZ3ajU1QVQ0MVQ2WmlONUV2c2tJci1YSGQ1U05qYWVEX0RzWlFNZ0xqZjdXUERzM25GekhUV2pua3RMRkc2VFRmYnhUY2Jr?oc=5",
+        "published": "2026-11-02T20:55:30Z"
       }
     ]
   },
