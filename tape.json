@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-04T03:01:18Z",
+  "as_of": "2026-11-04T10:49:51Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 22,
+    "hits_7d": 18,
     "latest": [
       {
         "title": "Roblox, Discord users alleging childhood sexual abuse fight arbitration bid",
@@ -101,18 +101,6 @@
         "published": "2026-10-29T18:15:42Z"
       },
       {
-        "title": "AG McCuskey suing TikTok ‘for putting West Virginia kids at risk’",
-        "outlet": "WBOY.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdzBIekUtSXY4OUNJLUhWSWZlb2s3NmJ4TllGZDlocXFjQWpXUzMxTGdHaU16cWRtaVJGSlJRaTYzeTQxQTQ5WExtTGRPSjNBeVp4UnR6dnVOTGY2ejJ6TkJSbml2VUd3cjk2YjkwRHhuTVlEeUpMaWVpelQwai1KTU53WXM4eUhqMF9KV3kzN0ZFdXNCenVlWXlwN3o4ZTZySzJ3cTM5VEIxdjNY0gGsAUFVX3lxTE13MEh6RS1Jdjg5Q0ktSFZJZmVvazc2YnhOWUZkOWhxcWNBaldTMzFMZ0dpTXpxZG1pUkZKUlFpNjN5NDFBNDlYTG1MZE9KM0F5WnhSdHp2dU5MZjZ6MnpOQlJuaXZVR3dyOTZiOTBEeG5NWUR5SkxpZWl6VDBqLUpNTndZczh5SGowX0pXeTM3RkV1c0J6dWVZeXA3ejhlNnJLMndxMzlUQjF2M1g?oc=5",
-        "published": "2026-10-29T12:05:33Z"
-      },
-      {
-        "title": "Dear Roblox Stock Fans, Mark Your Calendars for October 29",
-        "outlet": "Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbkFLY0hEUDhIOFpKeENtekdwbFB2ZjdBMWoyQlhrS2JzOWlkclM4RVhiQzdpSGlyTGZCNDFnTGdjOEU0dWZLMmIxYzRvUGZUWURqUXV6SkZSTXF5Tng5Vkg2ZVE3SlR5YVhwbjM2c0hTRVRNZFc0ME5FXzBHWWIxYnpDVVRubzhDa3VDY3h6M2VLbGVWQjZRQzlyNFF6STBJeTdj?oc=5",
-        "published": "2026-10-28T15:19:57Z"
-      },
-      {
         "title": "Roblox appoints Joel Neoh as first managing director for Southeast Asia and Oceania",
         "outlet": "Capital Brief",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWTE4Zy04akh0UHRVVlkwYzNmVVB6VVZfeFJDSjZSZUkwdnhXRFZWRzdGMldrVWVpRnBWU2t1WGV4MEFLMGZzZHhYUjJBbDA3V3I0Rk1pT0tiMk5na2JYeWtRckFHSjFEaEdOQm5FZnZRNmVoclFQejhsSktnS3M4S1ZmNHJNbDREME5SNUR4T1V1cFlWS09xWEhEcHBrWEFpTUc2Z09MaHlYR0dIR3VvM0pYOExiMWFMQ1dZV3lCTnpsQ1lqV1dtNXBFZXVsaklJNTVHdHFrRkoyTUdJN0hleC0zeDlPNzRpNDV5ZzVXdTk?oc=5",
@@ -123,6 +111,18 @@
         "outlet": "24/7 Wall St.",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUmtxZWxqbmhiSE45SUpDM3liV0Y5QnFBWEZFLTVCN2k5WG1KcGRfVmhlTU5uLUdYemt3UnBJZWlNRzhlWWZyV1ZhNFRNNi1GbXJWcmF5cFNfMTZOSThOQWRJWTJfYnIwb18wcWc0ZldmLW9QQnd3SGlKbGtoYU8zRzl4OFdZSFhqbUJMYmZCdXlud3h1MmVDdEh2bkdqdGV1Q2dzQ0J5VQ?oc=5",
         "published": "2026-10-30T17:41:00Z"
+      },
+      {
+        "title": "Dear Roblox Stock Fans, Mark Your Calendars for October 29",
+        "outlet": "Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbkFLY0hEUDhIOFpKeENtekdwbFB2ZjdBMWoyQlhrS2JzOWlkclM4RVhiQzdpSGlyTGZCNDFnTGdjOEU0dWZLMmIxYzRvUGZUWURqUXV6SkZSTXF5Tng5Vkg2ZVE3SlR5YVhwbjM2c0hTRVRNZFc0ME5FXzBHWWIxYnpDVVRubzhDa3VDY3h6M2VLbGVWQjZRQzlyNFF6STBJeTdj?oc=5",
+        "published": "2026-10-28T15:19:57Z"
+      },
+      {
+        "title": "Halo: Combat Evolved has reportedly been ported to Roblox",
+        "outlet": "Mezha.net",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkcyR09oVk5senVGckhuaFllYmFSb28taFFkRkw0R1VtQjdrMHplZ1c2ZU5haERBUm9lR1BUTDFnMzk2U3JhWUV3NVlQMXZQQ3Q0ZS1ybFVDZ1RaclNGT2hwQUl3blZab1ZZaGpEVkR3Y0VBSVNFaVgtS0FHMjE5V2c1R1dudw?oc=5",
+        "published": "2026-10-28T18:39:56Z"
       }
     ]
   },
