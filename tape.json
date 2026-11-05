@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-04T18:37:32Z",
+  "as_of": "2026-11-05T00:21:29Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,14 +74,8 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 20,
+    "hits_7d": 17,
     "latest": [
-      {
-        "title": "Roblox, Discord users alleging childhood sexual abuse fight arbitration bid",
-        "outlet": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZzk5elppSEJ3czMzcHdESXBNVmFCUXlqYktFSlZvNDNaa2ozMjU1R1N2bXlVSWZwYzR0Q2Y2QWhCZVBsdGhOaU85cHJ0Z3haLTMtU2ttd0FybXUwMjRBb205dnFRRmVvQXd5OVV2RXRVUkx2Y202Vk00cmNJcEhIS2M4QWQ2djBVdy0zM2hJcFlaVl9WRjhUQ3kzRW1YcTdhZ3ZjM2NBdG5ZaE5kM3ZybnVPUVJ5enI1TkhrbnJCRDhtQlU3d0E?oc=5",
-        "published": "2026-10-28T22:23:42Z"
-      },
       {
         "title": "Roblox Child Sexual Abuse Lawsuit",
         "outlet": "Lawsuit Information Center",
@@ -98,7 +92,7 @@
         "title": "'Addicted to hacking': Young hacker behind historic breach speaks out for 1st time, before reporting to prison - ABC News",
         "outlet": "Breaking News, Latest News and Videos",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObHotRTVhbWRuZE1vbkNkRlV5cjUtODlSV0NJYkMyR00tVzJFUjUxNjVHc0x1ZHRiMDg5dnBvczVuQVFocHNocU8yWF85RmRpLXFaQkx1RWdZeHlscmE5UU5aR1haUmgwbEh0TWtYTEVIUEV0YmZXM0U0Unk3SXdCQm50OXg3Wkp0N3Q3eC04OHo3Y0paREU4b3gzem9ubWPSAaQBQVVfeXFMTTFaMzJodU9aZWlRMU1zandRMHc3SmJpckwzQmNHQWdDVHJ5eVNvNWtzSmowd2lyTUptdTJCUTJWZVVzX0E5RFZNT1J2YW1JcHctcUNOa3pnbW84cXE5eEthYTNqa3VPUDI3MEh0VzlfUTRVQ0VrODA0RlBGaVJuUjhlTndwc2JPM2ttVDlwQmxyREpBZXhmUjh0SXNJSGxyMGdfUzQ?oc=5",
-        "published": "2026-11-04T07:42:01Z"
+        "published": "2026-11-04T19:11:50Z"
       },
       {
         "title": "Roblox horror games to play this Halloween",
@@ -113,16 +107,22 @@
         "published": "2026-10-29T18:15:42Z"
       },
       {
-        "title": "Halo: Combat Evolved has reportedly been ported to Roblox",
-        "outlet": "Mezha.net",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkcyR09oVk5senVGckhuaFllYmFSb28taFFkRkw0R1VtQjdrMHplZ1c2ZU5haERBUm9lR1BUTDFnMzk2U3JhWUV3NVlQMXZQQ3Q0ZS1ybFVDZ1RaclNGT2hwQUl3blZab1ZZaGpEVkR3Y0VBSVNFaVgtS0FHMjE5V2c1R1dudw?oc=5",
-        "published": "2026-10-28T18:39:56Z"
-      },
-      {
         "title": "Ford pledges no driver data sales as GM settles data sale lawsuit",
         "outlet": "MobileSyrup",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVHRkWnBDOGE0Ql95SElLRXNPSUUwRWtzMUlMU2FLWGxtcmdKVVBweWhyWnJBQlZHMlZwV3haTHhySXd6TTZ3ajU1QVQ0MVQ2WmlONUV2c2tJci1YSGQ1U05qYWVEX0RzWlFNZ0xqZjdXUERzM25GekhUV2pua3RMRkc2VFRmYnhUY2Jr?oc=5",
         "published": "2026-11-02T20:55:30Z"
+      },
+      {
+        "title": "U.S. Justice Department seeks to isolate Alaska ballots as criminal probe underway over Senate candidate",
+        "outlet": "CTV News",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVBScUh1MGwyZTYwZXZ6S1N6R2NnVEFubm5DRDdzaHBKeFJtcTVZemtKb0dDQ3FfVmlYYjNIZ0Q0aXpja3cyZWVvY0hkUTBQa01rUm5NNlZkVUZZSnFoQ2Vxb2hVbTdRQnFCckIwemNPb0lSTXkwamhZS1dKTl9sUFlQWERCYnY3YWxxOGM0NXVXcXU3X2dqN0UzTzU?oc=5",
+        "published": "2026-10-31T01:27:00Z"
+      },
+      {
+        "title": "Lawsuit probes Roblox for allegedly misleading investors on age verification impact.",
+        "outlet": "Pluang",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRzhoT2VOTDFINnBubGpLRS1NampHaU1Uc1gtWFUwOHUtbF9BMzU3Zng1Y3dfOWFHSWphWTJRV1FZMnY5eUZ4UjNScTM0cmZBWUkxcVNRcnJxdTlhYUVRZ1lGTmFHRFM2cUJMYW9CMnRGazZjdGwzQ3VpVVVBNlN2WWJ5ZmNNVHlkWTVxZzlVWmk2WkFIdzFfb0FQcnBpSVdi?oc=5",
+        "published": "2026-10-29T18:29:20Z"
       }
     ]
   },
