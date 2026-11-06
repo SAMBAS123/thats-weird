@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-06T12:03:31Z",
+  "as_of": "2026-11-06T19:20:40Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 12,
+    "hits_7d": 11,
     "latest": [
       {
         "title": "Roblox Child Sexual Abuse Lawsuit",
@@ -107,12 +107,6 @@
         "published": "2026-11-01T12:44:26Z"
       },
       {
-        "title": "Popular online game on notice over child safety",
-        "outlet": "The Canberra Times",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbEJXX2VCUnJCaVg1aFNyRlpPcnQ0WGU5bTN0cXZiNk1vLV9pVEdPakdTdm95S1RPZWFOSUU4RzhlQ05mUWRiRXdCZHAzdVVQRjhOM2NWNi1NaUtXUzQ0a0tVZmpVRmNoRHZnVFFVWExIOW5ZOE1TU0FjWTN3SmVEY1ZEekRvR2dUZU8xSm9lY2lCVkRQZFB5UDk1MA?oc=5",
-        "published": "2026-11-04T07:35:10Z"
-      },
-      {
         "title": "Donny Parenteau lends signature fiddle sound to Roblox",
         "outlet": "CTV News",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFc5dERBd0FiZlBqdkh5Rkd6VGIza3RJcFB2bmw1RHd5RXAyYmRqQ3ZZbEhVUHYtcUFMVVFCMGUwS2JBTW9TZTJmRlo3MVF6QlNuMGhYQ2xxdlN0MUZldFpoaEJQaENSMHhJYk41TXBFTWRrRVBPTndzTU5sc3gydVFVV3lpdzl1UkxhdHl0UVByNVp4QWtjLTJndEo?oc=5",
@@ -123,6 +117,12 @@
         "outlet": "Rock Paper Shotgun",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwaS11dXcyREIwUWlzcll1VUtFV0JDcXBBajR4cUNhYlFvS1htYWhjRmJrVGFaSFJQZ3lzT0lrZUFBOFZRck9ocEY2NE45Skt5NC1vQVVBanZ4cnZVRWtfZ1NmcG4?oc=5",
         "published": "2026-11-05T10:49:20Z"
+      },
+      {
+        "title": "Shibuya codes (November 2026)",
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43SnFWVU0tV1BBdjVrOUdiYzJkeWRuTFdqSktzS0VKSTZsZ18xbkhCWkl2eC0yTXU1MXhsQm1PR2RYV2E5VEZSdWlKOE9PWWRSV3hvSHRnWF9GUQ?oc=5",
+        "published": "2026-11-06T09:35:10Z"
       }
     ]
   },
