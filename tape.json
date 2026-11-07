@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-06T19:20:40Z",
+  "as_of": "2026-11-07T00:06:05Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 11,
+    "hits_7d": 14,
     "latest": [
       {
         "title": "Roblox Child Sexual Abuse Lawsuit",
@@ -89,10 +89,28 @@
         "published": "2026-11-04T14:10:55Z"
       },
       {
+        "title": "Snapchat Sexual Exploitation Lawsuit Alleges Disappearing Messages Helped Predators Groom Children",
+        "outlet": "AboutLawsuits.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ0tEOUVNWnFfbUQ0Q1VfR19mdWRWallWNUlpU3JaSHBZeXdCVFluUzcyeTBRYjEwd0k1bFJKU2V6Q3E5UnR3alhiaktTT3lOX1JUSG5WUXlsTXVtd3lKRTRWeEpNc3pHb3RtY2Q5QlpfTlNpODBBeWJ1TU5aeGJmcVF5dEhyUkhGX2QwTVl3YXBzQkl1WF9BT0VoWlIyeTFaYzJGOHgxdk9BbmpDSUhwNWxVNG5wS2JmeEZCYkwxVjFkY2hsaDQ3Sg?oc=5",
+        "published": "2026-11-06T15:00:00Z"
+      },
+      {
         "title": "Roblox and Discord Face Child Sexual Abuse Lawsuits",
         "outlet": "The Legal Examiner",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd05lTzJKWW9GbUVmTFZRVmVOWmdHZFBxemdHZUVHcmtCQVdDdmZRX0VtRTBHM1BRb1pfUGJQZkY5RlFsUDYzVEd1V0IycjFUY1hQckxYNFpPT1dnNWNXOFh4cENucm9JQlR6bkd1REw0amVtaFBGb09oT2xFRXZySm1GSk44UDVhUnROODRkcWtRZTBUd1lHVnk3UXhpVDNNamVxVzRGdTh6Zl92ejN4VlgySFBfZDZPb05UZVdnSmpTTXlGTVMtSUM5UjRYdUF1?oc=5",
         "published": "2026-11-06T02:24:40Z"
+      },
+      {
+        "title": "Arkansas accuses prediction market, online gaming platform of operating illegal gambling",
+        "outlet": "Arkansas Advocate",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYzJNaXVIVDhwNE9yMUtER3k5VXVBUzVvQjZEc1dTNTBQS1hwR1pidlVyT0tVV0tVM1plcUFXTzJsV0MtTGMyV29TWE4zX3p0d212YVlKNVJrQlNXTGFaOU5LSGUtRHFzNnBMVjNFUnVBUHotOHJER0xURFpBV19xOVpCcnFnTEwtcExZN1RTOTBEeXBzMXRNOTdTUW9Vc1ZMWGVBeHl0azNnSlR4bTd4OWstWTZQRUV4TXJHUDZ6QXBCdkx0OGVJ?oc=5",
+        "published": "2026-11-05T01:10:23Z"
+      },
+      {
+        "title": "Apple’s DOJ antitrust battle sparks disputes with Epic, Samsung, Oura, Roblox, more",
+        "outlet": "9to5Mac",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkFCR1VfYUZUZ0J4MHVxMmk1TFRBa1Q1Qm55ZzlFQlVWQllnbGFvMUtyUWtsRzl6YTlESm1YaXdtSVc0SkhodHhRMHJZeDhJMW14OGNWWGo2UnhMenFEWGNjM1JINnRzYVhTQkdsVXd0WkozZW1idmlHTVhiZlRJakY2VElJanl6MkVLZkZYOXV4WVR1S3VjdlZuTnloU0d6RldqUXBUYkRTQVIyMzR3?oc=5",
+        "published": "2026-11-06T20:06:00Z"
       },
       {
         "title": "Alleged Roblox child predator facing federal charges",
@@ -101,28 +119,10 @@
         "published": "2026-11-05T03:52:27Z"
       },
       {
-        "title": "Dragon Soul codes (November 2026)",
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XbVl3bkZGdTJkX2xwWVNfbHR4cU1XdmZ4WWpCWEpaeDRCYWtBbG8ybTByY1Y4c3FfazZUNDRMNWEyMjRNSkRYbVBtbFd0YjBzR2xNSW5Zc095RXA5eGFYSEpVVzNqSmhD?oc=5",
-        "published": "2026-11-01T12:44:26Z"
-      },
-      {
-        "title": "Donny Parenteau lends signature fiddle sound to Roblox",
-        "outlet": "CTV News",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFc5dERBd0FiZlBqdkh5Rkd6VGIza3RJcFB2bmw1RHd5RXAyYmRqQ3ZZbEhVUHYtcUFMVVFCMGUwS2JBTW9TZTJmRlo3MVF6QlNuMGhYQ2xxdlN0MUZldFpoaEJQaENSMHhJYk41TXBFTWRrRVBPTndzTU5sc3gydVFVV3lpdzl1UkxhdHl0UVByNVp4QWtjLTJndEo?oc=5",
-        "published": "2026-11-04T12:58:31Z"
-      },
-      {
         "title": "Venom Evolution codes (November 2026)",
         "outlet": "Rock Paper Shotgun",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwaS11dXcyREIwUWlzcll1VUtFV0JDcXBBajR4cUNhYlFvS1htYWhjRmJrVGFaSFJQZ3lzT0lrZUFBOFZRck9ocEY2NE45Skt5NC1vQVVBanZ4cnZVRWtfZ1NmcG4?oc=5",
         "published": "2026-11-05T10:49:20Z"
-      },
-      {
-        "title": "Shibuya codes (November 2026)",
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43SnFWVU0tV1BBdjVrOUdiYzJkeWRuTFdqSktzS0VKSTZsZ18xbkhCWkl2eC0yTXU1MXhsQm1PR2RYV2E5VEZSdWlKOE9PWWRSV3hvSHRnWF9GUQ?oc=5",
-        "published": "2026-11-06T09:35:10Z"
       }
     ]
   },
