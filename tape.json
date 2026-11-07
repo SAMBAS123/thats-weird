@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-07T00:06:05Z",
+  "as_of": "2026-11-07T05:54:08Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 14,
+    "hits_7d": 13,
     "latest": [
       {
         "title": "Roblox Child Sexual Abuse Lawsuit",
@@ -119,10 +119,10 @@
         "published": "2026-11-05T03:52:27Z"
       },
       {
-        "title": "Venom Evolution codes (November 2026)",
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwaS11dXcyREIwUWlzcll1VUtFV0JDcXBBajR4cUNhYlFvS1htYWhjRmJrVGFaSFJQZ3lzT0lrZUFBOFZRck9ocEY2NE45Skt5NC1vQVVBanZ4cnZVRWtfZ1NmcG4?oc=5",
-        "published": "2026-11-05T10:49:20Z"
+        "title": "Video Game Addiction Lawsuit Settlement Amounts (2026)",
+        "outlet": "Sokolove Law",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFdWQ0amF0VzNnckhvMndfTGpGQkVoTkJ5a05YdHJWQTdhSEd6RUJhbG9RdlVxU1ZzanZqeVFkeDU5VmFCQUUtazh0Q19LYWxvYmprWkxLRHlfWWtraVNJa0EyTC1MVHdzcHdFcFBzbEVFNEE?oc=5",
+        "published": "2026-11-01T19:31:58Z"
       }
     ]
   },
