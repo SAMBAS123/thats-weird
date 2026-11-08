@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-08T08:56:48Z",
+  "as_of": "2026-11-08T15:56:40Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 13,
+    "hits_7d": 14,
     "latest": [
       {
         "title": "Roblox Child Sexual Abuse Lawsuit",
@@ -113,16 +113,16 @@
         "published": "2026-11-06T20:06:00Z"
       },
       {
+        "title": "Apple’s DOJ Antitrust Fight Pulls in Epic, Samsung, Oura, and Roblox",
+        "outlet": "Memeburn",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdkNia3pkWmFUZFVGcVN0U3FLYW9IYnRrZlV0XzF1RDFMUzVsYVVXQkM3WW1pZ2V4WW1ZOWpCUS1Jc1Rqa09mbTNpSTNqTC1qQTBCdHpZcUFkVTJmUDFfNWtnN2gtcVJwY0NyVHZSbHNwVzFYVnVMRW0tV3BpSGJDZ0sxeWRkSVZBSFZUODE1NA?oc=5",
+        "published": "2026-11-07T11:11:22Z"
+      },
+      {
         "title": "Alleged Roblox child predator facing federal charges",
         "outlet": "Texomashomepage.com",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWjlzbDBZNmhQS1lLSDFRZ3gxN1ZraVBFeWtTVkJSdlE5c1Fsd2JwY3EzeTdBUW1wbDl1NjAxdnUtVlhjN1ZEX0Nrb2IwRVNUV3R1Ry1LSTU5bGhLV0c5WXFoNHhXVjR4a2hJRl9QbElrR2o2TlNQR1pmWmtBbFdkdWgzUnN0TzdkLUh6bkZCcVdDcTFhclRMcjdzSzN4ZnhJM0FV0gGoAUFVX3lxTE1hWEloemJCM0pXNFlCbDZrVU1uMlNMWklwajBPbHZrbDFJRWlOcEJjZmJpWTlxbFBlVnRtQkE0TVVYOUh1LWl2WlJ0alczemdOVXNKclNieFRsYVBqTDlhQkh5Mi1SVmluWEhjRTZ4TjV1d3FMZ2FpUllGcHdnOGg1TXhaOVpwTWNUX1Q4bHZzX0tGcWN1Sk9rTXJ4S2tHOFhsZ0dsTTZJTA?oc=5",
         "published": "2026-11-05T03:52:27Z"
-      },
-      {
-        "title": "Video Game Addiction Lawsuit Settlement Amounts (2026)",
-        "outlet": "Sokolove Law",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFdWQ0amF0VzNnckhvMndfTGpGQkVoTkJ5a05YdHJWQTdhSEd6RUJhbG9RdlVxU1ZzanZqeVFkeDU5VmFCQUUtazh0Q19LYWxvYmprWkxLRHlfWWtraVNJa0EyTC1MVHdzcHdFcFBzbEVFNEE?oc=5",
-        "published": "2026-11-01T19:31:58Z"
       }
     ]
   },
