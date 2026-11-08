@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-07T21:45:49Z",
+  "as_of": "2026-11-08T01:24:20Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 10,
+    "hits_7d": 11,
     "latest": [
       {
         "title": "Roblox Child Sexual Abuse Lawsuit",
@@ -83,16 +83,16 @@
         "published": "2026-11-02T13:20:44Z"
       },
       {
-        "title": "Snapchat Sexual Exploitation Lawsuit Alleges Disappearing Messages Helped Predators Groom Children",
-        "outlet": "AboutLawsuits.com",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ0tEOUVNWnFfbUQ0Q1VfR19mdWRWallWNUlpU3JaSHBZeXdCVFluUzcyeTBRYjEwd0k1bFJKU2V6Q3E5UnR3alhiaktTT3lOX1JUSG5WUXlsTXVtd3lKRTRWeEpNc3pHb3RtY2Q5QlpfTlNpODBBeWJ1TU5aeGJmcVF5dEhyUkhGX2QwTVl3YXBzQkl1WF9BT0VoWlIyeTFaYzJGOHgxdk9BbmpDSUhwNWxVNG5wS2JmeEZCYkwxVjFkY2hsaDQ3Sg?oc=5",
-        "published": "2026-11-06T15:00:00Z"
-      },
-      {
         "title": "/E Wave at Cornell Roblox Club!",
         "outlet": "The Cornell Daily Sun",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12U3JDSzRFb1prcWRWTGtHSWUyTl8zc1dQZnUwbkhKNnpIUTVBeEJjWDZWVzV1QktIY3VNeElUaTZ0UTVsTTJkWEVPbDBmY2xUNDhBNXV5dFJYU1BvMGF2SW9yOWplNWNRM3Q2bGtuTzBWR2JnaHJRblg5MUc?oc=5",
         "published": "2026-11-04T14:10:55Z"
+      },
+      {
+        "title": "Snapchat Sexual Exploitation Lawsuit Alleges Disappearing Messages Helped Predators Groom Children",
+        "outlet": "AboutLawsuits.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ0tEOUVNWnFfbUQ0Q1VfR19mdWRWallWNUlpU3JaSHBZeXdCVFluUzcyeTBRYjEwd0k1bFJKU2V6Q3E5UnR3alhiaktTT3lOX1JUSG5WUXlsTXVtd3lKRTRWeEpNc3pHb3RtY2Q5QlpfTlNpODBBeWJ1TU5aeGJmcVF5dEhyUkhGX2QwTVl3YXBzQkl1WF9BT0VoWlIyeTFaYzJGOHgxdk9BbmpDSUhwNWxVNG5wS2JmeEZCYkwxVjFkY2hsaDQ3Sg?oc=5",
+        "published": "2026-11-06T15:00:00Z"
       },
       {
         "title": "Roblox and Discord Face Child Sexual Abuse Lawsuits",
