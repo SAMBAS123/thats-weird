@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-08T15:56:40Z",
+  "as_of": "2026-11-08T20:27:19Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,8 +74,14 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 14,
+    "hits_7d": 16,
     "latest": [
+      {
+        "title": "Roblox Lawsuit November 2026: MDL Status, Settlements & Claims",
+        "outlet": "Consumer Notice",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VWnBoYVAwVVV1X1lCT1Z1NVlKLVdUcFA2Vjg0NHl2MHAzTDdwcnc2Z0NXUEd1UnRIa0wyRVIzQ3VkdnVSTnB4aW5ieDg3Q1B1djB2ci12VW1zMy1tLUgtZ0ln?oc=5",
+        "published": "2026-11-05T08:00:00Z"
+      },
       {
         "title": "Roblox Child Sexual Abuse Lawsuit",
         "outlet": "Lawsuit Information Center",
@@ -83,16 +89,16 @@
         "published": "2026-11-02T13:20:44Z"
       },
       {
-        "title": "/E Wave at Cornell Roblox Club!",
-        "outlet": "The Cornell Daily Sun",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12U3JDSzRFb1prcWRWTGtHSWUyTl8zc1dQZnUwbkhKNnpIUTVBeEJjWDZWVzV1QktIY3VNeElUaTZ0UTVsTTJkWEVPbDBmY2xUNDhBNXV5dFJYU1BvMGF2SW9yOWplNWNRM3Q2bGtuTzBWR2JnaHJRblg5MUc?oc=5",
-        "published": "2026-11-04T14:10:55Z"
-      },
-      {
         "title": "Snapchat Sexual Exploitation Lawsuit Alleges Disappearing Messages Helped Predators Groom Children",
         "outlet": "AboutLawsuits.com",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ0tEOUVNWnFfbUQ0Q1VfR19mdWRWallWNUlpU3JaSHBZeXdCVFluUzcyeTBRYjEwd0k1bFJKU2V6Q3E5UnR3alhiaktTT3lOX1JUSG5WUXlsTXVtd3lKRTRWeEpNc3pHb3RtY2Q5QlpfTlNpODBBeWJ1TU5aeGJmcVF5dEhyUkhGX2QwTVl3YXBzQkl1WF9BT0VoWlIyeTFaYzJGOHgxdk9BbmpDSUhwNWxVNG5wS2JmeEZCYkwxVjFkY2hsaDQ3Sg?oc=5",
         "published": "2026-11-06T15:00:00Z"
+      },
+      {
+        "title": "/E Wave at Cornell Roblox Club!",
+        "outlet": "The Cornell Daily Sun",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12U3JDSzRFb1prcWRWTGtHSWUyTl8zc1dQZnUwbkhKNnpIUTVBeEJjWDZWVzV1QktIY3VNeElUaTZ0UTVsTTJkWEVPbDBmY2xUNDhBNXV5dFJYU1BvMGF2SW9yOWplNWNRM3Q2bGtuTzBWR2JnaHJRblg5MUc?oc=5",
+        "published": "2026-11-04T14:10:55Z"
       },
       {
         "title": "Roblox and Discord Face Child Sexual Abuse Lawsuits",
@@ -107,22 +113,16 @@
         "published": "2026-11-05T01:10:23Z"
       },
       {
+        "title": "CPI | Apple’s DOJ Antitrust Fight Draws Epic, Samsung and Roblox Into Legal Clash",
+        "outlet": "PYMNTS.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcnVkQS1CQWJoT0paZl9kUi1QQk1kMWwxdVdSdlhvTDVTeERvRXk5cWxadkN5MWZZaEFEYU9OU2h6eFdMd2txQmxNa0VQb3I2VXBlQ200clZKZjUyazJmcGI3bGJZTVV0S3g2NVcyS3gwZ1Boa0NqVUFlRUlvLXFRNW4xeG45OWpHM1gzQVVnSnJJNDZvZDZNVERLQldxejFpcnV2V0k4dVUxNnc?oc=5",
+        "published": "2026-11-08T17:09:46Z"
+      },
+      {
         "title": "Apple’s DOJ antitrust battle sparks disputes with Epic, Samsung, Oura, Roblox, more",
         "outlet": "9to5Mac",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkFCR1VfYUZUZ0J4MHVxMmk1TFRBa1Q1Qm55ZzlFQlVWQllnbGFvMUtyUWtsRzl6YTlESm1YaXdtSVc0SkhodHhRMHJZeDhJMW14OGNWWGo2UnhMenFEWGNjM1JINnRzYVhTQkdsVXd0WkozZW1idmlHTVhiZlRJakY2VElJanl6MkVLZkZYOXV4WVR1S3VjdlZuTnloU0d6RldqUXBUYkRTQVIyMzR3?oc=5",
         "published": "2026-11-06T20:06:00Z"
-      },
-      {
-        "title": "Apple’s DOJ Antitrust Fight Pulls in Epic, Samsung, Oura, and Roblox",
-        "outlet": "Memeburn",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdkNia3pkWmFUZFVGcVN0U3FLYW9IYnRrZlV0XzF1RDFMUzVsYVVXQkM3WW1pZ2V4WW1ZOWpCUS1Jc1Rqa09mbTNpSTNqTC1qQTBCdHpZcUFkVTJmUDFfNWtnN2gtcVJwY0NyVHZSbHNwVzFYVnVMRW0tV3BpSGJDZ0sxeWRkSVZBSFZUODE1NA?oc=5",
-        "published": "2026-11-07T11:11:22Z"
-      },
-      {
-        "title": "Alleged Roblox child predator facing federal charges",
-        "outlet": "Texomashomepage.com",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWjlzbDBZNmhQS1lLSDFRZ3gxN1ZraVBFeWtTVkJSdlE5c1Fsd2JwY3EzeTdBUW1wbDl1NjAxdnUtVlhjN1ZEX0Nrb2IwRVNUV3R1Ry1LSTU5bGhLV0c5WXFoNHhXVjR4a2hJRl9QbElrR2o2TlNQR1pmWmtBbFdkdWgzUnN0TzdkLUh6bkZCcVdDcTFhclRMcjdzSzN4ZnhJM0FV0gGoAUFVX3lxTE1hWEloemJCM0pXNFlCbDZrVU1uMlNMWklwajBPbHZrbDFJRWlOcEJjZmJpWTlxbFBlVnRtQkE0TVVYOUh1LWl2WlJ0alczemdOVXNKclNieFRsYVBqTDlhQkh5Mi1SVmluWEhjRTZ4TjV1d3FMZ2FpUllGcHdnOGg1TXhaOVpwTWNUX1Q4bHZzX0tGcWN1Sk9rTXJ4S2tHOFhsZ0dsTTZJTA?oc=5",
-        "published": "2026-11-05T03:52:27Z"
       }
     ]
   },
