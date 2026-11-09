@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-09T07:54:54Z",
+  "as_of": "2026-11-09T18:44:22Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,19 +74,13 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 18,
+    "hits_7d": 21,
     "latest": [
       {
         "title": "Roblox Lawsuit November 2026: MDL Status, Settlements & Claims",
         "outlet": "Consumer Notice",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VWnBoYVAwVVV1X1lCT1Z1NVlKLVdUcFA2Vjg0NHl2MHAzTDdwcnc2Z0NXUEd1UnRIa0wyRVIzQ3VkdnVSTnB4aW5ieDg3Q1B1djB2ci12VW1zMy1tLUgtZ0ln?oc=5",
         "published": "2026-11-05T08:00:00Z"
-      },
-      {
-        "title": "Roblox Child Sexual Abuse Lawsuit",
-        "outlet": "Lawsuit Information Center",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mZ1RSZGJfTFVSUnc0OGFBSkY0VlVzYWVLY0NvNFkzYkxNSVlYUnNPeUxMSXcwVXBNeGh5NGU3d1hKdlFQZGFuSVZqX0QyOWFmUHpNaVFsTy1XUy1GVm00ZnJQc2swWVBodzUxTV9rRFdEZ190aGd6X3B4Qmc?oc=5",
-        "published": "2026-11-02T13:20:44Z"
       },
       {
         "title": "Snapchat Sexual Exploitation Lawsuit Alleges Disappearing Messages Helped Predators Groom Children",
@@ -123,6 +117,12 @@
         "outlet": "Consumer Notice",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YWnVSS1RHUVBWNmVVLURKV3NoVjZUVnFGU1NHR1QyVzVxWjlOVXVXRnVOcl9xQWR3MVJ4ZWNWc0NwWEV3bl9nR2hENWRBeG5RUURFbUZlZUpVVFhQeVJrMGdlMWV3VllJY1o3cw?oc=5",
         "published": "2026-11-03T08:00:00Z"
+      },
+      {
+        "title": "Apple’s DOJ antitrust battle sparks disputes with Epic, Samsung, Oura, Roblox, more",
+        "outlet": "9to5Mac",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkFCR1VfYUZUZ0J4MHVxMmk1TFRBa1Q1Qm55ZzlFQlVWQllnbGFvMUtyUWtsRzl6YTlESm1YaXdtSVc0SkhodHhRMHJZeDhJMW14OGNWWGo2UnhMenFEWGNjM1JINnRzYVhTQkdsVXd0WkozZW1idmlHTVhiZlRJakY2VElJanl6MkVLZkZYOXV4WVR1S3VjdlZuTnloU0d6RldqUXBUYkRTQVIyMzR3?oc=5",
+        "published": "2026-11-06T20:06:00Z"
       }
     ]
   },
