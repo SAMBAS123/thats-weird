@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-10T23:15:43Z",
+  "as_of": "2026-11-11T02:47:52Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 21,
+    "hits_7d": 22,
     "latest": [
       {
         "title": "Roblox Lawsuit November 2026: MDL Status, Settlements & Claims",
@@ -119,10 +119,10 @@
         "published": "2026-11-05T03:52:27Z"
       },
       {
-        "title": "Parents warned extremist groups are targeting a growing number of kids online across Prairies",
-        "outlet": "CBC",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeFJmVXVuN085d0MwNHF0Q1BTT2dZYXdnMU96ZU5uQWlVb3JHZHNZdXJrcWp2WndiRUFwbzhhVkJKbkZMX0VKaGdkZ1NVdTc3LXBod2dEOHpvRV9yVTF2QzVlV0FIaDc2aXdEeTZqbHBLZWQzb0x1dy1OcDBxYVNtSkl5RTl5S09J?oc=5",
-        "published": "2026-11-09T10:00:00Z"
+        "title": "Apple’s DOJ antitrust battle sparks disputes with Epic, Samsung, Oura, Roblox, more",
+        "outlet": "9to5Mac",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkFCR1VfYUZUZ0J4MHVxMmk1TFRBa1Q1Qm55ZzlFQlVWQllnbGFvMUtyUWtsRzl6YTlESm1YaXdtSVc0SkhodHhRMHJZeDhJMW14OGNWWGo2UnhMenFEWGNjM1JINnRzYVhTQkdsVXd0WkozZW1idmlHTVhiZlRJakY2VElJanl6MkVLZkZYOXV4WVR1S3VjdlZuTnloU0d6RldqUXBUYkRTQVIyMzR3?oc=5",
+        "published": "2026-11-06T20:06:00Z"
       }
     ]
   },
