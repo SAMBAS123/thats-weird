@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-13T06:37:33Z",
+  "as_of": "2026-11-13T15:20:58Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 22,
+    "hits_7d": 17,
     "latest": [
       {
         "title": "Instagram, Roblox and Snapchat Lawsuit Alleges Online Grooming Forced Family to Move After Threats",
@@ -119,10 +119,10 @@
         "published": "2026-11-06T20:06:00Z"
       },
       {
-        "title": "Parents warned extremist groups are targeting a growing number of kids online across Prairies",
-        "outlet": "CBC",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeFJmVXVuN085d0MwNHF0Q1BTT2dZYXdnMU96ZU5uQWlVb3JHZHNZdXJrcWp2WndiRUFwbzhhVkJKbkZMX0VKaGdkZ1NVdTc3LXBod2dEOHpvRV9yVTF2QzVlV0FIaDc2aXdEeTZqbHBLZWQzb0x1dy1OcDBxYVNtSkl5RTl5S09J?oc=5",
-        "published": "2026-11-09T10:00:00Z"
+        "title": "Kentucky attorney general takes on Discord over child safety",
+        "outlet": "The Courier-Journal",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdG9KYXhudzRlbWJhcllMcUJFb1dpckNuTFhRUFJCbGtuWDNiY1c1RVR4ZmlaZ1VZSmVfVDhwRlBJbXhNWVJRUmJMVmFBQzBOZzdmTm5PV2RzZGZ5VWRtdDFpUHJDcXlzendySGpuZVJuOXBsVGw4QVhjdjhJSmNrTVc4dDZHaDRKbHNfSWtxMThMRzlHeVlfNmJ3YkdvY3AtR29aUUZyZndCbTJWR1RNZG42WlpQZ21WTXU4YzN1OTRGQWIyanZtcUFWdS1lNG5COGxvelFlbw?oc=5",
+        "published": "2026-11-09T10:03:00Z"
       }
     ]
   },
