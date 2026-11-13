@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-12T23:39:14Z",
+  "as_of": "2026-11-13T06:37:33Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 21,
+    "hits_7d": 22,
     "latest": [
       {
         "title": "Instagram, Roblox and Snapchat Lawsuit Alleges Online Grooming Forced Family to Move After Threats",
@@ -87,12 +87,6 @@
         "outlet": "Mashable",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41cmxuN0ljbWhtUEQzNTlfUUdpZWJrUm1OQVR2SGVjWkd0MU5VSWpuRVZSRFVwZVp1akZ1M0c1d0w4QjJscnV6dWJJcldSMzZ0V01WQVotTWYxVW1zc2VleEdva1dGbzEwTlgtZ2xVNFp4Wko2c0R6RHZYY0tEUQ?oc=5",
         "published": "2026-11-09T22:47:38Z"
-      },
-      {
-        "title": "Roblox and Discord Face Child Sexual Abuse Lawsuits",
-        "outlet": "The Legal Examiner",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd05lTzJKWW9GbUVmTFZRVmVOWmdHZFBxemdHZUVHcmtCQVdDdmZRX0VtRTBHM1BRb1pfUGJQZkY5RlFsUDYzVEd1V0IycjFUY1hQckxYNFpPT1dnNWNXOFh4cENucm9JQlR6bkd1REw0amVtaFBGb09oT2xFRXZySm1GSk44UDVhUnROODRkcWtRZTBUd1lHVnk3UXhpVDNNamVxVzRGdTh6Zl92ejN4VlgySFBfZDZPb05UZVdnSmpTTXlGTVMtSUM5UjRYdUF1?oc=5",
-        "published": "2026-11-06T02:24:40Z"
       },
       {
         "title": "Montclair Schools Denies Liability, Cites Parents’ Role in Monitoring Student’s Laptop",
@@ -123,6 +117,12 @@
         "outlet": "9to5Mac",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkFCR1VfYUZUZ0J4MHVxMmk1TFRBa1Q1Qm55ZzlFQlVWQllnbGFvMUtyUWtsRzl6YTlESm1YaXdtSVc0SkhodHhRMHJZeDhJMW14OGNWWGo2UnhMenFEWGNjM1JINnRzYVhTQkdsVXd0WkozZW1idmlHTVhiZlRJakY2VElJanl6MkVLZkZYOXV4WVR1S3VjdlZuTnloU0d6RldqUXBUYkRTQVIyMzR3?oc=5",
         "published": "2026-11-06T20:06:00Z"
+      },
+      {
+        "title": "Parents warned extremist groups are targeting a growing number of kids online across Prairies",
+        "outlet": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeFJmVXVuN085d0MwNHF0Q1BTT2dZYXdnMU96ZU5uQWlVb3JHZHNZdXJrcWp2WndiRUFwbzhhVkJKbkZMX0VKaGdkZ1NVdTc3LXBod2dEOHpvRV9yVTF2QzVlV0FIaDc2aXdEeTZqbHBLZWQzb0x1dy1OcDBxYVNtSkl5RTl5S09J?oc=5",
+        "published": "2026-11-09T10:00:00Z"
       }
     ]
   },
