@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-13T15:20:58Z",
+  "as_of": "2026-11-13T21:57:30Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 17,
+    "hits_7d": 15,
     "latest": [
       {
         "title": "Instagram, Roblox and Snapchat Lawsuit Alleges Online Grooming Forced Family to Move After Threats",
@@ -113,16 +113,16 @@
         "published": "2026-11-12T17:01:46Z"
       },
       {
-        "title": "Apple’s DOJ antitrust battle sparks disputes with Epic, Samsung, Oura, Roblox, more",
-        "outlet": "9to5Mac",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkFCR1VfYUZUZ0J4MHVxMmk1TFRBa1Q1Qm55ZzlFQlVWQllnbGFvMUtyUWtsRzl6YTlESm1YaXdtSVc0SkhodHhRMHJZeDhJMW14OGNWWGo2UnhMenFEWGNjM1JINnRzYVhTQkdsVXd0WkozZW1idmlHTVhiZlRJakY2VElJanl6MkVLZkZYOXV4WVR1S3VjdlZuTnloU0d6RldqUXBUYkRTQVIyMzR3?oc=5",
-        "published": "2026-11-06T20:06:00Z"
-      },
-      {
         "title": "Kentucky attorney general takes on Discord over child safety",
         "outlet": "The Courier-Journal",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdG9KYXhudzRlbWJhcllMcUJFb1dpckNuTFhRUFJCbGtuWDNiY1c1RVR4ZmlaZ1VZSmVfVDhwRlBJbXhNWVJRUmJMVmFBQzBOZzdmTm5PV2RzZGZ5VWRtdDFpUHJDcXlzendySGpuZVJuOXBsVGw4QVhjdjhJSmNrTVc4dDZHaDRKbHNfSWtxMThMRzlHeVlfNmJ3YkdvY3AtR29aUUZyZndCbTJWR1RNZG42WlpQZ21WTXU4YzN1OTRGQWIyanZtcUFWdS1lNG5COGxvelFlbw?oc=5",
         "published": "2026-11-09T10:03:00Z"
+      },
+      {
+        "title": "Apple’s DOJ Antitrust Fight Pulls in Epic, Samsung, Oura, and Roblox",
+        "outlet": "Memeburn",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdkNia3pkWmFUZFVGcVN0U3FLYW9IYnRrZlV0XzF1RDFMUzVsYVVXQkM3WW1pZ2V4WW1ZOWpCUS1Jc1Rqa09mbTNpSTNqTC1qQTBCdHpZcUFkVTJmUDFfNWtnN2gtcVJwY0NyVHZSbHNwVzFYVnVMRW0tV3BpSGJDZ0sxeWRkSVZBSFZUODE1NA?oc=5",
+        "published": "2026-11-13T01:10:36Z"
       }
     ]
   },
