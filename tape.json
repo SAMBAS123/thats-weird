@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-14T02:23:48Z",
+  "as_of": "2026-11-14T10:18:13Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,19 +74,13 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 15,
+    "hits_7d": 19,
     "latest": [
       {
         "title": "Instagram, Roblox and Snapchat Lawsuit Alleges Online Grooming Forced Family to Move After Threats",
         "outlet": "AboutLawsuits.com",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNm9hRDZuWkdKSEhsTDJQb05YNkR2WHhldjJBUkJBU1lZZTlHOVBxcW4yMHJ5WE1tLVpZcWRmVXZpN1F3cGpzOWlrNVhMbVc2cHJyLVpsZEZsbVQyUzRScnNlQ0F2OEpkNWxybWxGSDR1UThleEVxTDlvOUlyaEgwZi1RYlZMT3dkLUNEdGIyUnpMU2ZsMEsycjRSOHFHRlRmLUNHSG93?oc=5",
         "published": "2026-11-12T15:00:00Z"
-      },
-      {
-        "title": "Louisiana attorney general sues Roblox for exposing children to sexual predators",
-        "outlet": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41cmxuN0ljbWhtUEQzNTlfUUdpZWJrUm1OQVR2SGVjWkd0MU5VSWpuRVZSRFVwZVp1akZ1M0c1d0w4QjJscnV6dWJJcldSMzZ0V01WQVotTWYxVW1zc2VleEdva1dGbzEwTlgtZ2xVNFp4Wko2c0R6RHZYY0tEUQ?oc=5",
-        "published": "2026-11-09T22:47:38Z"
       },
       {
         "title": "Montclair Schools Denies Liability, Cites Parents’ Role in Monitoring Student’s Laptop",
@@ -111,6 +105,12 @@
         "outlet": "Roblox",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMnIyVV82MkJfX2RteGZYZEd0ZE5ZRzJLbElkeFlLcDhqQU92eEc3R2pIdVVVclQ1Uk1HQS0tWTlIYTIzQk5ocEZHOWhIX3JTSXZsak8yZ3dZWDRJckJ4dmRpeDVpVC13MTExcmRaaF9INEk0RzZpbXVXSVI0VzlVWFZvZHZIVDVfQ2ZNS0RpbTcyNDJl?oc=5",
         "published": "2026-11-12T17:01:46Z"
+      },
+      {
+        "title": "RBLX Stock Quote Price and Forecast",
+        "outlet": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wOC1MeGpVZlNQQkpTNnp4bjdNV0FoUXllNjhSUVFhQS1MZk1hUHZpN2NyUUxmY1ZzZEVPd1ZZSDNjbnotd091M1dPMkctSGYz?oc=5",
+        "published": "2026-11-11T21:15:21Z"
       },
       {
         "title": "Kentucky attorney general takes on Discord over child safety",
