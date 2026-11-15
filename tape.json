@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-14T21:26:20Z",
+  "as_of": "2026-11-15T01:51:50Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 20,
+    "hits_7d": 21,
     "latest": [
       {
         "title": "Instagram, Roblox and Snapchat Lawsuit Alleges Online Grooming Forced Family to Move After Threats",
@@ -113,16 +113,16 @@
         "published": "2026-11-12T17:01:46Z"
       },
       {
-        "title": "Apple’s DOJ Antitrust Fight Pulls in Epic, Samsung, Oura, and Roblox",
-        "outlet": "Memeburn",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdkNia3pkWmFUZFVGcVN0U3FLYW9IYnRrZlV0XzF1RDFMUzVsYVVXQkM3WW1pZ2V4WW1ZOWpCUS1Jc1Rqa09mbTNpSTNqTC1qQTBCdHpZcUFkVTJmUDFfNWtnN2gtcVJwY0NyVHZSbHNwVzFYVnVMRW0tV3BpSGJDZ0sxeWRkSVZBSFZUODE1NA?oc=5",
-        "published": "2026-11-13T01:10:36Z"
-      },
-      {
         "title": "Man jailed for grooming 70 girls on Snapchat, Wink and Roblox",
         "outlet": "BBC",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uWmR2a3Buc0NXQ1RsM1hMZTJiZGduVlVwQzlWU0hKdVFUNGFrYmRJYlZiU1h6bGdKb1R6X0tNLUNGWWNKOFBISlRuOHR6VVlYTmxEMGV4d1ZsdHNKNnc?oc=5",
         "published": "2026-11-13T17:10:27Z"
+      },
+      {
+        "title": "Apple’s DOJ Antitrust Fight Pulls in Epic, Samsung, Oura, and Roblox",
+        "outlet": "Memeburn",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdkNia3pkWmFUZFVGcVN0U3FLYW9IYnRrZlV0XzF1RDFMUzVsYVVXQkM3WW1pZ2V4WW1ZOWpCUS1Jc1Rqa09mbTNpSTNqTC1qQTBCdHpZcUFkVTJmUDFfNWtnN2gtcVJwY0NyVHZSbHNwVzFYVnVMRW0tV3BpSGJDZ0sxeWRkSVZBSFZUODE1NA?oc=5",
+        "published": "2026-11-13T01:10:36Z"
       }
     ]
   },
