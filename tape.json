@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-15T01:51:50Z",
+  "as_of": "2026-11-15T09:18:32Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,19 +74,19 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 21,
+    "hits_7d": 22,
     "latest": [
+      {
+        "title": "Roblox Lawsuit November 2026: MDL Status, Settlements & Claims",
+        "outlet": "Consumer Notice",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VWnBoYVAwVVV1X1lCT1Z1NVlKLVdUcFA2Vjg0NHl2MHAzTDdwcnc2Z0NXUEd1UnRIa0wyRVIzQ3VkdnVSTnB4aW5ieDg3Q1B1djB2ci12VW1zMy1tLUgtZ0ln?oc=5",
+        "published": "2026-11-12T08:00:00Z"
+      },
       {
         "title": "Instagram, Roblox and Snapchat Lawsuit Alleges Online Grooming Forced Family to Move After Threats",
         "outlet": "AboutLawsuits.com",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNm9hRDZuWkdKSEhsTDJQb05YNkR2WHhldjJBUkJBU1lZZTlHOVBxcW4yMHJ5WE1tLVpZcWRmVXZpN1F3cGpzOWlrNVhMbVc2cHJyLVpsZEZsbVQyUzRScnNlQ0F2OEpkNWxybWxGSDR1UThleEVxTDlvOUlyaEgwZi1RYlZMT3dkLUNEdGIyUnpMU2ZsMEsycjRSOHFHRlRmLUNHSG93?oc=5",
         "published": "2026-11-12T15:00:00Z"
-      },
-      {
-        "title": "Snapchat Lawsuits 2026: Addiction & Child Exploitation Claims",
-        "outlet": "Consumer Notice",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mN2dvbElRSkFPTmFPMFRLQVp1aHhMR2plNHRqaFJzQUtLZkpWRkVqLXlZcUM4R0RGX1I1NlliUElMektNblFNZldSMGFoRTU5dmxBbXZremRBWjNpZVdTWF9kZ3o?oc=5",
-        "published": "2026-11-12T08:00:00Z"
       },
       {
         "title": "Montclair Schools Denies Liability, Cites Parents’ Role in Monitoring Student’s Laptop",
@@ -95,7 +95,7 @@
         "published": "2026-11-12T01:10:04Z"
       },
       {
-        "title": "Who checks the checker? Regulators test three assurance models",
+        "title": "Who checks the checker? Three ways regulators use outside reviews",
         "outlet": "The Modern Regulator",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZGI5ZjJnbjFqWGRMeFpBM0ZiMWw2Qk1sMERpM295N3F0dlAtS21CVjI4eEw1aGdTWU9jWTNST204VjdOOWdpOEtXNWNyS2VlNkxGdGo5V3pYMUdVZjEtRnpVN3VRLWFFNGZzdExxTHRya2FyLXMwcTJxUzNVcUZjN1FmSQ?oc=5",
         "published": "2026-11-09T22:54:41Z"
