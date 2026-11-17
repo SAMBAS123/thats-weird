@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-17T03:48:24Z",
+  "as_of": "2026-11-17T13:17:53Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 22,
+    "hits_7d": 20,
     "latest": [
       {
         "title": "Roblox Lawsuit November 2026: MDL Status, Settlements & Claims",
@@ -95,16 +95,16 @@
         "published": "2026-11-16T21:52:43Z"
       },
       {
-        "title": "Roblox Focus of Child Safety Hearing Tuesday in Senate",
-        "outlet": "Bloomberg Law News",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcEVtd1lGWkFzWnROZ1VTaDJQYXRpcF9QZWVCM3UtaEY2R212Z0hoaFJYWXQyRXlRZzh2MTRzYzZrRkczVG9sVnVYRW9qRXhISE5iaE1tQkEyMm12bVN1cEFibkU0UGhXT213MEdjbWxoaEJKYVdUa1hmOEM0RVZjZmczSUJvRHlKWktrODNSVF9tdENlUHFQeno2Mms?oc=5",
-        "published": "2026-11-16T21:52:00Z"
-      },
-      {
         "title": "Instagram, Roblox and Snapchat Lawsuit Alleges Online Grooming Forced Family to Move After Threats",
         "outlet": "AboutLawsuits.com",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNm9hRDZuWkdKSEhsTDJQb05YNkR2WHhldjJBUkJBU1lZZTlHOVBxcW4yMHJ5WE1tLVpZcWRmVXZpN1F3cGpzOWlrNVhMbVc2cHJyLVpsZEZsbVQyUzRScnNlQ0F2OEpkNWxybWxGSDR1UThleEVxTDlvOUlyaEgwZi1RYlZMT3dkLUNEdGIyUnpMU2ZsMEsycjRSOHFHRlRmLUNHSG93?oc=5",
         "published": "2026-11-12T15:00:00Z"
+      },
+      {
+        "title": "Roblox Focus of Child Safety Hearing Tuesday in Senate",
+        "outlet": "Bloomberg Law News",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1BZU1M4dHNnaDdHeUU0eC1rNm5LYlVBYS1BeXJ1d291dU9FVXA3b3pwdWQ5c2xObkJtQ1FjNTg0Zk5IbkN1UnNFQkNWcmZSX19lOUNsaUxrMU9Gb0Q0ODE4SDZ1aTNnVzFsSVVkcU1HMlhGRmc5T2htZU9PRFNZakRhNlA5VnhoZ2UzMW1FMG1rWEpoVWx6enJuNzBlc3dlSmNMYWdGcmM?oc=5",
+        "published": "2026-11-16T21:52:00Z"
       },
       {
         "title": "Hawley, Durbin Introduce Bill Empowering Survivors of Online Exploitation Ahead of Groundbreaking Hearing on Roblox",
@@ -113,16 +113,16 @@
         "published": "2026-11-16T21:29:24Z"
       },
       {
-        "title": "Advocates & Survivors Testify on Child Safety Risks with Online Gaming Sites",
-        "outlet": "C-SPAN",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONXNBQTlfOHJfQ0Z1MzY4RzVNNlRMSWJOMnNTS0VzZi1DTnV1TkJCMi02el9BMFJ6cGxmdFRLeEVHNEc0WmNmcnVtLW40aU5LYWxCbmFoZTdDYlBWeVR6ZmtMc05iU1VlNVpiS3FvdlB1S3F6UHc4WERUYXVIUGhDdjdoem5yemNNVjdmOFMxRmdtdkFNVG84ZUFoMVNkQkVOajJGb1RzMHEwVG5qbHlXc1RGaGJVaUJpMllCOVVNOHU3a2kwUUE?oc=5",
-        "published": "2026-11-16T21:38:05Z"
+        "title": "Roblox investigation prompts new child safety legislation in U.S.",
+        "outlet": "KTTN",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcl9YNGY3VXlGR1BJWVV4d2NsWXJaSTZmb3d2azdOdEx1VGMxNllXOTFwTUZhMXozb3UxVktkcWVTeEVwTmlPUzg0YXZ4V2xPSW9qNEZqMEwzQWxGUzVaS2loNllDcFRYU0NQdFU5NGNvYzRoMWVib1lUREhmdlRVV3g0OVdEOVYyaUEyZk83NA?oc=5",
+        "published": "2026-11-17T10:27:43Z"
       },
       {
-        "title": "Roblox child safety: Senators to hold hearing in DC",
-        "outlet": "FOX 5 DC",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XRWJ0aFNsS1A3dGswelVuc2llU3dESWo0TTNiN2N3YW9GNzc2U29lZjV2amdZdzdoTFF1SkRnQzAzX3JSZXFLZ2Vfak5vM19GU2ZiSGtFR1oxXzJkTkh0cEpkRXVXaktXcy0yWU1meDdERFZjS25rZHpld1M?oc=5",
-        "published": "2026-11-16T13:33:41Z"
+        "title": "Montclair Schools Denies Liability, Cites Parents’ Role in Monitoring Student’s Laptop",
+        "outlet": "Montclair Local News",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUmNtVWJldF9RbkpSZTZpX0Q1TThSeU5EOG5KVDJSVkdIQnBUVzBHUU1BbDQ5MTJpTDEzdTNlUGZSU1dSeU5qUnBaMjJoc1VtNExUMTBabkdlUjJCc1JQSFdfY0ZaeW9lSWpld3BMS0dGMVpCMHdZTjE0OWhYWHNCU1Y5VmVOWEMxeTN1dHlpMGZJSTZzR25RMUhxX2RiRW01NURDUHdmcXZack8yaG1FSmJMS0p1Wkh0YkJTaA?oc=5",
+        "published": "2026-11-12T01:10:04Z"
       }
     ]
   },
