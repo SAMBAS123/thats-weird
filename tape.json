@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-16T20:25:27Z",
+  "as_of": "2026-11-17T03:48:24Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 20,
+    "hits_7d": 22,
     "latest": [
       {
         "title": "Roblox Lawsuit November 2026: MDL Status, Settlements & Claims",
@@ -83,46 +83,46 @@
         "published": "2026-11-12T08:00:00Z"
       },
       {
+        "title": "Hawley, Durbin introduce Roblox safety bill ahead of first-ever congressional hearing on the issue",
+        "outlet": "CBS News",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Hak4ySlBBWkFkODlSeGtvLVExZl9nZFBNZ1lpTlRienhDVmx1RkdEY3RaYmRLR2hqRnJuOVdhc3MwSTNLdkJITE12V29BeWo1cGptVnRHUWNmWGE1ZU8wcEl6eHZLb0NwVTMzZDc3OWs3cDg?oc=5",
+        "published": "2026-11-16T18:58:00Z"
+      },
+      {
+        "title": "Roblox Focus of Child Safety Hearing Tuesday in Senate",
+        "outlet": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa3NmN3pPTE90ZGdGUjU5aE4tNXhDQjI4WFlMbjl6TDZaTFpwWlZIWDVLQmhIVFNYOXhiVm83S0x5X1dRejlhdXphNThIRHMtU05FSFJwUkI2dG9nM01pM2VULTFNWE05YTRxbElRZC1CTVZUbldqcjNjUjg3ZlFFdG1keTBqazFJam5rSkJGVHdnM01RRFRoUTg5aTU0QnRmUFFiRVQwblc?oc=5",
+        "published": "2026-11-16T21:52:43Z"
+      },
+      {
+        "title": "Roblox Focus of Child Safety Hearing Tuesday in Senate",
+        "outlet": "Bloomberg Law News",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcEVtd1lGWkFzWnROZ1VTaDJQYXRpcF9QZWVCM3UtaEY2R212Z0hoaFJYWXQyRXlRZzh2MTRzYzZrRkczVG9sVnVYRW9qRXhISE5iaE1tQkEyMm12bVN1cEFibkU0UGhXT213MEdjbWxoaEJKYVdUa1hmOEM0RVZjZmczSUJvRHlKWktrODNSVF9tdENlUHFQeno2Mms?oc=5",
+        "published": "2026-11-16T21:52:00Z"
+      },
+      {
         "title": "Instagram, Roblox and Snapchat Lawsuit Alleges Online Grooming Forced Family to Move After Threats",
         "outlet": "AboutLawsuits.com",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNm9hRDZuWkdKSEhsTDJQb05YNkR2WHhldjJBUkJBU1lZZTlHOVBxcW4yMHJ5WE1tLVpZcWRmVXZpN1F3cGpzOWlrNVhMbVc2cHJyLVpsZEZsbVQyUzRScnNlQ0F2OEpkNWxybWxGSDR1UThleEVxTDlvOUlyaEgwZi1RYlZMT3dkLUNEdGIyUnpMU2ZsMEsycjRSOHFHRlRmLUNHSG93?oc=5",
         "published": "2026-11-12T15:00:00Z"
       },
       {
-        "title": "Who checks the checker? Three ways regulators use outside reviews",
-        "outlet": "The Modern Regulator",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZGI5ZjJnbjFqWGRMeFpBM0ZiMWw2Qk1sMERpM295N3F0dlAtS21CVjI4eEw1aGdTWU9jWTNST204VjdOOWdpOEtXNWNyS2VlNkxGdGo5V3pYMUdVZjEtRnpVN3VRLWFFNGZzdExxTHRya2FyLXMwcTJxUzNVcUZjN1FmSQ?oc=5",
-        "published": "2026-11-09T22:54:41Z"
+        "title": "Hawley, Durbin Introduce Bill Empowering Survivors of Online Exploitation Ahead of Groundbreaking Hearing on Roblox",
+        "outlet": "Senate.gov",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQalhsdU0za044M01ERC1seTY5czU0V1BfYzAtZjl3dmpOMC1QMTNnQnA4WXRndWNFWlFUR210T1BzQW9pNzZMdDB4TFJBQlJmdzJkWHNUSElfVm1PS2c5MU9mak9pYl9JX0hXRFhRcmFjUC1sWU1lNTF2YnZxTHRMMmgwNmJaODlOT05vZ19qeW1qUHVkeDhpQWw5ZDhZbk1UajBvZUdXOVZ4UlMyYUx6RDZLbDB4Sm96RkxXa2JzM1NwbkFhSWptemhRZURya3N4RzBOWDk5ME9TNWxZMnc?oc=5",
+        "published": "2026-11-16T21:29:24Z"
       },
       {
-        "title": "Montclair Schools Denies Liability, Cites Parents’ Role in Monitoring Student’s Laptop",
-        "outlet": "Montclair Local News",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUmNtVWJldF9RbkpSZTZpX0Q1TThSeU5EOG5KVDJSVkdIQnBUVzBHUU1BbDQ5MTJpTDEzdTNlUGZSU1dSeU5qUnBaMjJoc1VtNExUMTBabkdlUjJCc1JQSFdfY0ZaeW9lSWpld3BMS0dGMVpCMHdZTjE0OWhYWHNCU1Y5VmVOWEMxeTN1dHlpMGZJSTZzR25RMUhxX2RiRW01NURDUHdmcXZack8yaG1FSmJMS0p1Wkh0YkJTaA?oc=5",
-        "published": "2026-11-12T01:10:04Z"
+        "title": "Advocates & Survivors Testify on Child Safety Risks with Online Gaming Sites",
+        "outlet": "C-SPAN",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONXNBQTlfOHJfQ0Z1MzY4RzVNNlRMSWJOMnNTS0VzZi1DTnV1TkJCMi02el9BMFJ6cGxmdFRLeEVHNEc0WmNmcnVtLW40aU5LYWxCbmFoZTdDYlBWeVR6ZmtMc05iU1VlNVpiS3FvdlB1S3F6UHc4WERUYXVIUGhDdjdoem5yemNNVjdmOFMxRmdtdkFNVG84ZUFoMVNkQkVOajJGb1RzMHEwVG5qbHlXc1RGaGJVaUJpMllCOVVNOHU3a2kwUUE?oc=5",
+        "published": "2026-11-16T21:38:05Z"
       },
       {
-        "title": "Roblox’s Process for Reporting to Law Enforcement",
-        "outlet": "Roblox",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMnIyVV82MkJfX2RteGZYZEd0ZE5ZRzJLbElkeFlLcDhqQU92eEc3R2pIdVVVclQ1Uk1HQS0tWTlIYTIzQk5ocEZHOWhIX3JTSXZsak8yZ3dZWDRJckJ4dmRpeDVpVC13MTExcmRaaF9INEk0RzZpbXVXSVI0VzlVWFZvZHZIVDVfQ2ZNS0RpbTcyNDJl?oc=5",
-        "published": "2026-11-12T17:01:46Z"
-      },
-      {
-        "title": "Man jailed for grooming 70 girls on Snapchat, Wink and Roblox",
-        "outlet": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uWmR2a3Buc0NXQ1RsM1hMZTJiZGduVlVwQzlWU0hKdVFUNGFrYmRJYlZiU1h6bGdKb1R6X0tNLUNGWWNKOFBISlRuOHR6VVlYTmxEMGV4d1ZsdHNKNnc?oc=5",
-        "published": "2026-11-13T17:10:27Z"
-      },
-      {
-        "title": "Snapchat Lawsuits 2026: Addiction & Child Exploitation Claims",
-        "outlet": "Consumer Notice",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mN2dvbElRSkFPTmFPMFRLQVp1aHhMR2plNHRqaFJzQUtLZkpWRkVqLXlZcUM4R0RGX1I1NlliUElMektNblFNZldSMGFoRTU5dmxBbXZremRBWjNpZVdTWF9kZ3o?oc=5",
-        "published": "2026-11-12T08:00:00Z"
-      },
-      {
-        "title": "Who is Bilal Kazi, Indian student jailed for 30 years in UK for grooming 70 girls online?",
-        "outlet": "The Indian Express",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ2ZRaEdwZVhKWFVhV3hYbDMwNmV2X1VLdzJCWFdOZHd6ZzNkMnFxR3FjaGJtVHlPSTlvUVhyQU42LTZCZkFIVDg2VGJtdmwwNU84YTlJSF95RGtNSnN6MXZBYkpncEVVbnpqc2djZ2oyUEFkVkNtY1V1aFo5dERkZTAzTERVdDJGblZQc2dXaXpEbG5wYlJLeE1Dci13QWxUb01Vc2Rteldra1g2eVluaUlyRGh5ZlYw0gG_AUFVX3lxTE5WUFllakR0azhhd3dOQkQ5SlV6WTVPVl9mMlpxSlJaaHBRNnZQRWU0MmtxWTRBMXFkeW92Y0ZOenNIZWFMWmJCeEhkdGYzRXF4VGdtQ2NPdktBY201Mm5uSUtQd1RkaTQwYUZtQXVzZXRZTzgwZmNvT01WQUJ1dHQtT201ZExscG9yUl83TTlmVnpsRWJsbkNlN3E4UlZZWkpmZG5YSVJaZmxFT1VVaVQ4Q0RNa0pMRzd1bmFjaVBN?oc=5",
-        "published": "2026-11-14T16:00:16Z"
+        "title": "Roblox child safety: Senators to hold hearing in DC",
+        "outlet": "FOX 5 DC",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XRWJ0aFNsS1A3dGswelVuc2llU3dESWo0TTNiN2N3YW9GNzc2U29lZjV2amdZdzdoTFF1SkRnQzAzX3JSZXFLZ2Vfak5vM19GU2ZiSGtFR1oxXzJkTkh0cEpkRXVXaktXcy0yWU1meDdERFZjS25rZHpld1M?oc=5",
+        "published": "2026-11-16T13:33:41Z"
       }
     ]
   },
@@ -171,7 +171,6 @@
     }
   ],
   "errors": [
-    "courtlistener: HTTP Error 401: Unauthorized",
-    "news: HTTP Error 429: Too Many Requests"
+    "courtlistener: HTTP Error 401: Unauthorized"
   ]
 }
