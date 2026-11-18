@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-17T22:17:48Z",
+  "as_of": "2026-11-18T04:15:19Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 22,
+    "hits_7d": 31,
     "latest": [
       {
         "title": "Roblox Lawsuit November 2026: MDL Status, Settlements & Claims",
@@ -83,28 +83,34 @@
         "published": "2026-11-12T08:00:00Z"
       },
       {
+        "title": "Senate hearing examines child safety concerns on Roblox",
+        "outlet": "CBS News",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOWM1MUJqRkg1VUtpMzBHQll5bGZDYUUtTHVTTFBnQlhHUldUblo3V0NiR3hXR00zSV9LVkk1YVNOVHV3UWhyZEEwWkZabWpCVERfV1A1a1NJOWdHWkdsVHFPV2lRUE9BYVJOOUJtM25XYkoxRjZmWXhyWTdsNGZUUmV3ZGk0SXd5aW5xNlBodkxzOFFDV1Nr?oc=5",
+        "published": "2026-11-17T22:42:00Z"
+      },
+      {
+        "title": "Senate Hearing Condemns Roblox’s Child Safety Record",
+        "outlet": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnVlZkpvN3ZSbmhoMDB2d3VadUZVVGp5VE5PUDNocjlEQmllc1IyX1hhbzQ1TEx5SzN5MFh2WGZ2NWhWOUk0RlI0cFE5TUg2eF9OQmxtbl9iR3JoUWRMVlVNRklpOXpOZ0RucThMSTVBVGRoZEpGaVplLWNxMWpZRFcxeVZmRERNTnBzZVVLR2E0YmlZZk15Uy14MWw2THVVOWxIR0Jn?oc=5",
+        "published": "2026-11-17T23:47:58Z"
+      },
+      {
         "title": "Hawley, Durbin Introduce Bill Empowering Survivors of Online Exploitation Ahead of Groundbreaking Hearing on Roblox",
         "outlet": "Senate.gov",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQalhsdU0za044M01ERC1seTY5czU0V1BfYzAtZjl3dmpOMC1QMTNnQnA4WXRndWNFWlFUR210T1BzQW9pNzZMdDB4TFJBQlJmdzJkWHNUSElfVm1PS2c5MU9mak9pYl9JX0hXRFhRcmFjUC1sWU1lNTF2YnZxTHRMMmgwNmJaODlOT05vZ19qeW1qUHVkeDhpQWw5ZDhZbk1UajBvZUdXOVZ4UlMyYUx6RDZLbDB4Sm96RkxXa2JzM1NwbkFhSWptemhRZURya3N4RzBOWDk5ME9TNWxZMnc?oc=5",
         "published": "2026-11-16T21:29:24Z"
       },
       {
-        "title": "Hawley, Durbin introduce new bill ahead of first-ever congressional hearing on Roblox safety",
-        "outlet": "CBS News",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Hak4ySlBBWkFkODlSeGtvLVExZl9nZFBNZ1lpTlRienhDVmx1RkdEY3RaYmRLR2hqRnJuOVdhc3MwSTNLdkJITE12V29BeWo1cGptVnRHUWNmWGE1ZU8wcEl6eHZLb0NwVTMzZDc3OWs3cDg?oc=5",
-        "published": "2026-11-16T18:58:00Z"
+        "title": "Hawley, Durbin introduce legislation targeting child sexual abuse on Roblox, online gaming",
+        "outlet": "WZTV",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOT1JqYnd4NzBpVWJMeC1EalU5OTctZjdoZGNHeE5lWkxnRkdNWjBLLVdQbW5ObHFiTE51M0xzQUhpOXFIdnNmUksySDJDYWVBU0JveHVBSTNCaW5tcU5FblNkTDIxemFNN0dtaC15SWNkOWNsaFJwQkhCY3FXU1hqeGlESGQzOElpLTNFZ0czaEhOWDc1aGdDOEtZTWJZUlA0QkV6Y3B6amEzUm9OVHRpNnhTYzhzYzRXYnhmd2VuSGJqN3djaDNsQ0ZnUlFHSlVZWllEOUNiU1Fic3Y3QW5vdEQ4aE9Mamwtcm1wTXpQQQ?oc=5",
+        "published": "2026-11-17T19:40:39Z"
       },
       {
-        "title": "Roblox Focus of Child Safety Hearing Tuesday in Senate",
-        "outlet": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa3NmN3pPTE90ZGdGUjU5aE4tNXhDQjI4WFlMbjl6TDZaTFpwWlZIWDVLQmhIVFNYOXhiVm83S0x5X1dRejlhdXphNThIRHMtU05FSFJwUkI2dG9nM01pM2VULTFNWE05YTRxbElRZC1CTVZUbldqcjNjUjg3ZlFFdG1keTBqazFJam5rSkJGVHdnM01RRFRoUTg5aTU0QnRmUFFiRVQwblc?oc=5",
-        "published": "2026-11-16T21:52:43Z"
-      },
-      {
-        "title": "Instagram, Roblox and Snapchat Lawsuit Alleges Online Grooming Forced Family to Move After Threats",
-        "outlet": "AboutLawsuits.com",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNm9hRDZuWkdKSEhsTDJQb05YNkR2WHhldjJBUkJBU1lZZTlHOVBxcW4yMHJ5WE1tLVpZcWRmVXZpN1F3cGpzOWlrNVhMbVc2cHJyLVpsZEZsbVQyUzRScnNlQ0F2OEpkNWxybWxGSDR1UThleEVxTDlvOUlyaEgwZi1RYlZMT3dkLUNEdGIyUnpMU2ZsMEsycjRSOHFHRlRmLUNHSG93?oc=5",
-        "published": "2026-11-12T15:00:00Z"
+        "title": "Roblox child safety: Senators to hold hearing in DC",
+        "outlet": "FOX 5 DC",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XRWJ0aFNsS1A3dGswelVuc2llU3dESWo0TTNiN2N3YW9GNzc2U29lZjV2amdZdzdoTFF1SkRnQzAzX3JSZXFLZ2Vfak5vM19GU2ZiSGtFR1oxXzJkTkh0cEpkRXVXaktXcy0yWU1meDdERFZjS25rZHpld1M?oc=5",
+        "published": "2026-11-16T13:33:41Z"
       },
       {
         "title": "Senate Judiciary hearing examines Roblox child sexual exploitation risks",
@@ -113,16 +119,10 @@
         "published": "2026-11-17T20:48:44Z"
       },
       {
-        "title": "Roblox Focus of Child Safety Hearing Tuesday in Senate",
-        "outlet": "Bloomberg Law News",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1BZU1M4dHNnaDdHeUU0eC1rNm5LYlVBYS1BeXJ1d291dU9FVXA3b3pwdWQ5c2xObkJtQ1FjNTg0Zk5IbkN1UnNFQkNWcmZSX19lOUNsaUxrMU9Gb0Q0ODE4SDZ1aTNnVzFsSVVkcU1HMlhGRmc5T2htZU9PRFNZakRhNlA5VnhoZ2UzMW1FMG1rWEpoVWx6enJuNzBlc3dlSmNMYWdGcmM?oc=5",
-        "published": "2026-11-16T21:52:00Z"
-      },
-      {
-        "title": "LIVE: Senate panel holds a hearing on Roblox and online gaming risks to children",
-        "outlet": "Daily Gate City",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOT2YyOFl6aHlERzE5V1luUldvR1p4RjNRTTJMUjNtTFQ5VFZhWmR3TXhGM3VqekhRZ1UxZzZtT3FMMkk0Mjhpc1hqRVlPcU9XcURYdHBLdWFUSkstVk5kX3A2T2FMTVhrbW5NZ01lTTBpak5GRVdkdGhObkVIVERwTUo5bmxBenBfWGhhYXNpRHFVUERQQmdiWjFybk13UkxtSjhOOHlzeWlBYTJ3b2l5ODRKUFpNRWxNY0U1VENIUGVSOVkyVzdPcnBsbXp3TF90TXZpazMwMW9TTFhSeWlpMGNsWW5HS19HeFc5RWs5NHZaa3hySUdvS3piMmUxMTBT?oc=5",
-        "published": "2026-11-17T14:05:31Z"
+        "title": "Instagram, Roblox and Snapchat Lawsuit Alleges Online Grooming Forced Family to Move After Threats",
+        "outlet": "AboutLawsuits.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNm9hRDZuWkdKSEhsTDJQb05YNkR2WHhldjJBUkJBU1lZZTlHOVBxcW4yMHJ5WE1tLVpZcWRmVXZpN1F3cGpzOWlrNVhMbVc2cHJyLVpsZEZsbVQyUzRScnNlQ0F2OEpkNWxybWxGSDR1UThleEVxTDlvOUlyaEgwZi1RYlZMT3dkLUNEdGIyUnpMU2ZsMEsycjRSOHFHRlRmLUNHSG93?oc=5",
+        "published": "2026-11-12T15:00:00Z"
       }
     ]
   },
