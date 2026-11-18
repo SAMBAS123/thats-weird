@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-18T04:15:19Z",
+  "as_of": "2026-11-18T13:03:22Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,19 +74,13 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 31,
+    "hits_7d": 33,
     "latest": [
       {
-        "title": "Roblox Lawsuit November 2026: MDL Status, Settlements & Claims",
-        "outlet": "Consumer Notice",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VWnBoYVAwVVV1X1lCT1Z1NVlKLVdUcFA2Vjg0NHl2MHAzTDdwcnc2Z0NXUEd1UnRIa0wyRVIzQ3VkdnVSTnB4aW5ieDg3Q1B1djB2ci12VW1zMy1tLUgtZ0ln?oc=5",
-        "published": "2026-11-12T08:00:00Z"
-      },
-      {
-        "title": "Senate hearing examines child safety concerns on Roblox",
-        "outlet": "CBS News",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOWM1MUJqRkg1VUtpMzBHQll5bGZDYUUtTHVTTFBnQlhHUldUblo3V0NiR3hXR00zSV9LVkk1YVNOVHV3UWhyZEEwWkZabWpCVERfV1A1a1NJOWdHWkdsVHFPV2lRUE9BYVJOOUJtM25XYkoxRjZmWXhyWTdsNGZUUmV3ZGk0SXd5aW5xNlBodkxzOFFDV1Nr?oc=5",
-        "published": "2026-11-17T22:42:00Z"
+        "title": "‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse",
+        "outlet": "WIRED",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOGl5QlJuMGJYdXhDUkFXTlBfZ09mM0ZldHE3WFdWVmJlZGVPTWw0VDBNT01DYktRbmF3ZjhNZWk1UC1HbnY4a0c4djhhWGZBVGROMUxWVEVaQ2o0Y25GYlc1ZVNNTnZyZ1RDbkhkTHRNVS1RYV9WOWlKNC00Ni1OYnlSUldPdE8waXRELW1LcnZGVzM1STBmT1VZWGZuNGlOcWc?oc=5",
+        "published": "2026-11-18T00:32:00Z"
       },
       {
         "title": "Senate Hearing Condemns Roblox’s Child Safety Record",
@@ -95,16 +89,22 @@
         "published": "2026-11-17T23:47:58Z"
       },
       {
+        "title": "Senate hearing examines child safety concerns on Roblox",
+        "outlet": "CBS News",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOWM1MUJqRkg1VUtpMzBHQll5bGZDYUUtTHVTTFBnQlhHUldUblo3V0NiR3hXR00zSV9LVkk1YVNOVHV3UWhyZEEwWkZabWpCVERfV1A1a1NJOWdHWkdsVHFPV2lRUE9BYVJOOUJtM25XYkoxRjZmWXhyWTdsNGZUUmV3ZGk0SXd5aW5xNlBodkxzOFFDV1Nr?oc=5",
+        "published": "2026-11-17T22:42:00Z"
+      },
+      {
+        "title": "Roblox Lawsuit November 2026: MDL Status, Settlements & Claims",
+        "outlet": "Consumer Notice",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VWnBoYVAwVVV1X1lCT1Z1NVlKLVdUcFA2Vjg0NHl2MHAzTDdwcnc2Z0NXUEd1UnRIa0wyRVIzQ3VkdnVSTnB4aW5ieDg3Q1B1djB2ci12VW1zMy1tLUgtZ0ln?oc=5",
+        "published": "2026-11-12T08:00:00Z"
+      },
+      {
         "title": "Hawley, Durbin Introduce Bill Empowering Survivors of Online Exploitation Ahead of Groundbreaking Hearing on Roblox",
         "outlet": "Senate.gov",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQalhsdU0za044M01ERC1seTY5czU0V1BfYzAtZjl3dmpOMC1QMTNnQnA4WXRndWNFWlFUR210T1BzQW9pNzZMdDB4TFJBQlJmdzJkWHNUSElfVm1PS2c5MU9mak9pYl9JX0hXRFhRcmFjUC1sWU1lNTF2YnZxTHRMMmgwNmJaODlOT05vZ19qeW1qUHVkeDhpQWw5ZDhZbk1UajBvZUdXOVZ4UlMyYUx6RDZLbDB4Sm96RkxXa2JzM1NwbkFhSWptemhRZURya3N4RzBOWDk5ME9TNWxZMnc?oc=5",
         "published": "2026-11-16T21:29:24Z"
-      },
-      {
-        "title": "Hawley, Durbin introduce legislation targeting child sexual abuse on Roblox, online gaming",
-        "outlet": "WZTV",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOT1JqYnd4NzBpVWJMeC1EalU5OTctZjdoZGNHeE5lWkxnRkdNWjBLLVdQbW5ObHFiTE51M0xzQUhpOXFIdnNmUksySDJDYWVBU0JveHVBSTNCaW5tcU5FblNkTDIxemFNN0dtaC15SWNkOWNsaFJwQkhCY3FXU1hqeGlESGQzOElpLTNFZ0czaEhOWDc1aGdDOEtZTWJZUlA0QkV6Y3B6amEzUm9OVHRpNnhTYzhzYzRXYnhmd2VuSGJqN3djaDNsQ0ZnUlFHSlVZWllEOUNiU1Fic3Y3QW5vdEQ4aE9Mamwtcm1wTXpQQQ?oc=5",
-        "published": "2026-11-17T19:40:39Z"
       },
       {
         "title": "Roblox child safety: Senators to hold hearing in DC",
@@ -113,16 +113,16 @@
         "published": "2026-11-16T13:33:41Z"
       },
       {
+        "title": "Roblox Focus of Child Safety Hearing Tuesday in Senate",
+        "outlet": "Bloomberg Law News",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1BZU1M4dHNnaDdHeUU0eC1rNm5LYlVBYS1BeXJ1d291dU9FVXA3b3pwdWQ5c2xObkJtQ1FjNTg0Zk5IbkN1UnNFQkNWcmZSX19lOUNsaUxrMU9Gb0Q0ODE4SDZ1aTNnVzFsSVVkcU1HMlhGRmc5T2htZU9PRFNZakRhNlA5VnhoZ2UzMW1FMG1rWEpoVWx6enJuNzBlc3dlSmNMYWdGcmM?oc=5",
+        "published": "2026-11-16T21:52:00Z"
+      },
+      {
         "title": "Senate Judiciary hearing examines Roblox child sexual exploitation risks",
         "outlet": "WKNO FM",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY2p2MUd6aHhHRGZKWUQ2REhGMnFqQVlKMml2MldNbjhBaWwzYURQQlFDMndDLWN0ZUt0UDNqdFdwOFpFakk2Mk1LTURUUWRldFhjay1GdktWMDdvMVp4S0FrS0k5M2hieWJzb2dObDFTRXIzZFN4dlJrYkE3SU00eHJ6MmZ3TjZMT3dIYVZhVlJFb2RmbDk1a2FpbC14T3lMZHQ0OEJqVmxNdw?oc=5",
         "published": "2026-11-17T20:48:44Z"
-      },
-      {
-        "title": "Instagram, Roblox and Snapchat Lawsuit Alleges Online Grooming Forced Family to Move After Threats",
-        "outlet": "AboutLawsuits.com",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNm9hRDZuWkdKSEhsTDJQb05YNkR2WHhldjJBUkJBU1lZZTlHOVBxcW4yMHJ5WE1tLVpZcWRmVXZpN1F3cGpzOWlrNVhMbVc2cHJyLVpsZEZsbVQyUzRScnNlQ0F2OEpkNWxybWxGSDR1UThleEVxTDlvOUlyaEgwZi1RYlZMT3dkLUNEdGIyUnpMU2ZsMEsycjRSOHFHRlRmLUNHSG93?oc=5",
-        "published": "2026-11-12T15:00:00Z"
       }
     ]
   },
