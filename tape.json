@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-20T03:08:33Z",
+  "as_of": "2026-11-20T11:29:36Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,14 +74,8 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 57,
+    "hits_7d": 58,
     "latest": [
-      {
-        "title": "‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse",
-        "outlet": "WIRED",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOGl5QlJuMGJYdXhDUkFXTlBfZ09mM0ZldHE3WFdWVmJlZGVPTWw0VDBNT01DYktRbmF3ZjhNZWk1UC1HbnY4a0c4djhhWGZBVGROMUxWVEVaQ2o0Y25GYlc1ZVNNTnZyZ1RDbkhkTHRNVS1RYV9WOWlKNC00Ni1OYnlSUldPdE8waXRELW1LcnZGVzM1STBmT1VZWGZuNGlOcWc?oc=5",
-        "published": "2026-11-18T00:32:00Z"
-      },
       {
         "title": "Roblox’s child safety under scrutiny in Senate hearing | CNN Business",
         "outlet": "CNN",
@@ -89,10 +83,22 @@
         "published": "2026-11-18T14:36:00Z"
       },
       {
+        "title": "‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse",
+        "outlet": "WIRED",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOGl5QlJuMGJYdXhDUkFXTlBfZ09mM0ZldHE3WFdWVmJlZGVPTWw0VDBNT01DYktRbmF3ZjhNZWk1UC1HbnY4a0c4djhhWGZBVGROMUxWVEVaQ2o0Y25GYlc1ZVNNTnZyZ1RDbkhkTHRNVS1RYV9WOWlKNC00Ni1OYnlSUldPdE8waXRELW1LcnZGVzM1STBmT1VZWGZuNGlOcWc?oc=5",
+        "published": "2026-11-18T00:32:00Z"
+      },
+      {
         "title": "Bipartisan Bill Could Clear Way For Roblox Lawsuits, Abuse Claims",
         "outlet": "Consumer Notice",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTUNnUU9oQzhXN1pRQXFsVTFHYml5bG1pb0JzYVpqdEl2eXJqQkJzNm9TdUlnd2pZRl9qaEdZS3NsX3FMcUdnSzFmYl9JV0tIbXNjd250MEJVNXpnMG8xNnhhajZDajdub1BtWWxDdG1Wb19aQlhFc1FoT3NQbGdmaHUyZWwtbTRTNGZ1ME0xSWRyYXIxbGhCbUp1d2x6UUdsckM0?oc=5",
         "published": "2026-11-18T17:39:19Z"
+      },
+      {
+        "title": "Hawley, Durbin Introduce Bill Empowering Survivors of Online Exploitation Ahead of Groundbreaking Hearing on Roblox",
+        "outlet": "Senate.gov",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQalhsdU0za044M01ERC1seTY5czU0V1BfYzAtZjl3dmpOMC1QMTNnQnA4WXRndWNFWlFUR210T1BzQW9pNzZMdDB4TFJBQlJmdzJkWHNUSElfVm1PS2c5MU9mak9pYl9JX0hXRFhRcmFjUC1sWU1lNTF2YnZxTHRMMmgwNmJaODlOT05vZ19qeW1qUHVkeDhpQWw5ZDhZbk1UajBvZUdXOVZ4UlMyYUx6RDZLbDB4Sm96RkxXa2JzM1NwbkFhSWptemhRZURya3N4RzBOWDk5ME9TNWxZMnc?oc=5",
+        "published": "2026-11-16T21:29:24Z"
       },
       {
         "title": "US Senate hearing examines child safety on Roblox, considers bipartisan bill to bypass forced arbitration",
@@ -117,12 +123,6 @@
         "outlet": "CBS News",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOWM1MUJqRkg1VUtpMzBHQll5bGZDYUUtTHVTTFBnQlhHUldUblo3V0NiR3hXR00zSV9LVkk1YVNOVHV3UWhyZEEwWkZabWpCVERfV1A1a1NJOWdHWkdsVHFPV2lRUE9BYVJOOUJtM25XYkoxRjZmWXhyWTdsNGZUUmV3ZGk0SXd5aW5xNlBodkxzOFFDV1Nr?oc=5",
         "published": "2026-11-17T22:42:00Z"
-      },
-      {
-        "title": "Hawley, Durbin Introduce Bill Empowering Survivors of Online Exploitation Ahead of Groundbreaking Hearing on Roblox",
-        "outlet": "Senate.gov",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQalhsdU0za044M01ERC1seTY5czU0V1BfYzAtZjl3dmpOMC1QMTNnQnA4WXRndWNFWlFUR210T1BzQW9pNzZMdDB4TFJBQlJmdzJkWHNUSElfVm1PS2c5MU9mak9pYl9JX0hXRFhRcmFjUC1sWU1lNTF2YnZxTHRMMmgwNmJaODlOT05vZ19qeW1qUHVkeDhpQWw5ZDhZbk1UajBvZUdXOVZ4UlMyYUx6RDZLbDB4Sm96RkxXa2JzM1NwbkFhSWptemhRZURya3N4RzBOWDk5ME9TNWxZMnc?oc=5",
-        "published": "2026-11-16T21:29:24Z"
       }
     ]
   },
