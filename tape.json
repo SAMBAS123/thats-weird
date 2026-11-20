@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-19T21:28:11Z",
+  "as_of": "2026-11-20T03:08:33Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 58,
+    "hits_7d": 57,
     "latest": [
       {
         "title": "‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse",
@@ -93,6 +93,12 @@
         "outlet": "Consumer Notice",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTUNnUU9oQzhXN1pRQXFsVTFHYml5bG1pb0JzYVpqdEl2eXJqQkJzNm9TdUlnd2pZRl9qaEdZS3NsX3FMcUdnSzFmYl9JV0tIbXNjd250MEJVNXpnMG8xNnhhajZDajdub1BtWWxDdG1Wb19aQlhFc1FoT3NQbGdmaHUyZWwtbTRTNGZ1ME0xSWRyYXIxbGhCbUp1d2x6UUdsckM0?oc=5",
         "published": "2026-11-18T17:39:19Z"
+      },
+      {
+        "title": "US Senate hearing examines child safety on Roblox, considers bipartisan bill to bypass forced arbitration",
+        "outlet": "GamesIndustry.biz",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd0dpYlFmenZ6eUVGOEladmxidVJfUDdUV2oyR2tzaWJDT0I0Z3dDYlFwNWk1bGZFNnpLbDd5eUxDOHFjQndVSFFnSEt3TXZ5dDV1RnM2WmR6dDR2eWZfemtVS3BxYTVobm1EUGl1Q0FUbl8tRk54WWtycVVFUzBQU1dGRDNIeFowd3F0Nm1RcVpyOVRFc3d0UVFWeTh0RGswX3U2Yzc2V3BJd3QyckhnVnk2bkhWZjhJSHZuU1Z1VUF4QjRkVE9jRkoweTd2aEU?oc=5",
+        "published": "2026-11-19T11:52:10Z"
       },
       {
         "title": "Senate Hearing Condemns Roblox’s Child Safety Record",
@@ -117,12 +123,6 @@
         "outlet": "Senate.gov",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQalhsdU0za044M01ERC1seTY5czU0V1BfYzAtZjl3dmpOMC1QMTNnQnA4WXRndWNFWlFUR210T1BzQW9pNzZMdDB4TFJBQlJmdzJkWHNUSElfVm1PS2c5MU9mak9pYl9JX0hXRFhRcmFjUC1sWU1lNTF2YnZxTHRMMmgwNmJaODlOT05vZ19qeW1qUHVkeDhpQWw5ZDhZbk1UajBvZUdXOVZ4UlMyYUx6RDZLbDB4Sm96RkxXa2JzM1NwbkFhSWptemhRZURya3N4RzBOWDk5ME9TNWxZMnc?oc=5",
         "published": "2026-11-16T21:29:24Z"
-      },
-      {
-        "title": "Roblox child safety: Senators to hold hearing in DC",
-        "outlet": "FOX 5 DC",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XRWJ0aFNsS1A3dGswelVuc2llU3dESWo0TTNiN2N3YW9GNzc2U29lZjV2amdZdzdoTFF1SkRnQzAzX3JSZXFLZ2Vfak5vM19GU2ZiSGtFR1oxXzJkTkh0cEpkRXVXaktXcy0yWU1meDdERFZjS25rZHpld1M?oc=5",
-        "published": "2026-11-16T13:33:41Z"
       }
     ]
   },
