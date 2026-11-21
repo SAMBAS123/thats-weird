@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-20T20:09:11Z",
+  "as_of": "2026-11-21T01:28:42Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 59,
+    "hits_7d": 60,
     "latest": [
       {
         "title": "Roblox’s child safety under scrutiny in Senate hearing | CNN Business",
@@ -95,12 +95,6 @@
         "published": "2026-11-18T17:39:19Z"
       },
       {
-        "title": "Senate Hearing Condemns Roblox’s Child Safety Record",
-        "outlet": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnVlZkpvN3ZSbmhoMDB2d3VadUZVVGp5VE5PUDNocjlEQmllc1IyX1hhbzQ1TEx5SzN5MFh2WGZ2NWhWOUk0RlI0cFE5TUg2eF9OQmxtbl9iR3JoUWRMVlVNRklpOXpOZ0RucThMSTVBVGRoZEpGaVplLWNxMWpZRFcxeVZmRERNTnBzZVVLR2E0YmlZZk15Uy14MWw2THVVOWxIR0Jn?oc=5",
-        "published": "2026-11-18T18:29:17Z"
-      },
-      {
         "title": "US Senate hearing examines child safety on Roblox, considers bipartisan bill to bypass forced arbitration",
         "outlet": "GamesIndustry.biz",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd0dpYlFmenZ6eUVGOEladmxidVJfUDdUV2oyR2tzaWJDT0I0Z3dDYlFwNWk1bGZFNnpLbDd5eUxDOHFjQndVSFFnSEt3TXZ5dDV1RnM2WmR6dDR2eWZfemtVS3BxYTVobm1EUGl1Q0FUbl8tRk54WWtycVVFUzBQU1dGRDNIeFowd3F0Nm1RcVpyOVRFc3d0UVFWeTh0RGswX3U2Yzc2V3BJd3QyckhnVnk2bkhWZjhJSHZuU1Z1VUF4QjRkVE9jRkoweTd2aEU?oc=5",
@@ -117,6 +111,12 @@
         "outlet": "Alabama Daily News",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbklpbXppbVVWa0dtTjYtOFNEbmtxdFJhakxtTjVjSVQwRTJLTjRjQnh3NXdYOUhBSVZhU1AwTS1VcENoR1diMmpsX3g0QWZpeVkza2FtbWdMNzNtVVpJRG9ZNGNnQmNFYkJvS2VLOGVXVEtNTEFER2ZIS0lydUxXNEpEMGwyYmZUNndhNkJlb2liYmNTY01KV2k2TVdpdXRaa05jckMycDRFR1hQdGc?oc=5",
         "published": "2026-11-18T13:49:29Z"
+      },
+      {
+        "title": "Senate Hearing Condemns Roblox’s Child Safety Record",
+        "outlet": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnVlZkpvN3ZSbmhoMDB2d3VadUZVVGp5VE5PUDNocjlEQmllc1IyX1hhbzQ1TEx5SzN5MFh2WGZ2NWhWOUk0RlI0cFE5TUg2eF9OQmxtbl9iR3JoUWRMVlVNRklpOXpOZ0RucThMSTVBVGRoZEpGaVplLWNxMWpZRFcxeVZmRERNTnBzZVVLR2E0YmlZZk15Uy14MWw2THVVOWxIR0Jn?oc=5",
+        "published": "2026-11-18T18:29:17Z"
       },
       {
         "title": "Senate hearing examines child safety concerns on Roblox",
