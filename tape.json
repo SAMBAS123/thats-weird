@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-22T18:30:23Z",
+  "as_of": "2026-11-23T00:16:34Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 74,
+    "hits_7d": 65,
     "latest": [
       {
         "title": "Roblox’s child safety under scrutiny in Senate hearing | CNN Business",
@@ -116,7 +116,7 @@
         "title": "Britt calls on Congress to hold Roblox, online platforms accountable for child safety",
         "outlet": "Alabama Daily News",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbklpbXppbVVWa0dtTjYtOFNEbmtxdFJhakxtTjVjSVQwRTJLTjRjQnh3NXdYOUhBSVZhU1AwTS1VcENoR1diMmpsX3g0QWZpeVkza2FtbWdMNzNtVVpJRG9ZNGNnQmNFYkJvS2VLOGVXVEtNTEFER2ZIS0lydUxXNEpEMGwyYmZUNndhNkJlb2liYmNTY01KV2k2TVdpdXRaa05jckMycDRFR1hQdGc?oc=5",
-        "published": "2026-11-18T13:49:29Z"
+        "published": "2026-11-18T13:43:28Z"
       },
       {
         "title": "Roblox Child Sexual Abuse Lawsuit",
