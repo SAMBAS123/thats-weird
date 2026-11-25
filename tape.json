@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-25T00:39:43Z",
+  "as_of": "2026-11-25T09:49:11Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 57,
+    "hits_7d": 41,
     "latest": [
       {
         "title": "Roblox’s child safety under scrutiny in Senate hearing | CNN Business",
@@ -101,16 +101,16 @@
         "published": "2026-11-18T18:29:17Z"
       },
       {
-        "title": "Britt calls on Congress to hold Roblox, online platforms accountable for child safety",
-        "outlet": "Alabama Daily News",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbklpbXppbVVWa0dtTjYtOFNEbmtxdFJhakxtTjVjSVQwRTJLTjRjQnh3NXdYOUhBSVZhU1AwTS1VcENoR1diMmpsX3g0QWZpeVkza2FtbWdMNzNtVVpJRG9ZNGNnQmNFYkJvS2VLOGVXVEtNTEFER2ZIS0lydUxXNEpEMGwyYmZUNndhNkJlb2liYmNTY01KV2k2TVdpdXRaa05jckMycDRFR1hQdGc?oc=5",
-        "published": "2026-11-18T13:43:28Z"
-      },
-      {
         "title": "Federal lawsuit alleges predator used Roblox to groom, threaten two Indiana children",
         "outlet": "WTHR",
         "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQRVBOZmdrdDNGaEstQVlrOWVNYzRKb1ZmZ0lRT0JoYWFpbGRNT0RSaEU0ZkR4X3Z1dTZfWHBvbmlvdzc4dVVfSS1xcTVKd0Fwb0RRaXVzV091cXFvUVZYdmlwZkZPUEtsNTB3Znp1U1VNQzU4QUI3dDEyRWctUXB4ZHFUZXBvZ2tMYnN4b3l3ZnctSTg4Z1d6eHNZOGcxRDNVVThSQXByXzN0Q3N2ZjVERWlnVFNJNS1HLWkwb0JwMWkzS0ZmWWlDUDZkOWlGSllYTTR2alBUaVVRTjBza0RGM2xyaXhnbnFydmFDVkEySFhCNWNDcnAyYWNTRHpxZmJJY2Jfb2VkZkJVcnhXemZPMmI1Rm9ENUw3NUxOV0c1SDJxSnJNaGk5cnRR?oc=5",
         "published": "2026-11-24T16:58:00Z"
+      },
+      {
+        "title": "Britt calls on Congress to hold Roblox, online platforms accountable for child safety",
+        "outlet": "Alabama Daily News",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbklpbXppbVVWa0dtTjYtOFNEbmtxdFJhakxtTjVjSVQwRTJLTjRjQnh3NXdYOUhBSVZhU1AwTS1VcENoR1diMmpsX3g0QWZpeVkza2FtbWdMNzNtVVpJRG9ZNGNnQmNFYkJvS2VLOGVXVEtNTEFER2ZIS0lydUxXNEpEMGwyYmZUNndhNkJlb2liYmNTY01KV2k2TVdpdXRaa05jckMycDRFR1hQdGc?oc=5",
+        "published": "2026-11-18T13:43:28Z"
       },
       {
         "title": "U.S. Senator Katie Britt Urges Congress to Protect Children Against Big Tech Forced Arbitration Agreements",
