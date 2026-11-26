@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-26T12:23:22Z",
+  "as_of": "2026-11-26T22:18:27Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 27,
+    "hits_7d": 54,
     "latest": [
       {
         "title": "Federal lawsuit alleges predator used Roblox to groom, threaten two Indiana children",
@@ -87,12 +87,6 @@
         "outlet": "Lawsuit Information Center",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mZ1RSZGJfTFVSUnc0OGFBSkY0VlVzYWVLY0NvNFkzYkxNSVlYUnNPeUxMSXcwVXBNeGh5NGU3d1hKdlFQZGFuSVZqX0QyOWFmUHpNaVFsTy1XUy1GVm00ZnJQc2swWVBodzUxTV9rRFdEZ190aGd6X3B4Qmc?oc=5",
         "published": "2026-11-23T13:05:44Z"
-      },
-      {
-        "title": "Roblox bans grooming survivor who helped get predators arrested",
-        "outlet": "NewsNation",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV00tTG40X2FvWDJEcW1iOXRuMXlwUERmSGQ5aTJLWWtUbTRFc2NXNW4tTHZFZy1aMTdaMUtNM1phMTFwTUdYeHNxZlFsUlJITkZwWlUzNGhyUjNody1OYUI1Ml90RWF0dTNSUjU3YWk4cWJQUDVraF91QnQwWlBYWEZtTXN5d1hLVTFEM3hWeWpHQdIBlwFBVV95cUxPM0tnVEhaejhoUHlYdVBtOTFMUXJ1X0FyRGdtVFBJdmY2MXltSWtYcmx2dmQ1eWptWkVUNFpLNlh6bVdmLWhmMEJ1RmJaLV9MTElkbFkwQUdtX0ZWMW56Njk0NHQ2SlVYeHhnN0dvRmJUUlBTRzBtN2FzVjl0T3p3ZE1icVE0Q1ZzWkNGWExwMlFqVEs4b3BZ?oc=5",
-        "published": "2026-11-19T18:18:58Z"
       },
       {
         "title": "Roblox faces another lawsuit alleging failures to protect minors",
@@ -113,16 +107,22 @@
         "published": "2026-11-20T15:00:00Z"
       },
       {
+        "title": "Roblox faces Senate hearing as alleged grooming survivors testify",
+        "outlet": "PocketGamer.biz",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWDBERkNBb0dxbmgtRks1d1duZExmTWc1Z3Q4T29pRTNUdG85ekxQbVVhdUZ3ZmZmVTN5QWJYMWt6WU5hSHdybUlLU0IwZWJ6Y2h1Z0FpWHRnaVFXVlg1UVc2RkxrZ01UdXBKUGtzREw2amFsMHZDejBmZjlNUmVOS1l5dEpfa2VKc0tlZ3BJdjhmelBITWxMV3BR?oc=5",
+        "published": "2026-11-20T11:33:00Z"
+      },
+      {
         "title": "NH sues Roblox alleging failing to protect kids from predato...",
         "outlet": "New Hampshire Union Leader",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0U5ang2LTdTNm1ERDcwQ2xWdEVfTFJZeHYwZFF2SkpvS2pwX3djQW50QTBlTUZlVHpMaFhqdTlqYVhYVEx5dHBLVmhLeGxQWFJZbER4VUJlWVlUcjlKZTdNYVE1QkM3bWVqc1FsTXlRVXZTU21qZ0ZTbWRLcDJQNDBVNm5lMVFWRjZTeU53bFhkbmgzMUhPVnA0R05UcUpiNFFYMTI5cndYN1RFR3RkZnZPNExKUQ?oc=5",
         "published": "2026-11-23T22:35:26Z"
       },
       {
-        "title": "Roblox faces Senate hearing as alleged grooming survivors testify",
-        "outlet": "PocketGamer.biz",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWDBERkNBb0dxbmgtRks1d1duZExmTWc1Z3Q4T29pRTNUdG85ekxQbVVhdUZ3ZmZmVTN5QWJYMWt6WU5hSHdybUlLU0IwZWJ6Y2h1Z0FpWHRnaVFXVlg1UVc2RkxrZ01UdXBKUGtzREw2amFsMHZDejBmZjlNUmVOS1l5dEpfa2VKc0tlZ3BJdjhmelBITWxMV3BR?oc=5",
-        "published": "2026-11-20T11:33:00Z"
+        "title": "Roblox accused of exposing kids to sexual predators in N.H. lawsuit",
+        "outlet": "MassLive",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3RkdV90c1BpTUJyeG1pcngzb2MyNnIzS1VQSXR4TUdEZkZ1V3REczRWQm5rRjZCMUZfZ2JkZ0JWLVEtRG5zVS10OFphLVVKZEhHNGs5dkh6NlJPMkNCLVVkTVRzclNXYklGV1RiWFE4dGRtbm8tMW1LTXFxTllFTzl2RDYtSkVHeFJFcUY3enotd3BZUjk4bktaYUMtUzZIYkhfa2pmQzJaVThB0gHAAUFVX3lxTFBLdng1Y29xeWloeHZHS0hHSkl4YmxSRGhYMGVMTWhzR1U0MWlQSU1IaEZNX2NPdDkxUTlrM3BoSE1tTml1NkNBY3ctUFVPS2RJeXhJaHQwNktoRHNJSmVTRUZET0VVRWpKejlnVWJ5R1FfMFlVNWRnVnF4bnlkMWZZN21xLVB4QkJkc0tjNTc4bENJbWFybjZ6MzlkWERncEtCbXhhd214aHNJYl9XZkpSbEgxUzdxRW02aUdSQURlOA?oc=5",
+        "published": "2026-11-24T15:24:00Z"
       }
     ]
   },
