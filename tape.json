@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-26T02:49:07Z",
+  "as_of": "2026-11-26T12:23:22Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,19 +74,19 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 60,
+    "hits_7d": 27,
     "latest": [
-      {
-        "title": "US Senate hearing examines child safety on Roblox, considers bipartisan bill to bypass forced arbitration",
-        "outlet": "GamesIndustry.biz",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd0dpYlFmenZ6eUVGOEladmxidVJfUDdUV2oyR2tzaWJDT0I0Z3dDYlFwNWk1bGZFNnpLbDd5eUxDOHFjQndVSFFnSEt3TXZ5dDV1RnM2WmR6dDR2eWZfemtVS3BxYTVobm1EUGl1Q0FUbl8tRk54WWtycVVFUzBQU1dGRDNIeFowd3F0Nm1RcVpyOVRFc3d0UVFWeTh0RGswX3U2Yzc2V3BJd3QyckhnVnk2bkhWZjhJSHZuU1Z1VUF4QjRkVE9jRkoweTd2aEU?oc=5",
-        "published": "2026-11-19T11:52:10Z"
-      },
       {
         "title": "Federal lawsuit alleges predator used Roblox to groom, threaten two Indiana children",
         "outlet": "WTHR",
         "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQRVBOZmdrdDNGaEstQVlrOWVNYzRKb1ZmZ0lRT0JoYWFpbGRNT0RSaEU0ZkR4X3Z1dTZfWHBvbmlvdzc4dVVfSS1xcTVKd0Fwb0RRaXVzV091cXFvUVZYdmlwZkZPUEtsNTB3Znp1U1VNQzU4QUI3dDEyRWctUXB4ZHFUZXBvZ2tMYnN4b3l3ZnctSTg4Z1d6eHNZOGcxRDNVVThSQXByXzN0Q3N2ZjVERWlnVFNJNS1HLWkwb0JwMWkzS0ZmWWlDUDZkOWlGSllYTTR2alBUaVVRTjBza0RGM2xyaXhnbnFydmFDVkEySFhCNWNDcnAyYWNTRHpxZmJJY2Jfb2VkZkJVcnhXemZPMmI1Rm9ENUw3NUxOV0c1SDJxSnJNaGk5cnRR?oc=5",
         "published": "2026-11-24T16:58:00Z"
+      },
+      {
+        "title": "Roblox Child Sexual Abuse Lawsuit",
+        "outlet": "Lawsuit Information Center",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mZ1RSZGJfTFVSUnc0OGFBSkY0VlVzYWVLY0NvNFkzYkxNSVlYUnNPeUxMSXcwVXBNeGh5NGU3d1hKdlFQZGFuSVZqX0QyOWFmUHpNaVFsTy1XUy1GVm00ZnJQc2swWVBodzUxTV9rRFdEZ190aGd6X3B4Qmc?oc=5",
+        "published": "2026-11-23T13:05:44Z"
       },
       {
         "title": "Roblox bans grooming survivor who helped get predators arrested",
@@ -95,22 +95,10 @@
         "published": "2026-11-19T18:18:58Z"
       },
       {
-        "title": "‘It feels rigged’ — Witnesses, lawmakers condemn Roblox’s forced arbitration for assault victims at Senate Judiciary hearing",
-        "outlet": "Medill on the Hill",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNGRGVnVDX2F5WVFyaExTSHZVODZrTXdaSGVxVXAybnpLUTNmMzlBaFlSeWQ3R1JBVmQwZTBmR25peXZ3c3JQWXJ4WXdpel83WHhfenFleXBDYS1JT3pUbnNvSXZSVGVrRkNzdFJIbTgwVGhENzdtYWVrMHAtbzB5ZVNXUWV5Z205djdUc2Mwd3d1Rzg4TkQtcnpJdXZlNENyQ19FTFQ0c29OenpHVlZyODhxaFRveElkNEQ3MzRyVEVvZXpjVUk2eTBnakhlemZJRWotMEMwRGYwNlBvQWhHWWhBVEdqMU0yQ1BYVkFleEpZWHZUTEpfZk1UWjJPX3ZRNGktanpR?oc=5",
-        "published": "2026-11-19T04:35:53Z"
-      },
-      {
         "title": "Roblox faces another lawsuit alleging failures to protect minors",
         "outlet": "Las Vegas Review-Journal",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOU1tTHdNd2hmMmYzQzBhbXZIcGN4M05QY3AtN1pBRTZ0aTdlMWJaamc5Nkdhc2Ftc19wc1lsdmJFa3hNLVJpazNrMnRfRHpLMzRmVS1rczRrTGgza09OTmJGejNhalFzSmIwbGpCUWlzZ1M1RDRMZ1FhTzc5a19QYWlkTDhfbmFKd0o0Qm9UeG1hMjc4WVhTWXlOVXEzRG1VXzZKdGw1YzRTNjZhQldTSEJOcnF5cENXY3NSQXJB?oc=5",
         "published": "2026-11-22T14:26:15Z"
-      },
-      {
-        "title": "Roblox Lawsuit Claims Predator Groomed 11-Year-Old Boy, Causing PTSD, Depression and Anxiety",
-        "outlet": "AboutLawsuits.com",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMDB4bUZTQmZDNXRFbUUwUThBZXZLODFpYVhiNk5ReDdRSktXLW5aM0FZUlJlbFZuVnhZNHZjcGMzYWY2cXNWbHktV2owaFUyVGJHQ2lXZkJIMzlMTFZ4aXJsWE8wT2IzOFBYUEFIUEZCMUJwUk12WWhQVk12TDBYY3ZseWd1S2FldzNScVZXSEVEM2NXcEx2bVllUWJUTUF4UWlKcUFoZkw?oc=5",
-        "published": "2026-11-20T15:00:00Z"
       },
       {
         "title": "Senators Push to End Forced Arbitration for Roblox Abuse Victims",
@@ -119,10 +107,22 @@
         "published": "2026-11-25T15:26:59Z"
       },
       {
-        "title": "Roblox Child Safety Measures Face Scrutiny After Senate Hearing",
-        "outlet": "Medtruth",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CSG1ObkkxMTBlZnJEcGdHWGZMX1NvTzlmLVdkUEpQdzN1OFJhWklDdHdlWndFd0lDTl9VSzZKYy1fSngtdm9MYTVMbXkxV0QyeHNENHpDWVFCSWJIejRfUk5ZQTkzM2dqZ281dUxPckxlclR5ZFRFd1Z5VHk?oc=5",
-        "published": "2026-11-19T09:56:25Z"
+        "title": "Roblox Lawsuit Claims Predator Groomed 11-Year-Old Boy, Causing PTSD, Depression and Anxiety",
+        "outlet": "AboutLawsuits.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMDB4bUZTQmZDNXRFbUUwUThBZXZLODFpYVhiNk5ReDdRSktXLW5aM0FZUlJlbFZuVnhZNHZjcGMzYWY2cXNWbHktV2owaFUyVGJHQ2lXZkJIMzlMTFZ4aXJsWE8wT2IzOFBYUEFIUEZCMUJwUk12WWhQVk12TDBYY3ZseWd1S2FldzNScVZXSEVEM2NXcEx2bVllUWJUTUF4UWlKcUFoZkw?oc=5",
+        "published": "2026-11-20T15:00:00Z"
+      },
+      {
+        "title": "NH sues Roblox alleging failing to protect kids from predato...",
+        "outlet": "New Hampshire Union Leader",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0U5ang2LTdTNm1ERDcwQ2xWdEVfTFJZeHYwZFF2SkpvS2pwX3djQW50QTBlTUZlVHpMaFhqdTlqYVhYVEx5dHBLVmhLeGxQWFJZbER4VUJlWVlUcjlKZTdNYVE1QkM3bWVqc1FsTXlRVXZTU21qZ0ZTbWRLcDJQNDBVNm5lMVFWRjZTeU53bFhkbmgzMUhPVnA0R05UcUpiNFFYMTI5cndYN1RFR3RkZnZPNExKUQ?oc=5",
+        "published": "2026-11-23T22:35:26Z"
+      },
+      {
+        "title": "Roblox faces Senate hearing as alleged grooming survivors testify",
+        "outlet": "PocketGamer.biz",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWDBERkNBb0dxbmgtRks1d1duZExmTWc1Z3Q4T29pRTNUdG85ekxQbVVhdUZ3ZmZmVTN5QWJYMWt6WU5hSHdybUlLU0IwZWJ6Y2h1Z0FpWHRnaVFXVlg1UVc2RkxrZ01UdXBKUGtzREw2amFsMHZDejBmZjlNUmVOS1l5dEpfa2VKc0tlZ3BJdjhmelBITWxMV3BR?oc=5",
+        "published": "2026-11-20T11:33:00Z"
       }
     ]
   },
