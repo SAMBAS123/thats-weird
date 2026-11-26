@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-25T19:54:58Z",
+  "as_of": "2026-11-26T02:49:07Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 56,
+    "hits_7d": 60,
     "latest": [
       {
         "title": "US Senate hearing examines child safety on Roblox, considers bipartisan bill to bypass forced arbitration",
@@ -87,12 +87,6 @@
         "outlet": "WTHR",
         "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQRVBOZmdrdDNGaEstQVlrOWVNYzRKb1ZmZ0lRT0JoYWFpbGRNT0RSaEU0ZkR4X3Z1dTZfWHBvbmlvdzc4dVVfSS1xcTVKd0Fwb0RRaXVzV091cXFvUVZYdmlwZkZPUEtsNTB3Znp1U1VNQzU4QUI3dDEyRWctUXB4ZHFUZXBvZ2tMYnN4b3l3ZnctSTg4Z1d6eHNZOGcxRDNVVThSQXByXzN0Q3N2ZjVERWlnVFNJNS1HLWkwb0JwMWkzS0ZmWWlDUDZkOWlGSllYTTR2alBUaVVRTjBza0RGM2xyaXhnbnFydmFDVkEySFhCNWNDcnAyYWNTRHpxZmJJY2Jfb2VkZkJVcnhXemZPMmI1Rm9ENUw3NUxOV0c1SDJxSnJNaGk5cnRR?oc=5",
         "published": "2026-11-24T16:58:00Z"
-      },
-      {
-        "title": "U.S. Senator Katie Britt Urges Congress to Protect Children Against Big Tech Forced Arbitration Agreements",
-        "outlet": "Senate.gov",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZUI0NHBRVzlnSWdsSHM0UlZrTWg0ajFueUozV3ZKMmRIUUUtYUNsMVhGc3BhYVl6eU5qZjJmNmJKUC1fMTVDbnF3VGtTUTB1XzFlUElweU40VjMxQ0ZxTkM1aEF5SDBIbzkwaDFpOTF4eDc1UGU1Q3dIZzNkZkkzMmQ5c1ZKaE52b015Mlk3OU1LblNTTGRLaEFHY1pVdW85OFFqa2d5VUVncFFvaVhUZjd6Qm1MVWd4M2lqblp1Z0pHcU10cWRUYmxsTGlPbU1IdjRQSDNOQmVCN2c4dldtMG5pSzdhSjRIS2gw?oc=5",
-        "published": "2026-11-19T01:48:21Z"
       },
       {
         "title": "Roblox bans grooming survivor who helped get predators arrested",
@@ -113,16 +107,22 @@
         "published": "2026-11-22T14:26:15Z"
       },
       {
-        "title": "Roblox: Hawley Says He’d ‘Love to’ Subpoena CEO After First-Ever Senate Hearing on Gaming Platform’s Safety Issues and Child Sexual Exploitation Litigation",
-        "outlet": "The Capitol Forum",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNano5bm8xb2xUU3FyM2tqQzVpZmp1TGJrZFZDUHMwYVBRSGFKVTJrbGJJMjI2d0dBdXJBN2dzS3JoMkpQWC1sQW5MQXRQTy1YXzY2cFBpSXlFUjdMbDdGbDI2TFBtOE51cW9mUTRDcWc2b09mU183LXVXTUNyWXVWVWpOYnJWWXdSdE9tOWZnV1ROa1gyd0FPM2xuUEg2aTFNZkQwbEdUUnN6a0xldXJaSXVDVndjaE0tN2NCMHlMUVN5ZERVQ25SRFUtdjRENkFaSjZqOFFYSHFCTU9oNVJVZVJiYUxJYzhzZG5Cb3RERWNTRkVSM21GOHFBNlgtd29IQVhXWGFRSWJNMXc?oc=5",
-        "published": "2026-11-19T08:00:00Z"
+        "title": "Roblox Lawsuit Claims Predator Groomed 11-Year-Old Boy, Causing PTSD, Depression and Anxiety",
+        "outlet": "AboutLawsuits.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMDB4bUZTQmZDNXRFbUUwUThBZXZLODFpYVhiNk5ReDdRSktXLW5aM0FZUlJlbFZuVnhZNHZjcGMzYWY2cXNWbHktV2owaFUyVGJHQ2lXZkJIMzlMTFZ4aXJsWE8wT2IzOFBYUEFIUEZCMUJwUk12WWhQVk12TDBYY3ZseWd1S2FldzNScVZXSEVEM2NXcEx2bVllUWJUTUF4UWlKcUFoZkw?oc=5",
+        "published": "2026-11-20T15:00:00Z"
       },
       {
         "title": "Senators Push to End Forced Arbitration for Roblox Abuse Victims",
         "outlet": "Legis1",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03akdYYkFDZzFtdkhITmFYa0xlZG8zY1pBSGhzYURwNVlRMVBRMzVxNFZ0c0pTaWdOd092VDJvREtoYnNvZjd4ckRmSDFaQ3BSdnhPRVV6eHR5Mkh1T0VCNDhqR2hRenR4aGk4c0xHNGg?oc=5",
-        "published": "2026-11-25T15:12:33Z"
+        "published": "2026-11-25T15:26:59Z"
+      },
+      {
+        "title": "Roblox Child Safety Measures Face Scrutiny After Senate Hearing",
+        "outlet": "Medtruth",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CSG1ObkkxMTBlZnJEcGdHWGZMX1NvTzlmLVdkUEpQdzN1OFJhWklDdHdlWndFd0lDTl9VSzZKYy1fSngtdm9MYTVMbXkxV0QyeHNENHpDWVFCSWJIejRfUk5ZQTkzM2dqZ281dUxPckxlclR5ZFRFd1Z5VHk?oc=5",
+        "published": "2026-11-19T09:56:25Z"
       }
     ]
   },
