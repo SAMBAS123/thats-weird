@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-27T14:59:54Z",
+  "as_of": "2026-11-27T23:25:30Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 49,
+    "hits_7d": 26,
     "latest": [
       {
         "title": "Federal lawsuit alleges predator used Roblox to groom, threaten two Indiana children",
@@ -95,12 +95,6 @@
         "published": "2026-11-25T15:26:59Z"
       },
       {
-        "title": "Roblox Lawsuit Claims Predator Groomed 11-Year-Old Boy, Causing PTSD, Depression and Anxiety",
-        "outlet": "AboutLawsuits.com",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMDB4bUZTQmZDNXRFbUUwUThBZXZLODFpYVhiNk5ReDdRSktXLW5aM0FZUlJlbFZuVnhZNHZjcGMzYWY2cXNWbHktV2owaFUyVGJHQ2lXZkJIMzlMTFZ4aXJsWE8wT2IzOFBYUEFIUEZCMUJwUk12WWhQVk12TDBYY3ZseWd1S2FldzNScVZXSEVEM2NXcEx2bVllUWJUTUF4UWlKcUFoZkw?oc=5",
-        "published": "2026-11-20T15:00:00Z"
-      },
-      {
         "title": "Roblox faces another lawsuit alleging failures to protect minors",
         "outlet": "Las Vegas Review-Journal",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOU1tTHdNd2hmMmYzQzBhbXZIcGN4M05QY3AtN1pBRTZ0aTdlMWJaamc5Nkdhc2Ftc19wc1lsdmJFa3hNLVJpazNrMnRfRHpLMzRmVS1rczRrTGgza09OTmJGejNhalFzSmIwbGpCUWlzZ1M1RDRMZ1FhTzc5a19QYWlkTDhfbmFKd0o0Qm9UeG1hMjc4WVhTWXlOVXEzRG1VXzZKdGw1YzRTNjZhQldTSEJOcnF5cENXY3NSQXJB?oc=5",
@@ -119,10 +113,16 @@
         "published": "2026-11-24T15:24:00Z"
       },
       {
-        "title": "Photos of the week | November 13-19, 2026",
-        "outlet": "Roll Call",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OUG5GclZSTWhjMFl6ZEM3SVBSdHRUT3ZPZTZHbTJXeWhueGZfN21iWWpGZFVxOGVrU25WVkpCZ0pXTUdZclpDUE05RWV0dHFrWXd4QWhfUVh1Y3JIMHg3VjdYN1lPak5ncXV3YThQRGFMSVVETmxfaW1B?oc=5",
-        "published": "2026-11-20T15:33:43Z"
+        "title": "A Roblox Whistleblower’s Senate Testimony, and What Parents Should Take From It",
+        "outlet": "WIBC 93.1 FM",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CcWw0YmtweUdQa2NkNllKR0ZFbVNEeHVRZ1pwSVVMZU9SRTBlRlVnSGhlU1phYkVmTmlPTGNBOGJINVZEeENlYldsYjlLamEwYlhyOXluS3J0ZlhlTURaZm5QTEFyaVd1eWFOZjFWVkU0c3Y3Q0loa3B3?oc=5",
+        "published": "2026-11-22T16:03:44Z"
+      },
+      {
+        "title": "Judge Approves $7.25B Roundup Settlement as U.S. Scientists Report New Links Between Glyphosate and Cancer",
+        "outlet": "Consumer Notice",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95ZlpfTGhnRmJGWFlnN21xVDF0bUtyNm1qTVFCRjdnTXJDUHpYdTEzQl9ZdnlmcUZSVlozNFBZY0FrS25ZY0UtX1ItYjRlUElFRmVSNlZuWDlRSHZnTVJILTNpLWRTZXNPTGtOa0o3UlN6Zw?oc=5",
+        "published": "2026-11-24T21:22:36Z"
       }
     ]
   },
