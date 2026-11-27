@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-27T04:59:55Z",
+  "as_of": "2026-11-27T14:59:54Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 51,
+    "hits_7d": 49,
     "latest": [
       {
         "title": "Federal lawsuit alleges predator used Roblox to groom, threaten two Indiana children",
@@ -89,12 +89,6 @@
         "published": "2026-11-23T13:05:44Z"
       },
       {
-        "title": "Roblox faces another lawsuit alleging failures to protect minors",
-        "outlet": "Las Vegas Review-Journal",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOU1tTHdNd2hmMmYzQzBhbXZIcGN4M05QY3AtN1pBRTZ0aTdlMWJaamc5Nkdhc2Ftc19wc1lsdmJFa3hNLVJpazNrMnRfRHpLMzRmVS1rczRrTGgza09OTmJGejNhalFzSmIwbGpCUWlzZ1M1RDRMZ1FhTzc5a19QYWlkTDhfbmFKd0o0Qm9UeG1hMjc4WVhTWXlOVXEzRG1VXzZKdGw1YzRTNjZhQldTSEJOcnF5cENXY3NSQXJB?oc=5",
-        "published": "2026-11-22T14:26:15Z"
-      },
-      {
         "title": "Senators Push to End Forced Arbitration for Roblox Abuse Victims",
         "outlet": "Legis1",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03akdYYkFDZzFtdkhITmFYa0xlZG8zY1pBSGhzYURwNVlRMVBRMzVxNFZ0c0pTaWdOd092VDJvREtoYnNvZjd4ckRmSDFaQ3BSdnhPRVV6eHR5Mkh1T0VCNDhqR2hRenR4aGk4c0xHNGg?oc=5",
@@ -107,10 +101,10 @@
         "published": "2026-11-20T15:00:00Z"
       },
       {
-        "title": "Roblox faces Senate hearing as alleged grooming survivors testify",
-        "outlet": "PocketGamer.biz",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWDBERkNBb0dxbmgtRks1d1duZExmTWc1Z3Q4T29pRTNUdG85ekxQbVVhdUZ3ZmZmVTN5QWJYMWt6WU5hSHdybUlLU0IwZWJ6Y2h1Z0FpWHRnaVFXVlg1UVc2RkxrZ01UdXBKUGtzREw2amFsMHZDejBmZjlNUmVOS1l5dEpfa2VKc0tlZ3BJdjhmelBITWxMV3BR?oc=5",
-        "published": "2026-11-20T11:33:00Z"
+        "title": "Roblox faces another lawsuit alleging failures to protect minors",
+        "outlet": "Las Vegas Review-Journal",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOU1tTHdNd2hmMmYzQzBhbXZIcGN4M05QY3AtN1pBRTZ0aTdlMWJaamc5Nkdhc2Ftc19wc1lsdmJFa3hNLVJpazNrMnRfRHpLMzRmVS1rczRrTGgza09OTmJGejNhalFzSmIwbGpCUWlzZ1M1RDRMZ1FhTzc5a19QYWlkTDhfbmFKd0o0Qm9UeG1hMjc4WVhTWXlOVXEzRG1VXzZKdGw1YzRTNjZhQldTSEJOcnF5cENXY3NSQXJB?oc=5",
+        "published": "2026-11-21T02:18:00Z"
       },
       {
         "title": "NH sues Roblox alleging failing to protect kids from predato...",
@@ -123,6 +117,12 @@
         "outlet": "MassLive",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3RkdV90c1BpTUJyeG1pcngzb2MyNnIzS1VQSXR4TUdEZkZ1V3REczRWQm5rRjZCMUZfZ2JkZ0JWLVEtRG5zVS10OFphLVVKZEhHNGs5dkh6NlJPMkNCLVVkTVRzclNXYklGV1RiWFE4dGRtbm8tMW1LTXFxTllFTzl2RDYtSkVHeFJFcUY3enotd3BZUjk4bktaYUMtUzZIYkhfa2pmQzJaVThB0gHAAUFVX3lxTFBLdng1Y29xeWloeHZHS0hHSkl4YmxSRGhYMGVMTWhzR1U0MWlQSU1IaEZNX2NPdDkxUTlrM3BoSE1tTml1NkNBY3ctUFVPS2RJeXhJaHQwNktoRHNJSmVTRUZET0VVRWpKejlnVWJ5R1FfMFlVNWRnVnF4bnlkMWZZN21xLVB4QkJkc0tjNTc4bENJbWFybjZ6MzlkWERncEtCbXhhd214aHNJYl9XZkpSbEgxUzdxRW02aUdSQURlOA?oc=5",
         "published": "2026-11-24T15:24:00Z"
+      },
+      {
+        "title": "Photos of the week | November 13-19, 2026",
+        "outlet": "Roll Call",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OUG5GclZSTWhjMFl6ZEM3SVBSdHRUT3ZPZTZHbTJXeWhueGZfN21iWWpGZFVxOGVrU25WVkpCZ0pXTUdZclpDUE05RWV0dHFrWXd4QWhfUVh1Y3JIMHg3VjdYN1lPak5ncXV3YThQRGFMSVVETmxfaW1B?oc=5",
+        "published": "2026-11-20T15:33:43Z"
       }
     ]
   },
