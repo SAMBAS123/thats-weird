@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-27T23:25:30Z",
+  "as_of": "2026-11-28T07:41:21Z",
   "token": {
     "symbol": "OOF",
     "mint": "8W3uULPKMWvrJYmf2viFE75T6i15H59r6uzs9X4upump",
@@ -74,7 +74,7 @@
   "news": {
     "query": "Roblox (lawsuit OR grooming OR eSafety OR NCMEC OR Senate) when:7d",
     "source": "Google News RSS",
-    "hits_7d": 26,
+    "hits_7d": 25,
     "latest": [
       {
         "title": "Federal lawsuit alleges predator used Roblox to groom, threaten two Indiana children",
@@ -89,16 +89,16 @@
         "published": "2026-11-23T13:05:44Z"
       },
       {
+        "title": "Survivors of sexual abuse told lawmakers about their experiences on Roblox",
+        "outlet": "NPR",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORjMyVm5DV29udDBqNUlqemxHRml3YUFZaGFrV29nMFdZbEx1UlVpY3U1Nm4wUXQyRF9YN2w1QjlOWDBSQmVjQldYVm5FVElCc3A0a21FNUsyQnVucy1EZmpUTDFCYVVfbW5lYkFIMFpZSkFuMDlmM3dtMGp1Z2ZFZUZxM0l3LTFfZ251cExrZ295YTJFZG1lR0M3ZmdFRFpqTDBGUF84NlJqRXcyVHIwUEI2eEw3SlIyYS1R?oc=5",
+        "published": "2026-11-27T21:47:52Z"
+      },
+      {
         "title": "Senators Push to End Forced Arbitration for Roblox Abuse Victims",
         "outlet": "Legis1",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03akdYYkFDZzFtdkhITmFYa0xlZG8zY1pBSGhzYURwNVlRMVBRMzVxNFZ0c0pTaWdOd092VDJvREtoYnNvZjd4ckRmSDFaQ3BSdnhPRVV6eHR5Mkh1T0VCNDhqR2hRenR4aGk4c0xHNGg?oc=5",
         "published": "2026-11-25T15:26:59Z"
-      },
-      {
-        "title": "Roblox faces another lawsuit alleging failures to protect minors",
-        "outlet": "Las Vegas Review-Journal",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOU1tTHdNd2hmMmYzQzBhbXZIcGN4M05QY3AtN1pBRTZ0aTdlMWJaamc5Nkdhc2Ftc19wc1lsdmJFa3hNLVJpazNrMnRfRHpLMzRmVS1rczRrTGgza09OTmJGejNhalFzSmIwbGpCUWlzZ1M1RDRMZ1FhTzc5a19QYWlkTDhfbmFKd0o0Qm9UeG1hMjc4WVhTWXlOVXEzRG1VXzZKdGw1YzRTNjZhQldTSEJOcnF5cENXY3NSQXJB?oc=5",
-        "published": "2026-11-21T02:18:00Z"
       },
       {
         "title": "NH sues Roblox alleging failing to protect kids from predato...",
